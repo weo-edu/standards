@@ -1,0 +1,4987 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2539107_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Education, Child Development, and Family Services",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2539107",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Education, Child Development, and Family Services",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/edchildfamily.pdf",
+		"asnIdentifier": "D2539107",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"DCE26BE3F2A64FBCAF656B73546F71EC": {
+			"id": "DCE26BE3F2A64FBCAF656B73546F71EC",
+			"asnIdentifier": "S2539590",
+			"position": 363000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D12.4",
+			"description": "Plan, conduct, and evaluate social, recreational, and educational activities appropriate to the physical, psychological, cultural, and socioeconomic needs of individuals and families.",
+			"ancestorIds": [
+				"F9EFFB45F3A6480AA7A638865CC6F33D",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"35E613E3A2C94F7D8FBE18D8ED1013F1": {
+			"id": "35E613E3A2C94F7D8FBE18D8ED1013F1",
+			"asnIdentifier": "S2539589",
+			"position": 362000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D12.3",
+			"description": "Recommend appropriate community resources for social, recreational, and educational activities to meet client needs for all ages.",
+			"ancestorIds": [
+				"F9EFFB45F3A6480AA7A638865CC6F33D",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D192730773F34D4EBC29666086F09B61": {
+			"id": "D192730773F34D4EBC29666086F09B61",
+			"asnIdentifier": "S2539588",
+			"position": 361000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D12.2",
+			"description": "Locate and evaluate the appropriateness of facilities and community resources for social support, recreational, and educational activities.",
+			"ancestorIds": [
+				"F9EFFB45F3A6480AA7A638865CC6F33D",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3D85BC34FC8B4431A603621AB12F621F": {
+			"id": "3D85BC34FC8B4431A603621AB12F621F",
+			"asnIdentifier": "S2539587",
+			"position": 360000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D12.1",
+			"description": "Defend the value of social, recreational, and educational activities for all ages.",
+			"ancestorIds": [
+				"F9EFFB45F3A6480AA7A638865CC6F33D",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F9EFFB45F3A6480AA7A638865CC6F33D": {
+			"id": "F9EFFB45F3A6480AA7A638865CC6F33D",
+			"asnIdentifier": "S2539586",
+			"position": 359000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D12.0",
+			"description": "Advocate for the importance of social involvement for individuals and families.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D817B31A80BC4907BD2AE34E5A0303F8": {
+			"id": "D817B31A80BC4907BD2AE34E5A0303F8",
+			"asnIdentifier": "S2539585",
+			"position": 358000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D11.3",
+			"description": "Demonstrate how to provide the information that individuals and families need to make decisions about seeking professional help.",
+			"ancestorIds": [
+				"7D15F39A45B64D75B2CA38ECA042CDE8",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2AEC0984456B4578801B9234571D7D4B": {
+			"id": "2AEC0984456B4578801B9234571D7D4B",
+			"asnIdentifier": "S2539584",
+			"position": 357000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D11.2",
+			"description": "Explain behaviors that require intervention and outside assistance.",
+			"ancestorIds": [
+				"7D15F39A45B64D75B2CA38ECA042CDE8",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"FAD912EB0DA647DD9CD34BEDAA81B2C9": {
+			"id": "FAD912EB0DA647DD9CD34BEDAA81B2C9",
+			"asnIdentifier": "S2539583",
+			"position": 356000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D11.1",
+			"description": "Summarize the signs of emotional and physical abuse, emotional crises, and mental health issues, such as depression, isolation, substance abuse, stress, elder abuse, financial abuse, and neglect.",
+			"ancestorIds": [
+				"7D15F39A45B64D75B2CA38ECA042CDE8",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7D15F39A45B64D75B2CA38ECA042CDE8": {
+			"id": "7D15F39A45B64D75B2CA38ECA042CDE8",
+			"asnIdentifier": "S2539582",
+			"position": 355000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D11.0",
+			"description": "Distinguish common problems and crises affecting individuals and families of all ages.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7BB0244A059A4DCB87DCC046EAD5F0DF": {
+			"id": "7BB0244A059A4DCB87DCC046EAD5F0DF",
+			"asnIdentifier": "S2539581",
+			"position": 354000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.6",
+			"description": "Experiment with important consumer information, such as comparison shopping, disclosure on labels, warranties and guarantees, consumer fraud and identity theft, consumer redress, and consumer rights and responsibilities.",
+			"ancestorIds": [
+				"0FD45DE6553B4488A283C7BBCAAA0FC3",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0F08E9443C0C49BBB3FFF76B1C233D01": {
+			"id": "0F08E9443C0C49BBB3FFF76B1C233D01",
+			"asnIdentifier": "S2539580",
+			"position": 353000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.5",
+			"description": "Research the various types of disabilities, potential barriers, and types of accommodations needed for clients.",
+			"ancestorIds": [
+				"0FD45DE6553B4488A283C7BBCAAA0FC3",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"341FA58E813748EB8499B0072D339E80": {
+			"id": "341FA58E813748EB8499B0072D339E80",
+			"asnIdentifier": "S2539579",
+			"position": 352000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.4",
+			"description": "Develop procedures for shopping, banking, recordkeeping, and other services that will assist clients.",
+			"ancestorIds": [
+				"0FD45DE6553B4488A283C7BBCAAA0FC3",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"DEF3BDA61DB6426D834A79259F3E29A0": {
+			"id": "DEF3BDA61DB6426D834A79259F3E29A0",
+			"asnIdentifier": "S2539578",
+			"position": 351000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.3",
+			"description": "Demonstrate the importance of privacy, independence, dignity, confidentiality, and respect for clients.",
+			"ancestorIds": [
+				"0FD45DE6553B4488A283C7BBCAAA0FC3",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1F49B61961C84709B567E8C4189100D0": {
+			"id": "1F49B61961C84709B567E8C4189100D0",
+			"asnIdentifier": "S2539577",
+			"position": 350000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.2",
+			"description": "Understand the importance of personal care and well-being to the physical and emotional health of clients.",
+			"ancestorIds": [
+				"0FD45DE6553B4488A283C7BBCAAA0FC3",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"16EF1759727246E9AB7E6245D63C4DED": {
+			"id": "16EF1759727246E9AB7E6245D63C4DED",
+			"asnIdentifier": "S2539576",
+			"position": 349000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.1",
+			"description": "List the tasks of daily living and the types of assistance persons need with these activities, including assistance for persons with special needs.",
+			"ancestorIds": [
+				"0FD45DE6553B4488A283C7BBCAAA0FC3",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0FD45DE6553B4488A283C7BBCAAA0FC3": {
+			"id": "0FD45DE6553B4488A283C7BBCAAA0FC3",
+			"asnIdentifier": "S2539575",
+			"position": 348000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D10.0",
+			"description": "Facilitate daily living activities of individuals and families.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A163101608824F7FA7578FC64EF8766B": {
+			"id": "A163101608824F7FA7578FC64EF8766B",
+			"asnIdentifier": "S2539574",
+			"position": 347000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.3",
+			"description": "Predict possible causes of behavior problems and conflict and demonstrate positive solutions, including behavior modification.",
+			"ancestorIds": [
+				"7767C3CB3DA0413AA75E57EAF60C3E21",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F682299C25F84FA8BECCE7F47CAE01AC": {
+			"id": "F682299C25F84FA8BECCE7F47CAE01AC",
+			"asnIdentifier": "S2539573",
+			"position": 346000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.2",
+			"description": "Implement positive guidance techniques that are appropriate for clients and that promote independence.",
+			"ancestorIds": [
+				"7767C3CB3DA0413AA75E57EAF60C3E21",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"DCFD73A4A4F84DD4AFE4C645253FEE47": {
+			"id": "DCFD73A4A4F84DD4AFE4C645253FEE47",
+			"asnIdentifier": "S2539572",
+			"position": 345000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.1",
+			"description": "Interpret the concept of positive guidance and its benefits across one's life span.",
+			"ancestorIds": [
+				"7767C3CB3DA0413AA75E57EAF60C3E21",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7767C3CB3DA0413AA75E57EAF60C3E21": {
+			"id": "7767C3CB3DA0413AA75E57EAF60C3E21",
+			"asnIdentifier": "S2539571",
+			"position": 344000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D9.0",
+			"description": "Integrate positive guidance and its application in helping individuals and families.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D1506E4C682F4864A81FD992358F7D31": {
+			"id": "D1506E4C682F4864A81FD992358F7D31",
+			"asnIdentifier": "S2539570",
+			"position": 343000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.3",
+			"description": "Create effective ways to teach individuals and families communication, mediation, conflict-resolution, and decision-making skills.",
+			"ancestorIds": [
+				"122B649C425744EAB7AE8C9EF4F6843E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"62503469CF71422FA403BA8438F7BB9D": {
+			"id": "62503469CF71422FA403BA8438F7BB9D",
+			"asnIdentifier": "S2539569",
+			"position": 342000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.2",
+			"description": "Apply effective ways to communicate and interact with culturally diverse individuals and families, such as using mediation, conflict resolution, and decision-making skills.",
+			"ancestorIds": [
+				"122B649C425744EAB7AE8C9EF4F6843E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A60BFB3A152E4C12A277358D3F2B0FA4": {
+			"id": "A60BFB3A152E4C12A277358D3F2B0FA4",
+			"asnIdentifier": "S2539568",
+			"position": 341000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.1",
+			"description": "Use the strategies that promote positive interaction between individuals, families, and agencies.",
+			"ancestorIds": [
+				"122B649C425744EAB7AE8C9EF4F6843E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"122B649C425744EAB7AE8C9EF4F6843E": {
+			"id": "122B649C425744EAB7AE8C9EF4F6843E",
+			"asnIdentifier": "S2539567",
+			"position": 340000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D8.0",
+			"description": "Develop interpersonal skills required to interact effectively with individuals and families of all ages and abilities.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7A90A2E6E50E40299C156CDDC4863202": {
+			"id": "7A90A2E6E50E40299C156CDDC4863202",
+			"asnIdentifier": "S2539566",
+			"position": 339000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.6",
+			"description": "Comply with the procedures that prevent the spread of illnesses, infections, and diseases, including blood-borne pathogens.",
+			"ancestorIds": [
+				"9A7F075F28384E58AC0D7F02064491C4",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"81DB880DAD7C4B238EF14C5E1CD793EE": {
+			"id": "81DB880DAD7C4B238EF14C5E1CD793EE",
+			"asnIdentifier": "S2539565",
+			"position": 338000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.5",
+			"description": "Perform the procedures for basic first aid and cardiopulmonary resuscitation (CPR) for infants, children, and adults.",
+			"ancestorIds": [
+				"9A7F075F28384E58AC0D7F02064491C4",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"771E9845C20F4BE3A594857F612BF9EA": {
+			"id": "771E9845C20F4BE3A594857F612BF9EA",
+			"asnIdentifier": "S2539564",
+			"position": 337000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.4",
+			"description": "Practice the correct procedures for dealing with emergencies and disasters.",
+			"ancestorIds": [
+				"9A7F075F28384E58AC0D7F02064491C4",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"062FC2F23BA04D6B8CDB644C825A3065": {
+			"id": "062FC2F23BA04D6B8CDB644C825A3065",
+			"asnIdentifier": "S2539563",
+			"position": 336000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.3",
+			"description": "Identify the specific health considerations of persons with disabilities.",
+			"ancestorIds": [
+				"9A7F075F28384E58AC0D7F02064491C4",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0A2DCFEDF03F4A42959889C67F0134AF": {
+			"id": "0A2DCFEDF03F4A42959889C67F0134AF",
+			"asnIdentifier": "S2539562",
+			"position": 335000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.2",
+			"description": "Discern the causes and preventions of common accidents and injuries.",
+			"ancestorIds": [
+				"9A7F075F28384E58AC0D7F02064491C4",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0BEC1D61DB4A40FEAA50BE577D457788": {
+			"id": "0BEC1D61DB4A40FEAA50BE577D457788",
+			"asnIdentifier": "S2539561",
+			"position": 334000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.1",
+			"description": "Recognize how to establish and promote good safety habits for all ages.",
+			"ancestorIds": [
+				"9A7F075F28384E58AC0D7F02064491C4",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"9A7F075F28384E58AC0D7F02064491C4": {
+			"id": "9A7F075F28384E58AC0D7F02064491C4",
+			"asnIdentifier": "S2539560",
+			"position": 333000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D7.0",
+			"description": "Practice important safety, emergency, and disaster procedures to use for a variety of populations.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"FCF58235EF894167A7EE048ACAEF8F82": {
+			"id": "FCF58235EF894167A7EE048ACAEF8F82",
+			"asnIdentifier": "S2539559",
+			"position": 332000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.5",
+			"description": "Plan and prepare snacks and meals that meet the dietary needs of persons, including those with special dietary needs, by using sanitary and safe food-handling procedures.",
+			"ancestorIds": [
+				"1A95F70271BA440E86247F6A7B88EF0E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A3BDC2D1EE1F49F09911A5C9D1FB94E4": {
+			"id": "A3BDC2D1EE1F49F09911A5C9D1FB94E4",
+			"asnIdentifier": "S2539558",
+			"position": 331000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.4",
+			"description": "Plan and demonstrate exercise activities that are enjoyable, safe, and appropriate for the individual needs of clients.",
+			"ancestorIds": [
+				"1A95F70271BA440E86247F6A7B88EF0E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"AB5F0851C4F9475F903036F273B95017": {
+			"id": "AB5F0851C4F9475F903036F273B95017",
+			"asnIdentifier": "S2539557",
+			"position": 330000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.3",
+			"description": "Evaluate foods in terms of their economic and nutritional value.",
+			"ancestorIds": [
+				"1A95F70271BA440E86247F6A7B88EF0E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"387A01E4C22743E3876140B51775F41B": {
+			"id": "387A01E4C22743E3876140B51775F41B",
+			"asnIdentifier": "S2539556",
+			"position": 329000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.2",
+			"description": "Recognize and describe signs and symptoms of health, illness, discomfort, and disease.",
+			"ancestorIds": [
+				"1A95F70271BA440E86247F6A7B88EF0E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D119770C96AD4029AA64659C35C0EE0B": {
+			"id": "D119770C96AD4029AA64659C35C0EE0B",
+			"asnIdentifier": "S2539555",
+			"position": 328000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.1",
+			"description": "Select strategies that promote good health practices for all ages.",
+			"ancestorIds": [
+				"1A95F70271BA440E86247F6A7B88EF0E",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1A95F70271BA440E86247F6A7B88EF0E": {
+			"id": "1A95F70271BA440E86247F6A7B88EF0E",
+			"asnIdentifier": "S2539554",
+			"position": 327000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D6.0",
+			"description": "Apply the basic principles that promote health and well-being throughout the life span.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5B3336C5DFCA4BD38CD18AF9EC53FF02": {
+			"id": "5B3336C5DFCA4BD38CD18AF9EC53FF02",
+			"asnIdentifier": "S2539553",
+			"position": 326000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.5",
+			"description": "Assess the special needs of clients and identify resources and agencies that provide services.",
+			"ancestorIds": [
+				"5170CB6566E54E7AB3CC7D20C4269C62",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4027363611E0466E97E9E8995638FD24": {
+			"id": "4027363611E0466E97E9E8995638FD24",
+			"asnIdentifier": "S2539552",
+			"position": 325000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.4",
+			"description": "Diagram the characteristics and changing needs of the various stages of development throughout the life span.",
+			"ancestorIds": [
+				"5170CB6566E54E7AB3CC7D20C4269C62",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"31722958717042179FE8463CCC2976B8": {
+			"id": "31722958717042179FE8463CCC2976B8",
+			"asnIdentifier": "S2539551",
+			"position": 324000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.3",
+			"description": "Develop ways to enhance the social and emotional health of individuals and families.",
+			"ancestorIds": [
+				"5170CB6566E54E7AB3CC7D20C4269C62",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A2DD9114E1CA4C879865C2C7BCC6082B": {
+			"id": "A2DD9114E1CA4C879865C2C7BCC6082B",
+			"asnIdentifier": "S2539550",
+			"position": 323000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.2",
+			"description": "Classify common needs, problems, and adjustments associated with life changes.",
+			"ancestorIds": [
+				"5170CB6566E54E7AB3CC7D20C4269C62",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"882F711ADB2E45F19A5A1B315227D248": {
+			"id": "882F711ADB2E45F19A5A1B315227D248",
+			"asnIdentifier": "S2539549",
+			"position": 322000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.1",
+			"description": "Identify the behaviors and resources that foster the health and well-being of individuals and families.",
+			"ancestorIds": [
+				"5170CB6566E54E7AB3CC7D20C4269C62",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5170CB6566E54E7AB3CC7D20C4269C62": {
+			"id": "5170CB6566E54E7AB3CC7D20C4269C62",
+			"asnIdentifier": "S2539548",
+			"position": 321000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D5.0",
+			"description": "Interpret the stages of human development and the related needs of individuals and families.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D28FA759FED8481497B75B6D51F1B6A4": {
+			"id": "D28FA759FED8481497B75B6D51F1B6A4",
+			"asnIdentifier": "S2539547",
+			"position": 320000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.3",
+			"description": "Understand the typical policies and procedures established by employers to comply with local, state, and federal regulations and laws.",
+			"ancestorIds": [
+				"C3125FBAB1014BDC93539743EB70C48B",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"BFCCB6A98D5A45D9BAA0EC8A8297208F": {
+			"id": "BFCCB6A98D5A45D9BAA0EC8A8297208F",
+			"asnIdentifier": "S2539546",
+			"position": 319000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.2",
+			"description": "Identify the ways in which local, state, and federal regulations and laws are enforced by regulatory agencies, including the California Occupational Safety and Health Administration, the Americans with Disabilities Act, and the Health Insurance Portability and Accountability Act.",
+			"ancestorIds": [
+				"C3125FBAB1014BDC93539743EB70C48B",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4C8B90295D834BCA9BAEC632F3CA22F0": {
+			"id": "4C8B90295D834BCA9BAEC632F3CA22F0",
+			"asnIdentifier": "S2539545",
+			"position": 318000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.0",
+			"description": "Recognize the local, state, and federal laws, regulations, and agencies established to protect children, adolescents, and adults, including older adults and other persons with special needs and abilities.",
+			"ancestorIds": [
+				"C3125FBAB1014BDC93539743EB70C48B",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C3125FBAB1014BDC93539743EB70C48B": {
+			"id": "C3125FBAB1014BDC93539743EB70C48B",
+			"asnIdentifier": "S2539544",
+			"position": 317000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D4.0",
+			"description": "Adhere to the laws and regulations that affect providers of family and human services and their diverse clients.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A97CC3DCDA8148A9AFE28BD74D42C674": {
+			"id": "A97CC3DCDA8148A9AFE28BD74D42C674",
+			"asnIdentifier": "S2539543",
+			"position": 316000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.4",
+			"description": "Evaluate facilities for the safety, well-being, and needs of diverse clients.",
+			"ancestorIds": [
+				"8928A0C4E4FE4BAD90BE3B417D68DE7C",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B1688FB91E3A45CF97300CF8A0B6DD96": {
+			"id": "B1688FB91E3A45CF97300CF8A0B6DD96",
+			"asnIdentifier": "S2539542",
+			"position": 315000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.3",
+			"description": "Become familiar with various types of liability, insurance policies, code compliance, service agreements, and contracts.",
+			"ancestorIds": [
+				"8928A0C4E4FE4BAD90BE3B417D68DE7C",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C367F476F1D4402EA76580DAEE5C7875": {
+			"id": "C367F476F1D4402EA76580DAEE5C7875",
+			"asnIdentifier": "S2539541",
+			"position": 314000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.2",
+			"description": "Describe the operational procedures related to quality control, inventory control, maintenance, storage, security, mailing, receiving, billing, and payment.",
+			"ancestorIds": [
+				"8928A0C4E4FE4BAD90BE3B417D68DE7C",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1C5C6CB361AB421BAF9BFAB6F29964EC": {
+			"id": "1C5C6CB361AB421BAF9BFAB6F29964EC",
+			"asnIdentifier": "S2539540",
+			"position": 313000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.1",
+			"description": "List the various types of care facilities that promote the independence of clients.",
+			"ancestorIds": [
+				"8928A0C4E4FE4BAD90BE3B417D68DE7C",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"8928A0C4E4FE4BAD90BE3B417D68DE7C": {
+			"id": "8928A0C4E4FE4BAD90BE3B417D68DE7C",
+			"asnIdentifier": "S2539539",
+			"position": 312000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D3.0",
+			"description": "Locate the facilities and operational procedures used in the family and human services industry.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C5DCB269DF2F4D5FB96105A08AE121E4": {
+			"id": "C5DCB269DF2F4D5FB96105A08AE121E4",
+			"asnIdentifier": "S2539538",
+			"position": 311000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.5",
+			"description": "Create a plan of how to identify and gain access to various sources of funding and services that serve individuals, families, and communities.",
+			"ancestorIds": [
+				"5ADB83C4D3844E279873055147715DD6",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"DAA914E2329848DD95DAB035B3E073C2": {
+			"id": "DAA914E2329848DD95DAB035B3E073C2",
+			"asnIdentifier": "S2539537",
+			"position": 310000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.4",
+			"description": "Experiment with using organizational procedures and tools, such as business plans, budgets/financials, spreadsheets for payroll and inventories, recordkeeping, and communication with consumers.",
+			"ancestorIds": [
+				"5ADB83C4D3844E279873055147715DD6",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"442612F51382435389F822A5C4EB5F66": {
+			"id": "442612F51382435389F822A5C4EB5F66",
+			"asnIdentifier": "S2539536",
+			"position": 309000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.3",
+			"description": "Compare the interrelationship, interdependence, and diversity of management and employees as they relate to workforce productivity.",
+			"ancestorIds": [
+				"5ADB83C4D3844E279873055147715DD6",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1401AE96F26B4EC78AAA0819B6040A45": {
+			"id": "1401AE96F26B4EC78AAA0819B6040A45",
+			"asnIdentifier": "S2539535",
+			"position": 308000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.2",
+			"description": "Practice the main workforce management strategies, such as shared responsibilities, collaboration, consensus-building, and communication.",
+			"ancestorIds": [
+				"5ADB83C4D3844E279873055147715DD6",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B241997145914081972DBC7E5365E2A0": {
+			"id": "B241997145914081972DBC7E5365E2A0",
+			"asnIdentifier": "S2539534",
+			"position": 307000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.1",
+			"description": "Define the outcomes of effective leadership and management, such as profitability, solvency, productivity, positive work environment, and client satisfaction.",
+			"ancestorIds": [
+				"5ADB83C4D3844E279873055147715DD6",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5ADB83C4D3844E279873055147715DD6": {
+			"id": "5ADB83C4D3844E279873055147715DD6",
+			"asnIdentifier": "S2539533",
+			"position": 306000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D2.0",
+			"description": "Describe the principles of effective workforce and organizational management, including the roles and responsibilities of management and employees.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"61EF948F18054B4CBFB9440FB18C3BFC": {
+			"id": "61EF948F18054B4CBFB9440FB18C3BFC",
+			"asnIdentifier": "S2539532",
+			"position": 305000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.4",
+			"description": "Diagram the organizational structure and hierarchy that shows the relationships and interactions among departments in both public and private sectors of this industry.",
+			"ancestorIds": [
+				"65339769C47E4F0786325345762A7FCD",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"377901B37D334456B38F8D24673E8422": {
+			"id": "377901B37D334456B38F8D24673E8422",
+			"asnIdentifier": "S2539531",
+			"position": 304000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.3",
+			"description": "Explore the legislative, economic, and social trends that have an effect on careers in the family and human services industry.",
+			"ancestorIds": [
+				"65339769C47E4F0786325345762A7FCD",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"E3FFA88184344EAA9AE6BCE3BC65CBDE": {
+			"id": "E3FFA88184344EAA9AE6BCE3BC65CBDE",
+			"asnIdentifier": "S2539530",
+			"position": 303000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.2",
+			"description": "Communicate the role and effect of this industry on individuals, families, and the state's economy.",
+			"ancestorIds": [
+				"65339769C47E4F0786325345762A7FCD",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"E0C6CF60162144169E0A266AF148E2F6": {
+			"id": "E0C6CF60162144169E0A266AF148E2F6",
+			"asnIdentifier": "S2539529",
+			"position": 302000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.1",
+			"description": "Describe the ways in which agencies and organizations provide family and human services.",
+			"ancestorIds": [
+				"65339769C47E4F0786325345762A7FCD",
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"65339769C47E4F0786325345762A7FCD": {
+			"id": "65339769C47E4F0786325345762A7FCD",
+			"asnIdentifier": "S2539528",
+			"position": 301000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D1.0",
+			"description": "Recognize important aspects of the family and human services industry and the role of the industry in local, state, national, and global economies.",
+			"ancestorIds": [
+				"9596674026484D70B74CE25035DBFD72",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"9596674026484D70B74CE25035DBFD72": {
+			"id": "9596674026484D70B74CE25035DBFD72",
+			"asnIdentifier": "S2539527",
+			"position": 300000,
+			"depth": 1,
+			"listId": "D.",
+			"description": "Family and Human Services",
+			"comments": [
+				"Employment growth in the Family and Human Services pathway will likely be driven by an increasing demand for family assistance. Students learn employment and management skills, such as positive guidance, professional behavior and standards, and laws and regulations related to the field. Students also learn about nutrition, health, aging, and safety."
+			],
+			"ancestorIds": [
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B8E29D56D02748CC97218A00502DB751": {
+			"id": "B8E29D56D02748CC97218A00502DB751",
+			"asnIdentifier": "S2539526",
+			"position": 299000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.3",
+			"description": "Assess the recreational interests and needs of individuals and groups and develop appropriate activities.",
+			"ancestorIds": [
+				"D593E1E58A3F4182A058A3759B040B8D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F5111A8B09A74EE6A4D537E9FF50D5A5": {
+			"id": "F5111A8B09A74EE6A4D537E9FF50D5A5",
+			"asnIdentifier": "S2539525",
+			"position": 298000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.2",
+			"description": "Summarize the important components and typical age-appropriate or ability-appropriate activities of various after-school and recreational programs.",
+			"ancestorIds": [
+				"D593E1E58A3F4182A058A3759B040B8D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"589AE7DA02374DE38834EA537B5C7F0C": {
+			"id": "589AE7DA02374DE38834EA537B5C7F0C",
+			"asnIdentifier": "S2539524",
+			"position": 297000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.1",
+			"description": "List the purposes of after-school and recreational activities.",
+			"ancestorIds": [
+				"D593E1E58A3F4182A058A3759B040B8D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D593E1E58A3F4182A058A3759B040B8D": {
+			"id": "D593E1E58A3F4182A058A3759B040B8D",
+			"asnIdentifier": "S2539523",
+			"position": 296000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C12.0",
+			"description": "Formulate the components of effective after-school and recreational programs for individuals and groups.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F8EF22C9ED5F42FCA2740721B8CCAC42": {
+			"id": "F8EF22C9ED5F42FCA2740721B8CCAC42",
+			"asnIdentifier": "S2539522",
+			"position": 295000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.5",
+			"description": "Research the common typical and atypical learning challenges for students in a variety of curricular areas.",
+			"ancestorIds": [
+				"52A796FAFE8E40FAA3958D700F856FF8",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"CCA525C24F90422DA2E79517C712B9CE": {
+			"id": "CCA525C24F90422DA2E79517C712B9CE",
+			"asnIdentifier": "S2539521",
+			"position": 294000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.4",
+			"description": "Analyze a variety of individual and group teaching strategies and learning theories that promote effective learning.",
+			"ancestorIds": [
+				"52A796FAFE8E40FAA3958D700F856FF8",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"863982759139481DB150D0B553752F72": {
+			"id": "863982759139481DB150D0B553752F72",
+			"asnIdentifier": "S2539520",
+			"position": 293000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.3",
+			"description": "Explain how to help the teacher with student instruction, assessment, and confidentiality.",
+			"ancestorIds": [
+				"52A796FAFE8E40FAA3958D700F856FF8",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"00BACF9DA4F049D2A69D8925B7C37160": {
+			"id": "00BACF9DA4F049D2A69D8925B7C37160",
+			"asnIdentifier": "S2539519",
+			"position": 292000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.2",
+			"description": "Demonstrate techniques for providing positive feedback on student work, attendance, and classroom performance.",
+			"ancestorIds": [
+				"52A796FAFE8E40FAA3958D700F856FF8",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0F68F70284BC4AECA8BB0DE6270B70E5": {
+			"id": "0F68F70284BC4AECA8BB0DE6270B70E5",
+			"asnIdentifier": "S2539518",
+			"position": 291000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.1",
+			"description": "Name behavior standards expected of students in classrooms, libraries, and bathrooms on the school grounds and during educational and recreational trips.",
+			"ancestorIds": [
+				"52A796FAFE8E40FAA3958D700F856FF8",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"52A796FAFE8E40FAA3958D700F856FF8": {
+			"id": "52A796FAFE8E40FAA3958D700F856FF8",
+			"asnIdentifier": "S2539517",
+			"position": 290000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C11.0",
+			"description": "Evaluate the role of instructional staff in supporting the learning process.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"AEEE04DF810846F2A97C0E212DF66AC8": {
+			"id": "AEEE04DF810846F2A97C0E212DF66AC8",
+			"asnIdentifier": "S2539516",
+			"position": 289000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.4",
+			"description": "Design grade-appropriate instructional materials and resources, including those that augment educational materials adopted by the State Board of Education.",
+			"ancestorIds": [
+				"CDDD52A35337468DABC07E44A7489267",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"6127DEB2CDE7440794C2589FFD447AC5": {
+			"id": "6127DEB2CDE7440794C2589FFD447AC5",
+			"asnIdentifier": "S2539515",
+			"position": 288000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.3",
+			"description": "Assess available materials and resources for quality, accuracy, relevance, and grade appropriateness.",
+			"ancestorIds": [
+				"CDDD52A35337468DABC07E44A7489267",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"672D49B7871E4E4AA98255E517158EDF": {
+			"id": "672D49B7871E4E4AA98255E517158EDF",
+			"asnIdentifier": "S2539514",
+			"position": 287000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.2",
+			"description": "Demonstrate the appropriate use of current and emerging technology to develop instructional materials and support learning.",
+			"ancestorIds": [
+				"CDDD52A35337468DABC07E44A7489267",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C021485A485842E78E226275BA0657F3": {
+			"id": "C021485A485842E78E226275BA0657F3",
+			"asnIdentifier": "S2539513",
+			"position": 286000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.1",
+			"description": "Evaluate various types and sources of quality, developmentally appropriate materials and equipment.",
+			"ancestorIds": [
+				"CDDD52A35337468DABC07E44A7489267",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"CDDD52A35337468DABC07E44A7489267": {
+			"id": "CDDD52A35337468DABC07E44A7489267",
+			"asnIdentifier": "S2539512",
+			"position": 285000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C10.0",
+			"description": "Integrate the process of developing quality teaching materials and resources for classroom instruction.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C25548ED3E104C27B2CFAE9CA428792D": {
+			"id": "C25548ED3E104C27B2CFAE9CA428792D",
+			"asnIdentifier": "S2539511",
+			"position": 284000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.3",
+			"description": "Explain issues of diversity and how to exhibit sensitivity to cultural differences.",
+			"ancestorIds": [
+				"CA3C528CB8B442608E7B1FCFA28B5A81",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A24A040406894D90B074B9F41DE8BCBA": {
+			"id": "A24A040406894D90B074B9F41DE8BCBA",
+			"asnIdentifier": "S2539510",
+			"position": 283000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.2",
+			"description": "Summarize the ways in which age, abilities, language, culture, economics, and educational backgrounds may affect communication within and among families and the school.",
+			"ancestorIds": [
+				"CA3C528CB8B442608E7B1FCFA28B5A81",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"08D8E70CF2E54C74BD6D7EC7A35E69CB": {
+			"id": "08D8E70CF2E54C74BD6D7EC7A35E69CB",
+			"asnIdentifier": "S2539509",
+			"position": 282000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.1",
+			"description": "Recognize the factors that influence effective communication between the school and home and how to foster familial involvement.",
+			"ancestorIds": [
+				"CA3C528CB8B442608E7B1FCFA28B5A81",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"CA3C528CB8B442608E7B1FCFA28B5A81": {
+			"id": "CA3C528CB8B442608E7B1FCFA28B5A81",
+			"asnIdentifier": "S2539508",
+			"position": 281000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C9.0",
+			"description": "Assess how to communicate and interact effectively with families and community groups.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"EEA8DCE1186146D989B51C567B042E26": {
+			"id": "EEA8DCE1186146D989B51C567B042E26",
+			"asnIdentifier": "S2539507",
+			"position": 280000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.5",
+			"description": "Detect common indicators of nutrition-related disorders and diseases.",
+			"ancestorIds": [
+				"9AF93FFB49AC4A2BB5F519A70351FDD2",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"016B5B6E756F45F78486B71CE577A6F4": {
+			"id": "016B5B6E756F45F78486B71CE577A6F4",
+			"asnIdentifier": "S2539506",
+			"position": 279000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.4",
+			"description": "Research the nutritional needs of children and the allergies commonly associated with food.",
+			"ancestorIds": [
+				"9AF93FFB49AC4A2BB5F519A70351FDD2",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"FFA36D09693D4CD29031B0EDD5ADD961": {
+			"id": "FFA36D09693D4CD29031B0EDD5ADD961",
+			"asnIdentifier": "S2539505",
+			"position": 278000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.3",
+			"description": "Apply appropriate sanitation, health, and hygiene procedures for preventing the spread of infections and illnesses and for responding to allergic reactions.",
+			"ancestorIds": [
+				"9AF93FFB49AC4A2BB5F519A70351FDD2",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"44AC6127F43D40A995AFC218CB7A04C1": {
+			"id": "44AC6127F43D40A995AFC218CB7A04C1",
+			"asnIdentifier": "S2539504",
+			"position": 277000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.2",
+			"description": "Identify services available to at-risk students and how to link students to resources.",
+			"ancestorIds": [
+				"9AF93FFB49AC4A2BB5F519A70351FDD2",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1073109E902146B7A3AA15325AD21B5F": {
+			"id": "1073109E902146B7A3AA15325AD21B5F",
+			"asnIdentifier": "S2539503",
+			"position": 276000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.1",
+			"description": "Describe crucial safety and sanitary procedures to follow in the classroom related to good nutrition and health.",
+			"ancestorIds": [
+				"9AF93FFB49AC4A2BB5F519A70351FDD2",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"9AF93FFB49AC4A2BB5F519A70351FDD2": {
+			"id": "9AF93FFB49AC4A2BB5F519A70351FDD2",
+			"asnIdentifier": "S2539502",
+			"position": 275000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C8.0",
+			"description": "Compare basic principles and practices of good nutrition and health and wellness for children.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"47304213A51A41BD9605FB198E370FF5": {
+			"id": "47304213A51A41BD9605FB198E370FF5",
+			"asnIdentifier": "S2539501",
+			"position": 274000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.7",
+			"description": "Identify relevant curriculum standards, their significance to student success, and demonstrate their use in instruction.",
+			"ancestorIds": [
+				"42E471968CBE42B48C244AD86C58415D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4D4A0F73C16A4E4886B5C806FA322364": {
+			"id": "4D4A0F73C16A4E4886B5C806FA322364",
+			"asnIdentifier": "S2539500",
+			"position": 273000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.6",
+			"description": "Practice using teaching strategies that promote student learning, critical thinking, and problem solving.",
+			"ancestorIds": [
+				"42E471968CBE42B48C244AD86C58415D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"465E316B821B4C7CA8485D1EB9D3F076": {
+			"id": "465E316B821B4C7CA8485D1EB9D3F076",
+			"asnIdentifier": "S2539499",
+			"position": 272000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Use the basic components of effective standards-based lesson plans appropriate for varying ages, learning styles, and diverse cultural backgrounds and abilities to write lesson plans.",
+			"ancestorIds": [
+				"42E471968CBE42B48C244AD86C58415D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"FC5F72B131A44DD3824335D6A61C74EB": {
+			"id": "FC5F72B131A44DD3824335D6A61C74EB",
+			"asnIdentifier": "S2539498",
+			"position": 271000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Explain the process of assessment for early identification of remedial needs or other interventions.",
+			"ancestorIds": [
+				"42E471968CBE42B48C244AD86C58415D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0F9502F14D6442CEB5F28D78CA95C7D2": {
+			"id": "0F9502F14D6442CEB5F28D78CA95C7D2",
+			"asnIdentifier": "S2539497",
+			"position": 270000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Understand the types, important elements, and purposes of student assessments.",
+			"ancestorIds": [
+				"42E471968CBE42B48C244AD86C58415D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2BB0686F9E7A480494CA1C74E1F2E1BF": {
+			"id": "2BB0686F9E7A480494CA1C74E1F2E1BF",
+			"asnIdentifier": "S2539496",
+			"position": 269000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Understand the processes, implementations, and educator responsibilities of individualized education programs (IEPs) and Section 504 plans of the Rehabilitation Act and the Americans with Disabilities Act.",
+			"ancestorIds": [
+				"42E471968CBE42B48C244AD86C58415D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"58227D7901CA488EB2299FF2F11414F8": {
+			"id": "58227D7901CA488EB2299FF2F11414F8",
+			"asnIdentifier": "S2539495",
+			"position": 268000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Identify relevant curriculum standards and demonstrate their use in instruction.",
+			"ancestorIds": [
+				"42E471968CBE42B48C244AD86C58415D",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"42E471968CBE42B48C244AD86C58415D": {
+			"id": "42E471968CBE42B48C244AD86C58415D",
+			"asnIdentifier": "S2539494",
+			"position": 267000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Explain the role and purpose of standards-based instruction and assessment.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3EDB8294880146C18C98CFC92DACFFCB": {
+			"id": "3EDB8294880146C18C98CFC92DACFFCB",
+			"asnIdentifier": "S2539493",
+			"position": 266000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.5",
+			"description": "Develop strategies for building relationships with all stakeholders.",
+			"ancestorIds": [
+				"99134C333E59474CA0427DFB3FE0750C",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"EFA5FE601FF948BCB073E8EC8422B034": {
+			"id": "EFA5FE601FF948BCB073E8EC8422B034",
+			"asnIdentifier": "S2539492",
+			"position": 265000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Practice strategies for building relationships and effective classroom management, including appropriate guidance and discipline.",
+			"ancestorIds": [
+				"99134C333E59474CA0427DFB3FE0750C",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"96050047F66C45D48193E28F628A733A": {
+			"id": "96050047F66C45D48193E28F628A733A",
+			"asnIdentifier": "S2539491",
+			"position": 264000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Demonstrate how to support the development of a positive self-image and self-esteem as well as independence and respect for oneself and others.",
+			"ancestorIds": [
+				"99134C333E59474CA0427DFB3FE0750C",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"172587049C5C41B1992D1A5A4946668A": {
+			"id": "172587049C5C41B1992D1A5A4946668A",
+			"asnIdentifier": "S2539490",
+			"position": 263000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Define the types of positive guidance techniques that are used in various ages and stages of a child's development.",
+			"ancestorIds": [
+				"99134C333E59474CA0427DFB3FE0750C",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"DADE3A8A8692453192E2F04FA6791DB8": {
+			"id": "DADE3A8A8692453192E2F04FA6791DB8",
+			"asnIdentifier": "S2539489",
+			"position": 262000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "List common behavior problems, possible causes, and develop potential positive solutions.",
+			"ancestorIds": [
+				"99134C333E59474CA0427DFB3FE0750C",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"99134C333E59474CA0427DFB3FE0750C": {
+			"id": "99134C333E59474CA0427DFB3FE0750C",
+			"asnIdentifier": "S2539488",
+			"position": 261000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Use positive interaction, guidance, and discipline in the educational environment.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"39BBD3B9C09247CE9AE304CA78A958CF": {
+			"id": "39BBD3B9C09247CE9AE304CA78A958CF",
+			"asnIdentifier": "S2539487",
+			"position": 260000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.4",
+			"description": "Assess and evaluate evidence-based educational practices for the inclusion of children and adolescents with special needs.",
+			"ancestorIds": [
+				"734A42782C6D4E73964A79395B3A9425",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3A5DF88F280542A0A4FB34AE52FB1C76": {
+			"id": "3A5DF88F280542A0A4FB34AE52FB1C76",
+			"asnIdentifier": "S2539486",
+			"position": 259000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.3",
+			"description": "Diagram factors in heredity, family, culture, diversity, economic, abilities, and environment that may influence the development of children and adolescents.",
+			"ancestorIds": [
+				"734A42782C6D4E73964A79395B3A9425",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2CCA97CA37994AA6A487FE2375953258": {
+			"id": "2CCA97CA37994AA6A487FE2375953258",
+			"asnIdentifier": "S2539485",
+			"position": 258000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Explain the role of family involvement in the physical, intellectual, emotional, and social development of children and adolescents.",
+			"ancestorIds": [
+				"734A42782C6D4E73964A79395B3A9425",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"01F43A5D74EE49DFA7EBC2E3127C2D81": {
+			"id": "01F43A5D74EE49DFA7EBC2E3127C2D81",
+			"asnIdentifier": "S2539484",
+			"position": 257000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Identify how typical and common atypical developmental patterns affect the educational progress of children and adolescents.",
+			"ancestorIds": [
+				"734A42782C6D4E73964A79395B3A9425",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"734A42782C6D4E73964A79395B3A9425": {
+			"id": "734A42782C6D4E73964A79395B3A9425",
+			"asnIdentifier": "S2539483",
+			"position": 256000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Summarize important elements of the physical, intellectual, emotional, and social development of children and adolescents.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3966734A35D0409CA0D6930F166C9F49": {
+			"id": "3966734A35D0409CA0D6930F166C9F49",
+			"asnIdentifier": "S2539482",
+			"position": 255000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Demonstrate how to use certified first aid, cardiopulmonary resuscitation (CPR), and other emergency procedures.",
+			"ancestorIds": [
+				"203A05217C8D4B34AF5CB315FBD83515",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"74F97A2F53624B079B77EC9E40B74C9B": {
+			"id": "74F97A2F53624B079B77EC9E40B74C9B",
+			"asnIdentifier": "S2539481",
+			"position": 254000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Describe the staff procedures, duties, and responsibilities related to safety, emergency, and disaster preparedness plans.",
+			"ancestorIds": [
+				"203A05217C8D4B34AF5CB315FBD83515",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3CD9C9B3117C4E3A8206BDC5055BEF73": {
+			"id": "3CD9C9B3117C4E3A8206BDC5055BEF73",
+			"asnIdentifier": "S2539480",
+			"position": 253000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Recognize the typical hazards at the work site and know the procedures and practices that contribute to a safe and healthy environment.",
+			"ancestorIds": [
+				"203A05217C8D4B34AF5CB315FBD83515",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C95056E6A78B42B4BBA553140ECA23B2": {
+			"id": "C95056E6A78B42B4BBA553140ECA23B2",
+			"asnIdentifier": "S2539479",
+			"position": 252000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Identify state and federal environmental and safety regulations and the use of Material Safety Data Sheets (MSDS) as they relate to the education industry.",
+			"ancestorIds": [
+				"203A05217C8D4B34AF5CB315FBD83515",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"203A05217C8D4B34AF5CB315FBD83515": {
+			"id": "203A05217C8D4B34AF5CB315FBD83515",
+			"asnIdentifier": "S2539478",
+			"position": 251000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Practice critical emergency and disaster procedures at a school site.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"78C33265C4D44509AC011F6BDE3A04AF": {
+			"id": "78C33265C4D44509AC011F6BDE3A04AF",
+			"asnIdentifier": "S2539477",
+			"position": 250000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.3",
+			"description": "Locate and understand the credentialing requirements for teachers of students in prekindergarten through community college.",
+			"ancestorIds": [
+				"0BD4D6D048A84A6B9C982A4E7A2B0ADF",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1245B2EA45F8447F8DDD315D031E8DC7": {
+			"id": "1245B2EA45F8447F8DDD315D031E8DC7",
+			"asnIdentifier": "S2539476",
+			"position": 249000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.2",
+			"description": "Identify the indicators of child abuse and neglect and the role of the mandated reporter.",
+			"ancestorIds": [
+				"0BD4D6D048A84A6B9C982A4E7A2B0ADF",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5DC09DF690ED4750BFA4BD9983A30FC8": {
+			"id": "5DC09DF690ED4750BFA4BD9983A30FC8",
+			"asnIdentifier": "S2539475",
+			"position": 248000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Describe the critical health and safety procedures that are used at a school site.",
+			"ancestorIds": [
+				"0BD4D6D048A84A6B9C982A4E7A2B0ADF",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0BD4D6D048A84A6B9C982A4E7A2B0ADF": {
+			"id": "0BD4D6D048A84A6B9C982A4E7A2B0ADF",
+			"asnIdentifier": "S2539474",
+			"position": 247000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "State specific applications of government regulations in the education industry.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7A59EE86B7D24FE1826BC152F2AD84E1": {
+			"id": "7A59EE86B7D24FE1826BC152F2AD84E1",
+			"asnIdentifier": "S2539473",
+			"position": 246000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Implement appropriate procedures at the classroom level (e.g., attendance; observations; evaluations; illness, incident, accident, and injury reports).",
+			"ancestorIds": [
+				"C767EC0F95474B758FDCE29200BBB929",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4B43BB48E84448A487911A61CF7FAAFC": {
+			"id": "4B43BB48E84448A487911A61CF7FAAFC",
+			"asnIdentifier": "S2539472",
+			"position": 245000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "Recognize the main workforce management strategies in education (e.g., shared responsibility and negotiation).",
+			"ancestorIds": [
+				"C767EC0F95474B758FDCE29200BBB929",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"DD0B213FB056487FAC6428D5D7F63049": {
+			"id": "DD0B213FB056487FAC6428D5D7F63049",
+			"asnIdentifier": "S2539471",
+			"position": 244000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "Identify the business procedures related to the acquisition of supplies and collection of fees.",
+			"ancestorIds": [
+				"C767EC0F95474B758FDCE29200BBB929",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C767EC0F95474B758FDCE29200BBB929": {
+			"id": "C767EC0F95474B758FDCE29200BBB929",
+			"asnIdentifier": "S2539470",
+			"position": 243000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Name operational procedures and organizational policies at various levels in education.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"19B4A477493346A18C78BFA1F9FE3708": {
+			"id": "19B4A477493346A18C78BFA1F9FE3708",
+			"asnIdentifier": "S2539469",
+			"position": 242000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "Explain the differences in organizational structures at educational facilities, including relationships and interactions among personnel.",
+			"ancestorIds": [
+				"0D4E08A79F7F444B8916C84F9FFA66AD",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"45C0AAB7B1344AFBA3F04B397266E2BA": {
+			"id": "45C0AAB7B1344AFBA3F04B397266E2BA",
+			"asnIdentifier": "S2539468",
+			"position": 241000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Understand the legislative, economic, and social trends that affect the education industry.",
+			"ancestorIds": [
+				"0D4E08A79F7F444B8916C84F9FFA66AD",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"90E9CA76ED884A1696465E2A2B9B4C43": {
+			"id": "90E9CA76ED884A1696465E2A2B9B4C43",
+			"asnIdentifier": "S2539467",
+			"position": 240000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "Describe the basic structure of public education in California (e.g., prekindergarten through grade twelve, community college, the California State University, the University of California), as well as private institutions.",
+			"ancestorIds": [
+				"0D4E08A79F7F444B8916C84F9FFA66AD",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3258F2B9780142FE976B4BD50EB108F5": {
+			"id": "3258F2B9780142FE976B4BD50EB108F5",
+			"asnIdentifier": "S2539466",
+			"position": 239000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Identify the effect of the education industry on state and local economies.",
+			"ancestorIds": [
+				"0D4E08A79F7F444B8916C84F9FFA66AD",
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0D4E08A79F7F444B8916C84F9FFA66AD": {
+			"id": "0D4E08A79F7F444B8916C84F9FFA66AD",
+			"asnIdentifier": "S2539465",
+			"position": 238000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Describe the structure of the education industry and its role in local, state, and global economies.",
+			"ancestorIds": [
+				"3B219D993990409D8A912695969735A8",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3B219D993990409D8A912695969735A8": {
+			"id": "3B219D993990409D8A912695969735A8",
+			"asnIdentifier": "S2539464",
+			"position": 237000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Education",
+			"comments": [
+				"The Education pathway is designed to prepare students for professional or learning support positions in education, prekindergarten through grade twelve. Students study human development; standards, regulations, and codes; positive guidance and counseling techniques; age-appropriate and grade-appropriate learning strategies; learning theories; and standards-based curriculum and instructional design. Students can apply and practice their knowledge and skills at a variety of elementary and secondary education sites."
+			],
+			"ancestorIds": [
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"8FF3A0F60FAE4FACAF4C4FF6822163EC": {
+			"id": "8FF3A0F60FAE4FACAF4C4FF6822163EC",
+			"asnIdentifier": "S2539463",
+			"position": 236000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B12.4",
+			"description": "Review Truth in Lending legislation and California's Rosenthal Act related to consumers and their rights.",
+			"ancestorIds": [
+				"8CB89809DF23425BB0FCD730EB0A90E0",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5CA8F1CA78034CE6B5F80F0F6120DFB3": {
+			"id": "5CA8F1CA78034CE6B5F80F0F6120DFB3",
+			"asnIdentifier": "S2539462",
+			"position": 235000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B12.3",
+			"description": "Compare the services provided by various financial institutions and departments of government.",
+			"ancestorIds": [
+				"8CB89809DF23425BB0FCD730EB0A90E0",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"DA5F3D4ED21445DB8E883C9BAF3E8F28": {
+			"id": "DA5F3D4ED21445DB8E883C9BAF3E8F28",
+			"asnIdentifier": "S2539461",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B12.2",
+			"description": "Explain inflation and recession and how they affect the financial status of individuals and families.",
+			"ancestorIds": [
+				"8CB89809DF23425BB0FCD730EB0A90E0",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"00C476E33A1F48A4B6F5103A92085B14": {
+			"id": "00C476E33A1F48A4B6F5103A92085B14",
+			"asnIdentifier": "S2539460",
+			"position": 233000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B12.1",
+			"description": "Describe the interrelationship between the economy and consumer spending and saving.",
+			"ancestorIds": [
+				"8CB89809DF23425BB0FCD730EB0A90E0",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"8CB89809DF23425BB0FCD730EB0A90E0": {
+			"id": "8CB89809DF23425BB0FCD730EB0A90E0",
+			"asnIdentifier": "S2539459",
+			"position": 232000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B12.0",
+			"description": "Explore the effect of the U.S. economic system on personal income, financial management, individual and family security, and consumer decisions.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F2C6A7CE6E274546B014F23392BEC5D4": {
+			"id": "F2C6A7CE6E274546B014F23392BEC5D4",
+			"asnIdentifier": "S2539458",
+			"position": 231000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.6",
+			"description": "Analyze, describe, and contrast various types of investments and risk assessment programs.",
+			"ancestorIds": [
+				"99BA6688F9EB49218905C9F28400D47E",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0E8AD88A7A9046C68A514DA1D110EA7E": {
+			"id": "0E8AD88A7A9046C68A514DA1D110EA7E",
+			"asnIdentifier": "S2539457",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.5",
+			"description": "Analyze budgets for a variety of individuals and families in accord with estimated income, needs, desires, goals, and lifestyles.",
+			"ancestorIds": [
+				"99BA6688F9EB49218905C9F28400D47E",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"65DA4795031D460091A3E7D4D5882168": {
+			"id": "65DA4795031D460091A3E7D4D5882168",
+			"asnIdentifier": "S2539456",
+			"position": 229000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.4",
+			"description": "Illustrate the costs of bankruptcy to the individual, the consumer, the institution, and the economy.",
+			"ancestorIds": [
+				"99BA6688F9EB49218905C9F28400D47E",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"906DE0B8297F46EAA4AF62FDB237C86A": {
+			"id": "906DE0B8297F46EAA4AF62FDB237C86A",
+			"asnIdentifier": "S2539455",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.3",
+			"description": "Identify ways to resolve credit issues and explain the effect of credit issues on the consumer and the economy.",
+			"ancestorIds": [
+				"99BA6688F9EB49218905C9F28400D47E",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"642BFD88294846FB8B96370CDA463DC5": {
+			"id": "642BFD88294846FB8B96370CDA463DC5",
+			"asnIdentifier": "S2539454",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.2",
+			"description": "Define and identify credit terminology, credit ratings and sources, costs of credit, and risks and benefits of credit.",
+			"ancestorIds": [
+				"99BA6688F9EB49218905C9F28400D47E",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"8EA1F1E439D24BBDA35C2F4F18675DF7": {
+			"id": "8EA1F1E439D24BBDA35C2F4F18675DF7",
+			"asnIdentifier": "S2539453",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.1",
+			"description": "Describe the effects of short-term and long-term financial plans on consumer decisions.",
+			"ancestorIds": [
+				"99BA6688F9EB49218905C9F28400D47E",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"99BA6688F9EB49218905C9F28400D47E": {
+			"id": "99BA6688F9EB49218905C9F28400D47E",
+			"asnIdentifier": "S2539452",
+			"position": 225000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B11.0",
+			"description": "Practice personal financial management, its effects on the economy, and career, personal, and family goals.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"32B8548231434401BB19D9BA1B044C7D": {
+			"id": "32B8548231434401BB19D9BA1B044C7D",
+			"asnIdentifier": "S2539451",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.6",
+			"description": "Plan, produce, and evaluate demonstrations that educate consumers and promote a variety of products.",
+			"ancestorIds": [
+				"3AB1A8ECA5444E06B2B14F918E630541",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"92A8A5259ACE4253BE28B806D26BEF91": {
+			"id": "92A8A5259ACE4253BE28B806D26BEF91",
+			"asnIdentifier": "S2539450",
+			"position": 223000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.5",
+			"description": "Compare features, benefits, prices, product information, styles, and performance of goods.",
+			"ancestorIds": [
+				"3AB1A8ECA5444E06B2B14F918E630541",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5720A17AB2704F62BE24493623CB084A": {
+			"id": "5720A17AB2704F62BE24493623CB084A",
+			"asnIdentifier": "S2539449",
+			"position": 222000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.4",
+			"description": "Explain the industry standards and government regulations that require specific information to be included on labels and care instructions.",
+			"ancestorIds": [
+				"3AB1A8ECA5444E06B2B14F918E630541",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A739F86450A84A31BC42748519808739": {
+			"id": "A739F86450A84A31BC42748519808739",
+			"asnIdentifier": "S2539448",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.3",
+			"description": "Describe the standard testing procedures and strategies used to analyze data and integrate findings to revise products.",
+			"ancestorIds": [
+				"3AB1A8ECA5444E06B2B14F918E630541",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"08863DDD66384E6EA90CC33E19C26408": {
+			"id": "08863DDD66384E6EA90CC33E19C26408",
+			"asnIdentifier": "S2539447",
+			"position": 220000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.2",
+			"description": "Describe the purpose and significance of market research before a new product or service is developed and introduced.",
+			"ancestorIds": [
+				"3AB1A8ECA5444E06B2B14F918E630541",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"29EB4C98180745F38559F8CAEEEB8B27": {
+			"id": "29EB4C98180745F38559F8CAEEEB8B27",
+			"asnIdentifier": "S2539446",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.1",
+			"description": "Identify the trends that affect customer demand for products and services, including green products, to promote environmental friendliness and sustainability.",
+			"ancestorIds": [
+				"3AB1A8ECA5444E06B2B14F918E630541",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3AB1A8ECA5444E06B2B14F918E630541": {
+			"id": "3AB1A8ECA5444E06B2B14F918E630541",
+			"asnIdentifier": "S2539445",
+			"position": 218000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B10.0",
+			"description": "Research the basic procedures required to research, test, label, and demonstrate products to provide information needed by employees, consumers, and clients.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"75AF4A8731664C8EB93E0A71E107798C": {
+			"id": "75AF4A8731664C8EB93E0A71E107798C",
+			"asnIdentifier": "S2539444",
+			"position": 217000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.3",
+			"description": "Compare the costs and benefits of consumer programs for consumers, communities, and businesses.",
+			"ancestorIds": [
+				"F7737FD00F384D1DA621C04B9C86E10F",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F199CF17377244AC92D94F2263272206": {
+			"id": "F199CF17377244AC92D94F2263272206",
+			"asnIdentifier": "S2539443",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.2",
+			"description": "Explain the environmental impact of residential and commercial waste disposal and recycling issues.",
+			"ancestorIds": [
+				"F7737FD00F384D1DA621C04B9C86E10F",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F99EB9F87B0B49589603257613C985CF": {
+			"id": "F99EB9F87B0B49589603257613C985CF",
+			"asnIdentifier": "S2539442",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.1",
+			"description": "Identify the various sources of energy available to consumers and the strategies that improve energy efficiency.",
+			"ancestorIds": [
+				"F7737FD00F384D1DA621C04B9C86E10F",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F7737FD00F384D1DA621C04B9C86E10F": {
+			"id": "F7737FD00F384D1DA621C04B9C86E10F",
+			"asnIdentifier": "S2539441",
+			"position": 214000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B9.0",
+			"description": "Summarize important consumer programs and services provided by energy, environmental, and resource management businesses.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F9A20CDFDD954A668388025B2DAA7C12": {
+			"id": "F9A20CDFDD954A668388025B2DAA7C12",
+			"asnIdentifier": "S2539440",
+			"position": 213000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.5",
+			"description": "Analyze public relations plans in terms of their effect on customer relations and the operations of an organization.",
+			"ancestorIds": [
+				"05E862A1E2FB4E87A4AC1B0356DC09A1",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D4E7D10BA7B242409BA8054A76CCB8CB": {
+			"id": "D4E7D10BA7B242409BA8054A76CCB8CB",
+			"asnIdentifier": "S2539439",
+			"position": 212000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.4",
+			"description": "Develop communications, timelines, agendas, schedules, meeting arrangements, and advertising media for public relations activities.",
+			"ancestorIds": [
+				"05E862A1E2FB4E87A4AC1B0356DC09A1",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"13272CD84B5440ED86C6F17E113AE057": {
+			"id": "13272CD84B5440ED86C6F17E113AE057",
+			"asnIdentifier": "S2539438",
+			"position": 211000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.3",
+			"description": "Demonstrate how to prepare and deliver materials and presentations that consumers will understand, such as videos, visual presentations, media kits, public service announcements, and fact sheets.",
+			"ancestorIds": [
+				"05E862A1E2FB4E87A4AC1B0356DC09A1",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"8894396D5BB4449CB4459B063EB42C9A": {
+			"id": "8894396D5BB4449CB4459B063EB42C9A",
+			"asnIdentifier": "S2539437",
+			"position": 210000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.2",
+			"description": "List the tools and techniques used for communicating with consumers, including those used for advertising.",
+			"ancestorIds": [
+				"05E862A1E2FB4E87A4AC1B0356DC09A1",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4AD881D8153E44C0B051812E517345FA": {
+			"id": "4AD881D8153E44C0B051812E517345FA",
+			"asnIdentifier": "S2539436",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.1",
+			"description": "Identify the local, state, national, and international agencies, organizations, and media resources that provide current consumer information, including Internet and social media.",
+			"ancestorIds": [
+				"05E862A1E2FB4E87A4AC1B0356DC09A1",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"05E862A1E2FB4E87A4AC1B0356DC09A1": {
+			"id": "05E862A1E2FB4E87A4AC1B0356DC09A1",
+			"asnIdentifier": "S2539435",
+			"position": 208000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B8.0",
+			"description": "Use the skills and techniques needed to prepare advertising, public relations, and informational materials for consumers.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"67C3614C19334B6E9CBAAFE71418175C": {
+			"id": "67C3614C19334B6E9CBAAFE71418175C",
+			"asnIdentifier": "S2539434",
+			"position": 207000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.6",
+			"description": "Illustrate how the Internet and new technology, including social media, improve communication and facilitate business operations, as well as can harm or improve a business reputation.",
+			"ancestorIds": [
+				"F1E8CDCB17CF4234ABC6730649A9913C",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C3468E623C4B4BD8955D140E50C97851": {
+			"id": "C3468E623C4B4BD8955D140E50C97851",
+			"asnIdentifier": "S2539433",
+			"position": 206000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.5",
+			"description": "Discern logical, legal, ethical, and expedient solutions to consumer concerns by empowering employees to resolve consumer issues at the lowest level.",
+			"ancestorIds": [
+				"F1E8CDCB17CF4234ABC6730649A9913C",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"045B54D239604A1EB3FD754F2FC1DA9F": {
+			"id": "045B54D239604A1EB3FD754F2FC1DA9F",
+			"asnIdentifier": "S2539432",
+			"position": 205000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.4",
+			"description": "Assess customer needs or desires and recommend products and services.",
+			"ancestorIds": [
+				"F1E8CDCB17CF4234ABC6730649A9913C",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B4EDBA9F659C4D26A41ED86363DEC337": {
+			"id": "B4EDBA9F659C4D26A41ED86363DEC337",
+			"asnIdentifier": "S2539431",
+			"position": 204000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Explain how the customer's point of view and suggestions affect management policies and decisions.",
+			"ancestorIds": [
+				"F1E8CDCB17CF4234ABC6730649A9913C",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"EDB7AD567C6C47C9B7C319ECF0408630": {
+			"id": "EDB7AD567C6C47C9B7C319ECF0408630",
+			"asnIdentifier": "S2539430",
+			"position": 203000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Demonstrate the methods used to establish trust between a client and a customer service employee.",
+			"ancestorIds": [
+				"F1E8CDCB17CF4234ABC6730649A9913C",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"FE710B9BAE7F4EC7AF283C53A5EB998E": {
+			"id": "FE710B9BAE7F4EC7AF283C53A5EB998E",
+			"asnIdentifier": "S2539429",
+			"position": 202000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Identify the factors that contribute to quality customer relationships.",
+			"ancestorIds": [
+				"F1E8CDCB17CF4234ABC6730649A9913C",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F1E8CDCB17CF4234ABC6730649A9913C": {
+			"id": "F1E8CDCB17CF4234ABC6730649A9913C",
+			"asnIdentifier": "S2539428",
+			"position": 201000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B7.0",
+			"description": "Compare and contrast customer relationships and their impact on businesses and employees in the consumer services industry.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"6AE5188D2B1A4E4790C4805D1F5B1001": {
+			"id": "6AE5188D2B1A4E4790C4805D1F5B1001",
+			"asnIdentifier": "S2539427",
+			"position": 200000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.3",
+			"description": "Predict how aspects of diversity, such as culture, age, socioeconomic, gender, language, and abilities, affect consumer services.",
+			"ancestorIds": [
+				"B2C37931DA584A33A0350FF65D21E633",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"E624032A49D1467880E4B280F01997BA": {
+			"id": "E624032A49D1467880E4B280F01997BA",
+			"asnIdentifier": "S2539426",
+			"position": 199000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Analyze the influence of different global industries, economies, regulations, and political and economic systems on the consumer services industry.",
+			"ancestorIds": [
+				"B2C37931DA584A33A0350FF65D21E633",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"9A0DFC598F134E26BF728E4791788511": {
+			"id": "9A0DFC598F134E26BF728E4791788511",
+			"asnIdentifier": "S2539425",
+			"position": 198000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Identify the national and international issues that affect consumers.",
+			"ancestorIds": [
+				"B2C37931DA584A33A0350FF65D21E633",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B2C37931DA584A33A0350FF65D21E633": {
+			"id": "B2C37931DA584A33A0350FF65D21E633",
+			"asnIdentifier": "S2539424",
+			"position": 197000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Communicate the significance of national and international influences, current events, and diversity within the consumer services industry.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5FCFDECCB3A243FDB4D37C5E270A2A10": {
+			"id": "5FCFDECCB3A243FDB4D37C5E270A2A10",
+			"asnIdentifier": "S2539423",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.5",
+			"description": "Diagram the effects of identity theft on diverse individuals, businesses, and local economies.",
+			"ancestorIds": [
+				"660A9C0D3D1A44D58D65B11E0E1BE1DF",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7C4F7197BE8D4C87A0C885B137A3F438": {
+			"id": "7C4F7197BE8D4C87A0C885B137A3F438",
+			"asnIdentifier": "S2539422",
+			"position": 195000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.4",
+			"description": "Analyze the effect of consumer protection laws on the cost and quality of goods and services.",
+			"ancestorIds": [
+				"660A9C0D3D1A44D58D65B11E0E1BE1DF",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"872F277E7BB4415B86166B0E7B438F27": {
+			"id": "872F277E7BB4415B86166B0E7B438F27",
+			"asnIdentifier": "S2539421",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.3",
+			"description": "Illustrate the various advertising techniques with respect to consumer rights, marketing, technology, and point of sale methods.",
+			"ancestorIds": [
+				"660A9C0D3D1A44D58D65B11E0E1BE1DF",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A3EFB4FAF53C45F1B8265F7F6BC0F1AA": {
+			"id": "A3EFB4FAF53C45F1B8265F7F6BC0F1AA",
+			"asnIdentifier": "S2539420",
+			"position": 193000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Demonstrate how individuals can have an effect on the legislative process as it relates to consumer regulations.",
+			"ancestorIds": [
+				"660A9C0D3D1A44D58D65B11E0E1BE1DF",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"EF17860E16524F528EECCA54789CCA79": {
+			"id": "EF17860E16524F528EECCA54789CCA79",
+			"asnIdentifier": "S2539419",
+			"position": 192000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Identify effective strategies and laws that consumers can use when exercising their rights and useful methods for resolving complaints.",
+			"ancestorIds": [
+				"660A9C0D3D1A44D58D65B11E0E1BE1DF",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"660A9C0D3D1A44D58D65B11E0E1BE1DF": {
+			"id": "660A9C0D3D1A44D58D65B11E0E1BE1DF",
+			"asnIdentifier": "S2539418",
+			"position": 191000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Summarize consumer rights and responsibilities in the consumer services industry.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"47BEEED5724F43A7A1CEC0744DEBE1B1": {
+			"id": "47BEEED5724F43A7A1CEC0744DEBE1B1",
+			"asnIdentifier": "S2539417",
+			"position": 190000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Illustrate essential consumer protection laws and regulations commonly used in the consumer services industry.",
+			"ancestorIds": [
+				"49C25C1B9CE644038723EF3268A7BB9B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"EED3CCC47D1848D598EA069AF70E2331": {
+			"id": "EED3CCC47D1848D598EA069AF70E2331",
+			"asnIdentifier": "S2539416",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Explain the legal implications of a contract and interpret the consequences of consumer actions related to various types of contracts.",
+			"ancestorIds": [
+				"49C25C1B9CE644038723EF3268A7BB9B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"374825E3D6F044F2853D9AAC27C17987": {
+			"id": "374825E3D6F044F2853D9AAC27C17987",
+			"asnIdentifier": "S2539415",
+			"position": 188000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Identify the effects of environmental laws and safety regulations on consumers.",
+			"ancestorIds": [
+				"49C25C1B9CE644038723EF3268A7BB9B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F117EEF8822E4373998AD799088AC50A": {
+			"id": "F117EEF8822E4373998AD799088AC50A",
+			"asnIdentifier": "S2539414",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Describe the role of local, state, and national public and private agencies in consumer and business protection.",
+			"ancestorIds": [
+				"49C25C1B9CE644038723EF3268A7BB9B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A270AF64C3004A6FB83A3AA6F1F6E815": {
+			"id": "A270AF64C3004A6FB83A3AA6F1F6E815",
+			"asnIdentifier": "S2539413",
+			"position": 186000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Recall and chart the evolution of consumer protection legislation.",
+			"ancestorIds": [
+				"49C25C1B9CE644038723EF3268A7BB9B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"49C25C1B9CE644038723EF3268A7BB9B": {
+			"id": "49C25C1B9CE644038723EF3268A7BB9B",
+			"asnIdentifier": "S2539412",
+			"position": 185000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B4.0",
+			"description": "Understand essential consumer protection laws and regulations.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A3B9332C3C774F689200F89604C70E4B": {
+			"id": "A3B9332C3C774F689200F89604C70E4B",
+			"asnIdentifier": "S2539411",
+			"position": 184000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Analyze the purpose of, and information in, Material Safety Data Sheets (MSDS).",
+			"ancestorIds": [
+				"51D9A92E9200467880B828E12DE0DCDD",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B7AA0F8FDAC64F669F93A64E35942240": {
+			"id": "B7AA0F8FDAC64F669F93A64E35942240",
+			"asnIdentifier": "S2539410",
+			"position": 183000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Demonstrate the procedures for preparing, expediting, and tracking forms needed for requisitioning supplies and materials.",
+			"ancestorIds": [
+				"51D9A92E9200467880B828E12DE0DCDD",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B5E51DC38F824017808B567C683808EB": {
+			"id": "B5E51DC38F824017808B567C683808EB",
+			"asnIdentifier": "S2539409",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Define the correct technical terms to describe products, procedures, and equipment specific to the consumer services industry.",
+			"ancestorIds": [
+				"51D9A92E9200467880B828E12DE0DCDD",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"51D9A92E9200467880B828E12DE0DCDD": {
+			"id": "51D9A92E9200467880B828E12DE0DCDD",
+			"asnIdentifier": "S2539408",
+			"position": 181000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B3.0",
+			"description": "Demonstrate the operational procedures and safety practices that are commonly used in the consumer services industry.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4B3B8741818F4C0D98868F904E7D05BA": {
+			"id": "4B3B8741818F4C0D98868F904E7D05BA",
+			"asnIdentifier": "S2539407",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.4",
+			"description": "Use organizational procedures and tools, such as business plans, budgets/financials, spreadsheets for payroll and inventories, recordkeeping, and communication with consumers.",
+			"ancestorIds": [
+				"60F66B3C9785400EB25868FEDA59E58B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"6EC7FA1D7C3C42E4A01546529F0EADAF": {
+			"id": "6EC7FA1D7C3C42E4A01546529F0EADAF",
+			"asnIdentifier": "S2539406",
+			"position": 179000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.3",
+			"description": "Summarize the interrelationship and interdependence and diversity of management and employees as they relate to workforce productivity.",
+			"ancestorIds": [
+				"60F66B3C9785400EB25868FEDA59E58B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"13EF7FDCD9814AFEB97491B31EC0FFE7": {
+			"id": "13EF7FDCD9814AFEB97491B31EC0FFE7",
+			"asnIdentifier": "S2539405",
+			"position": 178000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Demonstrate the main workforce management strategies, such as shared responsibilities and negotiation, collaboration/consensus building, and communication.",
+			"ancestorIds": [
+				"60F66B3C9785400EB25868FEDA59E58B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"8B83BBAD3E4B4230BE8CEAAF80485EF8": {
+			"id": "8B83BBAD3E4B4230BE8CEAAF80485EF8",
+			"asnIdentifier": "S2539404",
+			"position": 177000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Explain the outcomes of effective leadership and management, such as profitability, solvency, productivity, consumer and client satisfaction, and business growth.",
+			"ancestorIds": [
+				"60F66B3C9785400EB25868FEDA59E58B",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"60F66B3C9785400EB25868FEDA59E58B": {
+			"id": "60F66B3C9785400EB25868FEDA59E58B",
+			"asnIdentifier": "S2539403",
+			"position": 176000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Understand the principles of effective workforce and organizational management, including the roles and responsibilities of management and employees.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"39FCFE2BA82141A5A2E53F7A965CEAAA": {
+			"id": "39FCFE2BA82141A5A2E53F7A965CEAAA",
+			"asnIdentifier": "S2539402",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.5",
+			"description": "Communicate the role of consumer affairs personnel in an organization.",
+			"ancestorIds": [
+				"B8B36CF2A6CC445994A1E81978B86662",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4A799AF8674C42059E5B0D9DA7915A80": {
+			"id": "4A799AF8674C42059E5B0D9DA7915A80",
+			"asnIdentifier": "S2539401",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.4",
+			"description": "Identify the ways in which industries, companies, and agencies provide consumer information and services.",
+			"ancestorIds": [
+				"B8B36CF2A6CC445994A1E81978B86662",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D84E4774B4714F4FB138CD27B1C04F87": {
+			"id": "D84E4774B4714F4FB138CD27B1C04F87",
+			"asnIdentifier": "S2539400",
+			"position": 173000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Explain the effect of this industry on businesses and the state's economy.",
+			"ancestorIds": [
+				"B8B36CF2A6CC445994A1E81978B86662",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0B43AA9CB89E4A11B43D7677C2C0616B": {
+			"id": "0B43AA9CB89E4A11B43D7677C2C0616B",
+			"asnIdentifier": "S2539399",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "Summarize the legislative, economic, educational, and social trends that affect careers in the consumer services industry.",
+			"ancestorIds": [
+				"B8B36CF2A6CC445994A1E81978B86662",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"68A3AD4791C1497BA4EE661610E0F233": {
+			"id": "68A3AD4791C1497BA4EE661610E0F233",
+			"asnIdentifier": "S2539398",
+			"position": 171000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Identify the ways in which national and international policies and procedures affect the daily operations of a consumer services organization.",
+			"ancestorIds": [
+				"B8B36CF2A6CC445994A1E81978B86662",
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B8B36CF2A6CC445994A1E81978B86662": {
+			"id": "B8B36CF2A6CC445994A1E81978B86662",
+			"asnIdentifier": "S2539397",
+			"position": 170000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Describe important aspects of the consumer services industry and the role of the industry in local, state, national, and global economies.",
+			"ancestorIds": [
+				"1DA5EDD29F794979A045C49980B1B7E2",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1DA5EDD29F794979A045C49980B1B7E2": {
+			"id": "1DA5EDD29F794979A045C49980B1B7E2",
+			"asnIdentifier": "S2539396",
+			"position": 169000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Consumer Services Pathway",
+			"comments": [
+				"The Consumer Services pathway focuses on a broad-based curriculum designed to prepare students for careers helping customers, including credit counselors, consumer reporters, writers, and consumer affairs directors. Students learn employment, entrepreneurial, and management skills that include business structure; consumer rights and responsibilities; testing and demonstration of products; consumer communications; and energy, environment, and resource management."
+			],
+			"ancestorIds": [
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"AE0F6C11CEB345D791EDEC25BAD5987C": {
+			"id": "AE0F6C11CEB345D791EDEC25BAD5987C",
+			"asnIdentifier": "S2539395",
+			"position": 168000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.6",
+			"description": "Identify and compile samples used for assessing a child and developing a portfolio.",
+			"ancestorIds": [
+				"AE995B8119B5488089469217670EE619",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B59F3F2280764203B384C11ECD61C20B": {
+			"id": "B59F3F2280764203B384C11ECD61C20B",
+			"asnIdentifier": "S2539394",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.5",
+			"description": "Differentiate how to provide instructional assistance to small and large learning groups.",
+			"ancestorIds": [
+				"AE995B8119B5488089469217670EE619",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"282E9E78FBA943FC84168A3F56787BA2": {
+			"id": "282E9E78FBA943FC84168A3F56787BA2",
+			"asnIdentifier": "S2539393",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.4",
+			"description": "Implement planned activities to facilitate multidisciplinary learning and reinforce concepts.",
+			"ancestorIds": [
+				"AE995B8119B5488089469217670EE619",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C8456C10342740DC98E783A665AAAA97": {
+			"id": "C8456C10342740DC98E783A665AAAA97",
+			"asnIdentifier": "S2539392",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.3",
+			"description": "Classify the typical learning challenges that students encounter in curricular areas.",
+			"ancestorIds": [
+				"AE995B8119B5488089469217670EE619",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A8D4B789727349209482C549027A73DF": {
+			"id": "A8D4B789727349209482C549027A73DF",
+			"asnIdentifier": "S2539391",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.2",
+			"description": "Understand the established standards and the standard operating procedures in classrooms, libraries, halls, and bathrooms and on the school grounds.",
+			"ancestorIds": [
+				"AE995B8119B5488089469217670EE619",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"547B91B5DD9341078201584EDCA58EDE": {
+			"id": "547B91B5DD9341078201584EDCA58EDE",
+			"asnIdentifier": "S2539390",
+			"position": 163000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.1",
+			"description": "Define the strategies for supervising and maintaining a supportive learning environment for infants, toddlers, and children.",
+			"ancestorIds": [
+				"AE995B8119B5488089469217670EE619",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"AE995B8119B5488089469217670EE619": {
+			"id": "AE995B8119B5488089469217670EE619",
+			"asnIdentifier": "S2539389",
+			"position": 162000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A12.0",
+			"description": "Illustrate how to support the learning process in an assisting role.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A97B0793AC2F4405A54DC7481738FFE7": {
+			"id": "A97B0793AC2F4405A54DC7481738FFE7",
+			"asnIdentifier": "S2539388",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.3",
+			"description": "Evaluate the various types and sources of quality, age-appropriate, and developmentally appropriate materials and equipment.",
+			"ancestorIds": [
+				"B903599EEB8649B395574750DC192157",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"10F32D44516F492699CB600269FFD51F": {
+			"id": "10F32D44516F492699CB600269FFD51F",
+			"asnIdentifier": "S2539387",
+			"position": 160000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.2",
+			"description": "Use the appropriate and current instructional technology and equipment to develop program materials and support learning.",
+			"ancestorIds": [
+				"B903599EEB8649B395574750DC192157",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B5EBC0384BE4406D9D41F70499056D53": {
+			"id": "B5EBC0384BE4406D9D41F70499056D53",
+			"asnIdentifier": "S2539386",
+			"position": 159000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.1",
+			"description": "Select and develop age-appropriate and developmentally appropriate teaching materials and resources.",
+			"ancestorIds": [
+				"B903599EEB8649B395574750DC192157",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B903599EEB8649B395574750DC192157": {
+			"id": "B903599EEB8649B395574750DC192157",
+			"asnIdentifier": "S2539385",
+			"position": 158000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A11.0",
+			"description": "Identify teaching materials and resources that enhance classroom instruction and indoor and outdoor learning in early childhood education, child care, and development programs.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"36EE9CD122864334967E59CEA42D119A": {
+			"id": "36EE9CD122864334967E59CEA42D119A",
+			"asnIdentifier": "S2539384",
+			"position": 157000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.5",
+			"description": "Advocate for high-quality programs and services for children and families.",
+			"ancestorIds": [
+				"4D56F9BCB8DB4DEDABAD5AEBE8AFD671",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2A05F29C7C7C435FB9E2D95317DB7EB3": {
+			"id": "2A05F29C7C7C435FB9E2D95317DB7EB3",
+			"asnIdentifier": "S2539383",
+			"position": 156000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.4",
+			"description": "Devise ways to use opportunities throughout the daily routine to build trusting relationships and effective communication with families and others.",
+			"ancestorIds": [
+				"4D56F9BCB8DB4DEDABAD5AEBE8AFD671",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3E07460333AC45B4A0DF9D80753D67F8": {
+			"id": "3E07460333AC45B4A0DF9D80753D67F8",
+			"asnIdentifier": "S2539382",
+			"position": 155000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.3",
+			"description": "Compare and contrast how language, culture, and educational backgrounds may affect family structures and communication within and among families and communities.",
+			"ancestorIds": [
+				"4D56F9BCB8DB4DEDABAD5AEBE8AFD671",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C3822F0C90224507A6835703932EDE93": {
+			"id": "C3822F0C90224507A6835703932EDE93",
+			"asnIdentifier": "S2539381",
+			"position": 154000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.2",
+			"description": "Interpret how positive family–staff relationships, family members, and the community contribute to the physical, intellectual, social, and emotional development of the child.",
+			"ancestorIds": [
+				"4D56F9BCB8DB4DEDABAD5AEBE8AFD671",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C1CE1C40415245E88CD82B588D8476E4": {
+			"id": "C1CE1C40415245E88CD82B588D8476E4",
+			"asnIdentifier": "S2539380",
+			"position": 153000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.1",
+			"description": "Name the benefits of establishing strong relationships with families and communities.",
+			"ancestorIds": [
+				"4D56F9BCB8DB4DEDABAD5AEBE8AFD671",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4D56F9BCB8DB4DEDABAD5AEBE8AFD671": {
+			"id": "4D56F9BCB8DB4DEDABAD5AEBE8AFD671",
+			"asnIdentifier": "S2539379",
+			"position": 152000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A10.0",
+			"description": "Communicate and interact effectively with families and communities.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7B9ACB3044F847A5AA5FDF45FECE7CB4": {
+			"id": "7B9ACB3044F847A5AA5FDF45FECE7CB4",
+			"asnIdentifier": "S2539378",
+			"position": 151000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.5",
+			"description": "Recognize, describe, and report signs and symptoms of illness, injury, discomfort, or special needs in infants, toddlers, and children.",
+			"ancestorIds": [
+				"3579ED05C9D54D62A122CE15EC7E5BD1",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"530E012DAAA34700B6B2EDDC4E1FEED8": {
+			"id": "530E012DAAA34700B6B2EDDC4E1FEED8",
+			"asnIdentifier": "S2539377",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.4",
+			"description": "Communicate the proper procedures to follow when preparing and serving nutritional snacks and meals, including those that foster independent eating practices and promote good nutrition and hygiene habits.",
+			"ancestorIds": [
+				"3579ED05C9D54D62A122CE15EC7E5BD1",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"9BFF4141F2A74CAAB2AC23523E597F99": {
+			"id": "9BFF4141F2A74CAAB2AC23523E597F99",
+			"asnIdentifier": "S2539376",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.3",
+			"description": "Use the appropriate sanitation and hygiene techniques for infants, toddlers, children, and staff.",
+			"ancestorIds": [
+				"3579ED05C9D54D62A122CE15EC7E5BD1",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7CFA685C649A4C2A88543DA5C1FB7E1A": {
+			"id": "7CFA685C649A4C2A88543DA5C1FB7E1A",
+			"asnIdentifier": "S2539375",
+			"position": 148000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.2",
+			"description": "Practice the procedures for preventing the spread of infections and illnesses, including those for food-borne pathogens.",
+			"ancestorIds": [
+				"3579ED05C9D54D62A122CE15EC7E5BD1",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2E35F9C169634CF19C980411D2068951": {
+			"id": "2E35F9C169634CF19C980411D2068951",
+			"asnIdentifier": "S2539374",
+			"position": 147000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.1",
+			"description": "List the procedures used to clean a facility that follow a logical sequence and universal health precautions.",
+			"ancestorIds": [
+				"3579ED05C9D54D62A122CE15EC7E5BD1",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3579ED05C9D54D62A122CE15EC7E5BD1": {
+			"id": "3579ED05C9D54D62A122CE15EC7E5BD1",
+			"asnIdentifier": "S2539373",
+			"position": 146000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A9.0",
+			"description": "Practice the principles and practices of good nutrition, health, and safety for infants and children.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0657CC976ADE4D04A6C9CD46687AF0F4": {
+			"id": "0657CC976ADE4D04A6C9CD46687AF0F4",
+			"asnIdentifier": "S2539372",
+			"position": 145000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.4",
+			"description": "Plan and conduct activities that reinforce foundation skills, reflect an integrated and emergent curriculum, and support school readiness.",
+			"ancestorIds": [
+				"BE34F113D66D4025B5E30AB9C68E9607",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0A9F15E2E23244CCA3002EECAB9DFB33": {
+			"id": "0A9F15E2E23244CCA3002EECAB9DFB33",
+			"asnIdentifier": "S2539371",
+			"position": 144000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.3",
+			"description": "Integrate language acquisition strategies and support for English-language learners.",
+			"ancestorIds": [
+				"BE34F113D66D4025B5E30AB9C68E9607",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"291B4CD3ECDC4E1B9E6FF1CAB1EAEC3C": {
+			"id": "291B4CD3ECDC4E1B9E6FF1CAB1EAEC3C",
+			"asnIdentifier": "S2539370",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.2",
+			"description": "Observe children and document the observations in a factual and anecdotal format tying observations to developmental milestones.",
+			"ancestorIds": [
+				"BE34F113D66D4025B5E30AB9C68E9607",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"1ECCFADCECA9475B86165000CDB5F0F9": {
+			"id": "1ECCFADCECA9475B86165000CDB5F0F9",
+			"asnIdentifier": "S2539369",
+			"position": 142000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.1",
+			"description": "Develop components of a developmentally appropriate curriculum in each area of the balanced daily routine: indoor/outdoor, quiet/active, individual and small group/large group, large muscle/small muscle, and child-initiated and staff-initiated activities.",
+			"ancestorIds": [
+				"BE34F113D66D4025B5E30AB9C68E9607",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"BE34F113D66D4025B5E30AB9C68E9607": {
+			"id": "BE34F113D66D4025B5E30AB9C68E9607",
+			"asnIdentifier": "S2539368",
+			"position": 141000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A8.0",
+			"description": "Select and apply developmentally appropriate practices for curriculum development.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5A383A7D7C3B490B8545BCF028013DF2": {
+			"id": "5A383A7D7C3B490B8545BCF028013DF2",
+			"asnIdentifier": "S2539367",
+			"position": 140000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.6",
+			"description": "Research and present the major learning theories and curriculum models and evaluate their application in early childhood education programs.",
+			"ancestorIds": [
+				"19E6D2AEAB96403EA5BBE96A2EFFB6B8",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"63F4DB76C9594D969C5277FBDBACAF6E": {
+			"id": "63F4DB76C9594D969C5277FBDBACAF6E",
+			"asnIdentifier": "S2539366",
+			"position": 139000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.5",
+			"description": "Illustrate the ways in which classroom environments promote productive interaction among children and adults to create a positive atmosphere and sense of community.",
+			"ancestorIds": [
+				"19E6D2AEAB96403EA5BBE96A2EFFB6B8",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5B6724A265DC4F8EAE7E0FEDA5A1EFCC": {
+			"id": "5B6724A265DC4F8EAE7E0FEDA5A1EFCC",
+			"asnIdentifier": "S2539365",
+			"position": 138000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.4",
+			"description": "Demonstrate appropriate teaching techniques and interaction styles for working with children of varying ages, learning styles, and cultural backgrounds.",
+			"ancestorIds": [
+				"19E6D2AEAB96403EA5BBE96A2EFFB6B8",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"9E3B19D27DBC4FA694DF49006FFCD935": {
+			"id": "9E3B19D27DBC4FA694DF49006FFCD935",
+			"asnIdentifier": "S2539364",
+			"position": 137000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Classify multiple ways of promoting children's learning at different developmental stages and ages by using the continuum of teaching behaviors from directive to nondirective.",
+			"ancestorIds": [
+				"19E6D2AEAB96403EA5BBE96A2EFFB6B8",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5C2C5AAADD2F415AA33247A735239BBC": {
+			"id": "5C2C5AAADD2F415AA33247A735239BBC",
+			"asnIdentifier": "S2539363",
+			"position": 136000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Identify the early childhood education classroom learning areas and the contribution of each to the development of children.",
+			"ancestorIds": [
+				"19E6D2AEAB96403EA5BBE96A2EFFB6B8",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"32C8FD66CC364D9C923A9128F4C08CE3": {
+			"id": "32C8FD66CC364D9C923A9128F4C08CE3",
+			"asnIdentifier": "S2539362",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Describe the components of an effective learning environment that reflects children's interests and developmental needs.",
+			"ancestorIds": [
+				"19E6D2AEAB96403EA5BBE96A2EFFB6B8",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"19E6D2AEAB96403EA5BBE96A2EFFB6B8": {
+			"id": "19E6D2AEAB96403EA5BBE96A2EFFB6B8",
+			"asnIdentifier": "S2539361",
+			"position": 134000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Compare and apply the essential components of an effective learning environment for the early childhood classroom.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"E8984BDBCE2E469E9CD82132E973B038": {
+			"id": "E8984BDBCE2E469E9CD82132E973B038",
+			"asnIdentifier": "S2539360",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.5",
+			"description": "Plan and demonstrate how the staff can adjust the environment to promote a child's independence and personal and social competence.",
+			"ancestorIds": [
+				"D2F732CB06D94D89A98984CFAB5BD7F6",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"4E0E4643CD1B41BABE6392C4185DF28F": {
+			"id": "4E0E4643CD1B41BABE6392C4185DF28F",
+			"asnIdentifier": "S2539359",
+			"position": 132000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.4",
+			"description": "Identify practical strategies for finding positive solutions to common behavioral problems.",
+			"ancestorIds": [
+				"D2F732CB06D94D89A98984CFAB5BD7F6",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0370B45BB7E044B0AAE8BCDC51A79961": {
+			"id": "0370B45BB7E044B0AAE8BCDC51A79961",
+			"asnIdentifier": "S2539358",
+			"position": 131000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Diagram the elements of positive guidance and discipline techniques that are based on the stages of children's development.",
+			"ancestorIds": [
+				"D2F732CB06D94D89A98984CFAB5BD7F6",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"13829D6BEA9F449F933C0441578EA547": {
+			"id": "13829D6BEA9F449F933C0441578EA547",
+			"asnIdentifier": "S2539357",
+			"position": 130000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Use the importance of building positive relationships between the caregiver, children, and families to provide effective guidance and discipline.",
+			"ancestorIds": [
+				"D2F732CB06D94D89A98984CFAB5BD7F6",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"009328B8B3D44399B6F7B92174EAAD4F": {
+			"id": "009328B8B3D44399B6F7B92174EAAD4F",
+			"asnIdentifier": "S2539356",
+			"position": 129000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Describe how to help children develop a positive self-image and self-esteem and develop self-discipline and respect for oneself and others.",
+			"ancestorIds": [
+				"D2F732CB06D94D89A98984CFAB5BD7F6",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D2F732CB06D94D89A98984CFAB5BD7F6": {
+			"id": "D2F732CB06D94D89A98984CFAB5BD7F6",
+			"asnIdentifier": "S2539355",
+			"position": 128000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Employ the principles of positive interactions, guidance, and discipline in the workplace.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0FF24E490087408E9598228EFF4B3015": {
+			"id": "0FF24E490087408E9598228EFF4B3015",
+			"asnIdentifier": "S2539354",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.7",
+			"description": "Defend the benefits of parental involvement to the development of a child's physical, intellectual, emotional, and social growth and development.",
+			"ancestorIds": [
+				"60916141C0554847B19CC30F65A52F12",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A49819D0245E4ED1A2A1FE487076A416": {
+			"id": "A49819D0245E4ED1A2A1FE487076A416",
+			"asnIdentifier": "S2539353",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.6",
+			"description": "Evaluate the importance of learning environments, experiences, and interactions and their connections to each stage of physical, intellectual, social, and emotional development.",
+			"ancestorIds": [
+				"60916141C0554847B19CC30F65A52F12",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2136791568F44928ADCA1DBB674C30B1": {
+			"id": "2136791568F44928ADCA1DBB674C30B1",
+			"asnIdentifier": "S2539352",
+			"position": 125000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.5",
+			"description": "Analyze the importance of observational assessment and how to link assessment findings to individualized child planning.",
+			"ancestorIds": [
+				"60916141C0554847B19CC30F65A52F12",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"50A49112A42246C587FA263CC72675D7": {
+			"id": "50A49112A42246C587FA263CC72675D7",
+			"asnIdentifier": "S2539351",
+			"position": 124000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.4",
+			"description": "Understand the importance of including infants, toddlers, and children with special needs.",
+			"ancestorIds": [
+				"60916141C0554847B19CC30F65A52F12",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"C09F44400EEC4FDBB6C603DC6D981A6B": {
+			"id": "C09F44400EEC4FDBB6C603DC6D981A6B",
+			"asnIdentifier": "S2539350",
+			"position": 123000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Summarize the ways in which diversity, family, and culture influence the development of children.",
+			"ancestorIds": [
+				"60916141C0554847B19CC30F65A52F12",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"E99F474D0B494D2496F02C2A73A14F4F": {
+			"id": "E99F474D0B494D2496F02C2A73A14F4F",
+			"asnIdentifier": "S2539349",
+			"position": 122000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Describe the developmental stages of infants, toddlers, and children.",
+			"ancestorIds": [
+				"60916141C0554847B19CC30F65A52F12",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F8C72A9114024C2E9A45B7B8A5BD2751": {
+			"id": "F8C72A9114024C2E9A45B7B8A5BD2751",
+			"asnIdentifier": "S2539348",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "List the biological and environmental factors that influence the development of infants, toddlers, and children.",
+			"ancestorIds": [
+				"60916141C0554847B19CC30F65A52F12",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"60916141C0554847B19CC30F65A52F12": {
+			"id": "60916141C0554847B19CC30F65A52F12",
+			"asnIdentifier": "S2539347",
+			"position": 120000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Explain important elements of a child's physical, intellectual, emotional, and social growth and development.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"6917818AC10741178BD61F0A2FFA9F7D": {
+			"id": "6917818AC10741178BD61F0A2FFA9F7D",
+			"asnIdentifier": "S2539346",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.4",
+			"description": "Predict the typical hazards at the work site and know procedures and practices that contribute to a safe and healthy environment.",
+			"ancestorIds": [
+				"B08A723DE6A14A12BEF6AB58AC850ED4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"06CD52891E524C4DA2B71E275F71757E": {
+			"id": "06CD52891E524C4DA2B71E275F71757E",
+			"asnIdentifier": "S2539345",
+			"position": 118000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Demonstrate how and when to use certified first aid, cardiopulmonary resuscitation (CPR), and other emergency procedures.",
+			"ancestorIds": [
+				"B08A723DE6A14A12BEF6AB58AC850ED4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2D7D9827DFCD4B18BF0938F8D0783AF6": {
+			"id": "2D7D9827DFCD4B18BF0938F8D0783AF6",
+			"asnIdentifier": "S2539344",
+			"position": 117000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Implement the staff procedures, duties, and responsibilities related to safety, emergency, and disaster preparedness plans.",
+			"ancestorIds": [
+				"B08A723DE6A14A12BEF6AB58AC850ED4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0B0C31726ADD46C8B9F30DA9C0E00757": {
+			"id": "0B0C31726ADD46C8B9F30DA9C0E00757",
+			"asnIdentifier": "S2539343",
+			"position": 116000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Understand the state and federal environmental and safety regulations and the use of Material Safety Data Sheets (MSDS) as they relate to the child care and development industry.",
+			"ancestorIds": [
+				"B08A723DE6A14A12BEF6AB58AC850ED4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"B08A723DE6A14A12BEF6AB58AC850ED4": {
+			"id": "B08A723DE6A14A12BEF6AB58AC850ED4",
+			"asnIdentifier": "S2539342",
+			"position": 115000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Apply critical safety, emergency, and disaster procedures at the work site.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"6DB4B7F252D44A00BC680F454B1DD46E": {
+			"id": "6DB4B7F252D44A00BC680F454B1DD46E",
+			"asnIdentifier": "S2539341",
+			"position": 114000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.6",
+			"description": "Detect the indicators of child abuse or neglect and the responsibilities of staff as mandated reporters.",
+			"ancestorIds": [
+				"8CE1A09C9FF34F898564658A6B3E922E",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F7EC271FAB2444C48C74AC72C0D7B8E3": {
+			"id": "F7EC271FAB2444C48C74AC72C0D7B8E3",
+			"asnIdentifier": "S2539340",
+			"position": 113000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.5",
+			"description": "Summarize the employer and employee responsibilities for complying with laws and regulations affecting the needs, interests, and rights of young children.",
+			"ancestorIds": [
+				"8CE1A09C9FF34F898564658A6B3E922E",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"2C55EC6E3F8D462E9F16F850914A8D32": {
+			"id": "2C55EC6E3F8D462E9F16F850914A8D32",
+			"asnIdentifier": "S2539339",
+			"position": 112000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.4",
+			"description": "Adhere to the health, safety, regulatory, and procedural requirements for the work site.",
+			"ancestorIds": [
+				"8CE1A09C9FF34F898564658A6B3E922E",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"70F9C18569CF418EA8A8A5E89CD38372": {
+			"id": "70F9C18569CF418EA8A8A5E89CD38372",
+			"asnIdentifier": "S2539338",
+			"position": 111000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Understand how local, state, and federal laws and regulations for child care facilities are enforced by regulatory agencies.",
+			"ancestorIds": [
+				"8CE1A09C9FF34F898564658A6B3E922E",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"F781F3097CF24AFB84412BD6CF960EEA": {
+			"id": "F781F3097CF24AFB84412BD6CF960EEA",
+			"asnIdentifier": "S2539337",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Identify the educational and industry-related requirements for child care facilities staff.",
+			"ancestorIds": [
+				"8CE1A09C9FF34F898564658A6B3E922E",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5892C7F62A7341CD8EE1D939D9B1FE00": {
+			"id": "5892C7F62A7341CD8EE1D939D9B1FE00",
+			"asnIdentifier": "S2539336",
+			"position": 109000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Recognize the standards and licensing regulations for child care facilities.",
+			"ancestorIds": [
+				"8CE1A09C9FF34F898564658A6B3E922E",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"8CE1A09C9FF34F898564658A6B3E922E": {
+			"id": "8CE1A09C9FF34F898564658A6B3E922E",
+			"asnIdentifier": "S2539335",
+			"position": 108000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Summarize child care and development standards, licensing, regulations, and codes, including California Code of Regulations Title 5 and Title 22.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"7DB3C165EE5149098EFD67E669E20918": {
+			"id": "7DB3C165EE5149098EFD67E669E20918",
+			"asnIdentifier": "S2539334",
+			"position": 107000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.5",
+			"description": "Illustrate the workforce management strategies that are effective for planning, making decisions, sharing responsibility, and negotiating.",
+			"ancestorIds": [
+				"6F57718EF481441AA08CA7D293C70BE3",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"A095FE41930344559029EBFA5E8EBF13": {
+			"id": "A095FE41930344559029EBFA5E8EBF13",
+			"asnIdentifier": "S2539333",
+			"position": 106000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Summarize appropriate business systems that help with billing, ordering, budgeting, collecting fees, and reporting requirements.",
+			"ancestorIds": [
+				"6F57718EF481441AA08CA7D293C70BE3",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"816BE58CF8C24DE8AB5C49C598D2A649": {
+			"id": "816BE58CF8C24DE8AB5C49C598D2A649",
+			"asnIdentifier": "S2539332",
+			"position": 105000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Explain the importance of, and procedures for, keeping child and classroom records and documentation.",
+			"ancestorIds": [
+				"6F57718EF481441AA08CA7D293C70BE3",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"BD767A93208C4A1AAFB1AE439C0EF3F1": {
+			"id": "BD767A93208C4A1AAFB1AE439C0EF3F1",
+			"asnIdentifier": "S2539331",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Understand the operational policies and procedures related to early education, child care, and development program components (e.g., adult–child and adult–guardian interaction, physical environment, health, safety, nutrition, curriculum, and assessment).",
+			"ancestorIds": [
+				"6F57718EF481441AA08CA7D293C70BE3",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"EB289799C239430CA6C747E875C7740A": {
+			"id": "EB289799C239430CA6C747E875C7740A",
+			"asnIdentifier": "S2539330",
+			"position": 103000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Identify the operational procedures at various types of facilities and their importance to the success of the organization.",
+			"ancestorIds": [
+				"6F57718EF481441AA08CA7D293C70BE3",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"6F57718EF481441AA08CA7D293C70BE3": {
+			"id": "6F57718EF481441AA08CA7D293C70BE3",
+			"asnIdentifier": "S2539329",
+			"position": 102000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Identify and apply operational procedures and organizational policies at various early childhood education, child care, and development facilities.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"3777E1DA4AB6418FB59EE698A5B1BB87": {
+			"id": "3777E1DA4AB6418FB59EE698A5B1BB87",
+			"asnIdentifier": "S2539328",
+			"position": 101000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.6",
+			"description": "Analyze the legislative, economic, educational, and social trends that affect the child care and development industry.",
+			"ancestorIds": [
+				"0E5A645C006846C994DF5490D06865F4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"98FDACB596D148E6A49DF6651C6E78CB": {
+			"id": "98FDACB596D148E6A49DF6651C6E78CB",
+			"asnIdentifier": "S2539327",
+			"position": 100000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.5",
+			"description": "Identify the components of professionalism and how to practice professional behaviors.",
+			"ancestorIds": [
+				"0E5A645C006846C994DF5490D06865F4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"9415E3F85B1047BB9C7292B181C0AC44": {
+			"id": "9415E3F85B1047BB9C7292B181C0AC44",
+			"asnIdentifier": "S2539326",
+			"position": 99000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "Research the functions and roles of the various careers in the child care and development industry.",
+			"ancestorIds": [
+				"0E5A645C006846C994DF5490D06865F4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"109D6CC8E81D493B8C4E2B0E5929A985": {
+			"id": "109D6CC8E81D493B8C4E2B0E5929A985",
+			"asnIdentifier": "S2539325",
+			"position": 98000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Understand the interdependence of various career roles and how those roles contribute to the success of the child care and development program or work site.",
+			"ancestorIds": [
+				"0E5A645C006846C994DF5490D06865F4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D078A9C521FD41CA97A11FCD9AB77E17": {
+			"id": "D078A9C521FD41CA97A11FCD9AB77E17",
+			"asnIdentifier": "S2539324",
+			"position": 97000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Explain the effect of the child care and development industry on state and local economies.",
+			"ancestorIds": [
+				"0E5A645C006846C994DF5490D06865F4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"5FC72891C786484587C489F01826A316": {
+			"id": "5FC72891C786484587C489F01826A316",
+			"asnIdentifier": "S2539323",
+			"position": 96000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "Describe the organizational structures in early childhood education, child care, and development facilities.",
+			"ancestorIds": [
+				"0E5A645C006846C994DF5490D06865F4",
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"0E5A645C006846C994DF5490D06865F4": {
+			"id": "0E5A645C006846C994DF5490D06865F4",
+			"asnIdentifier": "S2539322",
+			"position": 95000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Recognize the essential aspects of the early childhood education, child care, and development industry and the industry's role in state and local economies.",
+			"ancestorIds": [
+				"D1860EFC7F1C4D399FA5282ECB06C2CD",
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"D1860EFC7F1C4D399FA5282ECB06C2CD": {
+			"id": "D1860EFC7F1C4D399FA5282ECB06C2CD",
+			"asnIdentifier": "S2539321",
+			"position": 94000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Child Development",
+			"comments": [
+				"The Child Development pathway is designed to prepare students to pursue a career in the field of child care and development for infants, toddlers, and young children. Students study child growth and development, safety and emergency procedures, nutrition and health practices, positive interaction and guidance techniques, learning theories, and developmentally appropriate practices and curriculum activities. Students apply this knowledge in a variety of early childhood programs, such as child development laboratories, public and private preschools, family day care settings, and recreational facilities. Students completing the program may apply for the Child Development Assistant Permit from the California Commission on Teacher Credentialing."
+			],
+			"ancestorIds": [
+				"515B32E1C336470394DFBE7739104EEC"
+			]
+		},
+		"515B32E1C336470394DFBE7739104EEC": {
+			"id": "515B32E1C336470394DFBE7739104EEC",
+			"asnIdentifier": "S2539320",
+			"position": 93000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"252A2D207974423896E86398851DE97E": {
+			"id": "252A2D207974423896E86398851DE97E",
+			"asnIdentifier": "S2539319",
+			"position": 92000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"57746DC860EE4E5F80741A2B1EB4079D",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"0862E9D74C914DBB8DC6CF5EC15A1446": {
+			"id": "0862E9D74C914DBB8DC6CF5EC15A1446",
+			"asnIdentifier": "S2539318",
+			"position": 91000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors appropriate to Education, Child Development, and Family Services sector opportunities.",
+			"ancestorIds": [
+				"57746DC860EE4E5F80741A2B1EB4079D",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"89E03FFF46B1482AA6B813C06C249261": {
+			"id": "89E03FFF46B1482AA6B813C06C249261",
+			"asnIdentifier": "S2539317",
+			"position": 90000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"57746DC860EE4E5F80741A2B1EB4079D",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"092E4A49A54C42EF836DE46303C4C2FB": {
+			"id": "092E4A49A54C42EF836DE46303C4C2FB",
+			"asnIdentifier": "S2539316",
+			"position": 89000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"57746DC860EE4E5F80741A2B1EB4079D",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"BF720D8E80BB4294AB57FF2A0B4E7E6F": {
+			"id": "BF720D8E80BB4294AB57FF2A0B4E7E6F",
+			"asnIdentifier": "S2539315",
+			"position": 88000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Education, Child Development, and Family Services sector program of study.",
+			"ancestorIds": [
+				"57746DC860EE4E5F80741A2B1EB4079D",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"57746DC860EE4E5F80741A2B1EB4079D": {
+			"id": "57746DC860EE4E5F80741A2B1EB4079D",
+			"asnIdentifier": "S2539314",
+			"position": 87000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Education, Child Development, and Family Services anchor standards, pathway standards, and performance indicators in classroom, laboratory and workplace settings, and through the career technical student organization (FHA-HERO, the California Affiliate of FCCLA)."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"5629353CB369459C9AC995EB7FB96E71": {
+			"id": "5629353CB369459C9AC995EB7FB96E71",
+			"asnIdentifier": "S2539313",
+			"position": 86000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.21",
+			"description": "Demonstrate an understanding of how knowledge, skills, attitudes, and behaviors learned in consumer and family studies can be transferred to advanced training and education or to careers related to the Education, Child Development, and Family Services sector.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"12F71E2D916341929AE4848A4C4B1951": {
+			"id": "12F71E2D916341929AE4848A4C4B1951",
+			"asnIdentifier": "S2539312",
+			"position": 85000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.20",
+			"description": "Assess the individual, family, and workplace factors that influence decisions at each stage of the human life cycle.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"7645DE2EA6ED434CB102FCF58E8450A9": {
+			"id": "7645DE2EA6ED434CB102FCF58E8450A9",
+			"asnIdentifier": "S2539311",
+			"position": 84000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.19",
+			"description": "Explain the strategies that enable persons to manage and balance personal, family, and work responsibilities to enhance productivity and attain a quality of life.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"C39B0199BE1B4CAFAA0325338D498188": {
+			"id": "C39B0199BE1B4CAFAA0325338D498188",
+			"asnIdentifier": "S2539310",
+			"position": 83000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.18",
+			"description": "Demonstrate an understanding of how to prevent and control infection and disease to produce the optimum health of individuals and families.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"B63CE90BFB06420ABF46DBAFB680B5C7": {
+			"id": "B63CE90BFB06420ABF46DBAFB680B5C7",
+			"asnIdentifier": "S2539309",
+			"position": 82000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.17",
+			"description": "Summarize the importance of wellness and safety to individual and family health and well-being.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"1493067E6CF341D6BA63BE05DF4D3CD0": {
+			"id": "1493067E6CF341D6BA63BE05DF4D3CD0",
+			"asnIdentifier": "S2539308",
+			"position": 81000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.16",
+			"description": "Apply strategies and resources for managing conflicts and crises.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"1686F10684DE4DD3877A8AB6C05E24B4": {
+			"id": "1686F10684DE4DD3877A8AB6C05E24B4",
+			"asnIdentifier": "S2539307",
+			"position": 80000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.15",
+			"description": "Describe the adjustments needed to adapt to major life changes throughout the human life cycle.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"AC03D8D99B6748D1B65AF2635D4092E7": {
+			"id": "AC03D8D99B6748D1B65AF2635D4092E7",
+			"asnIdentifier": "S2539306",
+			"position": 79000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.14",
+			"description": "Analyze the factors that affect the development of individuals and how to build positive relationships.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"595B2EEE1ECA478EA0AD535E102BF6F0": {
+			"id": "595B2EEE1ECA478EA0AD535E102BF6F0",
+			"asnIdentifier": "S2539305",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.13",
+			"description": "Recognize the function of the family as a basic unit of society and the contributions of the family unit to the development of individuals.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"F465C9EA5E3E45A582A10CED75D02BF9": {
+			"id": "F465C9EA5E3E45A582A10CED75D02BF9",
+			"asnIdentifier": "S2539304",
+			"position": 77000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.12",
+			"description": "Compare consumer resources, rights, and responsibilities and their relationship to the various levels of the economy.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"EDDF72C05DC8450EB21E150FABE60FEB": {
+			"id": "EDDF72C05DC8450EB21E150FABE60FEB",
+			"asnIdentifier": "S2539303",
+			"position": 76000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.11",
+			"description": "Practice how to manage financial resources to achieve personal and family goals.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"F9888EFE7A474A668CFD32F3DA95B86E": {
+			"id": "F9888EFE7A474A668CFD32F3DA95B86E",
+			"asnIdentifier": "S2539302",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.10",
+			"description": "Describe the process of making consumer decisions, including the comparison of goods and services.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"3A43FA37D9E54857AC8A4D2AB05F9758": {
+			"id": "3A43FA37D9E54857AC8A4D2AB05F9758",
+			"asnIdentifier": "S2539301",
+			"position": 74000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.9",
+			"description": "Demonstrate an understanding of the value and methods of providing infants, children, and adolescents with play and developmentally appropriate learning activities.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"7047FD7825D54DB384F8302120AE2AA9": {
+			"id": "7047FD7825D54DB384F8302120AE2AA9",
+			"asnIdentifier": "S2539300",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.8",
+			"description": "Explain positive guidance and discipline techniques that promote feelings of self-worth as they apply to the developmental stages of children.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"1D400F9734D24063977A1D5FD2BF67E3": {
+			"id": "1D400F9734D24063977A1D5FD2BF67E3",
+			"asnIdentifier": "S2539299",
+			"position": 72000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.7",
+			"description": "Explain the importance of studying child growth and development from infancy through adolescence.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"6FA9280472834727B18966F88A4258B9": {
+			"id": "6FA9280472834727B18966F88A4258B9",
+			"asnIdentifier": "S2539298",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.6",
+			"description": "Describe and identify the stages of pregnancy, from conception through birth, and the implications of environment and heredity on the health and well-being of a child.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"6C9E2247A24A4040B0075FEF417729CC": {
+			"id": "6C9E2247A24A4040B0075FEF417729CC",
+			"asnIdentifier": "S2539297",
+			"position": 70000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.5",
+			"description": "Summarize the decisions and responsibilities involved in parenting in various cultures.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"026588E07C5B424C99D2B5101066EFBC": {
+			"id": "026588E07C5B424C99D2B5101066EFBC",
+			"asnIdentifier": "S2539296",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Collaborate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"D70DCCE26FE145DA9359E137594D875C": {
+			"id": "D70DCCE26FE145DA9359E137594D875C",
+			"asnIdentifier": "S2539295",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Education, Child Development, and Family Services sector requirements and expectations.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"68DAA9EB0ECC49C985CEBE11E05C53B1": {
+			"id": "68DAA9EB0ECC49C985CEBE11E05C53B1",
+			"asnIdentifier": "S2539294",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Education, Child Development, and Family Services sector.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"37982696DA6A4968ABBC889B1A31543E": {
+			"id": "37982696DA6A4968ABBC889B1A31543E",
+			"asnIdentifier": "S2539293",
+			"position": 66000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Education, Child Development, and Family Services sector.",
+			"ancestorIds": [
+				"29FC3E508A18441A811D6CC4F9C600FE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"29FC3E508A18441A811D6CC4F9C600FE": {
+			"id": "29FC3E508A18441A811D6CC4F9C600FE",
+			"asnIdentifier": "S2539292",
+			"position": 65000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Education, Child Development, and Family Services sector, following procedures when carrying out experiments or performing technical tasks."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"1E1DAAC6669E4AEB91B4239463CB0E07": {
+			"id": "1E1DAAC6669E4AEB91B4239463CB0E07",
+			"asnIdentifier": "S2539291",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Education, Child Development, and Family Services sector issues and problems.",
+			"ancestorIds": [
+				"9B378243FC4B414DBC0DF75E658F8343",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"D1E28426A67643B0A1E07ED74AA71AEF": {
+			"id": "D1E28426A67643B0A1E07ED74AA71AEF",
+			"asnIdentifier": "S2539290",
+			"position": 63000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"9B378243FC4B414DBC0DF75E658F8343",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"C2F6817A69CA45768F774FB86D33AF29": {
+			"id": "C2F6817A69CA45768F774FB86D33AF29",
+			"asnIdentifier": "S2539289",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"9B378243FC4B414DBC0DF75E658F8343",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"42EAFF2A5FCD4311B3491E6D503A1B3E": {
+			"id": "42EAFF2A5FCD4311B3491E6D503A1B3E",
+			"asnIdentifier": "S2539288",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations (such as FHA-HERO) and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"9B378243FC4B414DBC0DF75E658F8343",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"C18BEAB8513741669E179F1C4464C4A4": {
+			"id": "C18BEAB8513741669E179F1C4464C4A4",
+			"asnIdentifier": "S2539287",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"9B378243FC4B414DBC0DF75E658F8343",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"CE34CE4B7F6A46238BA521C692934C00": {
+			"id": "CE34CE4B7F6A46238BA521C692934C00",
+			"asnIdentifier": "S2539286",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills, as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"9B378243FC4B414DBC0DF75E658F8343",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"A7DE503ABEAD4DCC917EF35659621F8C": {
+			"id": "A7DE503ABEAD4DCC917EF35659621F8C",
+			"asnIdentifier": "S2539285",
+			"position": 58000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"9B378243FC4B414DBC0DF75E658F8343",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"9B378243FC4B414DBC0DF75E658F8343": {
+			"id": "9B378243FC4B414DBC0DF75E658F8343",
+			"asnIdentifier": "S2539284",
+			"position": 57000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution as practiced in the career technical student organization (FHA-HERO, the California Affiliate of FCCLA)."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"B55477BCC2294F7FB4D2CEA0E5A2719B": {
+			"id": "B55477BCC2294F7FB4D2CEA0E5A2719B",
+			"asnIdentifier": "S2539283",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Education, Child Development, and Family Services sector laws and practices.",
+			"ancestorIds": [
+				"1A71754C5D6D48489DF3AADB865B19DE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"CC782C7B32A645C092B4DB29BBD48572": {
+			"id": "CC782C7B32A645C092B4DB29BBD48572",
+			"asnIdentifier": "S2539282",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"1A71754C5D6D48489DF3AADB865B19DE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"4AE9F13403D445E880F3C2D6DC857600": {
+			"id": "4AE9F13403D445E880F3C2D6DC857600",
+			"asnIdentifier": "S2539281",
+			"position": 54000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"1A71754C5D6D48489DF3AADB865B19DE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"A434FF013162437EBA48755A21067B3B": {
+			"id": "A434FF013162437EBA48755A21067B3B",
+			"asnIdentifier": "S2539280",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"1A71754C5D6D48489DF3AADB865B19DE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"E6E97BF0AAA64A20B6FFC20D019C815B": {
+			"id": "E6E97BF0AAA64A20B6FFC20D019C815B",
+			"asnIdentifier": "S2539279",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Education, Child Development, and Family Services sector workplace standards.",
+			"ancestorIds": [
+				"1A71754C5D6D48489DF3AADB865B19DE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"8C2CAE6DA07B436BA721B11CABD7BF27": {
+			"id": "8C2CAE6DA07B436BA721B11CABD7BF27",
+			"asnIdentifier": "S2539278",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, and federal regulatory agencies, entities, laws, and regulations related to the Education, Child Development, and Family Services industry sector.",
+			"ancestorIds": [
+				"1A71754C5D6D48489DF3AADB865B19DE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"5668E0E1555744DC83460F9E8CEB97AC": {
+			"id": "5668E0E1555744DC83460F9E8CEB97AC",
+			"asnIdentifier": "S2539277",
+			"position": 50000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"1A71754C5D6D48489DF3AADB865B19DE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"1A71754C5D6D48489DF3AADB865B19DE": {
+			"id": "1A71754C5D6D48489DF3AADB865B19DE",
+			"asnIdentifier": "S2539276",
+			"position": 49000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "8.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"9F6692872FE844159CF0BB2E21142576": {
+			"id": "9F6692872FE844159CF0BB2E21142576",
+			"asnIdentifier": "S2539275",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Education, Child Development, and Family Services sector.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"325446B92A8D4AC6A4EE0DB093330C86": {
+			"id": "325446B92A8D4AC6A4EE0DB093330C86",
+			"asnIdentifier": "S2539274",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"EB356B1C32B6460DB8ED2B62E233C538": {
+			"id": "EB356B1C32B6460DB8ED2B62E233C538",
+			"asnIdentifier": "S2539273",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"F85BB64B901E4E72BC65F4CB78A898DB": {
+			"id": "F85BB64B901E4E72BC65F4CB78A898DB",
+			"asnIdentifier": "S2539272",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"0C99D75BB1F8413088C1E615B9126C88": {
+			"id": "0C99D75BB1F8413088C1E615B9126C88",
+			"asnIdentifier": "S2539271",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"53B35C26CDAF4F4DA444EE694002EF03": {
+			"id": "53B35C26CDAF4F4DA444EE694002EF03",
+			"asnIdentifier": "S2539270",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"E9B4E5C737C746379DFC975A2003440B": {
+			"id": "E9B4E5C737C746379DFC975A2003440B",
+			"asnIdentifier": "S2539269",
+			"position": 42000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"E6D00A5879114D268ADBC4728B2AA815": {
+			"id": "E6D00A5879114D268ADBC4728B2AA815",
+			"asnIdentifier": "S2539268",
+			"position": 41000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"CEC4ECEA92B3460CB1C528BF5A2EFFBE": {
+			"id": "CEC4ECEA92B3460CB1C528BF5A2EFFBE",
+			"asnIdentifier": "S2539267",
+			"position": 40000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate, and participate in, a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Education, Child Development, and Family Services sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"81032B3AD97445A496482E8D7E54CF31": {
+			"id": "81032B3AD97445A496482E8D7E54CF31",
+			"asnIdentifier": "S2539266",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Be informed of laws/acts pertaining to the Occupational Safety and Health Administration (OSHA).",
+			"ancestorIds": [
+				"7510ABF17DD343CE86DE1242BAC0E631",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"80517CF193F34FA09B5DC65B9726CBD9": {
+			"id": "80517CF193F34FA09B5DC65B9726CBD9",
+			"asnIdentifier": "S2539265",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"7510ABF17DD343CE86DE1242BAC0E631",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"0476C46B34F64CBC8ABB4D3C93971633": {
+			"id": "0476C46B34F64CBC8ABB4D3C93971633",
+			"asnIdentifier": "S2539264",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.5",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"7510ABF17DD343CE86DE1242BAC0E631",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"9191736F5CEB4A77A0E69AC1D5386311": {
+			"id": "9191736F5CEB4A77A0E69AC1D5386311",
+			"asnIdentifier": "S2539263",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"7510ABF17DD343CE86DE1242BAC0E631",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"34FEFF45F92A4B859E59DD425A693D75": {
+			"id": "34FEFF45F92A4B859E59DD425A693D75",
+			"asnIdentifier": "S2539262",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"7510ABF17DD343CE86DE1242BAC0E631",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"82F1F9B3F30048308B99D9269E6599B5": {
+			"id": "82F1F9B3F30048308B99D9269E6599B5",
+			"asnIdentifier": "S2539261",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"7510ABF17DD343CE86DE1242BAC0E631",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"FBAE06453E2F485EB93F2646E0B7A1AD": {
+			"id": "FBAE06453E2F485EB93F2646E0B7A1AD",
+			"asnIdentifier": "S2539260",
+			"position": 33000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate, and adhere to, Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"7510ABF17DD343CE86DE1242BAC0E631",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"7510ABF17DD343CE86DE1242BAC0E631": {
+			"id": "7510ABF17DD343CE86DE1242BAC0E631",
+			"asnIdentifier": "S2539259",
+			"position": 32000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Education, Child Development, and Family Services sector workplace environment."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"C091EC561BB140CC83EB172698AF7AFE": {
+			"id": "C091EC561BB140CC83EB172698AF7AFE",
+			"asnIdentifier": "S2539258",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"35C3B29A198D430DB9E1979CC49B2372",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"FB98E412CE544323898895734F2EAF0B": {
+			"id": "FB98E412CE544323898895734F2EAF0B",
+			"asnIdentifier": "S2539257",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"35C3B29A198D430DB9E1979CC49B2372",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"58C821C5D7A744CBBB173231513DDED2": {
+			"id": "58C821C5D7A744CBBB173231513DDED2",
+			"asnIdentifier": "S2539256",
+			"position": 29000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"35C3B29A198D430DB9E1979CC49B2372",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"7FC437EE1DC24DC6BB096761CDCF3E93": {
+			"id": "7FC437EE1DC24DC6BB096761CDCF3E93",
+			"asnIdentifier": "S2539255",
+			"position": 28000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"35C3B29A198D430DB9E1979CC49B2372",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"35C3B29A198D430DB9E1979CC49B2372": {
+			"id": "35C3B29A198D430DB9E1979CC49B2372",
+			"asnIdentifier": "S2539254",
+			"position": 27000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short, as well as more sustained, research to create alternative solutions to answer a question or solve a problem unique to the Education, Child Development, and Family Services sector using critical and creative thinking, logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"E26DA1F816B6490B8E5D9FF032794FFC": {
+			"id": "E26DA1F816B6490B8E5D9FF032794FFC",
+			"asnIdentifier": "S2539253",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"C5E0F2FCCC964130B18F7984DCDE49F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"7140F05775E34611BAA18C188D7D2200": {
+			"id": "7140F05775E34611BAA18C188D7D2200",
+			"asnIdentifier": "S2539252",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"C5E0F2FCCC964130B18F7984DCDE49F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"5AF684D02E8E443988E15408426475EA": {
+			"id": "5AF684D02E8E443988E15408426475EA",
+			"asnIdentifier": "S2539251",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"C5E0F2FCCC964130B18F7984DCDE49F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"7C67789062764350BF50DF192D5E69C3": {
+			"id": "7C67789062764350BF50DF192D5E69C3",
+			"asnIdentifier": "S2539250",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"C5E0F2FCCC964130B18F7984DCDE49F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"5ABDE95A47124937AE1B1160D232CC38": {
+			"id": "5ABDE95A47124937AE1B1160D232CC38",
+			"asnIdentifier": "S2539249",
+			"position": 22000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ Web-based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"C5E0F2FCCC964130B18F7984DCDE49F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"0EA9B63A5F77400D9542AD22C73D446F": {
+			"id": "0EA9B63A5F77400D9542AD22C73D446F",
+			"asnIdentifier": "S2539248",
+			"position": 21000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"C5E0F2FCCC964130B18F7984DCDE49F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"C5E0F2FCCC964130B18F7984DCDE49F8": {
+			"id": "C5E0F2FCCC964130B18F7984DCDE49F8",
+			"asnIdentifier": "S2539247",
+			"position": 20000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology to investigate, research, and produce products and services, including new information, as required in the Education, Child Development, and Family Services sector workplace environment."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"9E389862DF5F451182B2A06BFC3E11D3": {
+			"id": "9E389862DF5F451182B2A06BFC3E11D3",
+			"asnIdentifier": "S2539246",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"DD0E52C2A19843508BC354175CB0DDED": {
+			"id": "DD0E52C2A19843508BC354175CB0DDED",
+			"asnIdentifier": "S2539245",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"9F13473BA8494656A57932CD20FFC255": {
+			"id": "9F13473BA8494656A57932CD20FFC255",
+			"asnIdentifier": "S2539244",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"3B902E3D320C42FDBF4442A8D0CED646": {
+			"id": "3B902E3D320C42FDBF4442A8D0CED646",
+			"asnIdentifier": "S2539243",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"CB59149A731D49C08868CC568150FC49": {
+			"id": "CB59149A731D49C08868CC568150FC49",
+			"asnIdentifier": "S2539242",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"EEEFEFFE5088402189F8B4B5AFA4C674": {
+			"id": "EEEFEFFE5088402189F8B4B5AFA4C674",
+			"asnIdentifier": "S2539241",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"3D44E4C68D974E87B4135718BF4C78FD": {
+			"id": "3D44E4C68D974E87B4135718BF4C78FD",
+			"asnIdentifier": "S2539240",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"BB9477250CC24024A204CC86C8965ECD": {
+			"id": "BB9477250CC24024A204CC86C8965ECD",
+			"asnIdentifier": "S2539239",
+			"position": 12000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits, such as trust, respect, and responsibility, and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"C084755DD56C4F01AC16BF531B5A4F0F": {
+			"id": "C084755DD56C4F01AC16BF531B5A4F0F",
+			"asnIdentifier": "S2539238",
+			"position": 11000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"5C44460D059E4AF89804F89635927108",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"5C44460D059E4AF89804F89635927108": {
+			"id": "5C44460D059E4AF89804F89635927108",
+			"asnIdentifier": "S2539237",
+			"position": 10000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"9F7EB6A3D8D142738EBAC1D917F55EE1": {
+			"id": "9F7EB6A3D8D142738EBAC1D917F55EE1",
+			"asnIdentifier": "S2539236",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"BC685BBDA9614C23A64C684A8D5378F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"A212CA62070041EA8E0ACF02070269A0": {
+			"id": "A212CA62070041EA8E0ACF02070269A0",
+			"asnIdentifier": "S2539235",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"BC685BBDA9614C23A64C684A8D5378F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"B8A230EFCD264F34AED8DC8522093D90": {
+			"id": "B8A230EFCD264F34AED8DC8522093D90",
+			"asnIdentifier": "S2539234",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Demonstrate elements of written and electronic communication, such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"BC685BBDA9614C23A64C684A8D5378F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"55735D3403B64849977E5C9A22E614CD": {
+			"id": "55735D3403B64849977E5C9A22E614CD",
+			"asnIdentifier": "S2539233",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"BC685BBDA9614C23A64C684A8D5378F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"0C6540A98B8C408D8E1BEA647D9EFBC6": {
+			"id": "0C6540A98B8C408D8E1BEA647D9EFBC6",
+			"asnIdentifier": "S2539232",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"BC685BBDA9614C23A64C684A8D5378F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"B148AF472D4E496DBC892874701A07BE": {
+			"id": "B148AF472D4E496DBC892874701A07BE",
+			"asnIdentifier": "S2539231",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"BC685BBDA9614C23A64C684A8D5378F8",
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"BC685BBDA9614C23A64C684A8D5378F8": {
+			"id": "BC685BBDA9614C23A64C684A8D5378F8",
+			"asnIdentifier": "S2539230",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire and accurately use Education, Child Development, and Family Services sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"C492C32C4F994B80A07748D60F2BACAF": {
+			"id": "C492C32C4F994B80A07748D60F2BACAF",
+			"asnIdentifier": "S2539229",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Education, Child Development, and Family Services academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"0E65CB12D8CE43B49C7815B742B2EC62"
+			]
+		},
+		"0E65CB12D8CE43B49C7815B742B2EC62": {
+			"id": "0E65CB12D8CE43B49C7815B742B2EC62",
+			"asnIdentifier": "S2539228",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}

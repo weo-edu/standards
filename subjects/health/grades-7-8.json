@@ -1,0 +1,3273 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2403043_grades-07-08",
+	"title": "Grades 7, 8",
+	"subject": "Health",
+	"educationLevels": [
+		"07",
+		"08"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2403043",
+		"valid": "2008",
+		"title": "Health Education Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/healthstandmar08.pdf",
+		"asnIdentifier": "D2403043",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"FA832A10DFE3013193C068A86D17958E": {
+			"id": "FA832A10DFE3013193C068A86D17958E",
+			"asnIdentifier": "S2405191",
+			"position": 259000,
+			"depth": 2,
+			"statementNotation": "8.2.G",
+			"description": "Promote respect for and dignity of persons living with HIV or AIDS.",
+			"ancestorIds": [
+				"FA1EB570DFE3013193BE68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA82CC80DFE3013193BF68A86D17958E": {
+			"id": "FA82CC80DFE3013193BF68A86D17958E",
+			"asnIdentifier": "S2405190",
+			"position": 258000,
+			"depth": 2,
+			"statementNotation": "8.1.G",
+			"description": "Support and encourage safe, respectful, and responsible relationships.",
+			"ancestorIds": [
+				"FA1EB570DFE3013193BE68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1EB570DFE3013193BE68A86D17958E": {
+			"id": "FA1EB570DFE3013193BE68A86D17958E",
+			"asnIdentifier": "S2404718",
+			"position": 257000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "8:",
+			"description": "Health Promotion - All students will demonstrate the ability to promote and support personal, family, and community health.",
+			"comments": [
+				"Personal, family, and community health are interdependent and mutually supporting. The ability to promote the health of oneself and others reflects a well-rounded development and expression of health."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1E5EC0DFE3013193BD68A86D17958E": {
+			"id": "FA1E5EC0DFE3013193BD68A86D17958E",
+			"asnIdentifier": "S2405189",
+			"position": 256000,
+			"depth": 2,
+			"statementNotation": "7.3.G",
+			"description": "Describe personal actions that can protect reproductive and sexual health.",
+			"ancestorIds": [
+				"FA1D10E0DFE3013193BA68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1DDE00DFE3013193BC68A86D17958E": {
+			"id": "FA1DDE00DFE3013193BC68A86D17958E",
+			"asnIdentifier": "S2405188",
+			"position": 255000,
+			"depth": 2,
+			"statementNotation": "7.2.G",
+			"description": "Demonstrate the ability to anticipate and minimize exposure to situations that pose a risk to sexual health.",
+			"ancestorIds": [
+				"FA1D10E0DFE3013193BA68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1D63D0DFE3013193BB68A86D17958E": {
+			"id": "FA1D63D0DFE3013193BB68A86D17958E",
+			"asnIdentifier": "S2405187",
+			"position": 254000,
+			"depth": 2,
+			"statementNotation": "7.1.G",
+			"description": "Describe strategies for refusing unwanted sexual activity.",
+			"ancestorIds": [
+				"FA1D10E0DFE3013193BA68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1D10E0DFE3013193BA68A86D17958E": {
+			"id": "FA1D10E0DFE3013193BA68A86D17958E",
+			"asnIdentifier": "S2404715",
+			"position": 253000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "7:",
+			"description": "Practicing Health-Enhancing Behaviors - All students will demonstrate the ability to practice behaviors that reduce risk and promote health.",
+			"comments": [
+				"Practicing healthy behaviors builds competence and confidence to use learned skills in real-life situations. The ability to adopt health-enhancing behaviors demonstrates students' ability to use knowledge and skills to manage health and reduce risk-taking behaviors."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1CC250DFE3013193B968A86D17958E": {
+			"id": "FA1CC250DFE3013193B968A86D17958E",
+			"asnIdentifier": "S2405186",
+			"position": 252000,
+			"depth": 2,
+			"statementNotation": "6.2.G",
+			"description": "Describe how HIV, AIDS, other STDs, or pregnancy could impact life goals.",
+			"ancestorIds": [
+				"FA1C22C0DFE3013193B768A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1C7400DFE3013193B868A86D17958E": {
+			"id": "FA1C7400DFE3013193B868A86D17958E",
+			"asnIdentifier": "S2405185",
+			"position": 251000,
+			"depth": 2,
+			"statementNotation": "6.1.G",
+			"description": "Develop a plan to avoid HIV, AIDS, other STDs, and pregnancy.",
+			"ancestorIds": [
+				"FA1C22C0DFE3013193B768A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1C22C0DFE3013193B768A86D17958E": {
+			"id": "FA1C22C0DFE3013193B768A86D17958E",
+			"asnIdentifier": "S2404712",
+			"position": 250000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "6:",
+			"description": "Goal Setting - All students will demonstrate the ability to use goal-setting skills to enhance health.",
+			"comments": [
+				"The desire to pursue health is an essential component of building healthy habits. The ability to use goal-setting skills enables students to translate health knowledge into personally meaningful health behaviors."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1BCFC0DFE3013193B668A86D17958E": {
+			"id": "FA1BCFC0DFE3013193B668A86D17958E",
+			"asnIdentifier": "S2405184",
+			"position": 249000,
+			"depth": 2,
+			"statementNotation": "5.7.G",
+			"description": "Use a decision-making process to evaluate the value of using FDA-approved condoms for pregnancy and STD prevention.",
+			"ancestorIds": [
+				"FA195600DFE3013193AF68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1B7A50DFE3013193B568A86D17958E": {
+			"id": "FA1B7A50DFE3013193B568A86D17958E",
+			"asnIdentifier": "S2405183",
+			"position": 248000,
+			"depth": 2,
+			"statementNotation": "5.6.G",
+			"description": "Explain the immediate physical, social, and emotional risks and consequences associated with sexual activity.",
+			"ancestorIds": [
+				"FA195600DFE3013193AF68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1B28A0DFE3013193B468A86D17958E": {
+			"id": "FA1B28A0DFE3013193B468A86D17958E",
+			"asnIdentifier": "S2405182",
+			"position": 247000,
+			"depth": 2,
+			"statementNotation": "5.5.G",
+			"description": "Identify how good health practices in adolescence affect lifelong health and the health of future children.",
+			"ancestorIds": [
+				"FA195600DFE3013193AF68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1AD9F0DFE3013193B368A86D17958E": {
+			"id": "FA1AD9F0DFE3013193B368A86D17958E",
+			"asnIdentifier": "S2405181",
+			"position": 246000,
+			"depth": 2,
+			"statementNotation": "5.4.G",
+			"description": "Analyze the responsibilities and privileges of becoming a young adult.",
+			"ancestorIds": [
+				"FA195600DFE3013193AF68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1A80F0DFE3013193B268A86D17958E": {
+			"id": "FA1A80F0DFE3013193B268A86D17958E",
+			"asnIdentifier": "S2405180",
+			"position": 245000,
+			"depth": 2,
+			"statementNotation": "5.3.G",
+			"description": "Use a decision-making process to evaluate individual differences in growth and development, physical appearance, gender roles, and sexual orientation.",
+			"ancestorIds": [
+				"FA195600DFE3013193AF68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1A2420DFE3013193B168A86D17958E": {
+			"id": "FA1A2420DFE3013193B168A86D17958E",
+			"asnIdentifier": "S2405179",
+			"position": 244000,
+			"depth": 2,
+			"statementNotation": "5.2.G",
+			"description": "Use a decision-making process to examine the characteristics of healthy relationships.",
+			"ancestorIds": [
+				"FA195600DFE3013193AF68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA19AA90DFE3013193B068A86D17958E": {
+			"id": "FA19AA90DFE3013193B068A86D17958E",
+			"asnIdentifier": "S2405178",
+			"position": 243000,
+			"depth": 2,
+			"statementNotation": "5.1.G",
+			"description": "Analyze why abstinence is the most effective method for the prevention of HIV, STDs, and pregnancy.",
+			"ancestorIds": [
+				"FA195600DFE3013193AF68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA195600DFE3013193AF68A86D17958E": {
+			"id": "FA195600DFE3013193AF68A86D17958E",
+			"asnIdentifier": "S2404709",
+			"position": 242000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Decision Making - All students will demonstrate the ability to use decision-making skills to enhance health.",
+			"comments": [
+				"Managing health behaviors requires critical thinking and problem solving. The ability to use decision-making skills to guide health behaviors fosters a sense of control and promotes the acceptance of personal responsibility."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA18F5C0DFE3013193AE68A86D17958E": {
+			"id": "FA18F5C0DFE3013193AE68A86D17958E",
+			"asnIdentifier": "S2405177",
+			"position": 241000,
+			"depth": 2,
+			"statementNotation": "4.5.G",
+			"description": "Demonstrate how to ask for help from parents, other trusted adults, or friends when pressured to participate in sexual behavior.",
+			"ancestorIds": [
+				"FA16F850DFE3013193A968A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA189BD0DFE3013193AD68A86D17958E": {
+			"id": "FA189BD0DFE3013193AD68A86D17958E",
+			"asnIdentifier": "S2405176",
+			"position": 240000,
+			"depth": 2,
+			"statementNotation": "4.4.G",
+			"description": "Analyze the benefits of respecting individual differences in growth and development, physical appearance, gender roles, and sexual orientation.",
+			"ancestorIds": [
+				"FA16F850DFE3013193A968A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA181C80DFE3013193AC68A86D17958E": {
+			"id": "FA181C80DFE3013193AC68A86D17958E",
+			"asnIdentifier": "S2405175",
+			"position": 239000,
+			"depth": 2,
+			"statementNotation": "4.3.G",
+			"description": "Use healthy and respectful ways to express friendship, attraction, and affection.",
+			"ancestorIds": [
+				"FA16F850DFE3013193A968A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA17AC60DFE3013193AB68A86D17958E": {
+			"id": "FA17AC60DFE3013193AB68A86D17958E",
+			"asnIdentifier": "S2405174",
+			"position": 238000,
+			"depth": 2,
+			"statementNotation": "4.2.G",
+			"description": "Use effective verbal and nonverbal communication skills to prevent sexual involvement, HIV, other STDs, and unintended pregnancy.",
+			"ancestorIds": [
+				"FA16F850DFE3013193A968A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1752D0DFE3013193AA68A86D17958E": {
+			"id": "FA1752D0DFE3013193AA68A86D17958E",
+			"asnIdentifier": "S2405173",
+			"position": 237000,
+			"depth": 2,
+			"statementNotation": "4.1.G",
+			"description": "Practice effective communication skills with parents, guardians, health care providers, or other trusted adults by discussing issues related to reproductive and sexual health.",
+			"ancestorIds": [
+				"FA16F850DFE3013193A968A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA16F850DFE3013193A968A86D17958E": {
+			"id": "FA16F850DFE3013193A968A86D17958E",
+			"asnIdentifier": "S2404705",
+			"position": 236000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Interpersonal Communication - All students will demonstrate the ability to use interpersonal communication skills to enhance health.",
+			"comments": [
+				"Positive relationships support the development of healthy attitudes and behaviors. The ability to appropriately convey and receive information, beliefs, and emotions is a skill that enables students to manage risk, conflict, and differences and to promote health."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA169420DFE3013193A868A86D17958E": {
+			"id": "FA169420DFE3013193A868A86D17958E",
+			"asnIdentifier": "S2405172",
+			"position": 235000,
+			"depth": 2,
+			"statementNotation": "3.3.G",
+			"description": "Identify health care providers for reproductive and sexual health services.",
+			"ancestorIds": [
+				"FA1548F0DFE3013193A568A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA161EE0DFE3013193A768A86D17958E": {
+			"id": "FA161EE0DFE3013193A768A86D17958E",
+			"asnIdentifier": "S2405171",
+			"position": 234000,
+			"depth": 2,
+			"statementNotation": "3.2.G",
+			"description": "Locate medically and scientifically accurate sources of information on reproductive health.",
+			"ancestorIds": [
+				"FA1548F0DFE3013193A568A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA15B430DFE3013193A668A86D17958E": {
+			"id": "FA15B430DFE3013193A668A86D17958E",
+			"asnIdentifier": "S2405170",
+			"position": 233000,
+			"depth": 2,
+			"statementNotation": "3.1.G",
+			"description": "Identify trusted adults in one's family, school, and community for advice and counseling regarding reproductive and sexual health.",
+			"ancestorIds": [
+				"FA1548F0DFE3013193A568A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1548F0DFE3013193A568A86D17958E": {
+			"id": "FA1548F0DFE3013193A568A86D17958E",
+			"asnIdentifier": "S2404702",
+			"position": 232000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Accessing Valid Information - All students will demonstrate the ability to access and analyze health information, products, and services.",
+			"comments": [
+				"Students are exposed to numerous sources of information, products, and services. The ability to access and analyze health information, products, and services provides a foundation for practicing health-enhancing behaviors. Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA14EA00DFE3013193A468A86D17958E": {
+			"id": "FA14EA00DFE3013193A468A86D17958E",
+			"asnIdentifier": "S2405169",
+			"position": 231000,
+			"depth": 2,
+			"statementNotation": "2.6.G",
+			"description": "Explain how sexual exploitation can occur through the Internet.",
+			"ancestorIds": [
+				"FA12E210DFE30131939E68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA148F20DFE3013193A368A86D17958E": {
+			"id": "FA148F20DFE3013193A368A86D17958E",
+			"asnIdentifier": "S2405168",
+			"position": 230000,
+			"depth": 2,
+			"statementNotation": "2.5.G",
+			"description": "Recognize that there are individual, family, and cultural differences in relationships.",
+			"ancestorIds": [
+				"FA12E210DFE30131939E68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA143920DFE3013193A268A86D17958E": {
+			"id": "FA143920DFE3013193A268A86D17958E",
+			"asnIdentifier": "S2405167",
+			"position": 229000,
+			"depth": 2,
+			"statementNotation": "2.4.G",
+			"description": "Describe situations that could lead to pressure for sexual activity and to the risk of contracting HIV and other STDs.",
+			"ancestorIds": [
+				"FA12E210DFE30131939E68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA13DD60DFE3013193A168A86D17958E": {
+			"id": "FA13DD60DFE3013193A168A86D17958E",
+			"asnIdentifier": "S2405166",
+			"position": 228000,
+			"depth": 2,
+			"statementNotation": "2.3.G",
+			"description": "Analyze the influence of alcohol and other drugs on sexual behaviors.",
+			"ancestorIds": [
+				"FA12E210DFE30131939E68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA138CB0DFE3013193A068A86D17958E": {
+			"id": "FA138CB0DFE3013193A068A86D17958E",
+			"asnIdentifier": "S2405165",
+			"position": 227000,
+			"depth": 2,
+			"statementNotation": "2.2.G",
+			"description": "Evaluate how culture, media, and other people influence our perceptions of body image, gender roles, sexuality, attractiveness, relationships, and sexual orientation.",
+			"ancestorIds": [
+				"FA12E210DFE30131939E68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA133D10DFE30131939F68A86D17958E": {
+			"id": "FA133D10DFE30131939F68A86D17958E",
+			"asnIdentifier": "S2405164",
+			"position": 226000,
+			"depth": 2,
+			"statementNotation": "2.1.G",
+			"description": "Analyze how internal and external influences affect growth and development, relationships, and sexual behavior.",
+			"ancestorIds": [
+				"FA12E210DFE30131939E68A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA12E210DFE30131939E68A86D17958E": {
+			"id": "FA12E210DFE30131939E68A86D17958E",
+			"asnIdentifier": "S2404698",
+			"position": 225000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Analyzing Influences - All students will demonstrate the ability to analyze internal and external influences that affect health.",
+			"comments": [
+				"Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA126590DFE30131939D68A86D17958E": {
+			"id": "FA126590DFE30131939D68A86D17958E",
+			"asnIdentifier": "S2405163",
+			"position": 224000,
+			"depth": 2,
+			"statementNotation": "1.13.G",
+			"description": "Evaluate the benefits to mother, father, and child when teenagers wait until adulthood to become parents.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA11EC10DFE30131939C68A86D17958E": {
+			"id": "FA11EC10DFE30131939C68A86D17958E",
+			"asnIdentifier": "S2405162",
+			"position": 223000,
+			"depth": 2,
+			"statementNotation": "1.12.G",
+			"description": "Describe responsible prenatal and child care, including California's Safely Surrendered Baby Law.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA119CF0DFE30131939B68A86D17958E": {
+			"id": "FA119CF0DFE30131939B68A86D17958E",
+			"asnIdentifier": "S2405161",
+			"position": 222000,
+			"depth": 2,
+			"statementNotation": "1.11.G",
+			"description": "Explain why rape and sexual assault should be reported to authorities and trusted adults.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA114E10DFE30131939A68A86D17958E": {
+			"id": "FA114E10DFE30131939A68A86D17958E",
+			"asnIdentifier": "S2405160",
+			"position": 221000,
+			"depth": 2,
+			"statementNotation": "1.10.G",
+			"description": "Describe the emotional, psychological, and physical consequences of rape and sexual assault.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA10FDA0DFE30131939968A86D17958E": {
+			"id": "FA10FDA0DFE30131939968A86D17958E",
+			"asnIdentifier": "S2405159",
+			"position": 220000,
+			"depth": 2,
+			"statementNotation": "1.9.G",
+			"description": "Explain why individuals have the right to refuse sexual contact.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA10AA00DFE30131939868A86D17958E": {
+			"id": "FA10AA00DFE30131939868A86D17958E",
+			"asnIdentifier": "S2405158",
+			"position": 219000,
+			"depth": 2,
+			"statementNotation": "1.8.G",
+			"description": "Recognize that there are individual differences in growth and development, physical appearance, gender roles, and sexual orientation.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA1048B0DFE30131939768A86D17958E": {
+			"id": "FA1048B0DFE30131939768A86D17958E",
+			"asnIdentifier": "S2405157",
+			"position": 218000,
+			"depth": 2,
+			"statementNotation": "1.7.G",
+			"description": "Identify ways to prevent or reduce the risk of contracting HIV, AIDS, and other STDs.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0FDAC0DFE30131939668A86D17958E": {
+			"id": "FA0FDAC0DFE30131939668A86D17958E",
+			"asnIdentifier": "S2405156",
+			"position": 217000,
+			"depth": 2,
+			"statementNotation": "1.6.G",
+			"description": "Identify the short- and long-term effects of HIV, AIDS, and other STDs.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0F77C0DFE30131939568A86D17958E": {
+			"id": "FA0F77C0DFE30131939568A86D17958E",
+			"asnIdentifier": "S2405155",
+			"position": 216000,
+			"depth": 2,
+			"statementNotation": "1.5.G",
+			"description": "Explain the effectiveness of FDA-approved condoms and other contraceptives in preventing HIV, other STDs, and unintended pregnancy.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0F2540DFE30131939468A86D17958E": {
+			"id": "FA0F2540DFE30131939468A86D17958E",
+			"asnIdentifier": "S2405154",
+			"position": 215000,
+			"depth": 2,
+			"statementNotation": "1.4.G",
+			"description": "Explain how conception occurs, the stages of pregnancy, and the responsibilities associated with parenting.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0ECEB0DFE30131939368A86D17958E": {
+			"id": "FA0ECEB0DFE30131939368A86D17958E",
+			"asnIdentifier": "S2405153",
+			"position": 214000,
+			"depth": 2,
+			"statementNotation": "1.3.G",
+			"description": "Explain the effectiveness of abstinence in preventing HIV, other STDs, and unintended pregnancy",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0E6900DFE30131939268A86D17958E": {
+			"id": "FA0E6900DFE30131939268A86D17958E",
+			"asnIdentifier": "S2405152",
+			"position": 213000,
+			"depth": 2,
+			"statementNotation": "1.2.G",
+			"description": "Summarize the human reproduction cycle.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0E0E70DFE30131939168A86D17958E": {
+			"id": "FA0E0E70DFE30131939168A86D17958E",
+			"asnIdentifier": "S2405151",
+			"position": 212000,
+			"depth": 2,
+			"statementNotation": "1.1.G",
+			"description": "Explain physical, social, and emotional changes associated with adolescence.",
+			"ancestorIds": [
+				"FA0DB820DFE30131939068A86D17958E",
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0DB820DFE30131939068A86D17958E": {
+			"id": "FA0DB820DFE30131939068A86D17958E",
+			"asnIdentifier": "S2404687",
+			"position": 211000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Essential Concepts - All students will comprehend essential concepts related to enhancing health.",
+			"comments": [
+				"Understanding essential concepts about the relationships between behavior and health provides the foundation for making informed decisions about health-related behaviors and for selecting appropriate health products and services."
+			],
+			"ancestorIds": [
+				"FA0D66B0DFE30131938F68A86D17958E"
+			]
+		},
+		"FA0D66B0DFE30131938F68A86D17958E": {
+			"id": "FA0D66B0DFE30131938F68A86D17958E",
+			"asnIdentifier": "S2404686",
+			"position": 210000,
+			"depth": 0,
+			"statementLabel": "Content Area",
+			"description": "Growth, Development, and Sexual Health",
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0D0EF0DFE30131938E68A86D17958E": {
+			"id": "FA0D0EF0DFE30131938E68A86D17958E",
+			"asnIdentifier": "S2405314",
+			"position": 209000,
+			"depth": 2,
+			"statementNotation": "8.3.P",
+			"description": "Demonstrate ways to accept responsibility for conserving natural resources.",
+			"ancestorIds": [
+				"FA0BFCA0DFE30131938B68A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0CA4E0DFE30131938D68A86D17958E": {
+			"id": "FA0CA4E0DFE30131938D68A86D17958E",
+			"asnIdentifier": "S2405313",
+			"position": 208000,
+			"depth": 2,
+			"statementNotation": "8.2.P",
+			"description": "Demonstrate the ability to be a positive peer role model in the school and community.",
+			"ancestorIds": [
+				"FA0BFCA0DFE30131938B68A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0C4FC0DFE30131938C68A86D17958E": {
+			"id": "FA0C4FC0DFE30131938C68A86D17958E",
+			"asnIdentifier": "S2405312",
+			"position": 207000,
+			"depth": 2,
+			"statementNotation": "8.1.P",
+			"description": "Promote the importance of regular screenings and medical examinations.",
+			"ancestorIds": [
+				"FA0BFCA0DFE30131938B68A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0BFCA0DFE30131938B68A86D17958E": {
+			"id": "FA0BFCA0DFE30131938B68A86D17958E",
+			"asnIdentifier": "S2403473",
+			"position": 206000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "8:",
+			"description": "Health Promotion - All students will demonstrate the ability to promote and support personal, family, and community health.",
+			"comments": [
+				"Personal, family, and community health are interdependent and mutually supporting. The ability to promote the health of oneself and others reflects a well-rounded development and expression of health."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0BA8B0DFE30131938A68A86D17958E": {
+			"id": "FA0BA8B0DFE30131938A68A86D17958E",
+			"asnIdentifier": "S2405311",
+			"position": 205000,
+			"depth": 2,
+			"statementNotation": "7.2.P",
+			"description": "Describe situations where Standard (Universal) Precautions are appropriate.",
+			"ancestorIds": [
+				"FA0AF4D0DFE30131938868A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0B54C0DFE30131938968A86D17958E": {
+			"id": "FA0B54C0DFE30131938968A86D17958E",
+			"asnIdentifier": "S2405310",
+			"position": 204000,
+			"depth": 2,
+			"statementNotation": "7.1.P",
+			"description": "Practice and take responsibility for personal and dental hygiene practices.",
+			"ancestorIds": [
+				"FA0AF4D0DFE30131938868A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0AF4D0DFE30131938868A86D17958E": {
+			"id": "FA0AF4D0DFE30131938868A86D17958E",
+			"asnIdentifier": "S2403470",
+			"position": 203000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "7:",
+			"description": "Practicing Health-Enhancing Behaviors - All students will demonstrate the ability to practice behaviors that reduce risk and promote health.",
+			"comments": [
+				"Practicing healthy behaviors builds competence and confidence to use learned skills in real-life situations. The ability to adopt health-enhancing behaviors demonstrates students' ability to use knowledge and skills to manage health and reduce risk-taking behaviors."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0A7F80DFE30131938768A86D17958E": {
+			"id": "FA0A7F80DFE30131938768A86D17958E",
+			"asnIdentifier": "S2405309",
+			"position": 202000,
+			"depth": 2,
+			"statementNotation": "6.3.P",
+			"description": "Create a plan to incorporate adequate rest and sleep into daily routines.",
+			"ancestorIds": [
+				"FA096B90DFE30131938468A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0A1C50DFE30131938668A86D17958E": {
+			"id": "FA0A1C50DFE30131938668A86D17958E",
+			"asnIdentifier": "S2405308",
+			"position": 201000,
+			"depth": 2,
+			"statementNotation": "6.2.P",
+			"description": "Design a plan to minimize environmental pollutants, including noise at home and in the community.",
+			"ancestorIds": [
+				"FA096B90DFE30131938468A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA09C020DFE30131938568A86D17958E": {
+			"id": "FA09C020DFE30131938568A86D17958E",
+			"asnIdentifier": "S2405307",
+			"position": 200000,
+			"depth": 2,
+			"statementNotation": "6.1.P",
+			"description": "Establish goals for improving personal and community health.",
+			"ancestorIds": [
+				"FA096B90DFE30131938468A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA096B90DFE30131938468A86D17958E": {
+			"id": "FA096B90DFE30131938468A86D17958E",
+			"asnIdentifier": "S2403468",
+			"position": 199000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "6:",
+			"description": "Goal Setting - All students will demonstrate the ability to use goal-setting skills to enhance health.",
+			"comments": [
+				"The desire to pursue health is an essential component of building healthy habits. The ability to use goal-setting skills enables students to translate health knowledge into personally meaningful health behaviors."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA091020DFE30131938368A86D17958E": {
+			"id": "FA091020DFE30131938368A86D17958E",
+			"asnIdentifier": "S2405306",
+			"position": 198000,
+			"depth": 2,
+			"statementNotation": "5.3.P",
+			"description": "Analyze the characteristics of informed health choices.",
+			"ancestorIds": [
+				"FA080260DFE30131938068A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA08B1D0DFE30131938268A86D17958E": {
+			"id": "FA08B1D0DFE30131938268A86D17958E",
+			"asnIdentifier": "S2405305",
+			"position": 197000,
+			"depth": 2,
+			"statementNotation": "5.2.P",
+			"description": "Apply a decision-making process when selecting health care products.",
+			"ancestorIds": [
+				"FA080260DFE30131938068A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA085BD0DFE30131938168A86D17958E": {
+			"id": "FA085BD0DFE30131938168A86D17958E",
+			"asnIdentifier": "S2405304",
+			"position": 196000,
+			"depth": 2,
+			"statementNotation": "5.1.P",
+			"description": "Apply a decision-making process to determine safe and healthy strategies for dealing with personal health problems.",
+			"ancestorIds": [
+				"FA080260DFE30131938068A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA080260DFE30131938068A86D17958E": {
+			"id": "FA080260DFE30131938068A86D17958E",
+			"asnIdentifier": "S2403466",
+			"position": 195000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Decision Making - All students will demonstrate the ability to use decision-making skills to enhance health.",
+			"comments": [
+				"Managing health behaviors requires critical thinking and problem solving. The ability to use decision-making skills to guide health behaviors fosters a sense of control and promotes the acceptance of personal responsibility."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA07A930DFE30131937F68A86D17958E": {
+			"id": "FA07A930DFE30131937F68A86D17958E",
+			"asnIdentifier": "S2405303",
+			"position": 194000,
+			"depth": 2,
+			"statementNotation": "4.2.P",
+			"description": "Use assertive communication skills to avoid situations that increase risk of communicable disease or illness.",
+			"ancestorIds": [
+				"FA06AEE0DFE30131937D68A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA073EF0DFE30131937E68A86D17958E": {
+			"id": "FA073EF0DFE30131937E68A86D17958E",
+			"asnIdentifier": "S2405302",
+			"position": 193000,
+			"depth": 2,
+			"statementNotation": "4.1.P",
+			"description": "Practice how to make a health-related consumer complaint.",
+			"ancestorIds": [
+				"FA06AEE0DFE30131937D68A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA06AEE0DFE30131937D68A86D17958E": {
+			"id": "FA06AEE0DFE30131937D68A86D17958E",
+			"asnIdentifier": "S2403464",
+			"position": 192000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Interpersonal Communication - All students will demonstrate the ability to use interpersonal communication skills to enhance health.",
+			"comments": [
+				"Positive relationships support the development of healthy attitudes and behaviors. The ability to appropriately convey and receive information, beliefs, and emotions is a skill that enables students to manage risk, conflict, and differences and to promote health."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA065DC0DFE30131937C68A86D17958E": {
+			"id": "FA065DC0DFE30131937C68A86D17958E",
+			"asnIdentifier": "S2405301",
+			"position": 191000,
+			"depth": 2,
+			"statementNotation": "3.4.P",
+			"description": "Demonstrate how to access school and community health services.",
+			"ancestorIds": [
+				"FA050E10DFE30131937868A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA060EE0DFE30131937B68A86D17958E": {
+			"id": "FA060EE0DFE30131937B68A86D17958E",
+			"asnIdentifier": "S2405300",
+			"position": 190000,
+			"depth": 2,
+			"statementNotation": "3.3.P",
+			"description": "Locate resources in school, in the community, and on the Internet for first aid information and training, and assess the validity of the resources.",
+			"ancestorIds": [
+				"FA050E10DFE30131937868A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA05C000DFE30131937A68A86D17958E": {
+			"id": "FA05C000DFE30131937A68A86D17958E",
+			"asnIdentifier": "S2405299",
+			"position": 189000,
+			"depth": 2,
+			"statementNotation": "3.2.P",
+			"description": "Access valid information about preventing common communicable diseases.",
+			"ancestorIds": [
+				"FA050E10DFE30131937868A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA056F10DFE30131937968A86D17958E": {
+			"id": "FA056F10DFE30131937968A86D17958E",
+			"asnIdentifier": "S2405298",
+			"position": 188000,
+			"depth": 2,
+			"statementNotation": "3.1.P",
+			"description": "Demonstrate the ability to access information about personal health products (e.g., deodorant, shampoo, sunscreen, and dental care products), and evaluate the information's validity.",
+			"ancestorIds": [
+				"FA050E10DFE30131937868A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA050E10DFE30131937868A86D17958E": {
+			"id": "FA050E10DFE30131937868A86D17958E",
+			"asnIdentifier": "S2403462",
+			"position": 187000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Accessing Valid Information - All students will demonstrate the ability to access and analyze health information, products, and services.",
+			"comments": [
+				"Students are exposed to numerous sources of information, products, and services. The ability to access and analyze health information, products, and services provides a foundation for practicing health-enhancing behaviors. Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA04B890DFE30131937768A86D17958E": {
+			"id": "FA04B890DFE30131937768A86D17958E",
+			"asnIdentifier": "S2405297",
+			"position": 186000,
+			"depth": 2,
+			"statementNotation": "2.5.P",
+			"description": "Analyze the social influences that encourage or discourage sun-safety practices.",
+			"ancestorIds": [
+				"FA030840DFE30131937268A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA046980DFE30131937668A86D17958E": {
+			"id": "FA046980DFE30131937668A86D17958E",
+			"asnIdentifier": "S2405296",
+			"position": 185000,
+			"depth": 2,
+			"statementNotation": "2.4.P",
+			"description": "Analyze the influence of culture, media, and technology on health decisions.",
+			"ancestorIds": [
+				"FA030840DFE30131937268A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0419C0DFE30131937568A86D17958E": {
+			"id": "FA0419C0DFE30131937568A86D17958E",
+			"asnIdentifier": "S2405295",
+			"position": 184000,
+			"depth": 2,
+			"statementNotation": "2.3.P",
+			"description": "Analyze the relationship between the health of a community and the global environment.",
+			"ancestorIds": [
+				"FA030840DFE30131937268A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA03C860DFE30131937468A86D17958E": {
+			"id": "FA03C860DFE30131937468A86D17958E",
+			"asnIdentifier": "S2405294",
+			"position": 183000,
+			"depth": 2,
+			"statementNotation": "2.2.P",
+			"description": "Analyze how environmental pollutants, including noise pollution, affect health.",
+			"ancestorIds": [
+				"FA030840DFE30131937268A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA0371F0DFE30131937368A86D17958E": {
+			"id": "FA0371F0DFE30131937368A86D17958E",
+			"asnIdentifier": "S2405293",
+			"position": 182000,
+			"depth": 2,
+			"statementNotation": "2.1.P",
+			"description": "Analyze a variety of influences that affect personal health practices.",
+			"ancestorIds": [
+				"FA030840DFE30131937268A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA030840DFE30131937268A86D17958E": {
+			"id": "FA030840DFE30131937268A86D17958E",
+			"asnIdentifier": "S2403460",
+			"position": 181000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Analyzing Influences - All students will demonstrate the ability to analyze internal and external influences that affect health.",
+			"comments": [
+				"Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA02A770DFE30131937168A86D17958E": {
+			"id": "FA02A770DFE30131937168A86D17958E",
+			"asnIdentifier": "S2405292",
+			"position": 180000,
+			"depth": 2,
+			"statementNotation": "1.12.P",
+			"description": "Identify ways to reduce exposure to the sun.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA023B80DFE30131937068A86D17958E": {
+			"id": "FA023B80DFE30131937068A86D17958E",
+			"asnIdentifier": "S2405291",
+			"position": 179000,
+			"depth": 2,
+			"statementNotation": "1.11.P",
+			"description": "Describe global influences on personal and community health.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA01DEC0DFE30131936F68A86D17958E": {
+			"id": "FA01DEC0DFE30131936F68A86D17958E",
+			"asnIdentifier": "S2405290",
+			"position": 178000,
+			"depth": 2,
+			"statementNotation": "1.10.P",
+			"description": "Identify human activities that contribute to environmental challenges (e.g., air, water, and noise pollution).",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA018380DFE30131936E68A86D17958E": {
+			"id": "FA018380DFE30131936E68A86D17958E",
+			"asnIdentifier": "S2405289",
+			"position": 177000,
+			"depth": 2,
+			"statementNotation": "1.9.P",
+			"description": "Identify ways that environmental factors, including air quality, affect our health.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA011C40DFE30131936D68A86D17958E": {
+			"id": "FA011C40DFE30131936D68A86D17958E",
+			"asnIdentifier": "S2405288",
+			"position": 176000,
+			"depth": 2,
+			"statementNotation": "1.8.P",
+			"description": "Identify ways to prevent vision or hearing damage.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA00CE00DFE30131936C68A86D17958E": {
+			"id": "FA00CE00DFE30131936C68A86D17958E",
+			"asnIdentifier": "S2405287",
+			"position": 175000,
+			"depth": 2,
+			"statementNotation": "1.7.P",
+			"description": "Identify effective protection for teeth, eyes, head, and neck during sports and recreational activities.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA007CF0DFE30131936B68A86D17958E": {
+			"id": "FA007CF0DFE30131936B68A86D17958E",
+			"asnIdentifier": "S2405286",
+			"position": 174000,
+			"depth": 2,
+			"statementNotation": "1.6.P",
+			"description": "Identify effective brushing and flossing techniques for oral care.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"FA002A40DFE30131936A68A86D17958E": {
+			"id": "FA002A40DFE30131936A68A86D17958E",
+			"asnIdentifier": "S2405285",
+			"position": 173000,
+			"depth": 2,
+			"statementNotation": "1.5.P",
+			"description": "Discuss the importance of effective personal and dental hygiene practices for preventing illness.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"F9FFD570DFE30131936968A86D17958E": {
+			"id": "F9FFD570DFE30131936968A86D17958E",
+			"asnIdentifier": "S2405284",
+			"position": 172000,
+			"depth": 2,
+			"statementNotation": "1.4.P",
+			"description": "Examine the causes and symptoms of communicable and noncommunicable diseases.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"F9FF7830DFE30131936868A86D17958E": {
+			"id": "F9FF7830DFE30131936868A86D17958E",
+			"asnIdentifier": "S2405283",
+			"position": 171000,
+			"depth": 2,
+			"statementNotation": "1.3.P",
+			"description": "Identify Standard (Universal) Precautions and why they are important.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"F9FF18D0DFE30131936768A86D17958E": {
+			"id": "F9FF18D0DFE30131936768A86D17958E",
+			"asnIdentifier": "S2405282",
+			"position": 170000,
+			"depth": 2,
+			"statementNotation": "1.2.P",
+			"description": "Identify the importance of age-appropriate medical services.",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"F9FEC890DFE30131936668A86D17958E": {
+			"id": "F9FEC890DFE30131936668A86D17958E",
+			"asnIdentifier": "S2405281",
+			"position": 169000,
+			"depth": 2,
+			"statementNotation": "1.1.P",
+			"description": "Describe the importance of health-management strategies (e.g., those involving adequate sleep, ergonomics, sun safety, hearing protection, and self-examination).",
+			"ancestorIds": [
+				"F9FE7660DFE30131936568A86D17958E",
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"F9FE7660DFE30131936568A86D17958E": {
+			"id": "F9FE7660DFE30131936568A86D17958E",
+			"asnIdentifier": "S2403454",
+			"position": 168000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Essential Concepts - All students will comprehend essential concepts related to enhancing health.",
+			"comments": [
+				"Understanding essential concepts about the relationships between behavior and health provides the foundation for making informed decisions about health-related behaviors and for selecting appropriate health products and services."
+			],
+			"ancestorIds": [
+				"F9FE1E70DFE30131936468A86D17958E"
+			]
+		},
+		"F9FE1E70DFE30131936468A86D17958E": {
+			"id": "F9FE1E70DFE30131936468A86D17958E",
+			"asnIdentifier": "S2403453",
+			"position": 167000,
+			"depth": 0,
+			"statementLabel": "Content Area",
+			"description": "Personal and Community Health",
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FDBD60DFE30131936368A86D17958E": {
+			"id": "F9FDBD60DFE30131936368A86D17958E",
+			"asnIdentifier": "S2405280",
+			"position": 166000,
+			"depth": 2,
+			"statementNotation": "8.2.M",
+			"description": "Object appropriately to teasing of peers and community members that is based on perceived personal characteristics or sexual orientation.",
+			"ancestorIds": [
+				"F9FCEEA0DFE30131936168A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FD5520DFE30131936268A86D17958E": {
+			"id": "F9FD5520DFE30131936268A86D17958E",
+			"asnIdentifier": "S2405279",
+			"position": 165000,
+			"depth": 2,
+			"statementNotation": "8.1.M",
+			"description": "Promote a positive and respectful school environment.",
+			"ancestorIds": [
+				"F9FCEEA0DFE30131936168A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FCEEA0DFE30131936168A86D17958E": {
+			"id": "F9FCEEA0DFE30131936168A86D17958E",
+			"asnIdentifier": "S2403451",
+			"position": 164000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "8:",
+			"description": "Health Promotion - All students will demonstrate the ability to promote and support personal, family, and community health.",
+			"comments": [
+				"Personal, family, and community health are interdependent and mutually supporting. The ability to promote the health of oneself and others reflects a well-rounded development and expression of health."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"2FAAD2B0868E4A65AB12F302E14BD45A": {
+			"id": "2FAAD2B0868E4A65AB12F302E14BD45A",
+			"asnIdentifier": "S2606321",
+			"position": 163000,
+			"depth": 2,
+			"statementNotation": "7.3.M",
+			"description": "Discuss suicide-prevention strategies.",
+			"ancestorIds": [
+				"F9FAC020DFE30131935B68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FC9F10DFE30131936068A86D17958E": {
+			"id": "F9FC9F10DFE30131936068A86D17958E",
+			"asnIdentifier": "S2405278",
+			"position": 162000,
+			"depth": 2,
+			"statementNotation": "7.5.M",
+			"description": "Demonstrate skills to avoid or escape from potentially violent situations, including dating.",
+			"ancestorIds": [
+				"F9FAC020DFE30131935B68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FC4C70DFE30131935F68A86D17958E": {
+			"id": "F9FC4C70DFE30131935F68A86D17958E",
+			"asnIdentifier": "S2405277",
+			"position": 161000,
+			"depth": 2,
+			"statementNotation": "7.4.M",
+			"description": "Practice personal boundaries in a variety of situations.",
+			"ancestorIds": [
+				"F9FAC020DFE30131935B68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FBE390DFE30131935E68A86D17958E": {
+			"id": "F9FBE390DFE30131935E68A86D17958E",
+			"asnIdentifier": "S2405276",
+			"position": 160000,
+			"depth": 2,
+			"statementNotation": "7.3.M",
+			"description": "Participate in clubs, organizations, and activities in the school and community that offer opportunities for student and family involvement.",
+			"ancestorIds": [
+				"F9FAC020DFE30131935B68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FB74B0DFE30131935D68A86D17958E": {
+			"id": "F9FB74B0DFE30131935D68A86D17958E",
+			"asnIdentifier": "S2405275",
+			"position": 159000,
+			"depth": 2,
+			"statementNotation": "7.2.M",
+			"description": "Practice respect for individual differences and diverse backgrounds.",
+			"ancestorIds": [
+				"F9FAC020DFE30131935B68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FB2110DFE30131935C68A86D17958E": {
+			"id": "F9FB2110DFE30131935C68A86D17958E",
+			"asnIdentifier": "S2405274",
+			"position": 158000,
+			"depth": 2,
+			"statementNotation": "7.1.M",
+			"description": "Demonstrate effective coping mechanisms and strategies for managing stress.",
+			"ancestorIds": [
+				"F9FAC020DFE30131935B68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FAC020DFE30131935B68A86D17958E": {
+			"id": "F9FAC020DFE30131935B68A86D17958E",
+			"asnIdentifier": "S2403448",
+			"position": 157000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "7:",
+			"description": "Practicing Health-Enhancing Behaviors - All students will demonstrate the ability to practice behaviors that reduce risk and promote health.",
+			"comments": [
+				"Practicing healthy behaviors builds competence and confidence to use learned skills in real-life situations. The ability to adopt health-enhancing behaviors demonstrates students' ability to use knowledge and skills to manage health and reduce risk-taking behaviors."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FA6CC0DFE30131935A68A86D17958E": {
+			"id": "F9FA6CC0DFE30131935A68A86D17958E",
+			"asnIdentifier": "S2405273",
+			"position": 156000,
+			"depth": 2,
+			"statementNotation": "6.1.M",
+			"description": "Develop achievable goals for handling stressors in healthy ways.",
+			"ancestorIds": [
+				"F9FA1100DFE30131935968A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9FA1100DFE30131935968A86D17958E": {
+			"id": "F9FA1100DFE30131935968A86D17958E",
+			"asnIdentifier": "S2403446",
+			"position": 155000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "6:",
+			"description": "Goal Setting - All students will demonstrate the ability to use goal-setting skills to enhance health.",
+			"comments": [
+				"The desire to pursue health is an essential component of building healthy habits. The ability to use goal-setting skills enables students to translate health knowledge into personally meaningful health behaviors."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F9B5A0DFE30131935868A86D17958E": {
+			"id": "F9F9B5A0DFE30131935868A86D17958E",
+			"asnIdentifier": "S2405272",
+			"position": 154000,
+			"depth": 2,
+			"statementNotation": "5.5.M",
+			"description": "Analyze the importance of setting personal boundaries for privacy, safety, and expressions of emotions and opinions.",
+			"ancestorIds": [
+				"F9F7D520DFE30131935368A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F96400DFE30131935768A86D17958E": {
+			"id": "F9F96400DFE30131935768A86D17958E",
+			"asnIdentifier": "S2405271",
+			"position": 153000,
+			"depth": 2,
+			"statementNotation": "5.4.M",
+			"description": "Describe situations for which someone would seek help with stress, loss, an unrealistic body image, or depression.",
+			"ancestorIds": [
+				"F9F7D520DFE30131935368A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F910E0DFE30131935668A86D17958E": {
+			"id": "F9F910E0DFE30131935668A86D17958E",
+			"asnIdentifier": "S2405270",
+			"position": 152000,
+			"depth": 2,
+			"statementNotation": "5.3.M",
+			"description": "Describe healthy ways to express caring, friendship, affection, and love.",
+			"ancestorIds": [
+				"F9F7D520DFE30131935368A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F8AE60DFE30131935568A86D17958E": {
+			"id": "F9F8AE60DFE30131935568A86D17958E",
+			"asnIdentifier": "S2405269",
+			"position": 151000,
+			"depth": 2,
+			"statementNotation": "5.2.M",
+			"description": "Monitor personal stressors and assess techniques for managing them.",
+			"ancestorIds": [
+				"F9F7D520DFE30131935368A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F847E0DFE30131935468A86D17958E": {
+			"id": "F9F847E0DFE30131935468A86D17958E",
+			"asnIdentifier": "S2405268",
+			"position": 150000,
+			"depth": 2,
+			"statementNotation": "5.1.M",
+			"description": "Apply decision-making processes to a variety of situations that impact mental, emotional, and social health.",
+			"ancestorIds": [
+				"F9F7D520DFE30131935368A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F7D520DFE30131935368A86D17958E": {
+			"id": "F9F7D520DFE30131935368A86D17958E",
+			"asnIdentifier": "S2403444",
+			"position": 149000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Decision Making - All students will demonstrate the ability to use decision-making skills to enhance health.",
+			"comments": [
+				"Managing health behaviors requires critical thinking and problem solving. The ability to use decision-making skills to guide health behaviors fosters a sense of control and promotes the acceptance of personal responsibility."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F77E80DFE30131935268A86D17958E": {
+			"id": "F9F77E80DFE30131935268A86D17958E",
+			"asnIdentifier": "S2405267",
+			"position": 148000,
+			"depth": 2,
+			"statementNotation": "4.1.M",
+			"description": "Seek help from trusted adults for oneself or a friend with an emotional or social health problem.",
+			"ancestorIds": [
+				"F9F72D50DFE30131935168A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F72D50DFE30131935168A86D17958E": {
+			"id": "F9F72D50DFE30131935168A86D17958E",
+			"asnIdentifier": "S2403441",
+			"position": 147000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Interpersonal Communication - All students will demonstrate the ability to use interpersonal communication skills to enhance health.",
+			"comments": [
+				"Positive relationships support the development of healthy attitudes and behaviors. The ability to appropriately convey and receive information, beliefs, and emotions is a skill that enables students to manage risk, conflict, and differences and to promote health."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F6DAB0DFE30131935068A86D17958E": {
+			"id": "F9F6DAB0DFE30131935068A86D17958E",
+			"asnIdentifier": "S2405266",
+			"position": 146000,
+			"depth": 2,
+			"statementNotation": "3.4.M",
+			"description": "Analyze situations to determine whether they call for acts of caring among friends or require getting the help of trusted adults.",
+			"ancestorIds": [
+				"F9F548B0DFE30131934C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F68130DFE30131934F68A86D17958E": {
+			"id": "F9F68130DFE30131934F68A86D17958E",
+			"asnIdentifier": "S2405265",
+			"position": 145000,
+			"depth": 2,
+			"statementNotation": "3.3.M",
+			"description": "Identify trusted adults to report to if people are in danger of hurting themselves or others.",
+			"ancestorIds": [
+				"F9F548B0DFE30131934C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F603E0DFE30131934E68A86D17958E": {
+			"id": "F9F603E0DFE30131934E68A86D17958E",
+			"asnIdentifier": "S2405264",
+			"position": 144000,
+			"depth": 2,
+			"statementNotation": "3.2.M",
+			"description": "Describe situations for which adult help is needed, including intimidating and dangerous situations, and how to access help for oneself and others.",
+			"ancestorIds": [
+				"F9F548B0DFE30131934C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F59AF0DFE30131934D68A86D17958E": {
+			"id": "F9F59AF0DFE30131934D68A86D17958E",
+			"asnIdentifier": "S2405263",
+			"position": 143000,
+			"depth": 2,
+			"statementNotation": "3.1.M",
+			"description": "Access accurate sources of information and services about mental, emotional, and social health.",
+			"ancestorIds": [
+				"F9F548B0DFE30131934C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F548B0DFE30131934C68A86D17958E": {
+			"id": "F9F548B0DFE30131934C68A86D17958E",
+			"asnIdentifier": "S2403439",
+			"position": 142000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Accessing Valid Information - All students will demonstrate the ability to access and analyze health information, products, and services.",
+			"comments": [
+				"Students are exposed to numerous sources of information, products, and services. The ability to access and analyze health information, products, and services provides a foundation for practicing health-enhancing behaviors. Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F4F510DFE30131934B68A86D17958E": {
+			"id": "F9F4F510DFE30131934B68A86D17958E",
+			"asnIdentifier": "S2405262",
+			"position": 141000,
+			"depth": 2,
+			"statementNotation": "2.3.M",
+			"description": "Analyze the influence of culture on family values and practices.",
+			"ancestorIds": [
+				"F9F3F210DFE30131934868A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F4A180DFE30131934A68A86D17958E": {
+			"id": "F9F4A180DFE30131934A68A86D17958E",
+			"asnIdentifier": "S2405261",
+			"position": 140000,
+			"depth": 2,
+			"statementNotation": "2.2.M",
+			"description": "Analyze techniques that are used to pressure someone to engage in or be a target of violent behavior.",
+			"ancestorIds": [
+				"F9F3F210DFE30131934868A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F44730DFE30131934968A86D17958E": {
+			"id": "F9F44730DFE30131934968A86D17958E",
+			"asnIdentifier": "S2405260",
+			"position": 139000,
+			"depth": 2,
+			"statementNotation": "2.1.M",
+			"description": "Analyze internal and external influences on mental, emotional, and social health.",
+			"ancestorIds": [
+				"F9F3F210DFE30131934868A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F3F210DFE30131934868A86D17958E": {
+			"id": "F9F3F210DFE30131934868A86D17958E",
+			"asnIdentifier": "S2403437",
+			"position": 138000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Analyzing Influences - All students will demonstrate the ability to analyze internal and external influences that affect health.",
+			"comments": [
+				"Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F39240DFE30131934768A86D17958E": {
+			"id": "F9F39240DFE30131934768A86D17958E",
+			"asnIdentifier": "S2405259",
+			"position": 137000,
+			"depth": 2,
+			"statementNotation": "1.11.M",
+			"description": "Describe common mental health conditions and why seeking professional help for these conditions is important.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F32C30DFE30131934668A86D17958E": {
+			"id": "F9F32C30DFE30131934668A86D17958E",
+			"asnIdentifier": "S2405258",
+			"position": 136000,
+			"depth": 2,
+			"statementNotation": "1.10.M",
+			"description": "Describe signs of depression, potential suicide, and other self-destructive behaviors.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F2CE40DFE30131934568A86D17958E": {
+			"id": "F9F2CE40DFE30131934568A86D17958E",
+			"asnIdentifier": "S2405257",
+			"position": 135000,
+			"depth": 2,
+			"statementNotation": "1.9.M",
+			"description": "Identify the signs of various eating disorders.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F270F0DFE30131934468A86D17958E": {
+			"id": "F9F270F0DFE30131934468A86D17958E",
+			"asnIdentifier": "S2405256",
+			"position": 134000,
+			"depth": 2,
+			"statementNotation": "1.8.M",
+			"description": "Analyze the harmful effects of using diet pills without physician supervision.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F22370DFE30131934368A86D17958E": {
+			"id": "F9F22370DFE30131934368A86D17958E",
+			"asnIdentifier": "S2405255",
+			"position": 133000,
+			"depth": 2,
+			"statementNotation": "1.7.M",
+			"description": "Describe the benefits of having positive relationships with trusted adults.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F1D3F0DFE30131934268A86D17958E": {
+			"id": "F9F1D3F0DFE30131934268A86D17958E",
+			"asnIdentifier": "S2405254",
+			"position": 132000,
+			"depth": 2,
+			"statementNotation": "1.6.M",
+			"description": "Describe the changing roles and responsibilities of adolescents as members of a family and community.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F184C0DFE30131934168A86D17958E": {
+			"id": "F9F184C0DFE30131934168A86D17958E",
+			"asnIdentifier": "S2405253",
+			"position": 131000,
+			"depth": 2,
+			"statementNotation": "1.5.M",
+			"description": "Recognize diversity among people, including disability, gender, race, sexual orientation, and body size.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F134F0DFE30131934068A86D17958E": {
+			"id": "F9F134F0DFE30131934068A86D17958E",
+			"asnIdentifier": "S2405252",
+			"position": 130000,
+			"depth": 2,
+			"statementNotation": "1.4.M",
+			"description": "Describe how emotions change during adolescence.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F0E0E0DFE30131933F68A86D17958E": {
+			"id": "F9F0E0E0DFE30131933F68A86D17958E",
+			"asnIdentifier": "S2405251",
+			"position": 129000,
+			"depth": 2,
+			"statementNotation": "1.3.M",
+			"description": "Identify qualities that contribute to a positive self-image.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F06ED0DFE30131933E68A86D17958E": {
+			"id": "F9F06ED0DFE30131933E68A86D17958E",
+			"asnIdentifier": "S2405250",
+			"position": 128000,
+			"depth": 2,
+			"statementNotation": "1.2.M",
+			"description": "Identify a variety of nonviolent ways to respond when angry or upset.",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9F00910DFE30131933D68A86D17958E": {
+			"id": "F9F00910DFE30131933D68A86D17958E",
+			"asnIdentifier": "S2405249",
+			"position": 127000,
+			"depth": 2,
+			"statementNotation": "1.1.M",
+			"description": "Explain positive social behaviors (e.g., helping others, being respectful to others, cooperation, consideration).",
+			"ancestorIds": [
+				"F9EFB880DFE30131933C68A86D17958E",
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9EFB880DFE30131933C68A86D17958E": {
+			"id": "F9EFB880DFE30131933C68A86D17958E",
+			"asnIdentifier": "S2403431",
+			"position": 126000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Essential Concepts - All students will comprehend essential concepts related to enhancing health.",
+			"comments": [
+				"Understanding essential concepts about the relationships between behavior and health provides the foundation for making informed decisions about health-related behaviors and for selecting appropriate health products and services."
+			],
+			"ancestorIds": [
+				"F9EF64C0DFE30131933B68A86D17958E"
+			]
+		},
+		"F9EF64C0DFE30131933B68A86D17958E": {
+			"id": "F9EF64C0DFE30131933B68A86D17958E",
+			"asnIdentifier": "S2403430",
+			"position": 125000,
+			"depth": 0,
+			"statementLabel": "Content Area",
+			"description": "Mental, Emotional, and Social Health",
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EF0F60DFE30131933A68A86D17958E": {
+			"id": "F9EF0F60DFE30131933A68A86D17958E",
+			"asnIdentifier": "S2405248",
+			"position": 124000,
+			"depth": 2,
+			"statementNotation": "8.1.A",
+			"description": "Participate in school and community efforts to promote a drug-free lifestyle.",
+			"ancestorIds": [
+				"F9EEAF20DFE30131933968A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EEAF20DFE30131933968A86D17958E": {
+			"id": "F9EEAF20DFE30131933968A86D17958E",
+			"asnIdentifier": "S2404114",
+			"position": 123000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "8:",
+			"description": "Health Promotion - All students will demonstrate the ability to promote and support personal, family, and community health.",
+			"comments": [
+				"Personal, family, and community health are interdependent and mutually supporting. The ability to promote the health of oneself and others reflects a well-rounded development and expression of health."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EE6290DFE30131933868A86D17958E": {
+			"id": "F9EE6290DFE30131933868A86D17958E",
+			"asnIdentifier": "S2405247",
+			"position": 122000,
+			"depth": 2,
+			"statementNotation": "7.2.A",
+			"description": "Practice positive alternatives to the use of alcohol, tobacco, and other drugs.",
+			"ancestorIds": [
+				"F9EDC270DFE30131933668A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EE1530DFE30131933768A86D17958E": {
+			"id": "F9EE1530DFE30131933768A86D17958E",
+			"asnIdentifier": "S2405246",
+			"position": 121000,
+			"depth": 2,
+			"statementNotation": "7.1.A",
+			"description": "Use a variety of effective coping strategies when there is alcohol, tobacco, or other drug use in group situations.",
+			"ancestorIds": [
+				"F9EDC270DFE30131933668A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EDC270DFE30131933668A86D17958E": {
+			"id": "F9EDC270DFE30131933668A86D17958E",
+			"asnIdentifier": "S2404112",
+			"position": 120000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "7:",
+			"description": "Practicing Health-Enhancing Behaviors - All students will demonstrate the ability to practice behaviors that reduce risk and promote health.",
+			"comments": [
+				"Practicing healthy behaviors builds competence and confidence to use learned skills in real-life situations. The ability to adopt health-enhancing behaviors demonstrates students' ability to use knowledge and skills to manage health and reduce risk-taking behaviors."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9ED7100DFE30131933568A86D17958E": {
+			"id": "F9ED7100DFE30131933568A86D17958E",
+			"asnIdentifier": "S2405245",
+			"position": 119000,
+			"depth": 2,
+			"statementNotation": "6.1.A",
+			"description": "Develop short- and long-term goals to remain drug-free.",
+			"ancestorIds": [
+				"F9ED1B80DFE30131933468A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9ED1B80DFE30131933468A86D17958E": {
+			"id": "F9ED1B80DFE30131933468A86D17958E",
+			"asnIdentifier": "S2404110",
+			"position": 118000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "6:",
+			"description": "Goal Setting - All students will demonstrate the ability to use goal-setting skills to enhance health.",
+			"comments": [
+				"The desire to pursue health is an essential component of building healthy habits. The ability to use goal-setting skills enables students to translate health knowledge into personally meaningful health behaviors."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9ECBD80DFE30131933368A86D17958E": {
+			"id": "F9ECBD80DFE30131933368A86D17958E",
+			"asnIdentifier": "S2405244",
+			"position": 117000,
+			"depth": 2,
+			"statementNotation": "5.1.A",
+			"description": "Use a decision-making process to avoid using alcohol, tobacco, and other drugs in a variety of situations.",
+			"ancestorIds": [
+				"F9EC64E0DFE30131933268A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EC64E0DFE30131933268A86D17958E": {
+			"id": "F9EC64E0DFE30131933268A86D17958E",
+			"asnIdentifier": "S2403573",
+			"position": 116000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Decision Making - All students will demonstrate the ability to use decision-making skills to enhance health.",
+			"comments": [
+				"Managing health behaviors requires critical thinking and problem solving. The ability to use decision-making skills to guide health behaviors fosters a sense of control and promotes the acceptance of personal responsibility."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EC0530DFE30131933168A86D17958E": {
+			"id": "F9EC0530DFE30131933168A86D17958E",
+			"asnIdentifier": "S2405243",
+			"position": 115000,
+			"depth": 2,
+			"statementNotation": "4.1.A",
+			"description": "Use effective refusal and negotiation skills to avoid risky situations, especially where alcohol, tobacco, and other drugs are being used.",
+			"ancestorIds": [
+				"F9EBA870DFE30131933068A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EBA870DFE30131933068A86D17958E": {
+			"id": "F9EBA870DFE30131933068A86D17958E",
+			"asnIdentifier": "S2403570",
+			"position": 114000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Interpersonal Communication - All students will demonstrate the ability to use interpersonal communication skills to enhance health.",
+			"comments": [
+				"Positive relationships support the development of healthy attitudes and behaviors. The ability to appropriately convey and receive information, beliefs, and emotions is a skill that enables students to manage risk, conflict, and differences and to promote health."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9EB3860DFE30131932F68A86D17958E": {
+			"id": "F9EB3860DFE30131932F68A86D17958E",
+			"asnIdentifier": "S2405242",
+			"position": 113000,
+			"depth": 2,
+			"statementNotation": "3.1.A",
+			"description": "Analyze the validity of information, products, and services related to the use of alcohol, tobacco, and other drugs.",
+			"ancestorIds": [
+				"F9E54240DFE30131932E68A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E54240DFE30131932E68A86D17958E": {
+			"id": "F9E54240DFE30131932E68A86D17958E",
+			"asnIdentifier": "S2403568",
+			"position": 112000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Accessing Valid Information - All students will demonstrate the ability to access and analyze health information, products, and services.",
+			"comments": [
+				"Students are exposed to numerous sources of information, products, and services. The ability to access and analyze health information, products, and services provides a foundation for practicing health-enhancing behaviors. Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E4CAD0DFE30131932D68A86D17958E": {
+			"id": "F9E4CAD0DFE30131932D68A86D17958E",
+			"asnIdentifier": "S2405241",
+			"position": 111000,
+			"depth": 2,
+			"statementNotation": "2.3.A",
+			"description": "Analyze family and peer pressure as influences on the use of alcohol, tobacco, and other drugs.",
+			"ancestorIds": [
+				"F9E3AB00DFE30131932A68A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E44FA0DFE30131932C68A86D17958E": {
+			"id": "F9E44FA0DFE30131932C68A86D17958E",
+			"asnIdentifier": "S2405240",
+			"position": 110000,
+			"depth": 2,
+			"statementNotation": "2.2.A",
+			"description": "Evaluate the influence of marketing and advertising techniques and how they affect alcohol, tobacco, and other drug use and abuse.",
+			"ancestorIds": [
+				"F9E3AB00DFE30131932A68A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E3FFD0DFE30131932B68A86D17958E": {
+			"id": "F9E3FFD0DFE30131932B68A86D17958E",
+			"asnIdentifier": "S2405239",
+			"position": 109000,
+			"depth": 2,
+			"statementNotation": "2.1.A",
+			"description": "Analyze internal influences that affect the use and abuse of alcohol, tobacco, and other drugs.",
+			"ancestorIds": [
+				"F9E3AB00DFE30131932A68A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E3AB00DFE30131932A68A86D17958E": {
+			"id": "F9E3AB00DFE30131932A68A86D17958E",
+			"asnIdentifier": "S2403567",
+			"position": 108000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Analyzing Influences - All students will demonstrate the ability to analyze internal and external influences that affect health.",
+			"comments": [
+				"Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E350E0DFE30131932968A86D17958E": {
+			"id": "F9E350E0DFE30131932968A86D17958E",
+			"asnIdentifier": "S2405238",
+			"position": 107000,
+			"depth": 2,
+			"statementNotation": "1.8.A",
+			"description": "Explain school policies and community laws related to the use, possession, and sale of alcohol, tobacco, and illegal drugs.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E2CC60DFE30131932868A86D17958E": {
+			"id": "F9E2CC60DFE30131932868A86D17958E",
+			"asnIdentifier": "S2405237",
+			"position": 106000,
+			"depth": 2,
+			"statementNotation": "1.7.A",
+			"description": "Explain why most youths do not use alcohol, tobacco, or other drugs.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E26F20DFE30131932768A86D17958E": {
+			"id": "F9E26F20DFE30131932768A86D17958E",
+			"asnIdentifier": "S2405236",
+			"position": 105000,
+			"depth": 2,
+			"statementNotation": "1.6.A",
+			"description": "Explain the short- and long-term consequences of using alcohol and other drugs to cope with problems.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E217A0DFE30131932668A86D17958E": {
+			"id": "F9E217A0DFE30131932668A86D17958E",
+			"asnIdentifier": "S2405235",
+			"position": 104000,
+			"depth": 2,
+			"statementNotation": "1.5.A",
+			"description": "Analyze the harmful effects of using diet pills without physician supervision.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E19B40DFE30131932568A86D17958E": {
+			"id": "F9E19B40DFE30131932568A86D17958E",
+			"asnIdentifier": "S2405234",
+			"position": 103000,
+			"depth": 2,
+			"statementNotation": "1.4.A",
+			"description": "Describe the consequences of using alcohol, tobacco, and other drugs during pregnancy, including fetal alcohol spectrum disorders.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E11CE0DFE30131932468A86D17958E": {
+			"id": "F9E11CE0DFE30131932468A86D17958E",
+			"asnIdentifier": "S2405233",
+			"position": 102000,
+			"depth": 2,
+			"statementNotation": "1.3.A",
+			"description": "Explain the dangers of drug dependence and addiction.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E0CA60DFE30131932368A86D17958E": {
+			"id": "F9E0CA60DFE30131932368A86D17958E",
+			"asnIdentifier": "S2405232",
+			"position": 101000,
+			"depth": 2,
+			"statementNotation": "1.2.A",
+			"description": "Describe the relationship between using alcohol, tobacco, and other drugs and engaging in other risky behaviors.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E07AC0DFE30131932268A86D17958E": {
+			"id": "F9E07AC0DFE30131932268A86D17958E",
+			"asnIdentifier": "S2405231",
+			"position": 100000,
+			"depth": 2,
+			"statementNotation": "1.1.A",
+			"description": "Describe the harmful short- and long-term effects of alcohol, tobacco, and other drugs, including steroids, performance enhancing drugs and inhalants.",
+			"ancestorIds": [
+				"F9E02600DFE30131932168A86D17958E",
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9E02600DFE30131932168A86D17958E": {
+			"id": "F9E02600DFE30131932168A86D17958E",
+			"asnIdentifier": "S2403423",
+			"position": 99000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Essential Concepts - All students will comprehend essential concepts related to enhancing health.",
+			"comments": [
+				"Understanding essential concepts about the relationships between behavior and health provides the foundation for making informed decisions about health-related behaviors and for selecting appropriate health products and services."
+			],
+			"ancestorIds": [
+				"F9DFCC90DFE30131932068A86D17958E"
+			]
+		},
+		"F9DFCC90DFE30131932068A86D17958E": {
+			"id": "F9DFCC90DFE30131932068A86D17958E",
+			"asnIdentifier": "S2403422",
+			"position": 98000,
+			"depth": 0,
+			"statementLabel": "Content Area",
+			"description": "Alcohol, Tobacco, and Other Drugs",
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DF7560DFE30131931F68A86D17958E": {
+			"id": "F9DF7560DFE30131931F68A86D17958E",
+			"asnIdentifier": "S2405230",
+			"position": 97000,
+			"depth": 2,
+			"statementNotation": "8.3.S",
+			"description": "Demonstrate the ability to influence others' safety behaviors (e.g., wearing bicycle helmets and seat belts).",
+			"ancestorIds": [
+				"F9DE7240DFE30131931C68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DF1BC0DFE30131931E68A86D17958E": {
+			"id": "F9DF1BC0DFE30131931E68A86D17958E",
+			"asnIdentifier": "S2405229",
+			"position": 96000,
+			"depth": 2,
+			"statementNotation": "8.2.S",
+			"description": "Design a campaign for preventing violence, aggression, bullying, and harassment.",
+			"ancestorIds": [
+				"F9DE7240DFE30131931C68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DEC600DFE30131931D68A86D17958E": {
+			"id": "F9DEC600DFE30131931D68A86D17958E",
+			"asnIdentifier": "S2405228",
+			"position": 95000,
+			"depth": 2,
+			"statementNotation": "8.1.S",
+			"description": "Support changes to promote safety in the home, at school, and in the community.",
+			"ancestorIds": [
+				"F9DE7240DFE30131931C68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DE7240DFE30131931C68A86D17958E": {
+			"id": "F9DE7240DFE30131931C68A86D17958E",
+			"asnIdentifier": "S2403420",
+			"position": 94000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "8:",
+			"description": "Health Promotion - All students will demonstrate the ability to promote and support personal, family, and community health.",
+			"comments": [
+				"Personal, family, and community health are interdependent and mutually supporting. The ability to promote the health of oneself and others reflects a well-rounded development and expression of health."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DE1EE0DFE30131931B68A86D17958E": {
+			"id": "F9DE1EE0DFE30131931B68A86D17958E",
+			"asnIdentifier": "S2405227",
+			"position": 93000,
+			"depth": 2,
+			"statementNotation": "7.3.S",
+			"description": "Practice the safe use of technology.",
+			"ancestorIds": [
+				"F9DD1CE0DFE30131931868A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DDC1C0DFE30131931A68A86D17958E": {
+			"id": "F9DDC1C0DFE30131931A68A86D17958E",
+			"asnIdentifier": "S2405226",
+			"position": 92000,
+			"depth": 2,
+			"statementNotation": "7.2.S",
+			"description": "Practice ways to resolve conflicts nonviolently.",
+			"ancestorIds": [
+				"F9DD1CE0DFE30131931868A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DD6CF0DFE30131931968A86D17958E": {
+			"id": "F9DD6CF0DFE30131931968A86D17958E",
+			"asnIdentifier": "S2405225",
+			"position": 91000,
+			"depth": 2,
+			"statementNotation": "7.1.S",
+			"description": "Practice first aid and emergency procedures.",
+			"ancestorIds": [
+				"F9DD1CE0DFE30131931868A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DD1CE0DFE30131931868A86D17958E": {
+			"id": "F9DD1CE0DFE30131931868A86D17958E",
+			"asnIdentifier": "S2403417",
+			"position": 90000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "7:",
+			"description": "Practicing Health-Enhancing Behaviors - All students will demonstrate the ability to practice behaviors that reduce risk and promote health.",
+			"comments": [
+				"Practicing healthy behaviors builds competence and confidence to use learned skills in real-life situations. The ability to adopt health-enhancing behaviors demonstrates students' ability to use knowledge and skills to manage health and reduce risk-taking behaviors."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DCCE10DFE30131931768A86D17958E": {
+			"id": "F9DCCE10DFE30131931768A86D17958E",
+			"asnIdentifier": "S2405224",
+			"position": 89000,
+			"depth": 2,
+			"statementNotation": "6.2.S",
+			"description": "Create a personal-safety plan.",
+			"ancestorIds": [
+				"F9DC24C0DFE30131931568A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DC7CD0DFE30131931668A86D17958E": {
+			"id": "F9DC7CD0DFE30131931668A86D17958E",
+			"asnIdentifier": "S2405223",
+			"position": 88000,
+			"depth": 2,
+			"statementNotation": "6.1.S",
+			"description": "Make a personal commitment to avoid persons, places, or activities that encourage violence or delinquency.",
+			"ancestorIds": [
+				"F9DC24C0DFE30131931568A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DC24C0DFE30131931568A86D17958E": {
+			"id": "F9DC24C0DFE30131931568A86D17958E",
+			"asnIdentifier": "S2403415",
+			"position": 87000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "6:",
+			"description": "Goal Setting - All students will demonstrate the ability to use goal-setting skills to enhance health.",
+			"comments": [
+				"The desire to pursue health is an essential component of building healthy habits. The ability to use goal-setting skills enables students to translate health knowledge into personally meaningful health behaviors."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DBC580DFE30131931468A86D17958E": {
+			"id": "F9DBC580DFE30131931468A86D17958E",
+			"asnIdentifier": "S2405222",
+			"position": 86000,
+			"depth": 2,
+			"statementNotation": "5.5.S",
+			"description": "Apply decision-making or problem-solving steps to hypothetical situations involving assault and intimidation, including sexual harassment.",
+			"ancestorIds": [
+				"F9DA0910DFE30131930F68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DB7180DFE30131931368A86D17958E": {
+			"id": "F9DB7180DFE30131931368A86D17958E",
+			"asnIdentifier": "S2405221",
+			"position": 85000,
+			"depth": 2,
+			"statementNotation": "5.4.S",
+			"description": "Evaluate why some students are bullies.",
+			"ancestorIds": [
+				"F9DA0910DFE30131930F68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DB1ED0DFE30131931268A86D17958E": {
+			"id": "F9DB1ED0DFE30131931268A86D17958E",
+			"asnIdentifier": "S2405220",
+			"position": 84000,
+			"depth": 2,
+			"statementNotation": "5.3.S",
+			"description": "Use a decision-making process to analyze the consequences of gang involvement.",
+			"ancestorIds": [
+				"F9DA0910DFE30131930F68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DACA20DFE30131931168A86D17958E": {
+			"id": "F9DACA20DFE30131931168A86D17958E",
+			"asnIdentifier": "S2405219",
+			"position": 83000,
+			"depth": 2,
+			"statementNotation": "5.2.S",
+			"description": "Apply a decision-making process to avoid potentially dangerous situations, such as gang activities, violence in dating, and other social situations.",
+			"ancestorIds": [
+				"F9DA0910DFE30131930F68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DA71B0DFE30131931068A86D17958E": {
+			"id": "F9DA71B0DFE30131931068A86D17958E",
+			"asnIdentifier": "S2405218",
+			"position": 82000,
+			"depth": 2,
+			"statementNotation": "5.1.S",
+			"description": "Use a decision-making process to examine risky social and dating situations.",
+			"ancestorIds": [
+				"F9DA0910DFE30131930F68A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9DA0910DFE30131930F68A86D17958E": {
+			"id": "F9DA0910DFE30131930F68A86D17958E",
+			"asnIdentifier": "S2403412",
+			"position": 81000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Decision Making - All students will demonstrate the ability to use decision-making skills to enhance health.",
+			"comments": [
+				"Managing health behaviors requires critical thinking and problem solving. The ability to use decision-making skills to guide health behaviors fosters a sense of control and promotes the acceptance of personal responsibility."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D9ABE0DFE30131930E68A86D17958E": {
+			"id": "F9D9ABE0DFE30131930E68A86D17958E",
+			"asnIdentifier": "S2405217",
+			"position": 80000,
+			"depth": 2,
+			"statementNotation": "4.7.S",
+			"description": "Locate resources in school, in the community, and on the Internet for first aid information and training, and assess the validity of the resources.",
+			"ancestorIds": [
+				"F9D74470DFE30131930768A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D93F00DFE30131930D68A86D17958E": {
+			"id": "F9D93F00DFE30131930D68A86D17958E",
+			"asnIdentifier": "S2405216",
+			"position": 79000,
+			"depth": 2,
+			"statementNotation": "4.6.S",
+			"description": "Differentiate between passive, aggressive, and assertive communication.",
+			"ancestorIds": [
+				"F9D74470DFE30131930768A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D8E510DFE30131930C68A86D17958E": {
+			"id": "F9D8E510DFE30131930C68A86D17958E",
+			"asnIdentifier": "S2405215",
+			"position": 78000,
+			"depth": 2,
+			"statementNotation": "4.5.S",
+			"description": "Describe characteristics of effective communication.",
+			"ancestorIds": [
+				"F9D74470DFE30131930768A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D88F80DFE30131930B68A86D17958E": {
+			"id": "F9D88F80DFE30131930B68A86D17958E",
+			"asnIdentifier": "S2405214",
+			"position": 77000,
+			"depth": 2,
+			"statementNotation": "4.4.S",
+			"description": "Demonstrate ways to ask a parent or other trusted adult for help with a threatening situation.",
+			"ancestorIds": [
+				"F9D74470DFE30131930768A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D83380DFE30131930A68A86D17958E": {
+			"id": "F9D83380DFE30131930A68A86D17958E",
+			"asnIdentifier": "S2405213",
+			"position": 76000,
+			"depth": 2,
+			"statementNotation": "4.3.S",
+			"description": "Describe ways to manage interpersonal conflicts nonviolently.",
+			"ancestorIds": [
+				"F9D74470DFE30131930768A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D7E5A0DFE30131930968A86D17958E": {
+			"id": "F9D7E5A0DFE30131930968A86D17958E",
+			"asnIdentifier": "S2405212",
+			"position": 75000,
+			"depth": 2,
+			"statementNotation": "4.2.S",
+			"description": "Use communication and refusal skills to avoid violence, gang involvement, and risky situations.",
+			"ancestorIds": [
+				"F9D74470DFE30131930768A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D79670DFE30131930868A86D17958E": {
+			"id": "F9D79670DFE30131930868A86D17958E",
+			"asnIdentifier": "S2405211",
+			"position": 74000,
+			"depth": 2,
+			"statementNotation": "4.1.S",
+			"description": "Report to a trusted adult situations that could lead to injury or harm.",
+			"ancestorIds": [
+				"F9D74470DFE30131930768A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D74470DFE30131930768A86D17958E": {
+			"id": "F9D74470DFE30131930768A86D17958E",
+			"asnIdentifier": "S2403409",
+			"position": 73000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Interpersonal Communication - All students will demonstrate the ability to use interpersonal communication skills to enhance health.",
+			"comments": [
+				"Positive relationships support the development of healthy attitudes and behaviors. The ability to appropriately convey and receive information, beliefs, and emotions is a skill that enables students to manage risk, conflict, and differences and to promote health."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D6F430DFE30131930668A86D17958E": {
+			"id": "F9D6F430DFE30131930668A86D17958E",
+			"asnIdentifier": "S2405210",
+			"position": 72000,
+			"depth": 2,
+			"statementNotation": "3.2.S",
+			"description": "Demonstrate the ability to access accurate sources of information about abuse, violence, and bullying.",
+			"ancestorIds": [
+				"F9D638D0DFE30131930468A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D69FE0DFE30131930568A86D17958E": {
+			"id": "F9D69FE0DFE30131930568A86D17958E",
+			"asnIdentifier": "S2405209",
+			"position": 71000,
+			"depth": 2,
+			"statementNotation": "3.1.S",
+			"description": "Analyze sources of information regarding injury and violence prevention.",
+			"ancestorIds": [
+				"F9D638D0DFE30131930468A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D638D0DFE30131930468A86D17958E": {
+			"id": "F9D638D0DFE30131930468A86D17958E",
+			"asnIdentifier": "S2403407",
+			"position": 70000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Accessing Valid Information - All students will demonstrate the ability to access and analyze health information, products, and services.",
+			"comments": [
+				"Students are exposed to numerous sources of information, products, and services. The ability to access and analyze health information, products, and services provides a foundation for practicing health-enhancing behaviors. Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D5E090DFE30131930368A86D17958E": {
+			"id": "F9D5E090DFE30131930368A86D17958E",
+			"asnIdentifier": "S2405208",
+			"position": 69000,
+			"depth": 2,
+			"statementNotation": "2.2.S",
+			"description": "Evaluate individual, group, and societal influences that promote cooperation and respectful behaviors and those that promote violence and disrespectful behaviors.",
+			"ancestorIds": [
+				"F9D52190DFE30131930168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D58C40DFE30131930268A86D17958E": {
+			"id": "F9D58C40DFE30131930268A86D17958E",
+			"asnIdentifier": "S2405207",
+			"position": 68000,
+			"depth": 2,
+			"statementNotation": "2.1.S",
+			"description": "Analyze how the media portray fire and explosives.",
+			"ancestorIds": [
+				"F9D52190DFE30131930168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D52190DFE30131930168A86D17958E": {
+			"id": "F9D52190DFE30131930168A86D17958E",
+			"asnIdentifier": "S2403405",
+			"position": 67000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Analyzing Influences - All students will demonstrate the ability to analyze internal and external influences that affect health.",
+			"comments": [
+				"Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D4BDC0DFE30131930068A86D17958E": {
+			"id": "F9D4BDC0DFE30131930068A86D17958E",
+			"asnIdentifier": "S2405206",
+			"position": 66000,
+			"depth": 2,
+			"statementNotation": "1.15.S",
+			"description": "Explain ways to reduce the risk of injuries (including oral injuries) that can occur during sports and recreational activities.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D45210DFE3013192FF68A86D17958E": {
+			"id": "F9D45210DFE3013192FF68A86D17958E",
+			"asnIdentifier": "S2405205",
+			"position": 65000,
+			"depth": 2,
+			"statementNotation": "1.14.S",
+			"description": "Explain ways to reduce the risk of injuries in and around water.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D3FEF0DFE3013192FE68A86D17958E": {
+			"id": "F9D3FEF0DFE3013192FE68A86D17958E",
+			"asnIdentifier": "S2405204",
+			"position": 64000,
+			"depth": 2,
+			"statementNotation": "1.13.S",
+			"description": "Explain ways to prevent fires and reduce the risk of fire-related injuries.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D3AA40DFE3013192FD68A86D17958E": {
+			"id": "F9D3AA40DFE3013192FD68A86D17958E",
+			"asnIdentifier": "S2405203",
+			"position": 63000,
+			"depth": 2,
+			"statementNotation": "1.12.S",
+			"description": "Explain safety hazards associated with Internet usage.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D35200DFE3013192FC68A86D17958E": {
+			"id": "F9D35200DFE3013192FC68A86D17958E",
+			"asnIdentifier": "S2405202",
+			"position": 62000,
+			"depth": 2,
+			"statementNotation": "1.11.S",
+			"description": "Identify ways to prevent climate-related physical conditions such as exhaustion, sunburn, heat stroke, and hypothermia.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D2F790DFE3013192FB68A86D17958E": {
+			"id": "F9D2F790DFE3013192FB68A86D17958E",
+			"asnIdentifier": "S2405201",
+			"position": 61000,
+			"depth": 2,
+			"statementNotation": "1.10.S",
+			"description": "Identify basic safety guidelines for emergencies and natural disasters.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D29630DFE3013192FA68A86D17958E": {
+			"id": "F9D29630DFE3013192FA68A86D17958E",
+			"asnIdentifier": "S2405200",
+			"position": 60000,
+			"depth": 2,
+			"statementNotation": "1.9.S",
+			"description": "Describe the behavioral and environmental factors associated with major causes of death in the United States.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D23A30DFE3013192F968A86D17958E": {
+			"id": "F9D23A30DFE3013192F968A86D17958E",
+			"asnIdentifier": "S2405199",
+			"position": 59000,
+			"depth": 2,
+			"statementNotation": "1.8.S",
+			"description": "Describe types of sexual harassment and ways to report them.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D1E600DFE3013192F868A86D17958E": {
+			"id": "F9D1E600DFE3013192F868A86D17958E",
+			"asnIdentifier": "S2405198",
+			"position": 58000,
+			"depth": 2,
+			"statementNotation": "1.7.S",
+			"description": "Describe possible legal consequences of sexual harassment and violence.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D19280DFE3013192F768A86D17958E": {
+			"id": "F9D19280DFE3013192F768A86D17958E",
+			"asnIdentifier": "S2405197",
+			"position": 57000,
+			"depth": 2,
+			"statementNotation": "1.6.S",
+			"description": "Identify trusted adults to whom school or community violence should be reported.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D13DC0DFE3013192F668A86D17958E": {
+			"id": "F9D13DC0DFE3013192F668A86D17958E",
+			"asnIdentifier": "S2405196",
+			"position": 56000,
+			"depth": 2,
+			"statementNotation": "1.5.S",
+			"description": "Explain how violence, aggression, bullying, and harassment affect health and safety.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D0DD60DFE3013192F568A86D17958E": {
+			"id": "F9D0DD60DFE3013192F568A86D17958E",
+			"asnIdentifier": "S2405195",
+			"position": 55000,
+			"depth": 2,
+			"statementNotation": "1.4.S",
+			"description": "Discuss the importance of reporting weapon possession.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D08A60DFE3013192F468A86D17958E": {
+			"id": "F9D08A60DFE3013192F468A86D17958E",
+			"asnIdentifier": "S2405194",
+			"position": 54000,
+			"depth": 2,
+			"statementNotation": "1.3.S",
+			"description": "Describe how the presence of weapons increases the risk of serious violent injuries.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9D03180DFE3013192F368A86D17958E": {
+			"id": "F9D03180DFE3013192F368A86D17958E",
+			"asnIdentifier": "S2405193",
+			"position": 53000,
+			"depth": 2,
+			"statementNotation": "1.2.S",
+			"description": "Explain how witnesses and bystanders can help prevent violence by reporting dangerous situations.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9CFCD50DFE3013192F268A86D17958E": {
+			"id": "F9CFCD50DFE3013192F268A86D17958E",
+			"asnIdentifier": "S2405192",
+			"position": 52000,
+			"depth": 2,
+			"statementNotation": "1.1.S",
+			"description": "Describe the differences between physical, verbal, and sexual violence.",
+			"ancestorIds": [
+				"F9CF5C30DFE3013192F168A86D17958E",
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9CF5C30DFE3013192F168A86D17958E": {
+			"id": "F9CF5C30DFE3013192F168A86D17958E",
+			"asnIdentifier": "S2403391",
+			"position": 51000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Essential Concepts - All students will comprehend essential concepts related to enhancing health.",
+			"comments": [
+				"Understanding essential concepts about the relationships between behavior and health provides the foundation for making informed decisions about health-related behaviors and for selecting appropriate health products and services."
+			],
+			"ancestorIds": [
+				"F9CF0370DFE3013192F068A86D17958E"
+			]
+		},
+		"F9CF0370DFE3013192F068A86D17958E": {
+			"id": "F9CF0370DFE3013192F068A86D17958E",
+			"asnIdentifier": "S2403390",
+			"position": 50000,
+			"depth": 0,
+			"statementLabel": "Content Area",
+			"description": "Injury Prevention and Safety",
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CEB420DFE3013192EF68A86D17958E": {
+			"id": "F9CEB420DFE3013192EF68A86D17958E",
+			"asnIdentifier": "S2405150",
+			"position": 49000,
+			"depth": 2,
+			"statementNotation": "8.3.N",
+			"description": "Encourage peers to eat healthy foods and to be physically active.",
+			"ancestorIds": [
+				"F9CD9CF0DFE3013192EC68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CE62A0DFE3013192EE68A86D17958E": {
+			"id": "F9CE62A0DFE3013192EE68A86D17958E",
+			"asnIdentifier": "S2405149",
+			"position": 48000,
+			"depth": 2,
+			"statementNotation": "8.2.N",
+			"description": "Support increased opportunities for physical activity at school and in the community.",
+			"ancestorIds": [
+				"F9CD9CF0DFE3013192EC68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CE0820DFE3013192ED68A86D17958E": {
+			"id": "F9CE0820DFE3013192ED68A86D17958E",
+			"asnIdentifier": "S2405148",
+			"position": 47000,
+			"depth": 2,
+			"statementNotation": "8.1.N",
+			"description": "Encourage nutrient-dense food choices in school.",
+			"ancestorIds": [
+				"F9CD9CF0DFE3013192EC68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CD9CF0DFE3013192EC68A86D17958E": {
+			"id": "F9CD9CF0DFE3013192EC68A86D17958E",
+			"asnIdentifier": "S2403379",
+			"position": 46000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "8:",
+			"description": "Health Promotion - All students will demonstrate the ability to promote and support personal, family, and community health.",
+			"comments": [
+				"Personal, family, and community health are interdependent and mutually supporting. The ability to promote the health of oneself and others reflects a well-rounded development and expression of health."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CD4E00DFE3013192EB68A86D17958E": {
+			"id": "F9CD4E00DFE3013192EB68A86D17958E",
+			"asnIdentifier": "S2405147",
+			"position": 45000,
+			"depth": 2,
+			"statementNotation": "7.4.N",
+			"description": "Examine ways to be physically active throughout a lifetime.",
+			"ancestorIds": [
+				"F9CC02C0DFE3013192E768A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CCFF40DFE3013192EA68A86D17958E": {
+			"id": "F9CCFF40DFE3013192EA68A86D17958E",
+			"asnIdentifier": "S2405146",
+			"position": 44000,
+			"depth": 2,
+			"statementNotation": "7.3.N",
+			"description": "Assess personal physical activity levels.",
+			"ancestorIds": [
+				"F9CC02C0DFE3013192E768A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CCB010DFE3013192E968A86D17958E": {
+			"id": "F9CCB010DFE3013192E968A86D17958E",
+			"asnIdentifier": "S2405145",
+			"position": 43000,
+			"depth": 2,
+			"statementNotation": "7.2.N",
+			"description": "Explain proper food handling safety when preparing meals and snacks.",
+			"ancestorIds": [
+				"F9CC02C0DFE3013192E768A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CC5D20DFE3013192E868A86D17958E": {
+			"id": "F9CC5D20DFE3013192E868A86D17958E",
+			"asnIdentifier": "S2405144",
+			"position": 42000,
+			"depth": 2,
+			"statementNotation": "7.1.N",
+			"description": "Make healthy food choices in a variety of settings.",
+			"ancestorIds": [
+				"F9CC02C0DFE3013192E768A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CC02C0DFE3013192E768A86D17958E": {
+			"id": "F9CC02C0DFE3013192E768A86D17958E",
+			"asnIdentifier": "S2403375",
+			"position": 41000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "7:",
+			"description": "Practicing Health-Enhancing Behaviors - All students will demonstrate the ability to practice behaviors that reduce risk and promote health.",
+			"comments": [
+				"Practicing healthy behaviors builds competence and confidence to use learned skills in real-life situations. The ability to adopt health-enhancing behaviors demonstrates students' ability to use knowledge and skills to manage health and reduce risk-taking behaviors."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CBA160DFE3013192E668A86D17958E": {
+			"id": "F9CBA160DFE3013192E668A86D17958E",
+			"asnIdentifier": "S2405143",
+			"position": 40000,
+			"depth": 2,
+			"statementNotation": "6.2.N",
+			"description": "Set a goal to increase daily physical activity.",
+			"ancestorIds": [
+				"F9CAEDE0DFE3013192E468A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CB4BC0DFE3013192E568A86D17958E": {
+			"id": "F9CB4BC0DFE3013192E568A86D17958E",
+			"asnIdentifier": "S2405141",
+			"position": 39000,
+			"depth": 2,
+			"statementNotation": "6.1.N",
+			"description": "Make a personal plan for improving one's nutrition and incorporating physical activity into daily routines.",
+			"ancestorIds": [
+				"F9CAEDE0DFE3013192E468A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CAEDE0DFE3013192E468A86D17958E": {
+			"id": "F9CAEDE0DFE3013192E468A86D17958E",
+			"asnIdentifier": "S2403373",
+			"position": 38000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "6:",
+			"description": "Goal Setting - All students will demonstrate the ability to use goal-setting skills to enhance health.",
+			"comments": [
+				"The desire to pursue health is an essential component of building healthy habits. The ability to use goal-setting skills enables students to translate health knowledge into personally meaningful health behaviors."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CA8BB0DFE3013192E368A86D17958E": {
+			"id": "F9CA8BB0DFE3013192E368A86D17958E",
+			"asnIdentifier": "S2405140",
+			"position": 37000,
+			"depth": 2,
+			"statementNotation": "5.4.N",
+			"description": "Analyze the physical, mental, and social benefits of physical activity.",
+			"ancestorIds": [
+				"F9C91850DFE3013192DF68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9CA1ED0DFE3013192E268A86D17958E": {
+			"id": "F9CA1ED0DFE3013192E268A86D17958E",
+			"asnIdentifier": "S2405139",
+			"position": 36000,
+			"depth": 2,
+			"statementNotation": "5.3.N",
+			"description": "Contrast healthy and risky approaches to weight management.",
+			"ancestorIds": [
+				"F9C91850DFE3013192DF68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C9BF00DFE3013192E168A86D17958E": {
+			"id": "F9C9BF00DFE3013192E168A86D17958E",
+			"asnIdentifier": "S2405138",
+			"position": 35000,
+			"depth": 2,
+			"statementNotation": "5.2.N",
+			"description": "Identify recreational activities that increase physical activity.",
+			"ancestorIds": [
+				"F9C91850DFE3013192DF68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C96C30DFE3013192E068A86D17958E": {
+			"id": "F9C96C30DFE3013192E068A86D17958E",
+			"asnIdentifier": "S2405137",
+			"position": 34000,
+			"depth": 2,
+			"statementNotation": "5.1.N",
+			"description": "Use a decision-making process to evaluate daily food intake for nutritional requirements.",
+			"ancestorIds": [
+				"F9C91850DFE3013192DF68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C91850DFE3013192DF68A86D17958E": {
+			"id": "F9C91850DFE3013192DF68A86D17958E",
+			"asnIdentifier": "S2403371",
+			"position": 33000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Decision Making - All students will demonstrate the ability to use decision-making skills to enhance health.",
+			"comments": [
+				"Managing health behaviors requires critical thinking and problem solving. The ability to use decision-making skills to guide health behaviors fosters a sense of control and promotes the acceptance of personal responsibility."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C8C240DFE3013192DE68A86D17958E": {
+			"id": "F9C8C240DFE3013192DE68A86D17958E",
+			"asnIdentifier": "S2405136",
+			"position": 32000,
+			"depth": 2,
+			"statementNotation": "4.2.N",
+			"description": "Practice effective communication skills with parents, guardians, or trusted adults regarding healthy nutrition and physical activity choices.",
+			"ancestorIds": [
+				"F9C7D7C0DFE3013192DC68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C851E0DFE3013192DD68A86D17958E": {
+			"id": "F9C851E0DFE3013192DD68A86D17958E",
+			"asnIdentifier": "S2405135",
+			"position": 31000,
+			"depth": 2,
+			"statementNotation": "4.1.N",
+			"description": "Demonstrate the ability to use effective skills to model healthy decision making and prevent overconsumption of foods and beverages.",
+			"ancestorIds": [
+				"F9C7D7C0DFE3013192DC68A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C7D7C0DFE3013192DC68A86D17958E": {
+			"id": "F9C7D7C0DFE3013192DC68A86D17958E",
+			"asnIdentifier": "S2403369",
+			"position": 30000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Interpersonal Communication - All students will demonstrate the ability to use interpersonal communication skills to enhance health.",
+			"comments": [
+				"Positive relationships support the development of healthy attitudes and behaviors. The ability to appropriately convey and receive information, beliefs, and emotions is a skill that enables students to manage risk, conflict, and differences and to promote health."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C783C0DFE3013192DB68A86D17958E": {
+			"id": "F9C783C0DFE3013192DB68A86D17958E",
+			"asnIdentifier": "S2405134",
+			"position": 29000,
+			"depth": 2,
+			"statementNotation": "3.5.N",
+			"description": "Identify trusted adults in one's family, school, and community for advice and counseling regarding healthy eating and physical activity.",
+			"ancestorIds": [
+				"F9C5BD50DFE3013192D668A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C72FB0DFE3013192DA68A86D17958E": {
+			"id": "F9C72FB0DFE3013192DA68A86D17958E",
+			"asnIdentifier": "S2405133",
+			"position": 28000,
+			"depth": 2,
+			"statementNotation": "3.4.N",
+			"description": "Identify places where youths and families can be physically active.",
+			"ancestorIds": [
+				"F9C5BD50DFE3013192D668A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C6D8F0DFE3013192D968A86D17958E": {
+			"id": "F9C6D8F0DFE3013192D968A86D17958E",
+			"asnIdentifier": "S2405132",
+			"position": 27000,
+			"depth": 2,
+			"statementNotation": "3.3.N",
+			"description": "Describe how to access nutrition information about foods offered in restaurants in one's community.",
+			"ancestorIds": [
+				"F9C5BD50DFE3013192D668A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C68380DFE3013192D868A86D17958E": {
+			"id": "F9C68380DFE3013192D868A86D17958E",
+			"asnIdentifier": "S2405131",
+			"position": 26000,
+			"depth": 2,
+			"statementNotation": "3.2.N",
+			"description": "Evaluate the accuracy of claims about dietary supplements and popular diets.",
+			"ancestorIds": [
+				"F9C5BD50DFE3013192D668A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C620B0DFE3013192D768A86D17958E": {
+			"id": "F9C620B0DFE3013192D768A86D17958E",
+			"asnIdentifier": "S2405130",
+			"position": 25000,
+			"depth": 2,
+			"statementNotation": "3.1.N",
+			"description": "Distinguish between valid and invalid sources of nutrition information.",
+			"ancestorIds": [
+				"F9C5BD50DFE3013192D668A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C5BD50DFE3013192D668A86D17958E": {
+			"id": "F9C5BD50DFE3013192D668A86D17958E",
+			"asnIdentifier": "S2403367",
+			"position": 24000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Accessing Valid Information - All students will demonstrate the ability to access and analyze health information, products, and services.",
+			"comments": [
+				"Students are exposed to numerous sources of information, products, and services. The ability to access and analyze health information, products, and services provides a foundation for practicing health-enhancing behaviors. Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C56020DFE3013192D568A86D17958E": {
+			"id": "F9C56020DFE3013192D568A86D17958E",
+			"asnIdentifier": "S2405129",
+			"position": 23000,
+			"depth": 2,
+			"statementNotation": "2.4.N",
+			"description": "Analyze the influence of technology and media on physical activity.",
+			"ancestorIds": [
+				"F9C39F40DFE3013192D168A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C4F070DFE3013192D468A86D17958E": {
+			"id": "F9C4F070DFE3013192D468A86D17958E",
+			"asnIdentifier": "S2405128",
+			"position": 22000,
+			"depth": 2,
+			"statementNotation": "2.3.N",
+			"description": "Analyze the impact of nutritional choices on future reproductive and prenatal health.",
+			"ancestorIds": [
+				"F9C39F40DFE3013192D168A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C487B0DFE3013192D368A86D17958E": {
+			"id": "F9C487B0DFE3013192D368A86D17958E",
+			"asnIdentifier": "S2405127",
+			"position": 21000,
+			"depth": 2,
+			"statementNotation": "2.2.N",
+			"description": "Evaluate internal and external influences on food choices.",
+			"ancestorIds": [
+				"F9C39F40DFE3013192D168A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C409F0DFE3013192D268A86D17958E": {
+			"id": "F9C409F0DFE3013192D268A86D17958E",
+			"asnIdentifier": "S2405126",
+			"position": 20000,
+			"depth": 2,
+			"statementNotation": "2.1.N",
+			"description": "Describe the influence of culture and media on body image.",
+			"ancestorIds": [
+				"F9C39F40DFE3013192D168A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C39F40DFE3013192D168A86D17958E": {
+			"id": "F9C39F40DFE3013192D168A86D17958E",
+			"asnIdentifier": "S2403365",
+			"position": 19000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Analyzing Influences - All students will demonstrate the ability to analyze internal and external influences that affect health.",
+			"comments": [
+				"Health choices are affected by a variety of influences. The ability to recognize, analyze, and evaluate internal and external influences is essential to protecting and enhancing health."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C33590DFE3013192D068A86D17958E": {
+			"id": "F9C33590DFE3013192D068A86D17958E",
+			"asnIdentifier": "S2405125",
+			"position": 18000,
+			"depth": 2,
+			"statementNotation": "1.16.N",
+			"description": "Differentiate between physical activity and exercise and health-related and skill-related fitness.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C2DD00DFE3013192CF68A86D17958E": {
+			"id": "F9C2DD00DFE3013192CF68A86D17958E",
+			"asnIdentifier": "S2405124",
+			"position": 17000,
+			"depth": 2,
+			"statementNotation": "1.15.N",
+			"description": "Explain that incorporating daily moderate or vigorous physical activity into one's life does not require a structured exercise plan or special equipment.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C26F50DFE3013192CE68A86D17958E": {
+			"id": "F9C26F50DFE3013192CE68A86D17958E",
+			"asnIdentifier": "S2405123",
+			"position": 16000,
+			"depth": 2,
+			"statementNotation": "1.14.N",
+			"description": "Identify ways to increase daily physical activity.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C211C0DFE3013192CD68A86D17958E": {
+			"id": "F9C211C0DFE3013192CD68A86D17958E",
+			"asnIdentifier": "S2405122",
+			"position": 15000,
+			"depth": 2,
+			"statementNotation": "1.13.N",
+			"description": "Explain how to use a Body Mass Index (BMI) score as a tool for measuring general health.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C1C450DFE3013192CC68A86D17958E": {
+			"id": "F9C1C450DFE3013192CC68A86D17958E",
+			"asnIdentifier": "S2405121",
+			"position": 14000,
+			"depth": 2,
+			"statementNotation": "1.12.N",
+			"description": "Examine the role of lifelong fitness activities in maintaining personal fitness, blood pressure, weight, and percentage of body fat.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C17630DFE3013192CB68A86D17958E": {
+			"id": "F9C17630DFE3013192CB68A86D17958E",
+			"asnIdentifier": "S2405120",
+			"position": 13000,
+			"depth": 2,
+			"statementNotation": "1.11.N",
+			"description": "Analyze the cognitive and physical benefits of eating breakfast daily.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C12750DFE3013192CA68A86D17958E": {
+			"id": "F9C12750DFE3013192CA68A86D17958E",
+			"asnIdentifier": "S2405119",
+			"position": 12000,
+			"depth": 2,
+			"statementNotation": "1.10.N",
+			"description": "Identify the impact of nutrition on chronic disease.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C0D200DFE3013192C968A86D17958E": {
+			"id": "F9C0D200DFE3013192C968A86D17958E",
+			"asnIdentifier": "S2405118",
+			"position": 11000,
+			"depth": 2,
+			"statementNotation": "1.9.N",
+			"description": "Analyze the harmful effects of engaging in unscientific diet practices to lose or gain weight.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C07F90DFE3013192C868A86D17958E": {
+			"id": "F9C07F90DFE3013192C868A86D17958E",
+			"asnIdentifier": "S2405117",
+			"position": 10000,
+			"depth": 2,
+			"statementNotation": "1.8.N",
+			"description": "Identify ways to prepare food that are consistent with current research-based guidelines for a nutritionally balanced diet.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9C02800DFE3013192C768A86D17958E": {
+			"id": "F9C02800DFE3013192C768A86D17958E",
+			"asnIdentifier": "S2405116",
+			"position": 9000,
+			"depth": 2,
+			"statementNotation": "1.7.N",
+			"description": "Describe the benefits of eating a variety of foods high in iron, calcium, and fiber.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BFD6D0DFE3013192C668A86D17958E": {
+			"id": "F9BFD6D0DFE3013192C668A86D17958E",
+			"asnIdentifier": "S2405115",
+			"position": 8000,
+			"depth": 2,
+			"statementNotation": "1.6.N",
+			"description": "Analyze the caloric and nutritional value of foods and beverages.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BF8530DFE3013192C568A86D17958E": {
+			"id": "F9BF8530DFE3013192C568A86D17958E",
+			"asnIdentifier": "S2405114",
+			"position": 7000,
+			"depth": 2,
+			"statementNotation": "1.5.N",
+			"description": "Differentiate between diets that are health-promoting and diets linked to disease.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BF3010DFE3013192C468A86D17958E": {
+			"id": "F9BF3010DFE3013192C468A86D17958E",
+			"asnIdentifier": "S2405113",
+			"position": 6000,
+			"depth": 2,
+			"statementNotation": "1.4.N",
+			"description": "Describe how to keep food safe through proper food purchasing, preparation, and storage practices.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BECD50DFE3013192C368A86D17958E": {
+			"id": "F9BECD50DFE3013192C368A86D17958E",
+			"asnIdentifier": "S2405112",
+			"position": 5000,
+			"depth": 2,
+			"statementNotation": "1.3.N",
+			"description": "Examine the health risks caused by food contaminants.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BE7B90DFE3013192C268A86D17958E": {
+			"id": "F9BE7B90DFE3013192C268A86D17958E",
+			"asnIdentifier": "S2405111",
+			"position": 4000,
+			"depth": 2,
+			"statementNotation": "1.2.N",
+			"description": "Identify nutrients and their relationships to health.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BE2100DFE3013192C168A86D17958E": {
+			"id": "F9BE2100DFE3013192C168A86D17958E",
+			"asnIdentifier": "S2405110",
+			"position": 3000,
+			"depth": 2,
+			"statementNotation": "1.1.N",
+			"description": "Describe the short- and long-term impact of nutritional choices on health.",
+			"ancestorIds": [
+				"F9BDC040DFE3013192C068A86D17958E",
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BDC040DFE3013192C068A86D17958E": {
+			"id": "F9BDC040DFE3013192C068A86D17958E",
+			"asnIdentifier": "S2403048",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Essential Concepts - All students will comprehend essential concepts related to enhancing health.",
+			"comments": [
+				"Understanding essential concepts about the relationships between behavior and health provides the foundation for making informed decisions about health-related behaviors and for selecting appropriate health products and services."
+			],
+			"ancestorIds": [
+				"F9BD57F0DFE3013192BF68A86D17958E"
+			]
+		},
+		"F9BD57F0DFE3013192BF68A86D17958E": {
+			"id": "F9BD57F0DFE3013192BF68A86D17958E",
+			"asnIdentifier": "S2403046",
+			"position": 1000,
+			"depth": 0,
+			"statementLabel": "Content Area",
+			"description": "Nutrition and Physical Activity",
+			"ancestorIds": []
+		}
+	}
+}

@@ -1,0 +1,2544 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2515047_grade-04",
+	"title": "Grade 4",
+	"subject": "English Language Arts & Literacy",
+	"educationLevels": [
+		"04"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2515047",
+		"valid": "2010",
+		"title": "California Common Core State Standards: English Language Arts and Literacy",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/finalelaccssstandards.pdf",
+		"asnIdentifier": "D2515047",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"2A7CE2F9B7284E0781C816E4B8B083CF": {
+			"id": "2A7CE2F9B7284E0781C816E4B8B083CF",
+			"asnIdentifier": "S2516074",
+			"position": 164000,
+			"depth": 2,
+			"statementNotation": "L.4.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal precise actions, emotions, or states of being (e.g., quizzed, whined, stammered) and that are basic to a particular topic (e.g., wildlife, conservation, and endangered when discussing animal preservation).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/6"
+			],
+			"ancestorIds": [
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"F2C73DBE32C540789AA9874246847AC4": {
+			"id": "F2C73DBE32C540789AA9874246847AC4",
+			"asnIdentifier": "S2516073",
+			"position": 163000,
+			"depth": 3,
+			"statementNotation": "L.4.5c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Demonstrate understanding of words by relating them to their opposites (antonyms) and to words with similar but not identical meanings (synonyms).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/5/c"
+			],
+			"ancestorIds": [
+				"BC88B8FC944541B3BD77B452947E4BBD",
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"3A306DB9B9AD41849408DD2A125D4AD4": {
+			"id": "3A306DB9B9AD41849408DD2A125D4AD4",
+			"asnIdentifier": "S2516072",
+			"position": 162000,
+			"depth": 3,
+			"statementNotation": "L.4.5b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Recognize and explain the meaning of common idioms, adages, and proverbs.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/5/b"
+			],
+			"ancestorIds": [
+				"BC88B8FC944541B3BD77B452947E4BBD",
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"21F98D3EBFBD4598808128B92B74B338": {
+			"id": "21F98D3EBFBD4598808128B92B74B338",
+			"asnIdentifier": "S2516071",
+			"position": 161000,
+			"depth": 3,
+			"statementNotation": "L.4.5a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Explain the meaning of simple similes and metaphors (e.g., as pretty as a picture) in context.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/5/a"
+			],
+			"ancestorIds": [
+				"BC88B8FC944541B3BD77B452947E4BBD",
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"BC88B8FC944541B3BD77B452947E4BBD": {
+			"id": "BC88B8FC944541B3BD77B452947E4BBD",
+			"asnIdentifier": "S2516070",
+			"position": 160000,
+			"depth": 2,
+			"statementNotation": "L.4.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/5"
+			],
+			"ancestorIds": [
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"6CC6B5BC71524D42864DB7F461FB4055": {
+			"id": "6CC6B5BC71524D42864DB7F461FB4055",
+			"asnIdentifier": "S2516069",
+			"position": 159000,
+			"depth": 3,
+			"statementNotation": "L.4.4c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation and determine or clarify the precise meaning of key words and phrases and to identify alternate word choices in all content areas.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/4/c"
+			],
+			"ancestorIds": [
+				"E18ADAD0A025494482B14F19FDA609F0",
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"D4C561E8FD6744B8A980993C9CB6E128": {
+			"id": "D4C561E8FD6744B8A980993C9CB6E128",
+			"asnIdentifier": "S2516068",
+			"position": 158000,
+			"depth": 3,
+			"statementNotation": "L.4.4b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., telegraph, photograph, autograph).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/4/b"
+			],
+			"ancestorIds": [
+				"E18ADAD0A025494482B14F19FDA609F0",
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"66C5BC4F0C46477888AF82C2D41CC147": {
+			"id": "66C5BC4F0C46477888AF82C2D41CC147",
+			"asnIdentifier": "S2516067",
+			"position": 157000,
+			"depth": 3,
+			"statementNotation": "L.4.4a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Use context (e.g., definitions, examples, or restatements in text) as a clue to the meaning of a word or phrase.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/4/a"
+			],
+			"ancestorIds": [
+				"E18ADAD0A025494482B14F19FDA609F0",
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"E18ADAD0A025494482B14F19FDA609F0": {
+			"id": "E18ADAD0A025494482B14F19FDA609F0",
+			"asnIdentifier": "S2516066",
+			"position": 156000,
+			"depth": 2,
+			"statementNotation": "L.4.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/4"
+			],
+			"ancestorIds": [
+				"E77E79BD29B54484AAF1DEBF84CA6BAD",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"E77E79BD29B54484AAF1DEBF84CA6BAD": {
+			"id": "E77E79BD29B54484AAF1DEBF84CA6BAD",
+			"asnIdentifier": "S2516026",
+			"position": 155000,
+			"depth": 1,
+			"description": "Vocabulary Acquisition and Use",
+			"ancestorIds": [
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"028298823439466A918B42B2058F2F87": {
+			"id": "028298823439466A918B42B2058F2F87",
+			"asnIdentifier": "S2516011",
+			"position": 154000,
+			"depth": 3,
+			"statementNotation": "L.4.3c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is appropriate (e.g., small-group discussion).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/3/c"
+			],
+			"ancestorIds": [
+				"BF7ACD342CFA45E1B6796C219825CC67",
+				"94ED455C2E8F466985323E2153112628",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"5A38A3D1A08D41DBB89690782BCF9660": {
+			"id": "5A38A3D1A08D41DBB89690782BCF9660",
+			"asnIdentifier": "S2516010",
+			"position": 153000,
+			"depth": 3,
+			"statementNotation": "L.4.3b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Choose punctuation for effect.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/3/b"
+			],
+			"ancestorIds": [
+				"BF7ACD342CFA45E1B6796C219825CC67",
+				"94ED455C2E8F466985323E2153112628",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"43849FB670BE4A1DA07E6C0A8C780684": {
+			"id": "43849FB670BE4A1DA07E6C0A8C780684",
+			"asnIdentifier": "S2516009",
+			"position": 152000,
+			"depth": 3,
+			"statementNotation": "L.4.3a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Choose words and phrases to convey ideas precisely.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/3/a"
+			],
+			"ancestorIds": [
+				"BF7ACD342CFA45E1B6796C219825CC67",
+				"94ED455C2E8F466985323E2153112628",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"BF7ACD342CFA45E1B6796C219825CC67": {
+			"id": "BF7ACD342CFA45E1B6796C219825CC67",
+			"asnIdentifier": "S2516008",
+			"position": 151000,
+			"depth": 2,
+			"statementNotation": "L.4.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/3"
+			],
+			"ancestorIds": [
+				"94ED455C2E8F466985323E2153112628",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"94ED455C2E8F466985323E2153112628": {
+			"id": "94ED455C2E8F466985323E2153112628",
+			"asnIdentifier": "S2516001",
+			"position": 150000,
+			"depth": 1,
+			"description": "Knowledge of Language",
+			"ancestorIds": [
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"F81BECA9D440486FA38161B1F2627EB5": {
+			"id": "F81BECA9D440486FA38161B1F2627EB5",
+			"asnIdentifier": "S2515950",
+			"position": 149000,
+			"depth": 3,
+			"statementNotation": "L.4.2d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Spell grade-appropriate words correctly, consulting references as needed.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/2/d"
+			],
+			"ancestorIds": [
+				"B04AE1ECD60E413192D0732ABD24FF71",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"8F33E4851F2646CB9BAA1A704406C3FA": {
+			"id": "8F33E4851F2646CB9BAA1A704406C3FA",
+			"asnIdentifier": "S2515949",
+			"position": 148000,
+			"depth": 3,
+			"statementNotation": "L.4.2c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Use a comma before a coordinating conjunction in a compound sentence.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/2/c"
+			],
+			"ancestorIds": [
+				"B04AE1ECD60E413192D0732ABD24FF71",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"B0BB067DA0DC400FAA68DD02BF15FB95": {
+			"id": "B0BB067DA0DC400FAA68DD02BF15FB95",
+			"asnIdentifier": "S2515948",
+			"position": 147000,
+			"depth": 3,
+			"statementNotation": "L.4.2b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Use commas and quotation marks to mark direct speech and quotations from a text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/2/b"
+			],
+			"ancestorIds": [
+				"B04AE1ECD60E413192D0732ABD24FF71",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"A8F06E73A9774216A397B90BE8606EF7": {
+			"id": "A8F06E73A9774216A397B90BE8606EF7",
+			"asnIdentifier": "S2515947",
+			"position": 146000,
+			"depth": 3,
+			"statementNotation": "L.4.2a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Use correct capitalization.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/2/a"
+			],
+			"ancestorIds": [
+				"B04AE1ECD60E413192D0732ABD24FF71",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"B04AE1ECD60E413192D0732ABD24FF71": {
+			"id": "B04AE1ECD60E413192D0732ABD24FF71",
+			"asnIdentifier": "S2515946",
+			"position": 145000,
+			"depth": 2,
+			"statementNotation": "L.4.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/2"
+			],
+			"ancestorIds": [
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"8CD6CC18DE4C424CA5FE64C577E4CE9B": {
+			"id": "8CD6CC18DE4C424CA5FE64C577E4CE9B",
+			"asnIdentifier": "S2516662",
+			"position": 144000,
+			"depth": 3,
+			"statementNotation": "L.4.1h",
+			"statementLabel": "Component",
+			"listId": "h.",
+			"description": "Write fluidly and legibly in cursive or joined italics.",
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"FB8AA3D18C3648C0928C0D65C6153B7E": {
+			"id": "FB8AA3D18C3648C0928C0D65C6153B7E",
+			"asnIdentifier": "S2515945",
+			"position": 143000,
+			"depth": 3,
+			"statementNotation": "L.4.1g",
+			"statementLabel": "Component",
+			"listId": "g.",
+			"description": "Correctly use frequently confused words (e.g., to, too, two; there, their).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/1/g"
+			],
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"391F0782F3944A368DCD2C98276D1146": {
+			"id": "391F0782F3944A368DCD2C98276D1146",
+			"asnIdentifier": "S2515944",
+			"position": 142000,
+			"depth": 3,
+			"statementNotation": "L.4.1f",
+			"altStatementNotation": "L.4.1.f",
+			"statementLabel": "Component",
+			"listId": "f.",
+			"description": "Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/1/f"
+			],
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"3F081F4538954FC28B90CA5A1C36511F": {
+			"id": "3F081F4538954FC28B90CA5A1C36511F",
+			"asnIdentifier": "S2515943",
+			"position": 141000,
+			"depth": 3,
+			"statementNotation": "L.4.1e",
+			"statementLabel": "Component",
+			"listId": "e.",
+			"description": "Form and use prepositional phrases.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/1/e"
+			],
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"6F2F2FDA56B448F088846CC3D27F3A71": {
+			"id": "6F2F2FDA56B448F088846CC3D27F3A71",
+			"asnIdentifier": "S2515942",
+			"position": 140000,
+			"depth": 3,
+			"statementNotation": "L.4.1d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Order adjectives within sentences according to conventional patterns (e.g., a small red bag rather than a red small bag).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/1/d"
+			],
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"8840F0D630FC40A1A5E8F9A3B5DBF6AC": {
+			"id": "8840F0D630FC40A1A5E8F9A3B5DBF6AC",
+			"asnIdentifier": "S2515941",
+			"position": 139000,
+			"depth": 3,
+			"statementNotation": "L.4.1c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Use modal auxiliaries (e.g., can, may, must) to convey various conditions.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/1/c"
+			],
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"9EAC0C2FAF6B4AE0954538E2F6417116": {
+			"id": "9EAC0C2FAF6B4AE0954538E2F6417116",
+			"asnIdentifier": "S2515940",
+			"position": 138000,
+			"depth": 3,
+			"statementNotation": "L.4.1b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Form and use the progressive (e.g., I was walking; I am walking; I will be walking) verb tenses.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/1/b"
+			],
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"6688B1FDA1C249E49E21128E9B6E2942": {
+			"id": "6688B1FDA1C249E49E21128E9B6E2942",
+			"asnIdentifier": "S2515939",
+			"position": 137000,
+			"depth": 3,
+			"statementNotation": "L.4.1a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Use interrogative, relative pronouns (who, whose, whom, which, that) and relative adverbs (where, when, why).",
+			"ancestorIds": [
+				"D28B4A5082BD460CB853EDA28405F6FC",
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"D28B4A5082BD460CB853EDA28405F6FC": {
+			"id": "D28B4A5082BD460CB853EDA28405F6FC",
+			"asnIdentifier": "S2515938",
+			"position": 136000,
+			"depth": 2,
+			"statementNotation": "L.4.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/L/4/1"
+			],
+			"ancestorIds": [
+				"15E194689CCE4799ABF166070FA8CC4C",
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"15E194689CCE4799ABF166070FA8CC4C": {
+			"id": "15E194689CCE4799ABF166070FA8CC4C",
+			"asnIdentifier": "S2515877",
+			"position": 135000,
+			"depth": 1,
+			"description": "Conventions of Standard English",
+			"ancestorIds": [
+				"067357C294184C97BD0535E7903B6801"
+			]
+		},
+		"067357C294184C97BD0535E7903B6801": {
+			"id": "067357C294184C97BD0535E7903B6801",
+			"asnIdentifier": "S2515876",
+			"position": 134000,
+			"depth": 0,
+			"description": "Language Standards",
+			"ancestorIds": [
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"C528A1177D12401193D3853A2D93EAFE": {
+			"id": "C528A1177D12401193D3853A2D93EAFE",
+			"asnIdentifier": "S2515874",
+			"position": 133000,
+			"depth": 2,
+			"statementNotation": "L.CCR.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/L/6"
+			],
+			"ancestorIds": [
+				"512BF8F18EAF443C9E0057B1FD08D79F",
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"B26CE71D0F1D41AD8A2056906E97AE68": {
+			"id": "B26CE71D0F1D41AD8A2056906E97AE68",
+			"asnIdentifier": "S2515873",
+			"position": 132000,
+			"depth": 2,
+			"statementNotation": "L.CCR.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/L/5"
+			],
+			"ancestorIds": [
+				"512BF8F18EAF443C9E0057B1FD08D79F",
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"DF325F5D38E34C83BDEE3C76642A3D4F": {
+			"id": "DF325F5D38E34C83BDEE3C76642A3D4F",
+			"asnIdentifier": "S2515872",
+			"position": 131000,
+			"depth": 2,
+			"statementNotation": "L.CCR.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/L/4"
+			],
+			"ancestorIds": [
+				"512BF8F18EAF443C9E0057B1FD08D79F",
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"512BF8F18EAF443C9E0057B1FD08D79F": {
+			"id": "512BF8F18EAF443C9E0057B1FD08D79F",
+			"asnIdentifier": "S2515871",
+			"position": 130000,
+			"depth": 1,
+			"description": "Vocabulary Acquisition and Use",
+			"ancestorIds": [
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"AE282E3F41F74E43A40D0274034CFA7F": {
+			"id": "AE282E3F41F74E43A40D0274034CFA7F",
+			"asnIdentifier": "S2515870",
+			"position": 129000,
+			"depth": 2,
+			"statementNotation": "L.CCR.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/L/3"
+			],
+			"ancestorIds": [
+				"8C2C97FB68084959B9EDBC7D8A6FAEE5",
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"8C2C97FB68084959B9EDBC7D8A6FAEE5": {
+			"id": "8C2C97FB68084959B9EDBC7D8A6FAEE5",
+			"asnIdentifier": "S2515869",
+			"position": 128000,
+			"depth": 1,
+			"description": "Knowledge of Language",
+			"ancestorIds": [
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"964C9B9DEBFC4974A628B15676DB0AE9": {
+			"id": "964C9B9DEBFC4974A628B15676DB0AE9",
+			"asnIdentifier": "S2515868",
+			"position": 127000,
+			"depth": 2,
+			"statementNotation": "L.CCR.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/L/2"
+			],
+			"ancestorIds": [
+				"B3B82A6220644298AD7C2C57F1306B82",
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"FE149250A0DC498A9333A40F3B64BCFB": {
+			"id": "FE149250A0DC498A9333A40F3B64BCFB",
+			"asnIdentifier": "S2515867",
+			"position": 126000,
+			"depth": 2,
+			"statementNotation": "L.CCR.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/L/1"
+			],
+			"ancestorIds": [
+				"B3B82A6220644298AD7C2C57F1306B82",
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"B3B82A6220644298AD7C2C57F1306B82": {
+			"id": "B3B82A6220644298AD7C2C57F1306B82",
+			"asnIdentifier": "S2515866",
+			"position": 125000,
+			"depth": 1,
+			"description": "Conventions of Standard English",
+			"ancestorIds": [
+				"7FDD98209DBE470A8086775700EFB0B9"
+			]
+		},
+		"7FDD98209DBE470A8086775700EFB0B9": {
+			"id": "7FDD98209DBE470A8086775700EFB0B9",
+			"asnIdentifier": "S2515865",
+			"position": 124000,
+			"depth": 0,
+			"description": "College and Career Readiness Anchor Standards for Language",
+			"ancestorIds": [
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"20E7EDB6FAF34F0CB125A94DCA91BBDC": {
+			"id": "20E7EDB6FAF34F0CB125A94DCA91BBDC",
+			"asnIdentifier": "S2515846",
+			"position": 123000,
+			"depth": 2,
+			"statementNotation": "SL.4.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is appropriate (e.g., small-group discussion); use formal English when appropriate to task and situation.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/6"
+			],
+			"ancestorIds": [
+				"D857C182B0E7492B8BDFB674DB72432C",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"1EC7FD76D7814351B421E8F15D36E30F": {
+			"id": "1EC7FD76D7814351B421E8F15D36E30F",
+			"asnIdentifier": "S2515845",
+			"position": 122000,
+			"depth": 2,
+			"statementNotation": "SL.4.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Add audio recordings and visual displays to presentations when appropriate to enhance the development of main ideas or themes.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/5"
+			],
+			"ancestorIds": [
+				"D857C182B0E7492B8BDFB674DB72432C",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"205B57DD4E154A08867FE73E97DB6261": {
+			"id": "205B57DD4E154A08867FE73E97DB6261",
+			"asnIdentifier": "S2516677",
+			"position": 121000,
+			"depth": 3,
+			"statementNotation": "SL.4.4a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Plan and deliver a narrative presentation that: relates ideas, observations, or recollections; provides a clear context; and includes clear insight into why the event or experience is memorable.",
+			"ancestorIds": [
+				"8C9AF1BE42AB4C6C8AE48D5D1610BFA3",
+				"D857C182B0E7492B8BDFB674DB72432C",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"8C9AF1BE42AB4C6C8AE48D5D1610BFA3": {
+			"id": "8C9AF1BE42AB4C6C8AE48D5D1610BFA3",
+			"asnIdentifier": "S2515844",
+			"position": 120000,
+			"depth": 2,
+			"statementNotation": "SL.4.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Report on a topic or text, tell a story, or recount an experience in an organized manner, using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/4"
+			],
+			"ancestorIds": [
+				"D857C182B0E7492B8BDFB674DB72432C",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"D857C182B0E7492B8BDFB674DB72432C": {
+			"id": "D857C182B0E7492B8BDFB674DB72432C",
+			"asnIdentifier": "S2515831",
+			"position": 119000,
+			"depth": 1,
+			"description": "Presentation of Knowledge and Ideas",
+			"ancestorIds": [
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"D7397EF55E7A40B3AAEF23640C9E6E7F": {
+			"id": "D7397EF55E7A40B3AAEF23640C9E6E7F",
+			"asnIdentifier": "S2515788",
+			"position": 118000,
+			"depth": 2,
+			"statementNotation": "SL.4.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Identify the reasons and evidence a speaker or media source provides to support particular points.",
+			"ancestorIds": [
+				"8D567689D04640DE929B1AFE45138EF3",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"B5035B2CA60B46FE8BCF01EB2913A24C": {
+			"id": "B5035B2CA60B46FE8BCF01EB2913A24C",
+			"asnIdentifier": "S2515787",
+			"position": 117000,
+			"depth": 2,
+			"statementNotation": "SL.4.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Paraphrase portions of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/2"
+			],
+			"ancestorIds": [
+				"8D567689D04640DE929B1AFE45138EF3",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"BCDAD8FBFE0A4D4E98C14E3F7F567012": {
+			"id": "BCDAD8FBFE0A4D4E98C14E3F7F567012",
+			"asnIdentifier": "S2515786",
+			"position": 116000,
+			"depth": 3,
+			"statementNotation": "SL.4.1.d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Review the key ideas expressed and explain their own ideas and understanding in light of the discussion.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/1/d"
+			],
+			"ancestorIds": [
+				"00970C21E3F4407DAE082FCAEDA57435",
+				"8D567689D04640DE929B1AFE45138EF3",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"74498CB5F29042AD81A365CE715BAB70": {
+			"id": "74498CB5F29042AD81A365CE715BAB70",
+			"asnIdentifier": "S2515785",
+			"position": 115000,
+			"depth": 3,
+			"statementNotation": "SL.4.1.c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Pose and respond to specific questions to clarify or follow up on information, and make comments that contribute to the discussion and link to the remarks of others.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/1/c"
+			],
+			"ancestorIds": [
+				"00970C21E3F4407DAE082FCAEDA57435",
+				"8D567689D04640DE929B1AFE45138EF3",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"A6CCA9394D0C47DC934B7A7B6A5F9D79": {
+			"id": "A6CCA9394D0C47DC934B7A7B6A5F9D79",
+			"asnIdentifier": "S2515784",
+			"position": 114000,
+			"depth": 3,
+			"statementNotation": "SL.4.1.b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Follow agreed-upon rules for discussions and carry out assigned roles.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/1/b"
+			],
+			"ancestorIds": [
+				"00970C21E3F4407DAE082FCAEDA57435",
+				"8D567689D04640DE929B1AFE45138EF3",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"86BA9DFA48E94F9BA3635751F101DA95": {
+			"id": "86BA9DFA48E94F9BA3635751F101DA95",
+			"asnIdentifier": "S2515783",
+			"position": 113000,
+			"depth": 3,
+			"statementNotation": "SL.4.1.a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/1/a"
+			],
+			"ancestorIds": [
+				"00970C21E3F4407DAE082FCAEDA57435",
+				"8D567689D04640DE929B1AFE45138EF3",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"00970C21E3F4407DAE082FCAEDA57435": {
+			"id": "00970C21E3F4407DAE082FCAEDA57435",
+			"asnIdentifier": "S2515782",
+			"position": 112000,
+			"depth": 2,
+			"statementNotation": "SL.4.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/SL/4/1"
+			],
+			"ancestorIds": [
+				"8D567689D04640DE929B1AFE45138EF3",
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"8D567689D04640DE929B1AFE45138EF3": {
+			"id": "8D567689D04640DE929B1AFE45138EF3",
+			"asnIdentifier": "S2515757",
+			"position": 111000,
+			"depth": 1,
+			"description": "Comprehension and Collaboration",
+			"ancestorIds": [
+				"2580B64F3E5145F2990FF0E383CE161D"
+			]
+		},
+		"2580B64F3E5145F2990FF0E383CE161D": {
+			"id": "2580B64F3E5145F2990FF0E383CE161D",
+			"asnIdentifier": "S2515756",
+			"position": 110000,
+			"depth": 0,
+			"description": "Speaking and Listening Standards",
+			"ancestorIds": [
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"AAE59906F6684AA78538360200C5C3AE": {
+			"id": "AAE59906F6684AA78538360200C5C3AE",
+			"asnIdentifier": "S2515755",
+			"position": 109000,
+			"depth": 2,
+			"statementNotation": "SL.CCR.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Adapt speech to a variety of contexts and communicative tasks, demonstrating command of formal English when indicated or appropriate.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/SL/6"
+			],
+			"ancestorIds": [
+				"A84F9841D0584897B8B2418D71A64B7B",
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"C834A1949CAE43FCB33F04BE167A0F55": {
+			"id": "C834A1949CAE43FCB33F04BE167A0F55",
+			"asnIdentifier": "S2515754",
+			"position": 108000,
+			"depth": 2,
+			"statementNotation": "SL.CCR.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/SL/5"
+			],
+			"ancestorIds": [
+				"A84F9841D0584897B8B2418D71A64B7B",
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"00E3C00F200E4E19B919342972103533": {
+			"id": "00E3C00F200E4E19B919342972103533",
+			"asnIdentifier": "S2515753",
+			"position": 107000,
+			"depth": 2,
+			"statementNotation": "SL.CCR.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Present information, findings, and supporting evidence such that listeners can follow the line of reasoning and the organization, development, and style are appropriate to task, purpose, and audience.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/SL/4"
+			],
+			"ancestorIds": [
+				"A84F9841D0584897B8B2418D71A64B7B",
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"A84F9841D0584897B8B2418D71A64B7B": {
+			"id": "A84F9841D0584897B8B2418D71A64B7B",
+			"asnIdentifier": "S2515752",
+			"position": 106000,
+			"depth": 1,
+			"description": "Presentation of Knowledge and Ideas",
+			"ancestorIds": [
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"C5B39CD19AF94987BE23481756037C2E": {
+			"id": "C5B39CD19AF94987BE23481756037C2E",
+			"asnIdentifier": "S2515751",
+			"position": 105000,
+			"depth": 2,
+			"statementNotation": "SL.CCR.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/SL/3"
+			],
+			"ancestorIds": [
+				"BCFE1BD3F0E94F5194D27E46118F15EA",
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"56DE249CC88748BFA75DDBE033333BAE": {
+			"id": "56DE249CC88748BFA75DDBE033333BAE",
+			"asnIdentifier": "S2515750",
+			"position": 104000,
+			"depth": 2,
+			"statementNotation": "SL.CCR.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/SL/2"
+			],
+			"ancestorIds": [
+				"BCFE1BD3F0E94F5194D27E46118F15EA",
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"D47CBB84A1334B918CBE043956F64C66": {
+			"id": "D47CBB84A1334B918CBE043956F64C66",
+			"asnIdentifier": "S2515749",
+			"position": 103000,
+			"depth": 2,
+			"statementNotation": "SL.CCR.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others' ideas and expressing their own clearly and persuasively.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/SL/1"
+			],
+			"ancestorIds": [
+				"BCFE1BD3F0E94F5194D27E46118F15EA",
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"BCFE1BD3F0E94F5194D27E46118F15EA": {
+			"id": "BCFE1BD3F0E94F5194D27E46118F15EA",
+			"asnIdentifier": "S2515748",
+			"position": 102000,
+			"depth": 1,
+			"description": "Comprehension and Collaboration",
+			"ancestorIds": [
+				"2A9AB2CF85A741A1846EE013725DDEEE"
+			]
+		},
+		"2A9AB2CF85A741A1846EE013725DDEEE": {
+			"id": "2A9AB2CF85A741A1846EE013725DDEEE",
+			"asnIdentifier": "S2515747",
+			"position": 101000,
+			"depth": 0,
+			"description": "College and Career Readiness Anchor Standards for Speaking and Listening",
+			"ancestorIds": [
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"C13DC71E842D47ECB8B29CB25FD8370C": {
+			"id": "C13DC71E842D47ECB8B29CB25FD8370C",
+			"asnIdentifier": "S2515676",
+			"position": 100000,
+			"depth": 2,
+			"statementNotation": "W.4.10",
+			"statementLabel": "Standard",
+			"listId": "10.",
+			"description": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/10"
+			],
+			"ancestorIds": [
+				"82B498656A944C70841D57732305BAD1",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"82B498656A944C70841D57732305BAD1": {
+			"id": "82B498656A944C70841D57732305BAD1",
+			"asnIdentifier": "S2515673",
+			"position": 99000,
+			"depth": 1,
+			"description": "Range of Writing",
+			"ancestorIds": [
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"EF9DBBDD9E7045DCA1C9394FC9B7E38D": {
+			"id": "EF9DBBDD9E7045DCA1C9394FC9B7E38D",
+			"asnIdentifier": "S2515642",
+			"position": 98000,
+			"depth": 3,
+			"statementNotation": "W.4.9.b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Apply grade 4 Reading standards to informational texts (e.g., \"Explain how an author uses reasons and evidence to support particular points in a text\").",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/9/b"
+			],
+			"ancestorIds": [
+				"41163549BFA2464F9390632926931518",
+				"CFAAA6C97DF94B548F0D15D1C5E06B57",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"B2BEAB4D687F41F0A06DFBDE90AE644A": {
+			"id": "B2BEAB4D687F41F0A06DFBDE90AE644A",
+			"asnIdentifier": "S2515641",
+			"position": 97000,
+			"depth": 3,
+			"statementNotation": "W.4.9.a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Apply grade 4 Reading standards to literature (e.g., \"Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text [e.g., a character's thoughts, words, or actions].\").",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/9/a"
+			],
+			"ancestorIds": [
+				"41163549BFA2464F9390632926931518",
+				"CFAAA6C97DF94B548F0D15D1C5E06B57",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"41163549BFA2464F9390632926931518": {
+			"id": "41163549BFA2464F9390632926931518",
+			"asnIdentifier": "S2515640",
+			"position": 96000,
+			"depth": 2,
+			"statementNotation": "W.4.9",
+			"statementLabel": "Standard",
+			"listId": "9.",
+			"description": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/9"
+			],
+			"ancestorIds": [
+				"CFAAA6C97DF94B548F0D15D1C5E06B57",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"C43618916CDC4301AACBD6D86D15B1BB": {
+			"id": "C43618916CDC4301AACBD6D86D15B1BB",
+			"asnIdentifier": "S2515639",
+			"position": 95000,
+			"depth": 2,
+			"statementNotation": "W.4.8",
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Recall relevant information from experiences or gather relevant information from print and digital sources; take notes, paraphrase, and categorize information, and provide a list of sources.",
+			"ancestorIds": [
+				"CFAAA6C97DF94B548F0D15D1C5E06B57",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"6E0F709B83D74BF7A7878E6292254D72": {
+			"id": "6E0F709B83D74BF7A7878E6292254D72",
+			"asnIdentifier": "S2515638",
+			"position": 94000,
+			"depth": 2,
+			"statementNotation": "W.4.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Conduct short research projects that build knowledge through investigation of different aspects of a topic.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/7"
+			],
+			"ancestorIds": [
+				"CFAAA6C97DF94B548F0D15D1C5E06B57",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"CFAAA6C97DF94B548F0D15D1C5E06B57": {
+			"id": "CFAAA6C97DF94B548F0D15D1C5E06B57",
+			"asnIdentifier": "S2515628",
+			"position": 93000,
+			"depth": 1,
+			"description": "Research to Build and Present Knowledge",
+			"ancestorIds": [
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"40DF90DF47B94573BC397E3F97A85371": {
+			"id": "40DF90DF47B94573BC397E3F97A85371",
+			"asnIdentifier": "S2515609",
+			"position": 92000,
+			"depth": 2,
+			"statementNotation": "W.4.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of one page in a single sitting.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/6"
+			],
+			"ancestorIds": [
+				"B40AD07E608844309EE7BB04CC570BC1",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"0EC0FC1B1FF64BB189A1E1030EAEE5A0": {
+			"id": "0EC0FC1B1FF64BB189A1E1030EAEE5A0",
+			"asnIdentifier": "S2515608",
+			"position": 91000,
+			"depth": 2,
+			"statementNotation": "W.4.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/5"
+			],
+			"ancestorIds": [
+				"B40AD07E608844309EE7BB04CC570BC1",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"500DA163098542C08501638D24807F46": {
+			"id": "500DA163098542C08501638D24807F46",
+			"asnIdentifier": "S2515607",
+			"position": 90000,
+			"depth": 2,
+			"statementNotation": "W.4.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Produce clear and coherent writing (including multiple-paragraph texts) in which the development and organization are appropriate to task, purpose, and audience.",
+			"comments": [
+				"(Grade-specific expectations for writing types are defined in standards 1—3 above.)"
+			],
+			"ancestorIds": [
+				"B40AD07E608844309EE7BB04CC570BC1",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"B40AD07E608844309EE7BB04CC570BC1": {
+			"id": "B40AD07E608844309EE7BB04CC570BC1",
+			"asnIdentifier": "S2515596",
+			"position": 89000,
+			"depth": 1,
+			"description": "Production and Distribution of Writing",
+			"ancestorIds": [
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"525F76FB9B904682843496D4DBAEC904": {
+			"id": "525F76FB9B904682843496D4DBAEC904",
+			"asnIdentifier": "S2515483",
+			"position": 88000,
+			"depth": 3,
+			"statementNotation": "W.4.3e",
+			"statementLabel": "Component",
+			"listId": "e.",
+			"description": "Provide a conclusion that follows from the narrated experiences or events.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/3/e"
+			],
+			"ancestorIds": [
+				"BCF547C8A9AA4B6EA141D6C3BFF8A8AF",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"D6D4F2B70007470288FC8BA028CF7DCC": {
+			"id": "D6D4F2B70007470288FC8BA028CF7DCC",
+			"asnIdentifier": "S2515482",
+			"position": 87000,
+			"depth": 3,
+			"statementNotation": "W.4.3d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Use concrete words and phrases and sensory details to convey experiences and events precisely.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/3/d"
+			],
+			"ancestorIds": [
+				"BCF547C8A9AA4B6EA141D6C3BFF8A8AF",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"42BA989B5016453B83897730EC867F7E": {
+			"id": "42BA989B5016453B83897730EC867F7E",
+			"asnIdentifier": "S2515481",
+			"position": 86000,
+			"depth": 3,
+			"statementNotation": "W.4.3c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Use a variety of transitional words and phrases to manage the sequence of events.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/3/c"
+			],
+			"ancestorIds": [
+				"BCF547C8A9AA4B6EA141D6C3BFF8A8AF",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"E28DB0595A524CEB8097656CD004D7CD": {
+			"id": "E28DB0595A524CEB8097656CD004D7CD",
+			"asnIdentifier": "S2515480",
+			"position": 85000,
+			"depth": 3,
+			"statementNotation": "W.4.3b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Use dialogue and description to develop experiences and events or show the responses of characters to situations.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/3/b"
+			],
+			"ancestorIds": [
+				"BCF547C8A9AA4B6EA141D6C3BFF8A8AF",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"ECB1877EB5DB44B490F1F96EB2A99153": {
+			"id": "ECB1877EB5DB44B490F1F96EB2A99153",
+			"asnIdentifier": "S2515479",
+			"position": 84000,
+			"depth": 3,
+			"statementNotation": "W.4.3a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Orient the reader by establishing a situationand introducing a narrator and/or characters; organize an event sequence that unfolds naturally.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/3/a"
+			],
+			"ancestorIds": [
+				"BCF547C8A9AA4B6EA141D6C3BFF8A8AF",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"BCF547C8A9AA4B6EA141D6C3BFF8A8AF": {
+			"id": "BCF547C8A9AA4B6EA141D6C3BFF8A8AF",
+			"asnIdentifier": "S2515478",
+			"position": 83000,
+			"depth": 2,
+			"statementNotation": "W.4.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/3"
+			],
+			"ancestorIds": [
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"9D649FA7E46D4A089FE43DCE322D88FF": {
+			"id": "9D649FA7E46D4A089FE43DCE322D88FF",
+			"asnIdentifier": "S2515477",
+			"position": 82000,
+			"depth": 3,
+			"statementNotation": "W.4.2e",
+			"statementLabel": "Component",
+			"listId": "e.",
+			"description": "Provide a concluding statement or section related to the information or explanation presented",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/2/e"
+			],
+			"ancestorIds": [
+				"50787E083F574BF09720D4AE4280205D",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"CDEA4066AD2940FDBCC6109A417424B6": {
+			"id": "CDEA4066AD2940FDBCC6109A417424B6",
+			"asnIdentifier": "S2515476",
+			"position": 81000,
+			"depth": 3,
+			"statementNotation": "W.4.2d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/2/d"
+			],
+			"ancestorIds": [
+				"50787E083F574BF09720D4AE4280205D",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"8E247DC8C262430FAF164B256242109E": {
+			"id": "8E247DC8C262430FAF164B256242109E",
+			"asnIdentifier": "S2515475",
+			"position": 80000,
+			"depth": 3,
+			"statementNotation": "W.4.2c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Link ideas within categories of information using words and phrases (e.g., another, for example, also, because).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/2/c"
+			],
+			"ancestorIds": [
+				"50787E083F574BF09720D4AE4280205D",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"084C5AA9A1724DB9877AE1DF81F38325": {
+			"id": "084C5AA9A1724DB9877AE1DF81F38325",
+			"asnIdentifier": "S2515474",
+			"position": 79000,
+			"depth": 3,
+			"statementNotation": "W.4.2b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/2/b"
+			],
+			"ancestorIds": [
+				"50787E083F574BF09720D4AE4280205D",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"4FE2A1406D694F03A468617C9FFB81B8": {
+			"id": "4FE2A1406D694F03A468617C9FFB81B8",
+			"asnIdentifier": "S2515473",
+			"position": 78000,
+			"depth": 3,
+			"statementNotation": "W.4.2a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Introduce a topic clearly and group related information in paragraphs and sections; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/2/a"
+			],
+			"ancestorIds": [
+				"50787E083F574BF09720D4AE4280205D",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"50787E083F574BF09720D4AE4280205D": {
+			"id": "50787E083F574BF09720D4AE4280205D",
+			"asnIdentifier": "S2515472",
+			"position": 77000,
+			"depth": 2,
+			"statementNotation": "W.4.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/2"
+			],
+			"ancestorIds": [
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"BF982EEAD3524F98A9E5FFFEECDC1A85": {
+			"id": "BF982EEAD3524F98A9E5FFFEECDC1A85",
+			"asnIdentifier": "S2515471",
+			"position": 76000,
+			"depth": 3,
+			"statementNotation": "W.4.1d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Provide a concluding statement or section related to the opinion presented.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/1/d"
+			],
+			"ancestorIds": [
+				"AAD84B5AA41747B8BAE05D70C8C6B0B6",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"BA63C8C09243439083480C340663E16F": {
+			"id": "BA63C8C09243439083480C340663E16F",
+			"asnIdentifier": "S2515470",
+			"position": 75000,
+			"depth": 3,
+			"statementNotation": "W.4.1c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Link opinion and reasons using words and phrases (e.g., for instance, in order to, in addition).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/1/c"
+			],
+			"ancestorIds": [
+				"AAD84B5AA41747B8BAE05D70C8C6B0B6",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"DB705221B2B04EA09AFBBEFB29787FA2": {
+			"id": "DB705221B2B04EA09AFBBEFB29787FA2",
+			"asnIdentifier": "S2515469",
+			"position": 74000,
+			"depth": 3,
+			"statementNotation": "W.4.1b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Provide reasons that are supported by facts and details.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/1/b"
+			],
+			"ancestorIds": [
+				"AAD84B5AA41747B8BAE05D70C8C6B0B6",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"CE6BCD12E123481581ED14A0D70BC3C3": {
+			"id": "CE6BCD12E123481581ED14A0D70BC3C3",
+			"asnIdentifier": "S2515468",
+			"position": 73000,
+			"depth": 3,
+			"statementNotation": "W.4.1a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Introduce a topic or text clearly, state an opinion, and create an organizational structure in which related ideas are grouped to support the writer's purpose.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/1/a"
+			],
+			"ancestorIds": [
+				"AAD84B5AA41747B8BAE05D70C8C6B0B6",
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"AAD84B5AA41747B8BAE05D70C8C6B0B6": {
+			"id": "AAD84B5AA41747B8BAE05D70C8C6B0B6",
+			"asnIdentifier": "S2515467",
+			"position": 72000,
+			"depth": 2,
+			"statementNotation": "W.4.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/W/4/1"
+			],
+			"ancestorIds": [
+				"E43BEE28F69542A2BBD59C31AFEE464F",
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"E43BEE28F69542A2BBD59C31AFEE464F": {
+			"id": "E43BEE28F69542A2BBD59C31AFEE464F",
+			"asnIdentifier": "S2515442",
+			"position": 71000,
+			"depth": 1,
+			"description": "Text Types and Purposes",
+			"ancestorIds": [
+				"5B526BDFE4EF459186CE39EF02FA8BC5"
+			]
+		},
+		"5B526BDFE4EF459186CE39EF02FA8BC5": {
+			"id": "5B526BDFE4EF459186CE39EF02FA8BC5",
+			"asnIdentifier": "S2515441",
+			"position": 70000,
+			"depth": 0,
+			"description": "Writing Standards",
+			"ancestorIds": [
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"96577CAE1C0B45ABA55D197E926063E1": {
+			"id": "96577CAE1C0B45ABA55D197E926063E1",
+			"asnIdentifier": "S2515440",
+			"position": 69000,
+			"depth": 2,
+			"statementNotation": "W.CCR.10",
+			"statementLabel": "Standard",
+			"listId": "10.",
+			"description": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/10"
+			],
+			"ancestorIds": [
+				"AE4CD46097D546F8A8666CA3F1B7C102",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"AE4CD46097D546F8A8666CA3F1B7C102": {
+			"id": "AE4CD46097D546F8A8666CA3F1B7C102",
+			"asnIdentifier": "S2515439",
+			"position": 68000,
+			"depth": 1,
+			"description": "Range of Writing",
+			"ancestorIds": [
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"73D9BD45B92F496298B9FF0E7D94871C": {
+			"id": "73D9BD45B92F496298B9FF0E7D94871C",
+			"asnIdentifier": "S2515438",
+			"position": 67000,
+			"depth": 2,
+			"statementNotation": "W.CCR.9",
+			"statementLabel": "Standard",
+			"listId": "9.",
+			"description": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/9"
+			],
+			"ancestorIds": [
+				"1DE0FA2A234944B6B11D9CD381E644AC",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"E3FE24597A9F4942983555393CB87AF0": {
+			"id": "E3FE24597A9F4942983555393CB87AF0",
+			"asnIdentifier": "S2515437",
+			"position": 66000,
+			"depth": 2,
+			"statementNotation": "W.CCR.8",
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Gather relevant information from multiple print and digital sources, assess the credibility and accuracy of each source, and integrate the information while avoiding plagiarism.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/8"
+			],
+			"ancestorIds": [
+				"1DE0FA2A234944B6B11D9CD381E644AC",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"3D5FACDFFB1D402A94B0CD8069C9B4B7": {
+			"id": "3D5FACDFFB1D402A94B0CD8069C9B4B7",
+			"asnIdentifier": "S2515436",
+			"position": 65000,
+			"depth": 2,
+			"statementNotation": "W.CCR.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Conduct short as well as more sustained research projects based on focused questions, demonstrating understanding of the subject under investigation.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/7"
+			],
+			"ancestorIds": [
+				"1DE0FA2A234944B6B11D9CD381E644AC",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"1DE0FA2A234944B6B11D9CD381E644AC": {
+			"id": "1DE0FA2A234944B6B11D9CD381E644AC",
+			"asnIdentifier": "S2515435",
+			"position": 64000,
+			"depth": 1,
+			"description": "Research to Build and Present Knowledge",
+			"ancestorIds": [
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"8445E5D9DB274C7AB971E3D45BC11D04": {
+			"id": "8445E5D9DB274C7AB971E3D45BC11D04",
+			"asnIdentifier": "S2515434",
+			"position": 63000,
+			"depth": 2,
+			"statementNotation": "W.CCR.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/6"
+			],
+			"ancestorIds": [
+				"309509CB61DB4342A5805C9B36747884",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"00FB9A24A709469A8A879017B37E1FE0": {
+			"id": "00FB9A24A709469A8A879017B37E1FE0",
+			"asnIdentifier": "S2515433",
+			"position": 62000,
+			"depth": 2,
+			"statementNotation": "W.CCR.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/5"
+			],
+			"ancestorIds": [
+				"309509CB61DB4342A5805C9B36747884",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"5DC3B611A01846E9B706BF5265C9BE60": {
+			"id": "5DC3B611A01846E9B706BF5265C9BE60",
+			"asnIdentifier": "S2515432",
+			"position": 61000,
+			"depth": 2,
+			"statementNotation": "W.CCR.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/4"
+			],
+			"ancestorIds": [
+				"309509CB61DB4342A5805C9B36747884",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"309509CB61DB4342A5805C9B36747884": {
+			"id": "309509CB61DB4342A5805C9B36747884",
+			"asnIdentifier": "S2515431",
+			"position": 60000,
+			"depth": 1,
+			"description": "Production and Distribution of Writing",
+			"ancestorIds": [
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"C683D4C57D014A9E9BDF1B7ABC2B3017": {
+			"id": "C683D4C57D014A9E9BDF1B7ABC2B3017",
+			"asnIdentifier": "S2515430",
+			"position": 59000,
+			"depth": 2,
+			"statementNotation": "W.CCR.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/3"
+			],
+			"ancestorIds": [
+				"BFFC5E2C89534751B4DC5E45D9F8DAD5",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"47A1FBF6920B4DBF9215077A7025E175": {
+			"id": "47A1FBF6920B4DBF9215077A7025E175",
+			"asnIdentifier": "S2515429",
+			"position": 58000,
+			"depth": 2,
+			"statementNotation": "W.CCR.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/2"
+			],
+			"ancestorIds": [
+				"BFFC5E2C89534751B4DC5E45D9F8DAD5",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"799DBE399B4D4C3A9588C2E5A7DE05BA": {
+			"id": "799DBE399B4D4C3A9588C2E5A7DE05BA",
+			"asnIdentifier": "S2515428",
+			"position": 57000,
+			"depth": 2,
+			"statementNotation": "W.CCR.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/W/1"
+			],
+			"ancestorIds": [
+				"BFFC5E2C89534751B4DC5E45D9F8DAD5",
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"BFFC5E2C89534751B4DC5E45D9F8DAD5": {
+			"id": "BFFC5E2C89534751B4DC5E45D9F8DAD5",
+			"asnIdentifier": "S2515427",
+			"position": 56000,
+			"depth": 1,
+			"description": "Text Types and Purposes",
+			"ancestorIds": [
+				"B58AA1DCF2304F458ECCB3D1AFACBC5E"
+			]
+		},
+		"B58AA1DCF2304F458ECCB3D1AFACBC5E": {
+			"id": "B58AA1DCF2304F458ECCB3D1AFACBC5E",
+			"asnIdentifier": "S2515426",
+			"position": 55000,
+			"depth": 0,
+			"description": "College and Career Readiness Anchor Standards for Writing",
+			"ancestorIds": [
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"A4405CCD4E2047F5ACD98BF8634C5B00": {
+			"id": "A4405CCD4E2047F5ACD98BF8634C5B00",
+			"asnIdentifier": "S2515351",
+			"position": 54000,
+			"depth": 3,
+			"statementNotation": "RF.4.4c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RF/4/4/c"
+			],
+			"ancestorIds": [
+				"665EA918939A495186F2BE477EFE3751",
+				"B9682E2BFD66472E9884FFDBDE18AB95",
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"6207D78546604A219A7AD811C86C5EA7": {
+			"id": "6207D78546604A219A7AD811C86C5EA7",
+			"asnIdentifier": "S2515350",
+			"position": 53000,
+			"depth": 3,
+			"statementNotation": "RF.4.4b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Read on-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RF/4/4/b"
+			],
+			"ancestorIds": [
+				"665EA918939A495186F2BE477EFE3751",
+				"B9682E2BFD66472E9884FFDBDE18AB95",
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"B25176A642214EDE8352CABB81945DAF": {
+			"id": "B25176A642214EDE8352CABB81945DAF",
+			"asnIdentifier": "S2515349",
+			"position": 52000,
+			"depth": 3,
+			"statementNotation": "RF.4.4a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Read on-level text with purpose and understanding.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RF/4/4/a"
+			],
+			"ancestorIds": [
+				"665EA918939A495186F2BE477EFE3751",
+				"B9682E2BFD66472E9884FFDBDE18AB95",
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"665EA918939A495186F2BE477EFE3751": {
+			"id": "665EA918939A495186F2BE477EFE3751",
+			"asnIdentifier": "S2515348",
+			"position": 51000,
+			"depth": 2,
+			"statementNotation": "RF.4.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Read with sufficient accuracy and fluency to support comprehension.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RF/4/4"
+			],
+			"ancestorIds": [
+				"B9682E2BFD66472E9884FFDBDE18AB95",
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"B9682E2BFD66472E9884FFDBDE18AB95": {
+			"id": "B9682E2BFD66472E9884FFDBDE18AB95",
+			"asnIdentifier": "S2515334",
+			"position": 50000,
+			"depth": 1,
+			"description": "Fluency",
+			"ancestorIds": [
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"07198DA0341C44B49BE06A6AEACA8259": {
+			"id": "07198DA0341C44B49BE06A6AEACA8259",
+			"asnIdentifier": "S2515331",
+			"position": 49000,
+			"depth": 3,
+			"statementNotation": "RF.4.3a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes) to read accurately unfamiliar multisyllabic words in context and out of context.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RF/4/3/a"
+			],
+			"ancestorIds": [
+				"8BA09A42A57846B0A66C0290B9656F07",
+				"8E85EAE434B143C3BD5049844F45EDFE",
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"8BA09A42A57846B0A66C0290B9656F07": {
+			"id": "8BA09A42A57846B0A66C0290B9656F07",
+			"asnIdentifier": "S2515330",
+			"position": 48000,
+			"depth": 2,
+			"statementNotation": "RF.4.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RF/4/3"
+			],
+			"ancestorIds": [
+				"8E85EAE434B143C3BD5049844F45EDFE",
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"8E85EAE434B143C3BD5049844F45EDFE": {
+			"id": "8E85EAE434B143C3BD5049844F45EDFE",
+			"asnIdentifier": "S2515304",
+			"position": 47000,
+			"depth": 1,
+			"description": "Phonics and Word Recognition",
+			"ancestorIds": [
+				"86B78B257CA34CCBA8C32814729031FB"
+			]
+		},
+		"86B78B257CA34CCBA8C32814729031FB": {
+			"id": "86B78B257CA34CCBA8C32814729031FB",
+			"asnIdentifier": "S2515283",
+			"position": 46000,
+			"depth": 0,
+			"description": "Reading Standards: Foundational Skills",
+			"ancestorIds": [
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"34E6188BB99B494FAF299A7AB236242D": {
+			"id": "34E6188BB99B494FAF299A7AB236242D",
+			"asnIdentifier": "S2515276",
+			"position": 45000,
+			"depth": 2,
+			"statementNotation": "RI.4.10",
+			"statementLabel": "Standard",
+			"listId": "10.",
+			"description": "By the end of year, read and comprehend informational texts, including history/social studies, science, and technical texts, in the grades 4—5 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/10"
+			],
+			"ancestorIds": [
+				"4FAF2ED79834440E8058DE72AED0A839",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"4FAF2ED79834440E8058DE72AED0A839": {
+			"id": "4FAF2ED79834440E8058DE72AED0A839",
+			"asnIdentifier": "S2515271",
+			"position": 44000,
+			"depth": 1,
+			"description": "Range of Reading and Level of Text Complexity",
+			"ancestorIds": [
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"8B65C68A2687496D8386EF3F1F45CB41": {
+			"id": "8B65C68A2687496D8386EF3F1F45CB41",
+			"asnIdentifier": "S2515252",
+			"position": 43000,
+			"depth": 2,
+			"statementNotation": "RI.4.9",
+			"statementLabel": "Standard",
+			"listId": "9.",
+			"description": "Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/9"
+			],
+			"ancestorIds": [
+				"DF291724D71F450690A86878E3175F13",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"B5D4C798CD4945C6ACD72736E06D2C13": {
+			"id": "B5D4C798CD4945C6ACD72736E06D2C13",
+			"asnIdentifier": "S2515251",
+			"position": 42000,
+			"depth": 2,
+			"statementNotation": "RI.4.8",
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Explain how an author uses reasons and evidence to support particular points in a text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/8"
+			],
+			"ancestorIds": [
+				"DF291724D71F450690A86878E3175F13",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"01426B59D83746DC8B3CB6EE8A5796FC": {
+			"id": "01426B59D83746DC8B3CB6EE8A5796FC",
+			"asnIdentifier": "S2515250",
+			"position": 41000,
+			"depth": 2,
+			"statementNotation": "RI.4.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Interpret information presented visually, orally, or quantitatively (e.g., in charts, graphs, diagrams, time lines, animations, or interactive elements on Web pages) and explain how the information contributes to an understanding of the text in which it appears.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/7"
+			],
+			"ancestorIds": [
+				"DF291724D71F450690A86878E3175F13",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"DF291724D71F450690A86878E3175F13": {
+			"id": "DF291724D71F450690A86878E3175F13",
+			"asnIdentifier": "S2515237",
+			"position": 40000,
+			"depth": 1,
+			"description": "Integration of Knowledge and Ideas",
+			"ancestorIds": [
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"4AA6C36CEACB44FDBA7AA607E9583388": {
+			"id": "4AA6C36CEACB44FDBA7AA607E9583388",
+			"asnIdentifier": "S2515218",
+			"position": 39000,
+			"depth": 2,
+			"statementNotation": "RI.4.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Compare and contrast a firsthand and secondhand account of the same event or topic; describe the differences in focus and the information provided.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/6"
+			],
+			"ancestorIds": [
+				"CACFADF5171748119546EAFD898BAF37",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"DDF2C24C45B547239551029B56E1187B": {
+			"id": "DDF2C24C45B547239551029B56E1187B",
+			"asnIdentifier": "S2515217",
+			"position": 38000,
+			"depth": 2,
+			"statementNotation": "RI.4.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Describe the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in a text or part of a text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/5"
+			],
+			"ancestorIds": [
+				"CACFADF5171748119546EAFD898BAF37",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"A8C538630300400ABB4D1E3C5A517F1C": {
+			"id": "A8C538630300400ABB4D1E3C5A517F1C",
+			"asnIdentifier": "S2515216",
+			"position": 37000,
+			"depth": 2,
+			"statementNotation": "CCSS.ELA-Literacy.RI.4.4",
+			"altStatementNotation": "RI.4.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Determine the meaning of general academic and domain-specific words or phrases in a text relevant to a grade 4 topic or subject area. (See grade 4 Language standards 4–6 for additional expectations.)",
+			"ancestorIds": [
+				"CACFADF5171748119546EAFD898BAF37",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"CACFADF5171748119546EAFD898BAF37": {
+			"id": "CACFADF5171748119546EAFD898BAF37",
+			"asnIdentifier": "S2515203",
+			"position": 36000,
+			"depth": 1,
+			"description": "Craft and Structure",
+			"ancestorIds": [
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"68DCEB0823494A3B9E4652293FF48397": {
+			"id": "68DCEB0823494A3B9E4652293FF48397",
+			"asnIdentifier": "S2515184",
+			"position": 35000,
+			"depth": 2,
+			"statementNotation": "RI.4.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Explain events, procedures, ideas, or concepts in a historical, scientific, or technical text, including what happened and why, based on specific information in the text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/3"
+			],
+			"ancestorIds": [
+				"DBB07F1CF6424C549372E184A4A0C854",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"DF5C7F633E20469BB2B20B6AA082B954": {
+			"id": "DF5C7F633E20469BB2B20B6AA082B954",
+			"asnIdentifier": "S2515183",
+			"position": 34000,
+			"depth": 2,
+			"statementNotation": "RI.4.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Determine the main idea of a text and explain how it is supported by key details; summarize the text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/2"
+			],
+			"ancestorIds": [
+				"DBB07F1CF6424C549372E184A4A0C854",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"BFA03BF692284876A730C469C9936C91": {
+			"id": "BFA03BF692284876A730C469C9936C91",
+			"asnIdentifier": "S2515182",
+			"position": 33000,
+			"depth": 2,
+			"statementNotation": "RI.4.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RI/4/1"
+			],
+			"ancestorIds": [
+				"DBB07F1CF6424C549372E184A4A0C854",
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"DBB07F1CF6424C549372E184A4A0C854": {
+			"id": "DBB07F1CF6424C549372E184A4A0C854",
+			"asnIdentifier": "S2515169",
+			"position": 32000,
+			"depth": 1,
+			"description": "Key Ideas and Details",
+			"ancestorIds": [
+				"9989F9362A314C50A37933DA82992EAD"
+			]
+		},
+		"9989F9362A314C50A37933DA82992EAD": {
+			"id": "9989F9362A314C50A37933DA82992EAD",
+			"asnIdentifier": "S2515168",
+			"position": 31000,
+			"depth": 0,
+			"description": "Reading Standards for Informational Text",
+			"ancestorIds": [
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"ABE73719D94B433893931BBA2644CA6D": {
+			"id": "ABE73719D94B433893931BBA2644CA6D",
+			"asnIdentifier": "S2515161",
+			"position": 30000,
+			"depth": 2,
+			"statementNotation": "RL.4.10",
+			"statementLabel": "Standard",
+			"listId": "10.",
+			"description": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, in the grades 4—5 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/10"
+			],
+			"ancestorIds": [
+				"0D2856964E544D2C82FF7C20D1D7666E",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"0D2856964E544D2C82FF7C20D1D7666E": {
+			"id": "0D2856964E544D2C82FF7C20D1D7666E",
+			"asnIdentifier": "S2515156",
+			"position": 29000,
+			"depth": 1,
+			"description": "Range of Reading and Level of Text Complexity",
+			"ancestorIds": [
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"52445AE239DF482699415AC4058F310E": {
+			"id": "52445AE239DF482699415AC4058F310E",
+			"asnIdentifier": "S2515143",
+			"position": 28000,
+			"depth": 2,
+			"statementNotation": "RL.4.9",
+			"statementLabel": "Standard",
+			"listId": "9.",
+			"description": "Compare and contrast the treatment of similar themes and topics (e.g., opposition of good and evil) and patterns of events (e.g., the quest) in stories, myths, and traditional literature from different cultures.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/9"
+			],
+			"ancestorIds": [
+				"4541CB29AD7F4C6084235BBEB731CBBA",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"22201288E4FC4141BB7E426D0FAC7806": {
+			"id": "22201288E4FC4141BB7E426D0FAC7806",
+			"asnIdentifier": "S2515142",
+			"position": 27000,
+			"depth": 2,
+			"statementNotation": "RL.4.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Make connections between the text of a story or drama and a visual or oral presentation of the text, identifying where each version reflects specific descriptions and directions in the text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/7"
+			],
+			"ancestorIds": [
+				"4541CB29AD7F4C6084235BBEB731CBBA",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"6CCBC3934C0E463DB89708A08EFD80CD": {
+			"id": "6CCBC3934C0E463DB89708A08EFD80CD",
+			"asnIdentifier": "S2515134",
+			"position": 26000,
+			"depth": 2,
+			"description": "(Not applicable to literature)",
+			"ancestorIds": [
+				"4541CB29AD7F4C6084235BBEB731CBBA",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"4541CB29AD7F4C6084235BBEB731CBBA": {
+			"id": "4541CB29AD7F4C6084235BBEB731CBBA",
+			"asnIdentifier": "S2515132",
+			"position": 25000,
+			"depth": 1,
+			"description": "Integration of Knowledge and Ideas",
+			"ancestorIds": [
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"B2374BB0FBCA429EB032CB20A2CAE85D": {
+			"id": "B2374BB0FBCA429EB032CB20A2CAE85D",
+			"asnIdentifier": "S2515113",
+			"position": 24000,
+			"depth": 2,
+			"statementNotation": "RL.4.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Compare and contrast the point of view from which different stories are narrated, including the difference between first- and third-person narrations.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/6"
+			],
+			"ancestorIds": [
+				"BDDEC5BD701742DE96C9DD381B2E8F2A",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"2DF35F1841A44857B0CD4C200A1715DC": {
+			"id": "2DF35F1841A44857B0CD4C200A1715DC",
+			"asnIdentifier": "S2515112",
+			"position": 23000,
+			"depth": 2,
+			"statementNotation": "RL.4.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Explain major differences between poems, drama, and prose, and refer to the structural elements of poems (e.g., verse, rhythm, meter) and drama (e.g., casts of characters, settings, descriptions, dialogue, stage directions) when writing or speaking about a text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/5"
+			],
+			"ancestorIds": [
+				"BDDEC5BD701742DE96C9DD381B2E8F2A",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"BFFD0C0536024202B211C862468D12BE": {
+			"id": "BFFD0C0536024202B211C862468D12BE",
+			"asnIdentifier": "S2515111",
+			"position": 22000,
+			"depth": 2,
+			"statementNotation": "RL.4.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Determine the meaning of words and phrases as they are used in a text, including those that allude to significant characters found in mythology (e.g., Herculean). (See grade 4 Language standards 4–6 for additional expectations.)",
+			"ancestorIds": [
+				"BDDEC5BD701742DE96C9DD381B2E8F2A",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"BDDEC5BD701742DE96C9DD381B2E8F2A": {
+			"id": "BDDEC5BD701742DE96C9DD381B2E8F2A",
+			"asnIdentifier": "S2515098",
+			"position": 21000,
+			"depth": 1,
+			"description": "Craft and Structure",
+			"ancestorIds": [
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"AC2FBA50D8AF417EA86209C70E857CBB": {
+			"id": "AC2FBA50D8AF417EA86209C70E857CBB",
+			"asnIdentifier": "S2515079",
+			"position": 20000,
+			"depth": 2,
+			"statementNotation": "RL.4.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text (e.g., a character's thoughts, words, or actions).",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/3"
+			],
+			"ancestorIds": [
+				"62E566ADCF30476F81DE0AD92DDDF15F",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"2EE37A77E55542E18E3C77251D7B4072": {
+			"id": "2EE37A77E55542E18E3C77251D7B4072",
+			"asnIdentifier": "S2515078",
+			"position": 19000,
+			"depth": 2,
+			"statementNotation": "RL.4.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Determine a theme of a story, drama, or poem from details in the text; summarize the text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/2"
+			],
+			"ancestorIds": [
+				"62E566ADCF30476F81DE0AD92DDDF15F",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"EA9BDD1FAD8948668FBAC0854E66EABD": {
+			"id": "EA9BDD1FAD8948668FBAC0854E66EABD",
+			"asnIdentifier": "S2515077",
+			"position": 18000,
+			"depth": 2,
+			"statementNotation": "RL.4.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/RL/4/1"
+			],
+			"ancestorIds": [
+				"62E566ADCF30476F81DE0AD92DDDF15F",
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"62E566ADCF30476F81DE0AD92DDDF15F": {
+			"id": "62E566ADCF30476F81DE0AD92DDDF15F",
+			"asnIdentifier": "S2515064",
+			"position": 17000,
+			"depth": 1,
+			"description": "Key Ideas and Details",
+			"ancestorIds": [
+				"651DDDF344014167A04D45D33C467145"
+			]
+		},
+		"651DDDF344014167A04D45D33C467145": {
+			"id": "651DDDF344014167A04D45D33C467145",
+			"asnIdentifier": "S2515063",
+			"position": 16000,
+			"depth": 0,
+			"description": "Reading Standards for Literature",
+			"ancestorIds": [
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"AAA3845D5C4346D7837D59E3A7002630": {
+			"id": "AAA3845D5C4346D7837D59E3A7002630",
+			"asnIdentifier": "S2515062",
+			"position": 15000,
+			"depth": 2,
+			"statementNotation": "R.CCR.10",
+			"statementLabel": "Standard",
+			"listId": "10.",
+			"description": "Read and comprehend complex literary and informational texts independently and proficiently.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/10"
+			],
+			"ancestorIds": [
+				"7207A377ACA94DC9A9DA159CAF82D7D5",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"7207A377ACA94DC9A9DA159CAF82D7D5": {
+			"id": "7207A377ACA94DC9A9DA159CAF82D7D5",
+			"asnIdentifier": "S2515061",
+			"position": 14000,
+			"depth": 1,
+			"description": "Range of Reading and Level of Text Complexity",
+			"ancestorIds": [
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"244B840202B6481FB30B6D7A2BB168E3": {
+			"id": "244B840202B6481FB30B6D7A2BB168E3",
+			"asnIdentifier": "S2515060",
+			"position": 13000,
+			"depth": 2,
+			"statementNotation": "R.CCR.9",
+			"statementLabel": "Standard",
+			"listId": "9.",
+			"description": "Analyze how two or more texts address similar themes or topics in order to build knowledge or to compare the approaches the authors take.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/9"
+			],
+			"ancestorIds": [
+				"B16B7366141E44468E66816DE200FA79",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"70D50A9855E446FF8B40F61E3957185A": {
+			"id": "70D50A9855E446FF8B40F61E3957185A",
+			"asnIdentifier": "S2515059",
+			"position": 12000,
+			"depth": 2,
+			"statementNotation": "R.CCR.8",
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Delineate and evaluate the argument and specific claims in a text, including the validity of the reasoning as well as the relevance and sufficiency of the evidence.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/8"
+			],
+			"ancestorIds": [
+				"B16B7366141E44468E66816DE200FA79",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"5736B8A5F2564FEFA4DE7E2BA3686859": {
+			"id": "5736B8A5F2564FEFA4DE7E2BA3686859",
+			"asnIdentifier": "S2515058",
+			"position": 11000,
+			"depth": 2,
+			"statementNotation": "R.CCR.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
+			"comments": [
+				"Please see \"Research to Build and Present Knowledge\" in Writing and \"Comprehension and Collaboration\" in Speaking and Listening for additional standards relevant to gathering, assessing, and applying information from print and digital sources."
+			],
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/7"
+			],
+			"ancestorIds": [
+				"B16B7366141E44468E66816DE200FA79",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"B16B7366141E44468E66816DE200FA79": {
+			"id": "B16B7366141E44468E66816DE200FA79",
+			"asnIdentifier": "S2515057",
+			"position": 10000,
+			"depth": 1,
+			"description": "Integration of Knowledge and Ideas",
+			"ancestorIds": [
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"57E6426279F14D7CACFE0596B98F0D80": {
+			"id": "57E6426279F14D7CACFE0596B98F0D80",
+			"asnIdentifier": "S2515056",
+			"position": 9000,
+			"depth": 2,
+			"statementNotation": "R.CCR.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Assess how point of view or purpose shapes the content and style of a text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/6"
+			],
+			"ancestorIds": [
+				"EE4C00073AED4B91BE188EAD47029D15",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"A1E006B3496343D3A774565042AF4572": {
+			"id": "A1E006B3496343D3A774565042AF4572",
+			"asnIdentifier": "S2515055",
+			"position": 8000,
+			"depth": 2,
+			"statementNotation": "R.CCR.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Analyze the structure of texts, including how specific sentences, paragraphs, and larger portions of the text (e.g., a section, chapter, scene, or stanza) relate to each other and the whole.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/5"
+			],
+			"ancestorIds": [
+				"EE4C00073AED4B91BE188EAD47029D15",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"F462337A5E6842DBB6FE60311B8C88CE": {
+			"id": "F462337A5E6842DBB6FE60311B8C88CE",
+			"asnIdentifier": "S2515054",
+			"position": 7000,
+			"depth": 2,
+			"statementNotation": "R.CCR.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/4"
+			],
+			"ancestorIds": [
+				"EE4C00073AED4B91BE188EAD47029D15",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"EE4C00073AED4B91BE188EAD47029D15": {
+			"id": "EE4C00073AED4B91BE188EAD47029D15",
+			"asnIdentifier": "S2515053",
+			"position": 6000,
+			"depth": 1,
+			"description": "Craft and Structure",
+			"ancestorIds": [
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"5BE030F9BE764FA0AD58C6588B8EC6F9": {
+			"id": "5BE030F9BE764FA0AD58C6588B8EC6F9",
+			"asnIdentifier": "S2515052",
+			"position": 5000,
+			"depth": 2,
+			"statementNotation": "R.CCR.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Analyze how and why individuals, events, and ideas develop and interact over the course of a text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/3"
+			],
+			"ancestorIds": [
+				"7EB84CE28F5F40A1ADA6601609E2F197",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"DCE7E9599C3E440EA198C9AF562AF846": {
+			"id": "DCE7E9599C3E440EA198C9AF562AF846",
+			"asnIdentifier": "S2515051",
+			"position": 4000,
+			"depth": 2,
+			"statementNotation": "R.CCR.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Determine central ideas or themes of a text and analyze their development; summarize the key supporting details and ideas.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/2"
+			],
+			"ancestorIds": [
+				"7EB84CE28F5F40A1ADA6601609E2F197",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"11C96BCE93ED486081725D6D0E021B35": {
+			"id": "11C96BCE93ED486081725D6D0E021B35",
+			"asnIdentifier": "S2515050",
+			"position": 3000,
+			"depth": 2,
+			"statementNotation": "R.CCR.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.",
+			"exactMatch": [
+				"http://corestandards.org/ELA-Literacy/CCRA/R/1"
+			],
+			"ancestorIds": [
+				"7EB84CE28F5F40A1ADA6601609E2F197",
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"7EB84CE28F5F40A1ADA6601609E2F197": {
+			"id": "7EB84CE28F5F40A1ADA6601609E2F197",
+			"asnIdentifier": "S2515049",
+			"position": 2000,
+			"depth": 1,
+			"description": "Key Ideas and Details",
+			"ancestorIds": [
+				"35A5FA4BE7C54FC8BEAFA06C5D2279DE"
+			]
+		},
+		"35A5FA4BE7C54FC8BEAFA06C5D2279DE": {
+			"id": "35A5FA4BE7C54FC8BEAFA06C5D2279DE",
+			"asnIdentifier": "S2515048",
+			"position": 1000,
+			"depth": 0,
+			"description": "College and Career Readiness Anchor Standards for Reading",
+			"ancestorIds": []
+		}
+	}
+}

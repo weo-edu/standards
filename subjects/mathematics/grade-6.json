@@ -1,0 +1,1249 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2513639_grade-06",
+	"title": "Grade 6",
+	"subject": "Mathematics",
+	"educationLevels": [
+		"06"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2513639",
+		"valid": "2010",
+		"title": "California Common Core State Standards: Mathematics",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf",
+		"asnIdentifier": "D2513639",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"C627B77736A9449E80E35914ADC935F2": {
+			"id": "C627B77736A9449E80E35914ADC935F2",
+			"asnIdentifier": "S2514040",
+			"position": 71000,
+			"depth": 3,
+			"statementNotation": "6.SP.5.d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/B/5/d"
+			],
+			"ancestorIds": [
+				"44A408E98CF6414B987D1506C43D214E",
+				"62B92DAD2E1D4199AE0F82784B9136A2",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"814CD499A7D1489B9742777103837A85": {
+			"id": "814CD499A7D1489B9742777103837A85",
+			"asnIdentifier": "S2514039",
+			"position": 70000,
+			"depth": 3,
+			"statementNotation": "6.SP.5.c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/B/5/c"
+			],
+			"ancestorIds": [
+				"44A408E98CF6414B987D1506C43D214E",
+				"62B92DAD2E1D4199AE0F82784B9136A2",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"A66BAFA56DF849218449C3724B9A6B6A": {
+			"id": "A66BAFA56DF849218449C3724B9A6B6A",
+			"asnIdentifier": "S2514038",
+			"position": 69000,
+			"depth": 3,
+			"statementNotation": "6.SP.5.b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Describing the nature of the attribute under investigation, including how it was measured and its units of measurement.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/B/5/b"
+			],
+			"ancestorIds": [
+				"44A408E98CF6414B987D1506C43D214E",
+				"62B92DAD2E1D4199AE0F82784B9136A2",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"A752B39054804860A1F681E3ED090B8F": {
+			"id": "A752B39054804860A1F681E3ED090B8F",
+			"asnIdentifier": "S2514037",
+			"position": 68000,
+			"depth": 3,
+			"statementNotation": "6.SP.5.a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Reporting the number of observations.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/B/5/a"
+			],
+			"ancestorIds": [
+				"44A408E98CF6414B987D1506C43D214E",
+				"62B92DAD2E1D4199AE0F82784B9136A2",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"44A408E98CF6414B987D1506C43D214E": {
+			"id": "44A408E98CF6414B987D1506C43D214E",
+			"asnIdentifier": "S2514036",
+			"position": 67000,
+			"depth": 2,
+			"statementNotation": "6.SP.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Summarize numerical data sets in relation to their context, such as by:",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/B/5"
+			],
+			"ancestorIds": [
+				"62B92DAD2E1D4199AE0F82784B9136A2",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"42818EF77FF64E1F8D2CBD887BBF1DE7": {
+			"id": "42818EF77FF64E1F8D2CBD887BBF1DE7",
+			"asnIdentifier": "S2514035",
+			"position": 66000,
+			"depth": 2,
+			"statementNotation": "6.SP.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/B/4"
+			],
+			"ancestorIds": [
+				"62B92DAD2E1D4199AE0F82784B9136A2",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"62B92DAD2E1D4199AE0F82784B9136A2": {
+			"id": "62B92DAD2E1D4199AE0F82784B9136A2",
+			"asnIdentifier": "S2514034",
+			"position": 65000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Summarize and describe distributions.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/B"
+			],
+			"ancestorIds": [
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"A53496F13247425CA22A49D40E0A4235": {
+			"id": "A53496F13247425CA22A49D40E0A4235",
+			"asnIdentifier": "S2514033",
+			"position": 64000,
+			"depth": 2,
+			"statementNotation": "6.SP.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/A/3"
+			],
+			"ancestorIds": [
+				"3039F19024134A5E941ACD8FD1EAB171",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"5CE98BA0ADF249C9AA6A50C6C8C5C034": {
+			"id": "5CE98BA0ADF249C9AA6A50C6C8C5C034",
+			"asnIdentifier": "S2514032",
+			"position": 63000,
+			"depth": 2,
+			"statementNotation": "6.SP.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/A/2"
+			],
+			"ancestorIds": [
+				"3039F19024134A5E941ACD8FD1EAB171",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"475B17A844DA41729AE1B9881BF4AB5D": {
+			"id": "475B17A844DA41729AE1B9881BF4AB5D",
+			"asnIdentifier": "S2514031",
+			"position": 62000,
+			"depth": 2,
+			"statementNotation": "6.SP.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers.",
+			"comments": [
+				"For example, \"How old am I?\" is not a statistical question, but \"How old are the students in my school?\" is a statistical question because one anticipates variability in students' ages."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/A/1"
+			],
+			"ancestorIds": [
+				"3039F19024134A5E941ACD8FD1EAB171",
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"3039F19024134A5E941ACD8FD1EAB171": {
+			"id": "3039F19024134A5E941ACD8FD1EAB171",
+			"asnIdentifier": "S2514030",
+			"position": 61000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Develop understanding of statistical variability.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/SP/A"
+			],
+			"ancestorIds": [
+				"0D72CE775F4943E981B7454C1BC0C21E"
+			]
+		},
+		"0D72CE775F4943E981B7454C1BC0C21E": {
+			"id": "0D72CE775F4943E981B7454C1BC0C21E",
+			"asnIdentifier": "S2514029",
+			"position": 60000,
+			"depth": 0,
+			"statementLabel": "Domain",
+			"description": "Statistics and Probability",
+			"ancestorIds": [
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"B1C9621A8B7042B18C2C3A98323F6B2B": {
+			"id": "B1C9621A8B7042B18C2C3A98323F6B2B",
+			"asnIdentifier": "S2514004",
+			"position": 59000,
+			"depth": 2,
+			"statementNotation": "6.EE.9",
+			"statementLabel": "Standard",
+			"listId": "9.",
+			"description": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationship between the dependent and independent variables using graphs and tables, and relate these to the equation.",
+			"comments": [
+				"For example, in a problem involving motion at constant speed, list and graph ordered pairs of distances and times, and write the equation d = 65t to represent the relationship between distance and time."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/C/9"
+			],
+			"ancestorIds": [
+				"8C65275F9F1049FBA8D6D87BB1B61EB2",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"8C65275F9F1049FBA8D6D87BB1B61EB2": {
+			"id": "8C65275F9F1049FBA8D6D87BB1B61EB2",
+			"asnIdentifier": "S2514003",
+			"position": 58000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Represent and analyze quantitative relationships between dependent and independent variables.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/C"
+			],
+			"ancestorIds": [
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"473B21920C81438EA8B0F5C3EA17B956": {
+			"id": "473B21920C81438EA8B0F5C3EA17B956",
+			"asnIdentifier": "S2514002",
+			"position": 57000,
+			"depth": 2,
+			"statementNotation": "6.EE.8",
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Write an inequality of the form x > c or x < c to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form x > c or x < c have infinitely many solutions; represent solutions of such inequalities on number line diagrams.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/B/8"
+			],
+			"ancestorIds": [
+				"EDB88DAE0C3249C29B9B09967BCCE8F5",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"6103016C07984C6BB310FFE3827A906E": {
+			"id": "6103016C07984C6BB310FFE3827A906E",
+			"asnIdentifier": "S2514001",
+			"position": 56000,
+			"depth": 2,
+			"statementNotation": "6.EE.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q and x are all nonnegative rational numbers.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/B/7"
+			],
+			"ancestorIds": [
+				"EDB88DAE0C3249C29B9B09967BCCE8F5",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"6F2F4D9698324FA895AC7B3B2FECD98F": {
+			"id": "6F2F4D9698324FA895AC7B3B2FECD98F",
+			"asnIdentifier": "S2514000",
+			"position": 55000,
+			"depth": 2,
+			"statementNotation": "6.EE.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/B/6"
+			],
+			"ancestorIds": [
+				"EDB88DAE0C3249C29B9B09967BCCE8F5",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"EB5DFEE7D04A43E7AD2662F71B25010E": {
+			"id": "EB5DFEE7D04A43E7AD2662F71B25010E",
+			"asnIdentifier": "S2513999",
+			"position": 54000,
+			"depth": 2,
+			"statementNotation": "6.EE.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use substitution to determine whether a given number in a specified set makes an equation or inequality true.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/B/5"
+			],
+			"ancestorIds": [
+				"EDB88DAE0C3249C29B9B09967BCCE8F5",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"EDB88DAE0C3249C29B9B09967BCCE8F5": {
+			"id": "EDB88DAE0C3249C29B9B09967BCCE8F5",
+			"asnIdentifier": "S2513998",
+			"position": 53000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Reason about and solve one-variable equations and inequalities.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/B"
+			],
+			"ancestorIds": [
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"24C9CD1D194941B8A4AED244B66E0FDF": {
+			"id": "24C9CD1D194941B8A4AED244B66E0FDF",
+			"asnIdentifier": "S2513997",
+			"position": 52000,
+			"depth": 2,
+			"statementNotation": "6.EE.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them).",
+			"comments": [
+				"For example, the expressions y + y + y and 3y are equivalent because they name the same number regardless of which number y stands for."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A/4"
+			],
+			"ancestorIds": [
+				"73142DC8E97B4CAE95A636B1ACB6BFCE",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"EE7B4450D3574D5D9B8B0DBAFCBE41D9": {
+			"id": "EE7B4450D3574D5D9B8B0DBAFCBE41D9",
+			"asnIdentifier": "S2513996",
+			"position": 51000,
+			"depth": 2,
+			"statementNotation": "6.EE.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Apply the properties of operations to generate equivalent expressions.",
+			"comments": [
+				"For example, apply the distributive property to the expression 3 (2 + x) to produce the equivalent expression 6 + 3x; apply the distributive property to the expression 24x + 18y to produce the equivalent expression 6 (4x + 3y); apply properties of operations to y + y + y to produce the equivalent expression 3y."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A/3"
+			],
+			"ancestorIds": [
+				"73142DC8E97B4CAE95A636B1ACB6BFCE",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"9B9664ACB3384D269D43951A60D0D9FE": {
+			"id": "9B9664ACB3384D269D43951A60D0D9FE",
+			"asnIdentifier": "S2513995",
+			"position": 50000,
+			"depth": 3,
+			"statementNotation": "6.EE.2.c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order when there are no parentheses to specify a particular order (Order of Operations).",
+			"comments": [
+				"For example, use the formulas V = s³ and A = 6 s² to find the volume and surface area of a cube with sides of length s = 1/2."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A/2/c"
+			],
+			"ancestorIds": [
+				"09095A86A5B5480D903AC3B92C2AD84F",
+				"73142DC8E97B4CAE95A636B1ACB6BFCE",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"E0C5B9D38E4245DAB83255BEA03A3430": {
+			"id": "E0C5B9D38E4245DAB83255BEA03A3430",
+			"asnIdentifier": "S2513994",
+			"position": 49000,
+			"depth": 3,
+			"statementNotation": "6.EE.2.b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity.",
+			"comments": [
+				"For example, describe the expression 2 (8 + 7) as a product of two factors; view (8 + 7) as both a single entity and a sum of two terms."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A/2/b"
+			],
+			"ancestorIds": [
+				"09095A86A5B5480D903AC3B92C2AD84F",
+				"73142DC8E97B4CAE95A636B1ACB6BFCE",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"A4966F33A19A4362BDC472D6895F0002": {
+			"id": "A4966F33A19A4362BDC472D6895F0002",
+			"asnIdentifier": "S2513993",
+			"position": 48000,
+			"depth": 3,
+			"statementNotation": "6.EE.2.a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Write expressions that record operations with numbers and with letters standing for numbers.",
+			"comments": [
+				"For example, express the calculation \"Subtract y from 5\" as 5 - y."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A/2/a"
+			],
+			"ancestorIds": [
+				"09095A86A5B5480D903AC3B92C2AD84F",
+				"73142DC8E97B4CAE95A636B1ACB6BFCE",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"09095A86A5B5480D903AC3B92C2AD84F": {
+			"id": "09095A86A5B5480D903AC3B92C2AD84F",
+			"asnIdentifier": "S2513992",
+			"position": 47000,
+			"depth": 2,
+			"statementNotation": "6.EE.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Write, read, and evaluate expressions in which letters stand for numbers.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A/2"
+			],
+			"ancestorIds": [
+				"73142DC8E97B4CAE95A636B1ACB6BFCE",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"59035627AD594AA3BDDBAB07D0E363E8": {
+			"id": "59035627AD594AA3BDDBAB07D0E363E8",
+			"asnIdentifier": "S2513991",
+			"position": 46000,
+			"depth": 2,
+			"statementNotation": "6.EE.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Write and evaluate numerical expressions involving whole-number exponents.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A/1"
+			],
+			"ancestorIds": [
+				"73142DC8E97B4CAE95A636B1ACB6BFCE",
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"73142DC8E97B4CAE95A636B1ACB6BFCE": {
+			"id": "73142DC8E97B4CAE95A636B1ACB6BFCE",
+			"asnIdentifier": "S2513990",
+			"position": 45000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Apply and extend previous understandings of arithmetic to algebraic expressions.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/EE/A"
+			],
+			"ancestorIds": [
+				"E41F479F7DCC49CDA4225F06F1E96792"
+			]
+		},
+		"E41F479F7DCC49CDA4225F06F1E96792": {
+			"id": "E41F479F7DCC49CDA4225F06F1E96792",
+			"asnIdentifier": "S2513989",
+			"position": 44000,
+			"depth": 0,
+			"statementLabel": "Domain",
+			"description": "Expressions and Equations",
+			"ancestorIds": [
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"F261BFF255EB49D6A3AB36C3EAE8F27C": {
+			"id": "F261BFF255EB49D6A3AB36C3EAE8F27C",
+			"asnIdentifier": "S2513973",
+			"position": 43000,
+			"depth": 2,
+			"statementNotation": "6.NS.8",
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/8"
+			],
+			"ancestorIds": [
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"CEA5DC98268C4A4EB8A2FAE8EF810BBA": {
+			"id": "CEA5DC98268C4A4EB8A2FAE8EF810BBA",
+			"asnIdentifier": "S2513972",
+			"position": 42000,
+			"depth": 3,
+			"statementNotation": "6.NS.7.d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Distinguish comparisons of absolute value from statements about order.",
+			"comments": [
+				"For example, recognize that an account balance less than -30 dollars represents a debt greater than 30 dollars."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/7/d"
+			],
+			"ancestorIds": [
+				"8F7F201DC03A41A0B4801567DD87AE6D",
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"235F2EE20B254586AF899F06425311C3": {
+			"id": "235F2EE20B254586AF899F06425311C3",
+			"asnIdentifier": "S2513971",
+			"position": 41000,
+			"depth": 3,
+			"statementNotation": "6.NS.7.c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Understand the absolute value of a rational number as its distance from 0 on the number line; interpret absolute value as magnitude for a positive or negative quantity in a real-world situation.",
+			"comments": [
+				"For example, for an account balance of -30 dollars, write |-30| = 30 to describe the size of the debt in dollars."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/7/c"
+			],
+			"ancestorIds": [
+				"8F7F201DC03A41A0B4801567DD87AE6D",
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"181F7AD1A99541EA89E761E7965EBB92": {
+			"id": "181F7AD1A99541EA89E761E7965EBB92",
+			"asnIdentifier": "S2513970",
+			"position": 40000,
+			"depth": 3,
+			"statementNotation": "6.NS.7.b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Write, interpret, and explain statements of order for rational numbers in real-world contexts.",
+			"comments": [
+				"For example, write -3 °C > -7 °C to express the fact that -3 °C is warmer than -7 °C."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/7/b"
+			],
+			"ancestorIds": [
+				"8F7F201DC03A41A0B4801567DD87AE6D",
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"773932D0D99845E5BD27D8E1F3E1080F": {
+			"id": "773932D0D99845E5BD27D8E1F3E1080F",
+			"asnIdentifier": "S2513969",
+			"position": 39000,
+			"depth": 3,
+			"statementNotation": "6.NS.7.a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram.",
+			"comments": [
+				"For example, interpret -3 > -7 as a statement that -3 is located to the right of -7 on a number line oriented from left to right."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/7/a"
+			],
+			"ancestorIds": [
+				"8F7F201DC03A41A0B4801567DD87AE6D",
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"8F7F201DC03A41A0B4801567DD87AE6D": {
+			"id": "8F7F201DC03A41A0B4801567DD87AE6D",
+			"asnIdentifier": "S2513968",
+			"position": 38000,
+			"depth": 2,
+			"statementNotation": "6.NS.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Understand ordering and absolute value of rational numbers.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/7"
+			],
+			"ancestorIds": [
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"45B8CB3835B24D7D933DABD2B2410C3D": {
+			"id": "45B8CB3835B24D7D933DABD2B2410C3D",
+			"asnIdentifier": "S2513967",
+			"position": 37000,
+			"depth": 3,
+			"statementNotation": "6.NS.6.c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Find and position integers and other rational numbers on a horizontal or vertical number line diagram; find and position pairs of integers and other rational numbers on a coordinate plane.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/6/c"
+			],
+			"ancestorIds": [
+				"87AC8561382644CDAE34E6CEC5803F06",
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"94619C41AF9843388C651E71430D6088": {
+			"id": "94619C41AF9843388C651E71430D6088",
+			"asnIdentifier": "S2513966",
+			"position": 36000,
+			"depth": 3,
+			"statementNotation": "6.NS.6.b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Understand signs of numbers in ordered pairs as indicating locations in quadrants of the coordinate plane; recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/6/b"
+			],
+			"ancestorIds": [
+				"87AC8561382644CDAE34E6CEC5803F06",
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"947D2ADDB2B74A89ABA20CE8F41D11F9": {
+			"id": "947D2ADDB2B74A89ABA20CE8F41D11F9",
+			"asnIdentifier": "S2513965",
+			"position": 35000,
+			"depth": 3,
+			"statementNotation": "6.NS.6.a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Recognize opposite signs of numbers as indicating locations on opposite sides of 0 on the number line; recognize that the opposite of the opposite of a number is the number itself, e.g., -(-3) = 3, and that 0 is its own opposite.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/6/a"
+			],
+			"ancestorIds": [
+				"87AC8561382644CDAE34E6CEC5803F06",
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"87AC8561382644CDAE34E6CEC5803F06": {
+			"id": "87AC8561382644CDAE34E6CEC5803F06",
+			"asnIdentifier": "S2513964",
+			"position": 34000,
+			"depth": 2,
+			"statementNotation": "6.NS.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/6"
+			],
+			"ancestorIds": [
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"F2A0B377C59F43E5AE9406BA96058406": {
+			"id": "F2A0B377C59F43E5AE9406BA96058406",
+			"asnIdentifier": "S2513963",
+			"position": 33000,
+			"depth": 2,
+			"statementNotation": "6.NS.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C/5"
+			],
+			"ancestorIds": [
+				"ACEA29395F0B4B1CB30AFC72DA4967A3",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"ACEA29395F0B4B1CB30AFC72DA4967A3": {
+			"id": "ACEA29395F0B4B1CB30AFC72DA4967A3",
+			"asnIdentifier": "S2513962",
+			"position": 32000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Apply and extend previous understandings of numbers to the system of rational numbers.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/C"
+			],
+			"ancestorIds": [
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"9AED77AD5CC04C3FA02C9BDAC4442B09": {
+			"id": "9AED77AD5CC04C3FA02C9BDAC4442B09",
+			"asnIdentifier": "S2513961",
+			"position": 31000,
+			"depth": 2,
+			"statementNotation": "6.NS.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12. Use the distributive property to express a sum of two whole numbers 1—100 with a common factor as a multiple of a sum of two whole numbers with no common factor.",
+			"comments": [
+				"For example, express 36 + 8 as 4 (9 + 2)."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/B/4"
+			],
+			"ancestorIds": [
+				"92668EAB852D4520B14300054F097479",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"E8B6AF3F13EF4AD090D422D8703F0E1D": {
+			"id": "E8B6AF3F13EF4AD090D422D8703F0E1D",
+			"asnIdentifier": "S2513960",
+			"position": 30000,
+			"depth": 2,
+			"statementNotation": "6.NS.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Fluently add, subtract, multiply, and divide multi-digit decimals using the standard algorithm for each operation.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/B/3"
+			],
+			"ancestorIds": [
+				"92668EAB852D4520B14300054F097479",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"64C4551664AD4347BC4B7972335E7D37": {
+			"id": "64C4551664AD4347BC4B7972335E7D37",
+			"asnIdentifier": "S2513959",
+			"position": 29000,
+			"depth": 2,
+			"statementNotation": "6.NS.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Fluently divide multi-digit numbers using the standard algorithm.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/B/2"
+			],
+			"ancestorIds": [
+				"92668EAB852D4520B14300054F097479",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"92668EAB852D4520B14300054F097479": {
+			"id": "92668EAB852D4520B14300054F097479",
+			"asnIdentifier": "S2513958",
+			"position": 28000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Compute fluently with multi-digit numbers and find common factors and multiples.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/B"
+			],
+			"ancestorIds": [
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"B78063D267664D1FAAC5E201B7867C66": {
+			"id": "B78063D267664D1FAAC5E201B7867C66",
+			"asnIdentifier": "S2513957",
+			"position": 27000,
+			"depth": 2,
+			"statementNotation": "6.NS.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem.",
+			"comments": [
+				"For example, create a story context for (2/3) ÷ (3/4) and use a visual fraction model to show the quotient; use the relationship between multiplication and division to explain that (2/3) ÷ (3/4) = 8/9 because 3/4 of 8/9 is 2/3. (In general, (a/b) ÷ (c/d) = ad/bc.) How much chocolate will each person get if 3 people share 1/2 lb of chocolate equally? How many 3/4-cup servings are in 2/3 of a cup of yogurt? How wide is a rectangular strip of land with length 3/4 mi and area 1/2 square mi?"
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/A/1"
+			],
+			"ancestorIds": [
+				"8441827BB170461BACDCFFFD8DDA8FBF",
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"8441827BB170461BACDCFFFD8DDA8FBF": {
+			"id": "8441827BB170461BACDCFFFD8DDA8FBF",
+			"asnIdentifier": "S2513956",
+			"position": 26000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Apply and extend previous understandings of multiplication and division to divide fractions by fractions.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/NS/A"
+			],
+			"ancestorIds": [
+				"950B57282144429BB6963801348675BF"
+			]
+		},
+		"950B57282144429BB6963801348675BF": {
+			"id": "950B57282144429BB6963801348675BF",
+			"asnIdentifier": "S2513955",
+			"position": 25000,
+			"depth": 0,
+			"statementLabel": "Domain",
+			"description": "The Number System",
+			"ancestorIds": [
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"188D2F9A9403440EB3E3D824A2BB9347": {
+			"id": "188D2F9A9403440EB3E3D824A2BB9347",
+			"asnIdentifier": "S2513946",
+			"position": 24000,
+			"depth": 3,
+			"statementNotation": "6.RP.3.d",
+			"statementLabel": "Component",
+			"listId": "d.",
+			"description": "Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A/3/d"
+			],
+			"ancestorIds": [
+				"A7AB328AE7CB424FAE974AC4C6BDE5B5",
+				"E51835D7E9B94A1FB6E39CFDD7539905",
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"C0B2590ED88E47F790FD2CC5D47BC681": {
+			"id": "C0B2590ED88E47F790FD2CC5D47BC681",
+			"asnIdentifier": "S2513945",
+			"position": 23000,
+			"depth": 3,
+			"statementNotation": "6.RP.3.c",
+			"statementLabel": "Component",
+			"listId": "c.",
+			"description": "Find a percent of a quantity as a rate per 100 (e.g., 30% of a quantity means 30/100 times the quantity); solve problems involving finding the whole, given a part and the percent.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A/3/c"
+			],
+			"ancestorIds": [
+				"A7AB328AE7CB424FAE974AC4C6BDE5B5",
+				"E51835D7E9B94A1FB6E39CFDD7539905",
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"7A445684D6824F30A142E02A35B74D7A": {
+			"id": "7A445684D6824F30A142E02A35B74D7A",
+			"asnIdentifier": "S2513944",
+			"position": 22000,
+			"depth": 3,
+			"statementNotation": "6.RP.3.b",
+			"statementLabel": "Component",
+			"listId": "b.",
+			"description": "Solve unit rate problems including those involving unit pricing and constant speed.",
+			"comments": [
+				"For example, if it took 7 hours to mow 4 lawns, then at that rate, how many lawns could be mowed in 35 hours? At what rate were lawns being mowed?"
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A/3/b"
+			],
+			"ancestorIds": [
+				"A7AB328AE7CB424FAE974AC4C6BDE5B5",
+				"E51835D7E9B94A1FB6E39CFDD7539905",
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"B8F07A54BCC6449E8E53567D4EC8D1FA": {
+			"id": "B8F07A54BCC6449E8E53567D4EC8D1FA",
+			"asnIdentifier": "S2513943",
+			"position": 21000,
+			"depth": 3,
+			"statementNotation": "6.RP.3.a",
+			"statementLabel": "Component",
+			"listId": "a.",
+			"description": "Make tables of equivalent ratios relating quantities with whole number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A/3/a"
+			],
+			"ancestorIds": [
+				"A7AB328AE7CB424FAE974AC4C6BDE5B5",
+				"E51835D7E9B94A1FB6E39CFDD7539905",
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"A7AB328AE7CB424FAE974AC4C6BDE5B5": {
+			"id": "A7AB328AE7CB424FAE974AC4C6BDE5B5",
+			"asnIdentifier": "S2513942",
+			"position": 20000,
+			"depth": 2,
+			"statementNotation": "6.RP.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A/3"
+			],
+			"ancestorIds": [
+				"E51835D7E9B94A1FB6E39CFDD7539905",
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"6AF3F7E3D0A540F7AB92615332693BD5": {
+			"id": "6AF3F7E3D0A540F7AB92615332693BD5",
+			"asnIdentifier": "S2513941",
+			"position": 19000,
+			"depth": 2,
+			"statementNotation": "6.RP.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship.",
+			"comments": [
+				"Expectations for unit rates in this grade are limited to non-complex fractions.",
+				"For example, \"This recipe has a ratio of 3 cups of flour to 4 cups of sugar, so there is 3/4 cup of flour for each cup of sugar.\" \"We paid $75 for 15 hamburgers, which is a rate of $5 per hamburger.\""
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A/2"
+			],
+			"ancestorIds": [
+				"E51835D7E9B94A1FB6E39CFDD7539905",
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"E8AE9F8EC76143B69A27BC8657343185": {
+			"id": "E8AE9F8EC76143B69A27BC8657343185",
+			"asnIdentifier": "S2513940",
+			"position": 18000,
+			"depth": 2,
+			"statementNotation": "6.RP.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.",
+			"comments": [
+				"For example, \"The ratio of wings to beaks in the bird house at the zoo was 2:1, because for every 2 wings there was 1 beak.\" \"For every vote candidate A received, candidate C received nearly three votes.\""
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A/1"
+			],
+			"ancestorIds": [
+				"E51835D7E9B94A1FB6E39CFDD7539905",
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"E51835D7E9B94A1FB6E39CFDD7539905": {
+			"id": "E51835D7E9B94A1FB6E39CFDD7539905",
+			"asnIdentifier": "S2513939",
+			"position": 17000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Understand ratio concepts and use ratio reasoning to solve problems.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/RP/A"
+			],
+			"ancestorIds": [
+				"63200F2DC1824F688CFE3D0DE05C02A4"
+			]
+		},
+		"63200F2DC1824F688CFE3D0DE05C02A4": {
+			"id": "63200F2DC1824F688CFE3D0DE05C02A4",
+			"asnIdentifier": "S2513938",
+			"position": 16000,
+			"depth": 0,
+			"statementLabel": "Domain",
+			"description": "Ratios and Proportional Relationships",
+			"ancestorIds": [
+				"8E8DDB22B357402F9106F253101900B9"
+			]
+		},
+		"9DEF143F8858450EA8AA6DBF9AEE4DB5": {
+			"id": "9DEF143F8858450EA8AA6DBF9AEE4DB5",
+			"asnIdentifier": "S2513870",
+			"position": 15000,
+			"depth": 2,
+			"statementNotation": "6.G.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures. Apply these techniques in the context of solving real-world and mathematical problems.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/G/A/4"
+			],
+			"ancestorIds": [
+				"93B29AB52FF04FEAA870DF566E72F4E1",
+				"8E8DDB22B357402F9106F253101900B9"
+			]
+		},
+		"E28CE3C69FAE42E0BF2E15622314934B": {
+			"id": "E28CE3C69FAE42E0BF2E15622314934B",
+			"asnIdentifier": "S2513869",
+			"position": 14000,
+			"depth": 2,
+			"statementNotation": "6.G.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Draw polygons in the coordinate plane given coordinates for the vertices; use coordinates to find the length of a side joining points with the same first coordinate or the same second coordinate. Apply these techniques in the context of solving real-world and mathematical problems.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/G/A/3"
+			],
+			"ancestorIds": [
+				"93B29AB52FF04FEAA870DF566E72F4E1",
+				"8E8DDB22B357402F9106F253101900B9"
+			]
+		},
+		"ED763504163540F1AE93664556147B37": {
+			"id": "ED763504163540F1AE93664556147B37",
+			"asnIdentifier": "S2513868",
+			"position": 13000,
+			"depth": 2,
+			"statementNotation": "6.G.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Find the volume of a right rectangular prism with fractional edge lengths by packing it with unit cubes of the appropriate unit fraction edge lengths, and show that the volume is the same as would be found by multiplying the edge lengths of the prism. Apply the formulas V = l w h and V = b h to find volumes of right rectangular prisms with fractional edge lengths in the context of solving real-world and mathematical problems.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/G/A/2"
+			],
+			"ancestorIds": [
+				"93B29AB52FF04FEAA870DF566E72F4E1",
+				"8E8DDB22B357402F9106F253101900B9"
+			]
+		},
+		"F9FDA34AD0084C64936F3C719B99630B": {
+			"id": "F9FDA34AD0084C64936F3C719B99630B",
+			"asnIdentifier": "S2513867",
+			"position": 12000,
+			"depth": 2,
+			"statementNotation": "6.G.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing into rectangles or decomposing into triangles and other shapes; apply these techniques in the context of solving real-world and mathematical problems.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/G/A/1"
+			],
+			"ancestorIds": [
+				"93B29AB52FF04FEAA870DF566E72F4E1",
+				"8E8DDB22B357402F9106F253101900B9"
+			]
+		},
+		"93B29AB52FF04FEAA870DF566E72F4E1": {
+			"id": "93B29AB52FF04FEAA870DF566E72F4E1",
+			"asnIdentifier": "S2513866",
+			"position": 11000,
+			"depth": 1,
+			"statementLabel": "Cluster",
+			"description": "Solve real-world and mathematical problems involving area, surface area, and volume.",
+			"exactMatch": [
+				"http://corestandards.org/Math/Content/6/G/A"
+			],
+			"ancestorIds": [
+				"8E8DDB22B357402F9106F253101900B9"
+			]
+		},
+		"8E8DDB22B357402F9106F253101900B9": {
+			"id": "8E8DDB22B357402F9106F253101900B9",
+			"asnIdentifier": "S2513836",
+			"position": 10000,
+			"depth": 0,
+			"statementLabel": "Domain",
+			"description": "Geometry",
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"052D4E8156514DB296F8BA58BD111F80": {
+			"id": "052D4E8156514DB296F8BA58BD111F80",
+			"asnIdentifier": "S2513648",
+			"position": 9000,
+			"depth": 1,
+			"statementNotation": "MP.8",
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Look for and express regularity in repeated reasoning.",
+			"comments": [
+				"Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP8"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"5F7536AB63E440E0A0004FB5E4D2C4B9": {
+			"id": "5F7536AB63E440E0A0004FB5E4D2C4B9",
+			"asnIdentifier": "S2513647",
+			"position": 8000,
+			"depth": 1,
+			"statementNotation": "MP.7",
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Look for and make use of structure.",
+			"comments": [
+				"Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP7"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"5F1ACF4996A44D4390A702B84B6FA30E": {
+			"id": "5F1ACF4996A44D4390A702B84B6FA30E",
+			"asnIdentifier": "S2513646",
+			"position": 7000,
+			"depth": 1,
+			"statementNotation": "MP.6",
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Attend to precision.",
+			"comments": [
+				"Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP6"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"D3B6ACDFD27B4CA4AE635D4919FD1612": {
+			"id": "D3B6ACDFD27B4CA4AE635D4919FD1612",
+			"asnIdentifier": "S2513645",
+			"position": 6000,
+			"depth": 1,
+			"statementNotation": "MP.5",
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Use appropriate tools strategically.",
+			"comments": [
+				"Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP5"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"435EB8FDE4BB4B20B0993D4C99703856": {
+			"id": "435EB8FDE4BB4B20B0993D4C99703856",
+			"asnIdentifier": "S2513644",
+			"position": 5000,
+			"depth": 1,
+			"statementNotation": "MP.4",
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Model with mathematics.",
+			"comments": [
+				"Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP4"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"B8DACEED36704CBCBD76BC87C9F1FEC3": {
+			"id": "B8DACEED36704CBCBD76BC87C9F1FEC3",
+			"asnIdentifier": "S2513643",
+			"position": 4000,
+			"depth": 1,
+			"statementNotation": "MP.3",
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Construct viable arguments and critique the reasoning of others.",
+			"comments": [
+				"Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP3"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"AC90A22E511740CE9A8252609823EEC3": {
+			"id": "AC90A22E511740CE9A8252609823EEC3",
+			"asnIdentifier": "S2513642",
+			"position": 3000,
+			"depth": 1,
+			"statementNotation": "MP.2",
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Reason abstractly and quantitatively.",
+			"comments": [
+				"Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP2"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"751F14A1481D41C1B292A911F032F72B": {
+			"id": "751F14A1481D41C1B292A911F032F72B",
+			"asnIdentifier": "S2513641",
+			"position": 2000,
+			"depth": 1,
+			"statementNotation": "MP.1",
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Make sense of problems and persevere in solving them.",
+			"comments": [
+				"Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
+			],
+			"exactMatch": [
+				"http://corestandards.org/Math/Practice/MP1"
+			],
+			"ancestorIds": [
+				"49ED6567FD084A4F87D3E6BD95CC2906"
+			]
+		},
+		"49ED6567FD084A4F87D3E6BD95CC2906": {
+			"id": "49ED6567FD084A4F87D3E6BD95CC2906",
+			"asnIdentifier": "S2513640",
+			"position": 1000,
+			"depth": 0,
+			"description": "Standards for Mathematical Practice",
+			"ancestorIds": []
+		}
+	}
+}

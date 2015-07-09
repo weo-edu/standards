@@ -1,0 +1,3839 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2539591_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Energy, Environment, and Utilities",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2539591",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Energy, Environment, and Utilities",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/energyutilities.pdf",
+		"asnIdentifier": "D2539591",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"72388EA1198B4DA899DF8F54540AEEAD": {
+			"id": "72388EA1198B4DA899DF8F54540AEEAD",
+			"asnIdentifier": "S2541114",
+			"position": 279000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.6",
+			"description": "Illustrate basic conflict-resolution practices.",
+			"ancestorIds": [
+				"F80E81AC76CB4E28B0CF8EA27391C0D4",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"D9D1CC7AACF945519B2BD21A46DD646E": {
+			"id": "D9D1CC7AACF945519B2BD21A46DD646E",
+			"asnIdentifier": "S2541113",
+			"position": 278000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Demonstrate discretion in interacting with customers in field and retail environments.",
+			"ancestorIds": [
+				"F80E81AC76CB4E28B0CF8EA27391C0D4",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CBD135EE95E74DEC9F7CE23D3D7675A1": {
+			"id": "CBD135EE95E74DEC9F7CE23D3D7675A1",
+			"asnIdentifier": "S2541112",
+			"position": 277000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Describe and demonstrate effective follow-up techniques.",
+			"ancestorIds": [
+				"F80E81AC76CB4E28B0CF8EA27391C0D4",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"06856618F03A490A8544094B59216D62": {
+			"id": "06856618F03A490A8544094B59216D62",
+			"asnIdentifier": "S2541111",
+			"position": 276000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Apply techniques for keeping the customer informed.",
+			"ancestorIds": [
+				"F80E81AC76CB4E28B0CF8EA27391C0D4",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"68997DE79A484ACD9525F1F3B264272F": {
+			"id": "68997DE79A484ACD9525F1F3B264272F",
+			"asnIdentifier": "S2541110",
+			"position": 275000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Apply techniques for instilling customer confidence and satisfaction.",
+			"ancestorIds": [
+				"F80E81AC76CB4E28B0CF8EA27391C0D4",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"E9D75FCDFB504E218ACE85C99FE1E838": {
+			"id": "E9D75FCDFB504E218ACE85C99FE1E838",
+			"asnIdentifier": "S2541109",
+			"position": 274000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Demonstrate appropriate personal hygiene and professional attire.",
+			"ancestorIds": [
+				"F80E81AC76CB4E28B0CF8EA27391C0D4",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F80E81AC76CB4E28B0CF8EA27391C0D4": {
+			"id": "F80E81AC76CB4E28B0CF8EA27391C0D4",
+			"asnIdentifier": "S2541108",
+			"position": 273000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Demonstrate proficiency in customer relations.",
+			"ancestorIds": [
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"275CD8257FBE486E957B49C7A4867F18": {
+			"id": "275CD8257FBE486E957B49C7A4867F18",
+			"asnIdentifier": "S2541107",
+			"position": 272000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Explain industry code of conduct.",
+			"ancestorIds": [
+				"D603120886974F6D8B7DE146AA9F6587",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"568A2715E08442EF95C51B6AAFD3E31C": {
+			"id": "568A2715E08442EF95C51B6AAFD3E31C",
+			"asnIdentifier": "S2541106",
+			"position": 271000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Demonstrate the appropriate applications of network and user data mining and behavior profiling.",
+			"ancestorIds": [
+				"D603120886974F6D8B7DE146AA9F6587",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BA48DF708BE54120AF2D2BB39B1B2655": {
+			"id": "BA48DF708BE54120AF2D2BB39B1B2655",
+			"asnIdentifier": "S2541105",
+			"position": 270000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Explain the need and strategies for network security and integrity.",
+			"ancestorIds": [
+				"D603120886974F6D8B7DE146AA9F6587",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"9BE094F611A04B189319A1B128036851": {
+			"id": "9BE094F611A04B189319A1B128036851",
+			"asnIdentifier": "S2541104",
+			"position": 269000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "Understand switching, routing, and security systems and technologies for wireless and Internet networking",
+			"ancestorIds": [
+				"D603120886974F6D8B7DE146AA9F6587",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"D603120886974F6D8B7DE146AA9F6587": {
+			"id": "D603120886974F6D8B7DE146AA9F6587",
+			"asnIdentifier": "S2541103",
+			"position": 268000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Consider privacy and security issues of the telecommunications systems.",
+			"ancestorIds": [
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8C1F592A67FF48DA8688D67CA9D422A2": {
+			"id": "8C1F592A67FF48DA8688D67CA9D422A2",
+			"asnIdentifier": "S2541102",
+			"position": 267000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.11",
+			"description": "Understand the theory of twisted pair design and shielding.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"D8DEE8ECBB2046E596E55E54B654ADFD": {
+			"id": "D8DEE8ECBB2046E596E55E54B654ADFD",
+			"asnIdentifier": "S2541101",
+			"position": 266000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.10",
+			"description": "Prepare work site plans to demonstrate proficiency in site requirements and considerations.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CB4530E9799F40EEAA8CBCB4D5567AE2": {
+			"id": "CB4530E9799F40EEAA8CBCB4D5567AE2",
+			"asnIdentifier": "S2541100",
+			"position": 265000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.9",
+			"description": "Demonstrate cable repair techniques.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"FF199F925E9F4D6BAA728DC7743E0771": {
+			"id": "FF199F925E9F4D6BAA728DC7743E0771",
+			"asnIdentifier": "S2541099",
+			"position": 264000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.8",
+			"description": "Install, repair, terminate, and test network cabling.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"DF05D0FFB8A546A58BA716E91BF50881": {
+			"id": "DF05D0FFB8A546A58BA716E91BF50881",
+			"asnIdentifier": "S2541098",
+			"position": 263000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.7",
+			"description": "Inspect and demonstrate proficiency in the use of tools, equipment, and test equipment used in the voice and data communications industry.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"4CD05BEBAF334BF3BD89B831724D07B3": {
+			"id": "4CD05BEBAF334BF3BD89B831724D07B3",
+			"asnIdentifier": "S2541097",
+			"position": 262000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.6",
+			"description": "Demonstrate proficiency in basic AC and DC circuits.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"0E6EF2D05D264D1B93FFC1A950C8F5C5": {
+			"id": "0E6EF2D05D264D1B93FFC1A950C8F5C5",
+			"asnIdentifier": "S2541096",
+			"position": 261000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.5",
+			"description": "Practice troubleshooting and repairing telecommunication system wiring.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"2C04FC85CBB04CF385706E234D45240E": {
+			"id": "2C04FC85CBB04CF385706E234D45240E",
+			"asnIdentifier": "S2541095",
+			"position": 260000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.4",
+			"description": "Understand access technologies, including wireline and wireless end-to-end switching and signaling.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6AD637268C684E5D80A2C37C0FFA9C5F": {
+			"id": "6AD637268C684E5D80A2C37C0FFA9C5F",
+			"asnIdentifier": "S2541094",
+			"position": 259000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.3",
+			"description": "Understand the differences between function and uses of wireless and cable networks.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8FB5FA185B0C4DEF8D45BBF5C742EE8A": {
+			"id": "8FB5FA185B0C4DEF8D45BBF5C742EE8A",
+			"asnIdentifier": "S2541093",
+			"position": 258000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Demonstrate proficiency in making electrical connections, splices, and basic field repair.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6443F0740AC84A9F8CE1D27F9EA5E414": {
+			"id": "6443F0740AC84A9F8CE1D27F9EA5E414",
+			"asnIdentifier": "S2541092",
+			"position": 257000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Demonstrate and apply safety procedures and practices for traffic control, pole climbing, roadside safety, electrical hazards, and data line safety checks.",
+			"ancestorIds": [
+				"C1402407D410415C97A25DBA2C8473B0",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C1402407D410415C97A25DBA2C8473B0": {
+			"id": "C1402407D410415C97A25DBA2C8473B0",
+			"asnIdentifier": "S2541091",
+			"position": 256000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Research the components, interaction, and operations of fixed-wire telecommunications systems.",
+			"ancestorIds": [
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"9E6C69C21CE44DB8A9B0D4462849023F": {
+			"id": "9E6C69C21CE44DB8A9B0D4462849023F",
+			"asnIdentifier": "S2541090",
+			"position": 255000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.9",
+			"description": "Understand the function and basic operations of communications satellites.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"7084016B8BCC462C8474E0ED1DD354CA": {
+			"id": "7084016B8BCC462C8474E0ED1DD354CA",
+			"asnIdentifier": "S2541089",
+			"position": 254000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.8",
+			"description": "Describe mobile network components and basic operation, including cellular principles and AMPS (1G), 2G; digital radio voice communications and digital cellular; data communications and spectrum-sharing technologies; frequency division multiple access (FDMA), time division multiple access (TDMA), CDMA, orthogonal frequency division multiplexing (OFDM) and 3G cellular; CDMA and 4G mobile cellular; LTE, wireless local area networks (LANs) and WiFi.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"434B591AF09440FA88CE9C835AFC4E45": {
+			"id": "434B591AF09440FA88CE9C835AFC4E45",
+			"asnIdentifier": "S2541088",
+			"position": 253000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.7",
+			"description": "Research the different functions and uses of wireless and cable networks.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6EDEE9BEC0FD42BEAAF6A202875196BC": {
+			"id": "6EDEE9BEC0FD42BEAAF6A202875196BC",
+			"asnIdentifier": "S2541087",
+			"position": 252000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.6",
+			"description": "Explain code division multiple access (CDMA), wireless technologies, services, and applications.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3FAFAAF4EDE3452EAD20B26722C5D7A9": {
+			"id": "3FAFAAF4EDE3452EAD20B26722C5D7A9",
+			"asnIdentifier": "S2541086",
+			"position": 251000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.5",
+			"description": "Understand radio frequency (RF), air interface, and radio access network (RAN).",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"91447B746C06489EA91748ABE2071E96": {
+			"id": "91447B746C06489EA91748ABE2071E96",
+			"asnIdentifier": "S2541085",
+			"position": 250000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Identify switching, routing, and security systems and technologies for wireless and Internet networking.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F64B6BB0A787414B811EF7FDEB6B1185": {
+			"id": "F64B6BB0A787414B811EF7FDEB6B1185",
+			"asnIdentifier": "S2541084",
+			"position": 249000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Describe access technologies, including wireline and wireless end-to-end switching and signaling.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"152A0729957742ED86A8256883AAE920": {
+			"id": "152A0729957742ED86A8256883AAE920",
+			"asnIdentifier": "S2541083",
+			"position": 248000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Demonstrate device management.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BD8E43FA6F804AE8B6DC548F1BD2BC0F": {
+			"id": "BD8E43FA6F804AE8B6DC548F1BD2BC0F",
+			"asnIdentifier": "S2541082",
+			"position": 247000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Understand mobile wireless services and applications.",
+			"ancestorIds": [
+				"14FB357C012E40579EE1695E54D3C978",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"14FB357C012E40579EE1695E54D3C978": {
+			"id": "14FB357C012E40579EE1695E54D3C978",
+			"asnIdentifier": "S2541081",
+			"position": 246000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Research the components, interaction, and operations of wireless telecommunications systems.",
+			"ancestorIds": [
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"B14362112CCB4743A5B97B7C414906BF": {
+			"id": "B14362112CCB4743A5B97B7C414906BF",
+			"asnIdentifier": "S2541080",
+			"position": 245000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.12",
+			"description": "Research applications and trends in satellite communications, including personal, commercial, military and government, and global applications.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"96B90A9242E64D87B316D633492DC8CE": {
+			"id": "96B90A9242E64D87B316D633492DC8CE",
+			"asnIdentifier": "S2541079",
+			"position": 244000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.11",
+			"description": "Explain propagation and interference, including radio noise, ionosphere effects, troposphere effects, interference between satellite networks, and interference with terrestrial networks.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"1473840CE641422B95F70BBA29B1676B": {
+			"id": "1473840CE641422B95F70BBA29B1676B",
+			"asnIdentifier": "S2541078",
+			"position": 243000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.10",
+			"description": "Understand the importance of modulation, multiplexing, and multiple access.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"E27FC6F7DA6A46EAB0850CD102A757DB": {
+			"id": "E27FC6F7DA6A46EAB0850CD102A757DB",
+			"asnIdentifier": "S2541077",
+			"position": 242000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.9",
+			"description": "Understand frequency bands and those used in satellite communications.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F6BC0E8CA8C94F89A83913F47F582015": {
+			"id": "F6BC0E8CA8C94F89A83913F47F582015",
+			"asnIdentifier": "S2541076",
+			"position": 241000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.8",
+			"description": "Analyze satellite system architecture, including the network configuration, remotes, satellite subsystems, ground stations, and network management.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"A580DFFD887444B98E0CD6CCFB613D51": {
+			"id": "A580DFFD887444B98E0CD6CCFB613D51",
+			"asnIdentifier": "S2541075",
+			"position": 240000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.7",
+			"description": "Understand satellite systems, including geo-synchronous earth orbiting (GEO), low-earth orbiting (LEO), medium-earth orbiting (MEO), high-earth orbiting (HEO), and mobile satellite systems.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"9C2C488C44354A578DBF418B367C03CA": {
+			"id": "9C2C488C44354A578DBF418B367C03CA",
+			"asnIdentifier": "S2541074",
+			"position": 239000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.6",
+			"description": "Understand satellite orbits, including launch vehicles and the launching of satellites.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F93DDA05A6584BB988EC6E076C6FAD1C": {
+			"id": "F93DDA05A6584BB988EC6E076C6FAD1C",
+			"asnIdentifier": "S2541073",
+			"position": 238000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.5",
+			"description": "Learn the vocabulary and acronyms associated with satellite communications.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"43B2041058104B258DC15060FDD97A86": {
+			"id": "43B2041058104B258DC15060FDD97A86",
+			"asnIdentifier": "S2540831",
+			"position": 237000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.4",
+			"description": "Describe common types of satellites and their respective functions.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"102020A6B1404E4394A9BB052D0194D8": {
+			"id": "102020A6B1404E4394A9BB052D0194D8",
+			"asnIdentifier": "S2540829",
+			"position": 236000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.3",
+			"description": "Illustrate and describe the basic elements of satellite communications.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"AD6DAC20622F49889D88662D789CE146": {
+			"id": "AD6DAC20622F49889D88662D789CE146",
+			"asnIdentifier": "S2540822",
+			"position": 235000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.2",
+			"description": "Analyze the limitations of terrestrial communications and the advantages and disadvantages of satellites.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"5D7BE37E1F1F4AFB9A00811365A61D88": {
+			"id": "5D7BE37E1F1F4AFB9A00811365A61D88",
+			"asnIdentifier": "S2540821",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Understand the evolution of satellite communications.",
+			"ancestorIds": [
+				"CB8F0A3AE7A04369BC7D19DB09D834D3",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CB8F0A3AE7A04369BC7D19DB09D834D3": {
+			"id": "CB8F0A3AE7A04369BC7D19DB09D834D3",
+			"asnIdentifier": "S2540820",
+			"position": 233000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "Examine the role and functions of satellites in telecommunications.",
+			"ancestorIds": [
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C13C3B86DEB045B09BA2687B40A0D58B": {
+			"id": "C13C3B86DEB045B09BA2687B40A0D58B",
+			"asnIdentifier": "S2540819",
+			"position": 232000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.10",
+			"description": "Understand the uses and effects of new technologies, such as social networking and cloud computing, on the network.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F9D0C069875946B68C09DA033DB2342D": {
+			"id": "F9D0C069875946B68C09DA033DB2342D",
+			"asnIdentifier": "S2540818",
+			"position": 231000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.9",
+			"description": "Obtain a working knowledge of communications protocols and standards with an emphasis on their importance in network engineering and network operation.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C657286D21F645DF8E07DAFFB8038B0C": {
+			"id": "C657286D21F645DF8E07DAFFB8038B0C",
+			"asnIdentifier": "S2540817",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.8",
+			"description": "Compare the benefits, drawbacks, and technology behind voice over IP (VoIP) using IP PBXs, IP phones and Internet telephony service providers (ITSP), and IPTV.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"14A7C8230FF94AF68E814880A801803E": {
+			"id": "14A7C8230FF94AF68E814880A801803E",
+			"asnIdentifier": "S2540816",
+			"position": 229000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.7",
+			"description": "Recognize technologies such as frame relay, ATM, MLPS, Ethernet, and TCP/IP and determine each technology's impact on network design, communication capabilities, and quality of service (QOS).",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6D65697238364527B760D2DFA736A4EF": {
+			"id": "6D65697238364527B760D2DFA736A4EF",
+			"asnIdentifier": "S2540815",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.6",
+			"description": "Understand the basics of local, metropolitan, and wide area networks (LANs, MANs, and WANs), including the differences between network bridging/switching and routing.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F1139D2EDC374231B7DC0B1F1636CA8C": {
+			"id": "F1139D2EDC374231B7DC0B1F1636CA8C",
+			"asnIdentifier": "S2540814",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.5",
+			"description": "Compare private voice network design alternatives using tie-lines, Centrex, virtual private networks (VPN), and hosted services.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"097D7377D1194646B393052027C107AC": {
+			"id": "097D7377D1194646B393052027C107AC",
+			"asnIdentifier": "S2540812",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.4",
+			"description": "Evaluate the differences between the various access methods, including DSL, cable modems, wireless (cellular, WiMax, Wi-Fi), T1, and carrier Ethernet.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8D3DD34D62D14F5ABE23FA5DF7267AFE": {
+			"id": "8D3DD34D62D14F5ABE23FA5DF7267AFE",
+			"asnIdentifier": "S2540811",
+			"position": 225000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Define the components of data networks, such as modems, virtual circuits, hubs, switches, and routers.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"EE6E464223CC4D079F938C76BCDE8EF0": {
+			"id": "EE6E464223CC4D079F938C76BCDE8EF0",
+			"asnIdentifier": "S2540810",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "Compare and contrast the components of voice networks, such as carrier switches, routing, PBXs, T1 trunks, switched versus dedicated circuits, and packet and wireless networks.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"0E63DA7564824B2EB740A202D0253098": {
+			"id": "0E63DA7564824B2EB740A202D0253098",
+			"asnIdentifier": "S2540809",
+			"position": 223000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "Describe the differences between analog and digital transmission and the migration to a converged digital/optical network for voice, data, and video.",
+			"ancestorIds": [
+				"9AD44A68375941C495C88C4CB988562D",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"9AD44A68375941C495C88C4CB988562D": {
+			"id": "9AD44A68375941C495C88C4CB988562D",
+			"asnIdentifier": "S2540808",
+			"position": 222000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Demonstrate understanding and use of the basic and emerging technologies that impact the telecommunications industry.",
+			"ancestorIds": [
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C7F89EC7F26A4FCCA3502094C3EDB307": {
+			"id": "C7F89EC7F26A4FCCA3502094C3EDB307",
+			"asnIdentifier": "S2540807",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.8",
+			"description": "Understand signaling: pulse dialing and dual tone multiple frequency (DTMF).",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BD98A70F694443A18451DC6A71CE4F5D": {
+			"id": "BD98A70F694443A18451DC6A71CE4F5D",
+			"asnIdentifier": "S2540806",
+			"position": 220000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.7",
+			"description": "Describe public switched telephone network (PSTN) and signaling system 7 (SS7).",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3944ED7D08C44C979665A55322E4ADBC": {
+			"id": "3944ED7D08C44C979665A55322E4ADBC",
+			"asnIdentifier": "S2540805",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.6",
+			"description": "Define voice over IP (VoIP).",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"294DE10FC6E743F48497BB64D31A0D3C": {
+			"id": "294DE10FC6E743F48497BB64D31A0D3C",
+			"asnIdentifier": "S2540804",
+			"position": 218000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.5",
+			"description": "Understand digital transmission concepts (capacity, bits-per-second), converting sound to digital signals (PCM, CODECS), and compensating for transmission impairments (attenuation, noise, delay, jitter).",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"81D43ABF24314233AFF134C8903DA705": {
+			"id": "81D43ABF24314233AFF134C8903DA705",
+			"asnIdentifier": "S2540803",
+			"position": 217000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "Compare analog transmission concepts (bandwidth, voiceband, modulation), analog circuits and sounds, and plain ordinary telephone service (POTS).",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"B3AB353DDDFE4C5397540BC0B8096FAB": {
+			"id": "B3AB353DDDFE4C5397540BC0B8096FAB",
+			"asnIdentifier": "S2540802",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Understand the fundamentals of voice telephony and voice characteristics.",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"ED103B937D934B1895DED8A864D1499D": {
+			"id": "ED103B937D934B1895DED8A864D1499D",
+			"asnIdentifier": "S2540801",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "Evaluate the effects of telecommunications media and networks (telephone, television, cellular, social networking, etc.).",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"B44E1F0977934AF4ACDE6E4D12745B62": {
+			"id": "B44E1F0977934AF4ACDE6E4D12745B62",
+			"asnIdentifier": "S2540800",
+			"position": 214000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Understand the relationship between telecommunications and society.",
+			"ancestorIds": [
+				"85423CD62F7F4FD39EA7BE776B4A1074",
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"85423CD62F7F4FD39EA7BE776B4A1074": {
+			"id": "85423CD62F7F4FD39EA7BE776B4A1074",
+			"asnIdentifier": "S2540799",
+			"position": 213000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Understand the basic principles and concepts that impact the telecommunications industry, including systems, concepts, and regulations.",
+			"ancestorIds": [
+				"AC451AA2C343430BA1135B1F58150BAA",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"AC451AA2C343430BA1135B1F58150BAA": {
+			"id": "AC451AA2C343430BA1135B1F58150BAA",
+			"asnIdentifier": "S2540798",
+			"position": 212000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Telecommunications",
+			"comments": [
+				"The Telecommunications pathway prepares students for employment and postsecondary education and training in the wireless and fixed-line communications industries. The sharing of information is essential for personal, commercial, educational, government, and military functions. Information is stored, sent, and accessed primarily via the telecommunications industries."
+			],
+			"ancestorIds": [
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"B628113874044A9AA650C8E7C66BABDC": {
+			"id": "B628113874044A9AA650C8E7C66BABDC",
+			"asnIdentifier": "S2540797",
+			"position": 211000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.6",
+			"description": "Design and construct an electrical circuit with a power generation source.",
+			"ancestorIds": [
+				"F03EABC7DCB746218F5D0082DD5B80B8",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"85203FB36A184BE3A6A9C86680E61B0E": {
+			"id": "85203FB36A184BE3A6A9C86680E61B0E",
+			"asnIdentifier": "S2540796",
+			"position": 210000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.5",
+			"description": "Explain and apply Ohm's Law.",
+			"ancestorIds": [
+				"F03EABC7DCB746218F5D0082DD5B80B8",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8E09BDFFCFF744E191A97EA10D80D2A2": {
+			"id": "8E09BDFFCFF744E191A97EA10D80D2A2",
+			"asnIdentifier": "S2540795",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.4",
+			"description": "Measure voltage, amperage, and resistance using a volt-ohm meter (VOM) and a digital volt-ohm meter (DVM).",
+			"ancestorIds": [
+				"F03EABC7DCB746218F5D0082DD5B80B8",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"68DE5BEC88964AEE82D8A549A86E8C97": {
+			"id": "68DE5BEC88964AEE82D8A549A86E8C97",
+			"asnIdentifier": "S2540794",
+			"position": 208000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Define and explain voltage, current, resistance, power, and energy.",
+			"ancestorIds": [
+				"F03EABC7DCB746218F5D0082DD5B80B8",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"7A2E8CED33DC4B1A81B3C6D1D8AA369C": {
+			"id": "7A2E8CED33DC4B1A81B3C6D1D8AA369C",
+			"asnIdentifier": "S2540793",
+			"position": 207000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Understand the components and workings of the gas transmission and distribution network.",
+			"ancestorIds": [
+				"F03EABC7DCB746218F5D0082DD5B80B8",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F1CF44F7EAB84BA68D9BBD88FBA09BD3": {
+			"id": "F1CF44F7EAB84BA68D9BBD88FBA09BD3",
+			"asnIdentifier": "S2540792",
+			"position": 206000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Understand the components and workings of the electric transmission and distribution network.",
+			"ancestorIds": [
+				"F03EABC7DCB746218F5D0082DD5B80B8",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F03EABC7DCB746218F5D0082DD5B80B8": {
+			"id": "F03EABC7DCB746218F5D0082DD5B80B8",
+			"asnIdentifier": "S2540791",
+			"position": 205000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B7.0",
+			"description": "Understand the interrelationships among components of systems.",
+			"ancestorIds": [
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CE11327F7F4C4E928B410873F7575388": {
+			"id": "CE11327F7F4C4E928B410873F7575388",
+			"asnIdentifier": "S2540790",
+			"position": 204000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.4",
+			"description": "Identify electric power transmission equipment and systems.",
+			"ancestorIds": [
+				"14967A2AF68543C0B4D6E7ADCEE8C558",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C56071288C114DBA9E47D2005660F15B": {
+			"id": "C56071288C114DBA9E47D2005660F15B",
+			"asnIdentifier": "S2540789",
+			"position": 203000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.3",
+			"description": "Understand the emerging technologies in electric power transmission.",
+			"ancestorIds": [
+				"14967A2AF68543C0B4D6E7ADCEE8C558",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"5DECBCF3FB604898821574E55B2B80AC": {
+			"id": "5DECBCF3FB604898821574E55B2B80AC",
+			"asnIdentifier": "S2540788",
+			"position": 202000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Explain the need for electric distribution systems and how they are designed to operate.",
+			"ancestorIds": [
+				"14967A2AF68543C0B4D6E7ADCEE8C558",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"141F73D9F71F4CB2A09917398F4A2ADD": {
+			"id": "141F73D9F71F4CB2A09917398F4A2ADD",
+			"asnIdentifier": "S2540787",
+			"position": 201000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Describe the electric power transmission principles and processes.",
+			"ancestorIds": [
+				"14967A2AF68543C0B4D6E7ADCEE8C558",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"14967A2AF68543C0B4D6E7ADCEE8C558": {
+			"id": "14967A2AF68543C0B4D6E7ADCEE8C558",
+			"asnIdentifier": "S2540786",
+			"position": 200000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Research methods of energy procurement, transmission, distribution, and storage.",
+			"ancestorIds": [
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"01B116A365624B6098E0D7543C39C000": {
+			"id": "01B116A365624B6098E0D7543C39C000",
+			"asnIdentifier": "S2540785",
+			"position": 199000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.9",
+			"description": "Conduct tests and inspections of products, services, or processes to evaluate quality or performance.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"23B50F31E17A45E0868D231B66B117DA": {
+			"id": "23B50F31E17A45E0868D231B66B117DA",
+			"asnIdentifier": "S2540784",
+			"position": 198000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.8",
+			"description": "Operate, repair, and test machines, devices, and equipment based on electrical or mechanical principles in order to diagnose machine malfunctions, using basic hand and small electric tools and equipment.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"449E5861290F42B09A934684C34C9A61": {
+			"id": "449E5861290F42B09A934684C34C9A61",
+			"asnIdentifier": "S2540783",
+			"position": 197000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.7",
+			"description": "Explain the fission process, including the construction of fission product barriers.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"4043774ED4D24D39B2B3F24A9782A6E8": {
+			"id": "4043774ED4D24D39B2B3F24A9782A6E8",
+			"asnIdentifier": "S2540782",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.6",
+			"description": "Demonstrate understanding of reactor startup and shutdown procedures.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"EF5DE83AEA074CFA9B99DC9C6513B9CC": {
+			"id": "EF5DE83AEA074CFA9B99DC9C6513B9CC",
+			"asnIdentifier": "S2540781",
+			"position": 195000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.5",
+			"description": "Explain the general design overview of the basic reactor types.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"45261AFFC24947E5B6A668C9C2593ED9": {
+			"id": "45261AFFC24947E5B6A668C9C2593ED9",
+			"asnIdentifier": "S2540780",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.4",
+			"description": "Understand reactor theory and operations.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"A26BF14CF44C46D2BDEF6EAB2E8B4442": {
+			"id": "A26BF14CF44C46D2BDEF6EAB2E8B4442",
+			"asnIdentifier": "S2540779",
+			"position": 193000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.3",
+			"description": "Explain the basic atomic and nuclear physics terms, unit, definitions, and basic concepts, including atomic structure, nuclear interactions and reactions, sources of residual heat/decay heat, and reactor operation.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"0EB35BC961964377A33A2306355E225F": {
+			"id": "0EB35BC961964377A33A2306355E225F",
+			"asnIdentifier": "S2540778",
+			"position": 192000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Understand the components of electrical systems, including switchyard construction, transformers, relays, circuit breakers, and motors.",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"FCF5B43D8FAB49AB98C39D25EDEAA1CF": {
+			"id": "FCF5B43D8FAB49AB98C39D25EDEAA1CF",
+			"asnIdentifier": "S2540777",
+			"position": 191000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Use the fundamental concepts associated with electricity (e.g., electric charge, electric current).",
+			"ancestorIds": [
+				"9A230426803E4F21840FE7E0357029B1",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"9A230426803E4F21840FE7E0357029B1": {
+			"id": "9A230426803E4F21840FE7E0357029B1",
+			"asnIdentifier": "S2540776",
+			"position": 190000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Understand and apply basic knowledge and skills necessary for nuclear power generation and nuclear power plant personnel.",
+			"ancestorIds": [
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"20781EA971154337ACF04BE04BC4EE65": {
+			"id": "20781EA971154337ACF04BE04BC4EE65",
+			"asnIdentifier": "S2540775",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.6",
+			"description": "Describe the theory, construction, and application of the mechanical components of various types of power generation systems.",
+			"ancestorIds": [
+				"5F444CBB944E4901BE23FA8E98C669BF",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"323FE78127B1456FB955A97F3272435E": {
+			"id": "323FE78127B1456FB955A97F3272435E",
+			"asnIdentifier": "S2540774",
+			"position": 188000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Describe the location of equipment in the plant, how the equipment operates, and normal operating parameters.",
+			"ancestorIds": [
+				"5F444CBB944E4901BE23FA8E98C669BF",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"A991CB87AEBB45A7BCD57DC749B32104": {
+			"id": "A991CB87AEBB45A7BCD57DC749B32104",
+			"asnIdentifier": "S2540773",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Summarize the basic operating principles of fossil, hydroelectric, and internal combustion systems.",
+			"ancestorIds": [
+				"5F444CBB944E4901BE23FA8E98C669BF",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"E407DF85440E42978339EB1C87BEEBD2": {
+			"id": "E407DF85440E42978339EB1C87BEEBD2",
+			"asnIdentifier": "S2540772",
+			"position": 186000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Discriminate the differences and similarities of power generation, including use of different fuel types and different power plant uses.",
+			"ancestorIds": [
+				"5F444CBB944E4901BE23FA8E98C669BF",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CE52382474834E298D98D21280E58615": {
+			"id": "CE52382474834E298D98D21280E58615",
+			"asnIdentifier": "S2540771",
+			"position": 185000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Classify the components of electrical generating systems, including boilers, generators, alternators, turbines, motors, engines, pumps, and switchgear.",
+			"ancestorIds": [
+				"5F444CBB944E4901BE23FA8E98C669BF",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"18C7950C7F0E45AC868928300F9CD012": {
+			"id": "18C7950C7F0E45AC868928300F9CD012",
+			"asnIdentifier": "S2540770",
+			"position": 184000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Explain and use the fundamental laws and principles of electricity and magnetism.",
+			"ancestorIds": [
+				"5F444CBB944E4901BE23FA8E98C669BF",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"5F444CBB944E4901BE23FA8E98C669BF": {
+			"id": "5F444CBB944E4901BE23FA8E98C669BF",
+			"asnIdentifier": "S2540769",
+			"position": 183000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B4.0",
+			"description": "Understand nonnuclear power generation plant operations (coal, oil, natural gas, solar, wind, geothermal power, hydroelectric, or biofuel).",
+			"ancestorIds": [
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6B5BBB4239034BCD9A440D0643D0AF20": {
+			"id": "6B5BBB4239034BCD9A440D0643D0AF20",
+			"asnIdentifier": "S2540768",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.9",
+			"description": "Compare and contrast the advantages and disadvantages of using ocean wave energy technologies for energy.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"82389391BF954C75B403B004DEC5D365": {
+			"id": "82389391BF954C75B403B004DEC5D365",
+			"asnIdentifier": "S2540767",
+			"position": 181000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.8",
+			"description": "Explain wave energy technologies (terminator devices, oscillating water column, point absorbers, attenuators, and overtopping devices).",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"923C8701B9714BFAA27E672F9F5303CC": {
+			"id": "923C8701B9714BFAA27E672F9F5303CC",
+			"asnIdentifier": "S2540766",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.7",
+			"description": "Describe how wave power is harnessed in near shore, offshore, and far shore locations.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"B58A553908C848CB9F6B3C6F1735C782": {
+			"id": "B58A553908C848CB9F6B3C6F1735C782",
+			"asnIdentifier": "S2540765",
+			"position": 179000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.6",
+			"description": "Explain how ocean wave energy is used to produce electric energy.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"DD1B01411DAA45759D389B7C14308A22": {
+			"id": "DD1B01411DAA45759D389B7C14308A22",
+			"asnIdentifier": "S2540764",
+			"position": 178000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.5",
+			"description": "Explain the process of nuclear fission.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"A849DD0945AA42B5BAEFB79067243A2E": {
+			"id": "A849DD0945AA42B5BAEFB79067243A2E",
+			"asnIdentifier": "S2540763",
+			"position": 177000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.4",
+			"description": "Explain how nuclear power is used to produce electric energy.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3B855980E3FA46E783A56169361BFFDC": {
+			"id": "3B855980E3FA46E783A56169361BFFDC",
+			"asnIdentifier": "S2540762",
+			"position": 176000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Define biofuels use and production.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"08A32B29B97A48CEABA9324016CF634E": {
+			"id": "08A32B29B97A48CEABA9324016CF634E",
+			"asnIdentifier": "S2540761",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Describe the major sources, scale, and impacts of biomass energy.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"24048C5DFD534E8E86BD218FF2E0C074": {
+			"id": "24048C5DFD534E8E86BD218FF2E0C074",
+			"asnIdentifier": "S2540760",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Explain biomass conversion, including thermal and chemical processes used to produce electric energy.",
+			"ancestorIds": [
+				"F92FF20EBA0C435E8FE8719677188100",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F92FF20EBA0C435E8FE8719677188100": {
+			"id": "F92FF20EBA0C435E8FE8719677188100",
+			"asnIdentifier": "S2540759",
+			"position": 173000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B3.0",
+			"description": "Investigate emerging and alternative electric power generation technologies and fuel sources.",
+			"ancestorIds": [
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BDF8E9DAC9AB4BC8BF0802E7DD614D08": {
+			"id": "BDF8E9DAC9AB4BC8BF0802E7DD614D08",
+			"asnIdentifier": "S2540758",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.4",
+			"description": "Describe how cost and efficiency rates are determined for each source.",
+			"ancestorIds": [
+				"276681CF22BF4787B4D3AF6E194F584E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CBDFE12480194E2B9F3CAD6583B358AF": {
+			"id": "CBDFE12480194E2B9F3CAD6583B358AF",
+			"asnIdentifier": "S2540757",
+			"position": 171000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.3",
+			"description": "Evaluate and list the advantages and disadvantages for each energy source.",
+			"ancestorIds": [
+				"276681CF22BF4787B4D3AF6E194F584E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"1CF7AC7000AA4EA8915F0226A02BDAFA": {
+			"id": "1CF7AC7000AA4EA8915F0226A02BDAFA",
+			"asnIdentifier": "S2540756",
+			"position": 170000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Explain how each source was created and is used to produce electricity.",
+			"ancestorIds": [
+				"276681CF22BF4787B4D3AF6E194F584E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"1D64FA8B8C7B42D69221E3036F8070C3": {
+			"id": "1D64FA8B8C7B42D69221E3036F8070C3",
+			"asnIdentifier": "S2540755",
+			"position": 169000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Explain the conventional electric power generation system and process (coal, oil, natural gas, solar, wind, geothermal, and hydroelectric).",
+			"ancestorIds": [
+				"276681CF22BF4787B4D3AF6E194F584E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"276681CF22BF4787B4D3AF6E194F584E": {
+			"id": "276681CF22BF4787B4D3AF6E194F584E",
+			"asnIdentifier": "S2540754",
+			"position": 168000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Identify various conventional electric power generation fuel sources and the cost and efficiency issues associated with each.",
+			"ancestorIds": [
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CB557D7DE4D4413A9B11AF2F204F82D1": {
+			"id": "CB557D7DE4D4413A9B11AF2F204F82D1",
+			"asnIdentifier": "S2540753",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.8",
+			"description": "Describe the process of electric metering and billing for energy consumption.",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F804013DDA3B408DACE285DDD2EF6A2D": {
+			"id": "F804013DDA3B408DACE285DDD2EF6A2D",
+			"asnIdentifier": "S2540752",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.7",
+			"description": "Explain the role of regulatory bodies in the energy industry (Federal Energy Regulatory Commission, Public Utilities Commission [PUC]).",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"0E413C73EB45462A94CECE29126ADCFB": {
+			"id": "0E413C73EB45462A94CECE29126ADCFB",
+			"asnIdentifier": "S2540751",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.6",
+			"description": "Explain the different structures of energy companies, including investor-owned utilities, municipalities (and associated utility practices, such as water/wastewater), electric cooperatives, and independent power producers and the different lines of energy business, including electric and gas.",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C9E9522499C04749B703A16E82200C91": {
+			"id": "C9E9522499C04749B703A16E82200C91",
+			"asnIdentifier": "S2540750",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.5",
+			"description": "Identify the role and function of generation, transmission, and distribution organizations.",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3BDF5EEF6B924B8EB3640553B692F910": {
+			"id": "3BDF5EEF6B924B8EB3640553B692F910",
+			"asnIdentifier": "S2540749",
+			"position": 163000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.4",
+			"description": "Demonstrate an understanding of basic direct current (DC) electrical-circuit skills.",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"1F2A089890D94C16B1833E16E6E7FEC1": {
+			"id": "1F2A089890D94C16B1833E16E6E7FEC1",
+			"asnIdentifier": "S2540748",
+			"position": 162000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Explain the flow of energy from generation through distribution to the customer.",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"43314AA1A91748EBAE77522BCD73E342": {
+			"id": "43314AA1A91748EBAE77522BCD73E342",
+			"asnIdentifier": "S2540747",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "Identify the differences and challenges in energy needs, sources, and uses in developing regions.",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F445665E399D4B0D87F9EA0AB9150736": {
+			"id": "F445665E399D4B0D87F9EA0AB9150736",
+			"asnIdentifier": "S2540746",
+			"position": 160000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Describe the past, present, and anticipated demand for, and use of, energy.",
+			"ancestorIds": [
+				"5219CB478A994A58BCA11C12175B770E",
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"5219CB478A994A58BCA11C12175B770E": {
+			"id": "5219CB478A994A58BCA11C12175B770E",
+			"asnIdentifier": "S2540745",
+			"position": 159000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Explore the basic conventional and emerging principles and concepts of the energy industry, including energy production, energy transmission, and alternative energy technologies",
+			"ancestorIds": [
+				"59425C177A694EC98F5FC0744F77E71D",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"59425C177A694EC98F5FC0744F77E71D": {
+			"id": "59425C177A694EC98F5FC0744F77E71D",
+			"asnIdentifier": "S2540744",
+			"position": 158000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Energy and Power Technology",
+			"comments": [
+				"The Energy and Power Technology pathway provides learning opportunities for students interested in preparing for careers in the energy and power industries."
+			],
+			"ancestorIds": [
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"D473E38BF10C41E0A1887001479EF761": {
+			"id": "D473E38BF10C41E0A1887001479EF761",
+			"asnIdentifier": "S2540743",
+			"position": 157000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.4",
+			"description": "Create an environmental law or regulation and explain how it will impact the environment.",
+			"ancestorIds": [
+				"315D257F7BA147B693E64E04C5297A74",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BECBC7FCA10A436F92E33D1881DA9E87": {
+			"id": "BECBC7FCA10A436F92E33D1881DA9E87",
+			"asnIdentifier": "S2540742",
+			"position": 156000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.3",
+			"description": "Compare and contrast environmental laws and regulations that may have a positive or negative impact on the environment and the economy.",
+			"ancestorIds": [
+				"315D257F7BA147B693E64E04C5297A74",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"7969D8B4E9A24866943C4175358D1E54": {
+			"id": "7969D8B4E9A24866943C4175358D1E54",
+			"asnIdentifier": "S2540741",
+			"position": 155000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.2",
+			"description": "Understand current regulations concerning recycling, solid waste, land use management, water quality, and renewable and nonrenewable energy.",
+			"ancestorIds": [
+				"315D257F7BA147B693E64E04C5297A74",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3475A36E58B5483EBAC0D567F17969C2": {
+			"id": "3475A36E58B5483EBAC0D567F17969C2",
+			"asnIdentifier": "S2540740",
+			"position": 154000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.1",
+			"description": "Identify and discuss major environmental laws and policies, including the regulatory and legislative processes used to create such laws.",
+			"ancestorIds": [
+				"315D257F7BA147B693E64E04C5297A74",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"315D257F7BA147B693E64E04C5297A74": {
+			"id": "315D257F7BA147B693E64E04C5297A74",
+			"asnIdentifier": "S2540739",
+			"position": 153000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A12.0",
+			"description": "Identify and analyze issues, legislation, and regulations related to energy and the environment.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F23FDE825D6B431EB51DA453BF330CF2": {
+			"id": "F23FDE825D6B431EB51DA453BF330CF2",
+			"asnIdentifier": "S2540738",
+			"position": 152000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.4",
+			"description": "Analyze efficient solar water heating systems.",
+			"ancestorIds": [
+				"C1850AF0E6104BEB9309B3C7B803E925",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3101DDB30D3848A69394EAB1821F5AF2": {
+			"id": "3101DDB30D3848A69394EAB1821F5AF2",
+			"asnIdentifier": "S2540737",
+			"position": 151000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.3",
+			"description": "Describe solar hot water financial support programs and regulations.",
+			"ancestorIds": [
+				"C1850AF0E6104BEB9309B3C7B803E925",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"23CFC86BFBCE41E1853B4F14B84247A9": {
+			"id": "23CFC86BFBCE41E1853B4F14B84247A9",
+			"asnIdentifier": "S2540736",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.2",
+			"description": "Describe the requirements of solar water heaters that meet regulations.",
+			"ancestorIds": [
+				"C1850AF0E6104BEB9309B3C7B803E925",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"62EEA7CDE84F4C2EB4CF4E5C6F06E047": {
+			"id": "62EEA7CDE84F4C2EB4CF4E5C6F06E047",
+			"asnIdentifier": "S2540735",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.1",
+			"description": "Identify the characteristics of solar heated water design and installation.",
+			"ancestorIds": [
+				"C1850AF0E6104BEB9309B3C7B803E925",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C1850AF0E6104BEB9309B3C7B803E925": {
+			"id": "C1850AF0E6104BEB9309B3C7B803E925",
+			"asnIdentifier": "S2540734",
+			"position": 148000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A11.0",
+			"description": "Prepare an efficient solar heated water design and installation plan.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"AC86950782554D7E9D9E9380103D6142": {
+			"id": "AC86950782554D7E9D9E9380103D6142",
+			"asnIdentifier": "S2540733",
+			"position": 147000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.6",
+			"description": "Describe the concerns and strategies for catastrophic storm water events and management.",
+			"ancestorIds": [
+				"EAEA9A8B5F4F4C3F977D2658FAB60BD5",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"AA76E2AD156F4EA1A61DB7EB15FE1B4F": {
+			"id": "AA76E2AD156F4EA1A61DB7EB15FE1B4F",
+			"asnIdentifier": "S2540732",
+			"position": 146000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.5",
+			"description": "Analyze and interpret contaminated harbor and river sediment.",
+			"ancestorIds": [
+				"EAEA9A8B5F4F4C3F977D2658FAB60BD5",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6D54F4A8D79D4C009846513985A04634": {
+			"id": "6D54F4A8D79D4C009846513985A04634",
+			"asnIdentifier": "S2540731",
+			"position": 145000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.4",
+			"description": "Use the Hydrologic Engineering Centers River Analysis System (HEC-RAS).",
+			"ancestorIds": [
+				"EAEA9A8B5F4F4C3F977D2658FAB60BD5",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"B87862B4C0874B80A1E0401655067FF0": {
+			"id": "B87862B4C0874B80A1E0401655067FF0",
+			"asnIdentifier": "S2540730",
+			"position": 144000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.3",
+			"description": "Understand the principles and applications of drainage engineering.",
+			"ancestorIds": [
+				"EAEA9A8B5F4F4C3F977D2658FAB60BD5",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"A2F751D9877A4F6CBF81FC62A5894615": {
+			"id": "A2F751D9877A4F6CBF81FC62A5894615",
+			"asnIdentifier": "S2540729",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.2",
+			"description": "Describe watershed modeling.",
+			"ancestorIds": [
+				"EAEA9A8B5F4F4C3F977D2658FAB60BD5",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"95E91840CEB74781895813E4A4114730": {
+			"id": "95E91840CEB74781895813E4A4114730",
+			"asnIdentifier": "S2540728",
+			"position": 142000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.1",
+			"description": "Understand the designs and tools used in water flow management.",
+			"ancestorIds": [
+				"EAEA9A8B5F4F4C3F977D2658FAB60BD5",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"EAEA9A8B5F4F4C3F977D2658FAB60BD5": {
+			"id": "EAEA9A8B5F4F4C3F977D2658FAB60BD5",
+			"asnIdentifier": "S2540727",
+			"position": 141000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A10.0",
+			"description": "Evaluate the impact and flow management of storm water, rivers, and groundwater.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"D6FC16877BB4499B82C5A441B8D2A3B2": {
+			"id": "D6FC16877BB4499B82C5A441B8D2A3B2",
+			"asnIdentifier": "S2540726",
+			"position": 140000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.4",
+			"description": "Understand the functions and operations of water storage, reservoirs, aqueducts, and dams.",
+			"ancestorIds": [
+				"F103E6DF27D8425FBFA05570DC892AF1",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"53D6612A413D4595BAC93D8A47B8954C": {
+			"id": "53D6612A413D4595BAC93D8A47B8954C",
+			"asnIdentifier": "S2540725",
+			"position": 139000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.4",
+			"description": "Describe the role of environmental engineering and green energy in water systems.",
+			"ancestorIds": [
+				"F103E6DF27D8425FBFA05570DC892AF1",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"DE6A9D3CDFE34950AB518EFD7D77E3A3": {
+			"id": "DE6A9D3CDFE34950AB518EFD7D77E3A3",
+			"asnIdentifier": "S2540724",
+			"position": 138000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.2",
+			"description": "Analyze strategies for improving energy efficiencies in water collection and distribution.",
+			"ancestorIds": [
+				"F103E6DF27D8425FBFA05570DC892AF1",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"DBF8ED1236D9427B89D7690FD6876B30": {
+			"id": "DBF8ED1236D9427B89D7690FD6876B30",
+			"asnIdentifier": "S2540723",
+			"position": 137000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.1",
+			"description": "Understand water reuse: issues, strategies, technologies, and applications.",
+			"ancestorIds": [
+				"F103E6DF27D8425FBFA05570DC892AF1",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"F103E6DF27D8425FBFA05570DC892AF1": {
+			"id": "F103E6DF27D8425FBFA05570DC892AF1",
+			"asnIdentifier": "S2540722",
+			"position": 136000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A9.0",
+			"description": "Research drinking-water sources, systems, treatment, and conservation.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"AD525B422352463AACC762B25CCBF692": {
+			"id": "AD525B422352463AACC762B25CCBF692",
+			"asnIdentifier": "S2540721",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.4",
+			"description": "Conduct an energy audit.",
+			"ancestorIds": [
+				"C8C9CFE785E345F4AA65EF3039405979",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"4437210EB6CB4D0EA3BC57E3E2CBDD23": {
+			"id": "4437210EB6CB4D0EA3BC57E3E2CBDD23",
+			"asnIdentifier": "S2540720",
+			"position": 134000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.3",
+			"description": "Compare costs of alternate/renewable energy sources, systems, and appliances and traditional energy sources, systems, and appliances.",
+			"ancestorIds": [
+				"C8C9CFE785E345F4AA65EF3039405979",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8782A72E17F7457F859D6673F4C546CA": {
+			"id": "8782A72E17F7457F859D6673F4C546CA",
+			"asnIdentifier": "S2540719",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.2",
+			"description": "Outline how domestic and industrial appliances and systems affect the environment, such as water units and heating and cooling systems.",
+			"ancestorIds": [
+				"C8C9CFE785E345F4AA65EF3039405979",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BECA08308EB94749827034769B39B8EC": {
+			"id": "BECA08308EB94749827034769B39B8EC",
+			"asnIdentifier": "S2540718",
+			"position": 132000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.1",
+			"description": "Understand the relationship between power and energy efficiency.",
+			"ancestorIds": [
+				"C8C9CFE785E345F4AA65EF3039405979",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C8C9CFE785E345F4AA65EF3039405979": {
+			"id": "C8C9CFE785E345F4AA65EF3039405979",
+			"asnIdentifier": "S2540717",
+			"position": 131000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A8.0",
+			"description": "Implement processes to support energy efficiency.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C959EE25937F4A22A964FE09DF17D0ED": {
+			"id": "C959EE25937F4A22A964FE09DF17D0ED",
+			"asnIdentifier": "S2540716",
+			"position": 130000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.5",
+			"description": "Describe the basic U.S. Environmental Protection Agency (EPA) and California Air Resources Board (ARB) roles and regulations.",
+			"ancestorIds": [
+				"439F2D0B85FB41C38132A8C105779085",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"595D6985EECA4BCBA9AD508A5BCD6E17": {
+			"id": "595D6985EECA4BCBA9AD508A5BCD6E17",
+			"asnIdentifier": "S2540715",
+			"position": 129000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.4",
+			"description": "Understand U.S. and California laws and regulations related to air pollution control programs and health effects of air pollution.",
+			"ancestorIds": [
+				"439F2D0B85FB41C38132A8C105779085",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6A5715430D6640BC933651BCFA045ED8": {
+			"id": "6A5715430D6640BC933651BCFA045ED8",
+			"asnIdentifier": "S2540714",
+			"position": 128000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Research air pollutants and their threat to human health.",
+			"ancestorIds": [
+				"439F2D0B85FB41C38132A8C105779085",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"14E8DF4945C94D088E90632BBB7C94EC": {
+			"id": "14E8DF4945C94D088E90632BBB7C94EC",
+			"asnIdentifier": "S2540713",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Summarize the causes of air pollutants and their chemical composition.",
+			"ancestorIds": [
+				"439F2D0B85FB41C38132A8C105779085",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"89FAB35070F04555A4ED108B6F9ACBA4": {
+			"id": "89FAB35070F04555A4ED108B6F9ACBA4",
+			"asnIdentifier": "S2540712",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Understand the elements that create outdoor air quality.",
+			"ancestorIds": [
+				"439F2D0B85FB41C38132A8C105779085",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"439F2D0B85FB41C38132A8C105779085": {
+			"id": "439F2D0B85FB41C38132A8C105779085",
+			"asnIdentifier": "S2540711",
+			"position": 125000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Research the role of air quality management and systems, their operations, and their impact on the environment.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8B914593FB194FB0A7DAB52B141D7DE9": {
+			"id": "8B914593FB194FB0A7DAB52B141D7DE9",
+			"asnIdentifier": "S2540710",
+			"position": 124000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.7",
+			"description": "Develop strategies to maximize the effectiveness of land use planning.",
+			"ancestorIds": [
+				"CB58AD01F72D425495BA5F049110FDA6",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8CAF5F7EC83945AD844CE7BA9FBFA56A": {
+			"id": "8CAF5F7EC83945AD844CE7BA9FBFA56A",
+			"asnIdentifier": "S2540709",
+			"position": 123000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.6",
+			"description": "Explain the laws and regulations pertaining to land use planning.",
+			"ancestorIds": [
+				"CB58AD01F72D425495BA5F049110FDA6",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"5B0F7CB895DB4DE4BE769AE2A2ED78B7": {
+			"id": "5B0F7CB895DB4DE4BE769AE2A2ED78B7",
+			"asnIdentifier": "S2540708",
+			"position": 122000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.5",
+			"description": "Summarize the relationship between land use planning and energy use and distribution.",
+			"ancestorIds": [
+				"CB58AD01F72D425495BA5F049110FDA6",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"DFE1797EC0FA4814AF569BA16A6EB774": {
+			"id": "DFE1797EC0FA4814AF569BA16A6EB774",
+			"asnIdentifier": "S2540707",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.4",
+			"description": "Identify the aspects of land use planning and describe current trends.",
+			"ancestorIds": [
+				"CB58AD01F72D425495BA5F049110FDA6",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"53085D19F60E4B558DF283852E807152": {
+			"id": "53085D19F60E4B558DF283852E807152",
+			"asnIdentifier": "S2540706",
+			"position": 120000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Demonstrate the need for, and methods of, land use planning.",
+			"ancestorIds": [
+				"CB58AD01F72D425495BA5F049110FDA6",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"20A1C4DD16D946CA8621A6C915962D75": {
+			"id": "20A1C4DD16D946CA8621A6C915962D75",
+			"asnIdentifier": "S2540705",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Describe the composition, role, and function of ecosystems, including trends affecting viability.",
+			"ancestorIds": [
+				"CB58AD01F72D425495BA5F049110FDA6",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"9DE39955E1DF44FF8997F41B4F52DB41": {
+			"id": "9DE39955E1DF44FF8997F41B4F52DB41",
+			"asnIdentifier": "S2540704",
+			"position": 118000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Describe the need for, and role of, habitat preservation.",
+			"ancestorIds": [
+				"CB58AD01F72D425495BA5F049110FDA6",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CB58AD01F72D425495BA5F049110FDA6": {
+			"id": "CB58AD01F72D425495BA5F049110FDA6",
+			"asnIdentifier": "S2540703",
+			"position": 117000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Understand the field of land use management and its potential for environmental impact.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BFC6C990334E4FC983C12ADB01DADE9C": {
+			"id": "BFC6C990334E4FC983C12ADB01DADE9C",
+			"asnIdentifier": "S2540702",
+			"position": 116000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.5",
+			"description": "Design solid waste disposal processes that lessen environmental impacts and improve recycling.",
+			"ancestorIds": [
+				"348A9D3D68564D67ADBA62D9FDEBCEB8",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"74DC663447B84960926327ADBF1BC9B6": {
+			"id": "74DC663447B84960926327ADBF1BC9B6",
+			"asnIdentifier": "S2540701",
+			"position": 115000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.4",
+			"description": "Explain the types and sources of hazardous waste and associated safety practices and legal requirements for handling and disposing of such waste.",
+			"ancestorIds": [
+				"348A9D3D68564D67ADBA62D9FDEBCEB8",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"EC93FA1C4C4A40C7B666F3D946637018": {
+			"id": "EC93FA1C4C4A40C7B666F3D946637018",
+			"asnIdentifier": "S2540700",
+			"position": 114000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Identify wastewater treatment processes that lessen environmental impacts and improve water reuse.",
+			"ancestorIds": [
+				"348A9D3D68564D67ADBA62D9FDEBCEB8",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"90ADABD7C8E94160A4DD3816EBD9EBA6": {
+			"id": "90ADABD7C8E94160A4DD3816EBD9EBA6",
+			"asnIdentifier": "S2540699",
+			"position": 113000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Explore the causes and effects of pollution linked to wastewater treatment facilities.",
+			"ancestorIds": [
+				"348A9D3D68564D67ADBA62D9FDEBCEB8",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8A7BD923FD594BEC954D642F589FE8AC": {
+			"id": "8A7BD923FD594BEC954D642F589FE8AC",
+			"asnIdentifier": "S2540698",
+			"position": 112000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "Understand the role of waste and storm water management systems, their operation, and their impact on the environment.",
+			"ancestorIds": [
+				"348A9D3D68564D67ADBA62D9FDEBCEB8",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"348A9D3D68564D67ADBA62D9FDEBCEB8": {
+			"id": "348A9D3D68564D67ADBA62D9FDEBCEB8",
+			"asnIdentifier": "S2540697",
+			"position": 111000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Identify the role and impact of waste management systems and their operations on the environment.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"4C1A9357903244788096BD58CC664200": {
+			"id": "4C1A9357903244788096BD58CC664200",
+			"asnIdentifier": "S2540696",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Analyze the impacts of energy conversion processes as they relate to activities across the environment.",
+			"ancestorIds": [
+				"697348208FA74D5180356B1015CE85CF",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"13DB4E13737E49A88C125D00F9CD83E2": {
+			"id": "13DB4E13737E49A88C125D00F9CD83E2",
+			"asnIdentifier": "S2540695",
+			"position": 109000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Identify the basic principles of energy systems, including chemical, hydraulic, pneumatic, electrical, nuclear, solar, wind, and geothermal.",
+			"ancestorIds": [
+				"697348208FA74D5180356B1015CE85CF",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3676CCF0A79D41BFB9DFDF2948D6525C": {
+			"id": "3676CCF0A79D41BFB9DFDF2948D6525C",
+			"asnIdentifier": "S2540694",
+			"position": 108000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Define the basic terms, characteristics, and concepts of physical and chemical processes related to energy conversion.",
+			"ancestorIds": [
+				"697348208FA74D5180356B1015CE85CF",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"697348208FA74D5180356B1015CE85CF": {
+			"id": "697348208FA74D5180356B1015CE85CF",
+			"asnIdentifier": "S2540693",
+			"position": 107000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Research the environmental implications of energy conversion processes and energy transmission systems.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"CC3FB675F7B74D6B900DF0737D42773D": {
+			"id": "CC3FB675F7B74D6B900DF0737D42773D",
+			"asnIdentifier": "S2540692",
+			"position": 106000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.5",
+			"description": "Identify the sources of, and impacts attributable to, habitat alteration.",
+			"ancestorIds": [
+				"33512D03DE2B4CAA981296888160921A",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"4F08EC7C1839410E982EB5BCF8742850": {
+			"id": "4F08EC7C1839410E982EB5BCF8742850",
+			"asnIdentifier": "S2540691",
+			"position": 105000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.4",
+			"description": "Describe the attributes and proliferation of hardscape.",
+			"ancestorIds": [
+				"33512D03DE2B4CAA981296888160921A",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"597F7EA4EEC44525A044741A093F8AA3": {
+			"id": "597F7EA4EEC44525A044741A093F8AA3",
+			"asnIdentifier": "S2540690",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Define the causes of erosion and soil depletion.",
+			"ancestorIds": [
+				"33512D03DE2B4CAA981296888160921A",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"85BEDDA246F344549A75427C6D1DB2ED": {
+			"id": "85BEDDA246F344549A75427C6D1DB2ED",
+			"asnIdentifier": "S2540689",
+			"position": 103000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Recognize the actions that cause resource depletion.",
+			"ancestorIds": [
+				"33512D03DE2B4CAA981296888160921A",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8B2DF8A06B1B45748C15F4008897D5D9": {
+			"id": "8B2DF8A06B1B45748C15F4008897D5D9",
+			"asnIdentifier": "S2540688",
+			"position": 102000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Describe the sources of, and impacts attributable to, pollution and contamination.",
+			"ancestorIds": [
+				"33512D03DE2B4CAA981296888160921A",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"33512D03DE2B4CAA981296888160921A": {
+			"id": "33512D03DE2B4CAA981296888160921A",
+			"asnIdentifier": "S2540687",
+			"position": 101000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Evaluate regional interactive systems and elements that create harmful environmental effects.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"09B7305B1DC143F6B552E3982CE4D3D5": {
+			"id": "09B7305B1DC143F6B552E3982CE4D3D5",
+			"asnIdentifier": "S2540686",
+			"position": 100000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.6",
+			"description": "Assess impacts of greenhouse gases on the environment.",
+			"ancestorIds": [
+				"EB24CEF4A9C2419282F2B47DEFAA4057",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"C3BCA622A347465CB09C1F808892AD28": {
+			"id": "C3BCA622A347465CB09C1F808892AD28",
+			"asnIdentifier": "S2540685",
+			"position": 99000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.5",
+			"description": "Explain how greenhouse gases are generated.",
+			"ancestorIds": [
+				"EB24CEF4A9C2419282F2B47DEFAA4057",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"3FA50BEAD4FB475BA67351C83DD95129": {
+			"id": "3FA50BEAD4FB475BA67351C83DD95129",
+			"asnIdentifier": "S2540684",
+			"position": 98000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Identify the greenhouse effect and climate change.",
+			"ancestorIds": [
+				"EB24CEF4A9C2419282F2B47DEFAA4057",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"5C9DAF494BF245839CF37B13B18B1007": {
+			"id": "5C9DAF494BF245839CF37B13B18B1007",
+			"asnIdentifier": "S2540683",
+			"position": 97000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Analyze the impact of climate upon human activities and needs.",
+			"ancestorIds": [
+				"EB24CEF4A9C2419282F2B47DEFAA4057",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"12216808C5C44BC298C4FDF3D5074CBD": {
+			"id": "12216808C5C44BC298C4FDF3D5074CBD",
+			"asnIdentifier": "S2540682",
+			"position": 96000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Identify world climate patterns and summarize factors that affect climate.",
+			"ancestorIds": [
+				"EB24CEF4A9C2419282F2B47DEFAA4057",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8F5422BE790F4F6B80FD96393AB12D38": {
+			"id": "8F5422BE790F4F6B80FD96393AB12D38",
+			"asnIdentifier": "S2540681",
+			"position": 95000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Describe the natural elements that interact to create climate.",
+			"ancestorIds": [
+				"EB24CEF4A9C2419282F2B47DEFAA4057",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"EB24CEF4A9C2419282F2B47DEFAA4057": {
+			"id": "EB24CEF4A9C2419282F2B47DEFAA4057",
+			"asnIdentifier": "S2540680",
+			"position": 94000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Identify and describe the global interactive systems and elements that create and sustain climate.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"393CF5A8868B483E9743C6EC53A89DAF": {
+			"id": "393CF5A8868B483E9743C6EC53A89DAF",
+			"asnIdentifier": "S2540679",
+			"position": 93000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "List jobs in the community that result from, or are influenced by, processing and using energy resources.",
+			"ancestorIds": [
+				"D9331F4114274B4DBF1F10606A0E1226",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BD51304EB55F4ABDB84F132C675BCD3B": {
+			"id": "BD51304EB55F4ABDB84F132C675BCD3B",
+			"asnIdentifier": "S2540678",
+			"position": 92000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Compare the advantages and disadvantages of energy resources in terms of the effects on the environment.",
+			"ancestorIds": [
+				"D9331F4114274B4DBF1F10606A0E1226",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"1B9BDE9031DD4C159F8C460CC8BEFE60": {
+			"id": "1B9BDE9031DD4C159F8C460CC8BEFE60",
+			"asnIdentifier": "S2540677",
+			"position": 91000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Discover new and emerging energy resources.",
+			"ancestorIds": [
+				"D9331F4114274B4DBF1F10606A0E1226",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"8CAB68994F1240B19AD68968150490AF": {
+			"id": "8CAB68994F1240B19AD68968150490AF",
+			"asnIdentifier": "S2540676",
+			"position": 90000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "Classify energy resources by type: depletable, nondepletable, renewable, and nonrenewable.",
+			"ancestorIds": [
+				"D9331F4114274B4DBF1F10606A0E1226",
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"D9331F4114274B4DBF1F10606A0E1226": {
+			"id": "D9331F4114274B4DBF1F10606A0E1226",
+			"asnIdentifier": "S2540675",
+			"position": 89000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Identify energy resources and the effects of these resources on the environment.",
+			"ancestorIds": [
+				"6337959F8C494F04BA60594F0AA6E900",
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"6337959F8C494F04BA60594F0AA6E900": {
+			"id": "6337959F8C494F04BA60594F0AA6E900",
+			"asnIdentifier": "S2540674",
+			"position": 88000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Environmental Resources",
+			"comments": [
+				"The Environmental Resources pathway prepares students for employment, postsecondary education, and/or training in a variety of environmental industries."
+			],
+			"ancestorIds": [
+				"BE74480CC66C4C33A07DE8121E02087C"
+			]
+		},
+		"BE74480CC66C4C33A07DE8121E02087C": {
+			"id": "BE74480CC66C4C33A07DE8121E02087C",
+			"asnIdentifier": "S2540673",
+			"position": 87000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"EC496417B8C642C5BC45EE5F40423F85": {
+			"id": "EC496417B8C642C5BC45EE5F40423F85",
+			"asnIdentifier": "S2540672",
+			"position": 86000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"F3E5DD74A1D74FEB861BB011A203FC3A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"CE07EB0FCD154D33AE3B5445FE256BE4": {
+			"id": "CE07EB0FCD154D33AE3B5445FE256BE4",
+			"asnIdentifier": "S2540671",
+			"position": 85000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors appropriate to Energy, Environment, and Utilities sector opportunities.",
+			"ancestorIds": [
+				"F3E5DD74A1D74FEB861BB011A203FC3A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"766A70D194BA44F5BB122FB7AE40E71D": {
+			"id": "766A70D194BA44F5BB122FB7AE40E71D",
+			"asnIdentifier": "S2540670",
+			"position": 84000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"F3E5DD74A1D74FEB861BB011A203FC3A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"E8110E1DA89A40D785EBAA99F940DEAA": {
+			"id": "E8110E1DA89A40D785EBAA99F940DEAA",
+			"asnIdentifier": "S2540669",
+			"position": 83000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"F3E5DD74A1D74FEB861BB011A203FC3A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"FD8CD030B3144BD5B78A270D340FD7D2": {
+			"id": "FD8CD030B3144BD5B78A270D340FD7D2",
+			"asnIdentifier": "S2540668",
+			"position": 82000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Energy, Environment, and Utilities sector program of study.",
+			"ancestorIds": [
+				"F3E5DD74A1D74FEB861BB011A203FC3A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"F3E5DD74A1D74FEB861BB011A203FC3A": {
+			"id": "F3E5DD74A1D74FEB861BB011A203FC3A",
+			"asnIdentifier": "S2540667",
+			"position": 81000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Energy, Environment, and Utilities anchor standards, pathway standards, and performance indicators in classroom, laboratory, and workplace settings, and through the SkillsUSA career technical student organization."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"7001535799764D519827B616C794CEF1": {
+			"id": "7001535799764D519827B616C794CEF1",
+			"asnIdentifier": "S2540666",
+			"position": 80000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.6",
+			"description": "Identify and evaluate questions that require skilled investigation to solve current problems cited in literature or media, or observed through personal observations.",
+			"ancestorIds": [
+				"AD157A737C4D4EFFB7017ABDC6BCDD77",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"29200B6B25954441A75029BFDEAD366C": {
+			"id": "29200B6B25954441A75029BFDEAD366C",
+			"asnIdentifier": "S2540665",
+			"position": 79000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.5",
+			"description": "Maintain and troubleshoot equipment used in the energy, environment, and utilities industry.",
+			"ancestorIds": [
+				"AD157A737C4D4EFFB7017ABDC6BCDD77",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"3EFF62750FA74286B8A2352E424111F2": {
+			"id": "3EFF62750FA74286B8A2352E424111F2",
+			"asnIdentifier": "S2540664",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Coordinate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"AD157A737C4D4EFFB7017ABDC6BCDD77",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"1177E173E8344852940E49B5B57EE603": {
+			"id": "1177E173E8344852940E49B5B57EE603",
+			"asnIdentifier": "S2540663",
+			"position": 77000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Energy, Environment, and Utilities sector requirements and expectations.",
+			"ancestorIds": [
+				"AD157A737C4D4EFFB7017ABDC6BCDD77",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"D2AC47F7B702431183BDCBFAB33F5939": {
+			"id": "D2AC47F7B702431183BDCBFAB33F5939",
+			"asnIdentifier": "S2540662",
+			"position": 76000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Energy, Environment, and Utilities sector.",
+			"ancestorIds": [
+				"AD157A737C4D4EFFB7017ABDC6BCDD77",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"16043C9F56F9472C805F087A508B4F20": {
+			"id": "16043C9F56F9472C805F087A508B4F20",
+			"asnIdentifier": "S2540661",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Energy, Environment, and Utilities sector.",
+			"ancestorIds": [
+				"AD157A737C4D4EFFB7017ABDC6BCDD77",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"AD157A737C4D4EFFB7017ABDC6BCDD77": {
+			"id": "AD157A737C4D4EFFB7017ABDC6BCDD77",
+			"asnIdentifier": "S2540660",
+			"position": 74000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Energy, Environment, and Utilities sector."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"D6DA2D57A99C43DC8BD4C719978DFFD6": {
+			"id": "D6DA2D57A99C43DC8BD4C719978DFFD6",
+			"asnIdentifier": "S2540659",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Energy, Environment, and Utilities sector issues and problems.",
+			"ancestorIds": [
+				"7278C515AFC7494B9D24411710F25E40",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"29A609C2F38242358BEB54E2546DEF6A": {
+			"id": "29A609C2F38242358BEB54E2546DEF6A",
+			"asnIdentifier": "S2540658",
+			"position": 72000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"7278C515AFC7494B9D24411710F25E40",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"772DF5C2FA2540C9ADA1A06F1CF0082B": {
+			"id": "772DF5C2FA2540C9ADA1A06F1CF0082B",
+			"asnIdentifier": "S2540657",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"7278C515AFC7494B9D24411710F25E40",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"FA834D5176BA4D5E85E9716852895DA2": {
+			"id": "FA834D5176BA4D5E85E9716852895DA2",
+			"asnIdentifier": "S2540656",
+			"position": 70000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"7278C515AFC7494B9D24411710F25E40",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"AACD8AAD5B12475B9CB34BE295C239E0": {
+			"id": "AACD8AAD5B12475B9CB34BE295C239E0",
+			"asnIdentifier": "S2540655",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"7278C515AFC7494B9D24411710F25E40",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"E0C24F5BF06D43028B5C1365513894C3": {
+			"id": "E0C24F5BF06D43028B5C1365513894C3",
+			"asnIdentifier": "S2540654",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"7278C515AFC7494B9D24411710F25E40",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"5658E53FA0C443A78771294AE077FB4E": {
+			"id": "5658E53FA0C443A78771294AE077FB4E",
+			"asnIdentifier": "S2540653",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"7278C515AFC7494B9D24411710F25E40",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"7278C515AFC7494B9D24411710F25E40": {
+			"id": "7278C515AFC7494B9D24411710F25E40",
+			"asnIdentifier": "S2540652",
+			"position": 66000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution as practiced in the SkillsUSA career technical student organization."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"AEB0548645534514A8D56ADD9BC0E244": {
+			"id": "AEB0548645534514A8D56ADD9BC0E244",
+			"asnIdentifier": "S2540651",
+			"position": 65000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Energy, Environment, and Utilities sector laws and practices.",
+			"ancestorIds": [
+				"12256211048649108737D56C9FE1E16E",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"2D9F3BC321F146529CE85D6DD3375DA1": {
+			"id": "2D9F3BC321F146529CE85D6DD3375DA1",
+			"asnIdentifier": "S2540650",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"12256211048649108737D56C9FE1E16E",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"FDF4E4C790444B2887B9B5DCDB34D795": {
+			"id": "FDF4E4C790444B2887B9B5DCDB34D795",
+			"asnIdentifier": "S2540649",
+			"position": 63000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"12256211048649108737D56C9FE1E16E",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"969656869E77430D878439408DE85C7D": {
+			"id": "969656869E77430D878439408DE85C7D",
+			"asnIdentifier": "S2540648",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"12256211048649108737D56C9FE1E16E",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"9E66C42BF3F84C0096A3480C94D1B294": {
+			"id": "9E66C42BF3F84C0096A3480C94D1B294",
+			"asnIdentifier": "S2540647",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Energy, Environment, and Utilities sector workplace standards.",
+			"ancestorIds": [
+				"12256211048649108737D56C9FE1E16E",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"91BA472B6C9640BD91BCEC8586899A4B": {
+			"id": "91BA472B6C9640BD91BCEC8586899A4B",
+			"asnIdentifier": "S2540646",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, and federal regulatory agencies, entities, laws, and regulations related to the Energy, Environment, and Utilities industry sector.",
+			"ancestorIds": [
+				"12256211048649108737D56C9FE1E16E",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"69E54D84D46546BBA7DF7F7F87597894": {
+			"id": "69E54D84D46546BBA7DF7F7F87597894",
+			"asnIdentifier": "S2540645",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"12256211048649108737D56C9FE1E16E",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"12256211048649108737D56C9FE1E16E": {
+			"id": "12256211048649108737D56C9FE1E16E",
+			"asnIdentifier": "S2540644",
+			"position": 58000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "8.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"D1060624A422460A9DFB49F76B49EACC": {
+			"id": "D1060624A422460A9DFB49F76B49EACC",
+			"asnIdentifier": "S2540643",
+			"position": 57000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Energy, Environment, and Utilities sector.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"F53F6D288EE04F6894E8F1C7F806AD04": {
+			"id": "F53F6D288EE04F6894E8F1C7F806AD04",
+			"asnIdentifier": "S2540642",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"56EB546D340E48E0899453E8FE966665": {
+			"id": "56EB546D340E48E0899453E8FE966665",
+			"asnIdentifier": "S2540641",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"2BF524E2FFB8438C9697AD2CCF3A3E33": {
+			"id": "2BF524E2FFB8438C9697AD2CCF3A3E33",
+			"asnIdentifier": "S2540640",
+			"position": 54000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"A22C29978AA64D539B8B90EA3791E12D": {
+			"id": "A22C29978AA64D539B8B90EA3791E12D",
+			"asnIdentifier": "S2540639",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"D4B291D4A145409BAC0B285B7464303E": {
+			"id": "D4B291D4A145409BAC0B285B7464303E",
+			"asnIdentifier": "S2540638",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"EA12C3A50D894E1592848BEADC540145": {
+			"id": "EA12C3A50D894E1592848BEADC540145",
+			"asnIdentifier": "S2540637",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"0F5A1AA38CA44E48887D72C3435A0610": {
+			"id": "0F5A1AA38CA44E48887D72C3435A0610",
+			"asnIdentifier": "S2540636",
+			"position": 50000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"BDA8B8C4BF68447DB494A92DA7E2ECD7",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"BDA8B8C4BF68447DB494A92DA7E2ECD7": {
+			"id": "BDA8B8C4BF68447DB494A92DA7E2ECD7",
+			"asnIdentifier": "S2540635",
+			"position": 49000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate, and participate in, a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Energy, Environment, and Utilities sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"4D55C93B1DC44076BB29327AD95017CD": {
+			"id": "4D55C93B1DC44076BB29327AD95017CD",
+			"asnIdentifier": "S2540634",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.16",
+			"description": "Recognize potential and actual hazardous conditions as they arise.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"27BB73CFFA2D441BB7EDD2493BB815CD": {
+			"id": "27BB73CFFA2D441BB7EDD2493BB815CD",
+			"asnIdentifier": "S2540633",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.15",
+			"description": "Use tools and equipment in compliance with user manuals and training.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"BF6E54AE4E754F10AB2ADAA5E6845600": {
+			"id": "BF6E54AE4E754F10AB2ADAA5E6845600",
+			"asnIdentifier": "S2540632",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.14",
+			"description": "Keep personal safety equipment in good working order.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"730685575A6C4080AE64CA4F9A02F9D4": {
+			"id": "730685575A6C4080AE64CA4F9A02F9D4",
+			"asnIdentifier": "S2539927",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.13",
+			"description": "Use personal protective equipment (PPE), including safety glasses, hearing protection, gloves, work boots, and hard hats.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"6714BC82507C4F2A8F61CF98F0F27FF3": {
+			"id": "6714BC82507C4F2A8F61CF98F0F27FF3",
+			"asnIdentifier": "S2539926",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.12",
+			"description": "Use safety equipment as specified by user manuals and safety training.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"A75978F6455143F99366D6618FA6B871": {
+			"id": "A75978F6455143F99366D6618FA6B871",
+			"asnIdentifier": "S2539925",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.11",
+			"description": "Comply with energy industry safety procedures and proper ways to perform work.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"FA628D72C2A54C1E83D03D36E977404F": {
+			"id": "FA628D72C2A54C1E83D03D36E977404F",
+			"asnIdentifier": "S2539924",
+			"position": 42000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.10",
+			"description": "Evaluate changes in the environment with respect to their impact on safety of self and others.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"D967E98354834DD7BCCFE02DFFD481E2": {
+			"id": "D967E98354834DD7BCCFE02DFFD481E2",
+			"asnIdentifier": "S2539923",
+			"position": 41000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.9",
+			"description": "Follow established safety procedures (OSHA regulations and utility company procedures).",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"69ED2A95F97249F59C5EBA4093EACF44": {
+			"id": "69ED2A95F97249F59C5EBA4093EACF44",
+			"asnIdentifier": "S2539922",
+			"position": 40000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.8",
+			"description": "Identify both potential hazards and accident scenarios in the work environment.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"68F5A00DB4F94221B97115D6BA892F18": {
+			"id": "68F5A00DB4F94221B97115D6BA892F18",
+			"asnIdentifier": "S2539921",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Review the responsibility of the Occupational Safety and Health Administration (OSHA) to ensure workplace safety.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"9FA6549ECF1341DE8C904057FDDF60A8": {
+			"id": "9FA6549ECF1341DE8C904057FDDF60A8",
+			"asnIdentifier": "S2539920",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"F4E5AA4E0CD14C68AFAA79049B9E9506": {
+			"id": "F4E5AA4E0CD14C68AFAA79049B9E9506",
+			"asnIdentifier": "S2539919",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.5",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"4C009C53CA784E65AA0C81EE8BBD7E5E": {
+			"id": "4C009C53CA784E65AA0C81EE8BBD7E5E",
+			"asnIdentifier": "S2539918",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"26558EC4734D417B9FD99DE4744CC120": {
+			"id": "26558EC4734D417B9FD99DE4744CC120",
+			"asnIdentifier": "S2539917",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"8190C4D9030F4960814BF46E703CED0D": {
+			"id": "8190C4D9030F4960814BF46E703CED0D",
+			"asnIdentifier": "S2539916",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"6B6532809A5040C3A5B1724750BEC635": {
+			"id": "6B6532809A5040C3A5B1724750BEC635",
+			"asnIdentifier": "S2539915",
+			"position": 33000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate, and adhere to, Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"A04B938211C84F1180EA7306C46A7879",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"A04B938211C84F1180EA7306C46A7879": {
+			"id": "A04B938211C84F1180EA7306C46A7879",
+			"asnIdentifier": "S2539914",
+			"position": 32000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Energy, Environment, and Utilities sector workplace environment."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"288EA2CE0E534674ADEC8896D7CCC5A4": {
+			"id": "288EA2CE0E534674ADEC8896D7CCC5A4",
+			"asnIdentifier": "S2539913",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"9F1B19A0063E43D2ABAFFCE5322CC0BA",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"AE1D7AD5F48F482DA8EA6CDC11553BF9": {
+			"id": "AE1D7AD5F48F482DA8EA6CDC11553BF9",
+			"asnIdentifier": "S2539912",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"9F1B19A0063E43D2ABAFFCE5322CC0BA",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"315E81FF66D94703B5B7AB65E800A804": {
+			"id": "315E81FF66D94703B5B7AB65E800A804",
+			"asnIdentifier": "S2539911",
+			"position": 29000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"9F1B19A0063E43D2ABAFFCE5322CC0BA",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"4E551D95EFA64DE387AA63090E37DE3D": {
+			"id": "4E551D95EFA64DE387AA63090E37DE3D",
+			"asnIdentifier": "S2539910",
+			"position": 28000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"9F1B19A0063E43D2ABAFFCE5322CC0BA",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"9F1B19A0063E43D2ABAFFCE5322CC0BA": {
+			"id": "9F1B19A0063E43D2ABAFFCE5322CC0BA",
+			"asnIdentifier": "S2539909",
+			"position": 27000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short, as well as more sustained, research to create alternative solutions to answer a question or solve a problem unique to the Energy, Environment, and Utilities sector using critical and creative thinking; logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"9CDD0866D8CC46E4B6FF03169465103A": {
+			"id": "9CDD0866D8CC46E4B6FF03169465103A",
+			"asnIdentifier": "S2539908",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"EF69F4E3969D40EDACC0DC7A4051C3DF",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"2907633E8AEB48C18446F2C469DC9332": {
+			"id": "2907633E8AEB48C18446F2C469DC9332",
+			"asnIdentifier": "S2539907",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"EF69F4E3969D40EDACC0DC7A4051C3DF",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"BC7432881F6644A3A02A169774F78AAA": {
+			"id": "BC7432881F6644A3A02A169774F78AAA",
+			"asnIdentifier": "S2539906",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"EF69F4E3969D40EDACC0DC7A4051C3DF",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"EA6BBBEF77FE498B9F8B43B0FE01A90F": {
+			"id": "EA6BBBEF77FE498B9F8B43B0FE01A90F",
+			"asnIdentifier": "S2539905",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"EF69F4E3969D40EDACC0DC7A4051C3DF",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"E2EA80716F3349409E74370304BF7A66": {
+			"id": "E2EA80716F3349409E74370304BF7A66",
+			"asnIdentifier": "S2539904",
+			"position": 22000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ Web-based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"EF69F4E3969D40EDACC0DC7A4051C3DF",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"A24203C1D5DB4F66B347337715630B88": {
+			"id": "A24203C1D5DB4F66B347337715630B88",
+			"asnIdentifier": "S2539903",
+			"position": 21000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"EF69F4E3969D40EDACC0DC7A4051C3DF",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"EF69F4E3969D40EDACC0DC7A4051C3DF": {
+			"id": "EF69F4E3969D40EDACC0DC7A4051C3DF",
+			"asnIdentifier": "S2539902",
+			"position": 20000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology to investigate, research, and produce products and services, including new information, as required in the Energy, Environment, and Utilities sector workplace environment."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"0E33AD3906E947B2990C7B958F0C05F6": {
+			"id": "0E33AD3906E947B2990C7B958F0C05F6",
+			"asnIdentifier": "S2539901",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"4D04202FA28D426E8F3FC2BCE009010A": {
+			"id": "4D04202FA28D426E8F3FC2BCE009010A",
+			"asnIdentifier": "S2539900",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"EEEE9ECF2FFB411EBAA057ED0CF8C78D": {
+			"id": "EEEE9ECF2FFB411EBAA057ED0CF8C78D",
+			"asnIdentifier": "S2539899",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"FF62C810918749BB96951B0A8B1AA12C": {
+			"id": "FF62C810918749BB96951B0A8B1AA12C",
+			"asnIdentifier": "S2539898",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"3255C8A250C6480FB66B40BA88107526": {
+			"id": "3255C8A250C6480FB66B40BA88107526",
+			"asnIdentifier": "S2539897",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"85AFAB828687467D914AC87A4BF3498C": {
+			"id": "85AFAB828687467D914AC87A4BF3498C",
+			"asnIdentifier": "S2539896",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"8F87D11F6E6B43998946B05A516E81CB": {
+			"id": "8F87D11F6E6B43998946B05A516E81CB",
+			"asnIdentifier": "S2539895",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"C0D86351F403413DB470B4F11176D8FD": {
+			"id": "C0D86351F403413DB470B4F11176D8FD",
+			"asnIdentifier": "S2539894",
+			"position": 12000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits such as trust, respect, and responsibility and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"02CA1DF62E3049C6B43A3D0BADD69653": {
+			"id": "02CA1DF62E3049C6B43A3D0BADD69653",
+			"asnIdentifier": "S2539893",
+			"position": 11000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"47AF4D7A355649EE837D5733C3F5384A",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"47AF4D7A355649EE837D5733C3F5384A": {
+			"id": "47AF4D7A355649EE837D5733C3F5384A",
+			"asnIdentifier": "S2539892",
+			"position": 10000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"827AD0F4A748439E913A965BF0CBB65A": {
+			"id": "827AD0F4A748439E913A965BF0CBB65A",
+			"asnIdentifier": "S2539891",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"D0BFD11AA30144C39570181B2DE1B3EE",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"00C631039BDB430FA9AA730409810525": {
+			"id": "00C631039BDB430FA9AA730409810525",
+			"asnIdentifier": "S2539890",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"D0BFD11AA30144C39570181B2DE1B3EE",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"B4C56C2C012349408347A0D708E30221": {
+			"id": "B4C56C2C012349408347A0D708E30221",
+			"asnIdentifier": "S2539889",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Demonstrate elements of written and electronic communication such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"D0BFD11AA30144C39570181B2DE1B3EE",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"6E720671B89140558177D5F3B758575B": {
+			"id": "6E720671B89140558177D5F3B758575B",
+			"asnIdentifier": "S2539888",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"D0BFD11AA30144C39570181B2DE1B3EE",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"42D87020A87B4ED69E492870D31FB8D2": {
+			"id": "42D87020A87B4ED69E492870D31FB8D2",
+			"asnIdentifier": "S2539887",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"D0BFD11AA30144C39570181B2DE1B3EE",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"CA7FE8C2300E43EB8838EAF6FBAD941D": {
+			"id": "CA7FE8C2300E43EB8838EAF6FBAD941D",
+			"asnIdentifier": "S2539886",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"D0BFD11AA30144C39570181B2DE1B3EE",
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"D0BFD11AA30144C39570181B2DE1B3EE": {
+			"id": "D0BFD11AA30144C39570181B2DE1B3EE",
+			"asnIdentifier": "S2539885",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire, and accurately use Energy, Environment, and Utilities sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"C35E6DF464DC499092420368162B9053": {
+			"id": "C35E6DF464DC499092420368162B9053",
+			"asnIdentifier": "S2539884",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Energy, Environment, and Utilities academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"30139F64EBAF4E07BCA5DC034A91A35D"
+			]
+		},
+		"30139F64EBAF4E07BCA5DC034A91A35D": {
+			"id": "30139F64EBAF4E07BCA5DC034A91A35D",
+			"asnIdentifier": "S2539883",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}

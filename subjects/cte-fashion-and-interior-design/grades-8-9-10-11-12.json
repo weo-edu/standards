@@ -1,0 +1,4374 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2541508_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Fashion and Interior Design",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2541508",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Fashion and Interior Design",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/fashioninterior.pdf",
+		"asnIdentifier": "D2541508",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"960CC8ABD3254A54841319E91EA1DA9B": {
+			"id": "960CC8ABD3254A54841319E91EA1DA9B",
+			"asnIdentifier": "S2541864",
+			"position": 318000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.5",
+			"description": "Support the need for state, federal, and international governing agencies to work together more to make the personal service career pathways a more seamless transition.",
+			"ancestorIds": [
+				"5A47F85605114F18BF778B8B48E1D6A8",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B93C5325E77349C9B78F6F7847B47822": {
+			"id": "B93C5325E77349C9B78F6F7847B47822",
+			"asnIdentifier": "S2541863",
+			"position": 317000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.4",
+			"description": "Justify rationale for changes in the personal services career pathway of the beauty industry to keep up with the market trends and needs of the population at-large.",
+			"ancestorIds": [
+				"5A47F85605114F18BF778B8B48E1D6A8",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"727874701F594ADAB9AEEFC7F3F779A6": {
+			"id": "727874701F594ADAB9AEEFC7F3F779A6",
+			"asnIdentifier": "S2541862",
+			"position": 316000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.3",
+			"description": "Evaluate the current rules and regulations of California to propose new ideas or changes to the beauty industry to make it better for the future.",
+			"ancestorIds": [
+				"5A47F85605114F18BF778B8B48E1D6A8",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D9331DD95AB8414CA9EFD49A74E4185B": {
+			"id": "D9331DD95AB8414CA9EFD49A74E4185B",
+			"asnIdentifier": "S2541861",
+			"position": 315000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.2",
+			"description": "Interpret existing laws and regulations to make proposal to state legislative members and state board officials on the scope of practice for the various career fields within the beauty industry.",
+			"ancestorIds": [
+				"5A47F85605114F18BF778B8B48E1D6A8",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"702E9AC49D3E40B2869962C89AE3379E": {
+			"id": "702E9AC49D3E40B2869962C89AE3379E",
+			"asnIdentifier": "S2541860",
+			"position": 314000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C12.1",
+			"description": "Describe the current state, federal, and international scope of practice for the various careers in personal services.",
+			"ancestorIds": [
+				"5A47F85605114F18BF778B8B48E1D6A8",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"5A47F85605114F18BF778B8B48E1D6A8": {
+			"id": "5A47F85605114F18BF778B8B48E1D6A8",
+			"asnIdentifier": "S2541859",
+			"position": 313000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C12.0",
+			"description": "Assess the current state, federal, and international scope of practice, rules, and regulations required of professionals in the beauty industry.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"BE4E9A08DD7943949F4DE3647663B240": {
+			"id": "BE4E9A08DD7943949F4DE3647663B240",
+			"asnIdentifier": "S2541858",
+			"position": 312000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.5",
+			"description": "Discriminate reputable distributors, manufacturers, and suppliers from those which are not as professional or reliable with their products/equipment.",
+			"ancestorIds": [
+				"7E22BA922C204BF081E08F30BC8ACB2C",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"52C22661DFDC4686A77FFD0DB3ABE454": {
+			"id": "52C22661DFDC4686A77FFD0DB3ABE454",
+			"asnIdentifier": "S2541857",
+			"position": 311000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.4",
+			"description": "Compare and contrast all distributors, manufacturers, and suppliers for the goods that they are promoting.",
+			"ancestorIds": [
+				"7E22BA922C204BF081E08F30BC8ACB2C",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"48AFD4764B774D118755C95230212642": {
+			"id": "48AFD4764B774D118755C95230212642",
+			"asnIdentifier": "S2541856",
+			"position": 310000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.3",
+			"description": "Appraise the value and worth of all equipment and products that are on the market for the beauty industry today.",
+			"ancestorIds": [
+				"7E22BA922C204BF081E08F30BC8ACB2C",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9C0C4AC01D384997B8422F222D9EE816": {
+			"id": "9C0C4AC01D384997B8422F222D9EE816",
+			"asnIdentifier": "S2541855",
+			"position": 309000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.2",
+			"description": "Interpret the rules and regulations that govern the personal service career pathways sector to limit your liability on services or treatment plans offered to clients.",
+			"ancestorIds": [
+				"7E22BA922C204BF081E08F30BC8ACB2C",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"FBBD7F43D0464434AFD8F2197C26CFB3": {
+			"id": "FBBD7F43D0464434AFD8F2197C26CFB3",
+			"asnIdentifier": "S2541854",
+			"position": 308000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.1",
+			"description": "Explain the rational used when buying new technology, equipment or products to use in services or treatment plans for clients.",
+			"ancestorIds": [
+				"7E22BA922C204BF081E08F30BC8ACB2C",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"7E22BA922C204BF081E08F30BC8ACB2C": {
+			"id": "7E22BA922C204BF081E08F30BC8ACB2C",
+			"asnIdentifier": "S2541853",
+			"position": 307000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C11.0",
+			"description": "Evaluate the various equipment, supplies, products, and distributors, and manufacturers, and that represent the beauty industry.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"591C9B53F4764E3783079FF86817B58F": {
+			"id": "591C9B53F4764E3783079FF86817B58F",
+			"asnIdentifier": "S2541852",
+			"position": 306000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.5",
+			"description": "Prepare a treatment protocol or client consultation form that is inclusive of helping the client obtain their needs and goals, and eliminating as many challenges for them as possible.",
+			"ancestorIds": [
+				"C691B10E90244C34ADC41A22F68A53A2",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"AFAC81D4640A45AB9544687759832E4E": {
+			"id": "AFAC81D4640A45AB9544687759832E4E",
+			"asnIdentifier": "S2541851",
+			"position": 305000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.4",
+			"description": "Describe training all staff and personnel on the importance of assessing, re-evaluating, and changing the services or treatment plans offered to clients.",
+			"ancestorIds": [
+				"C691B10E90244C34ADC41A22F68A53A2",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3C7EB7645AF846C7BEEC777219A5E520": {
+			"id": "3C7EB7645AF846C7BEEC777219A5E520",
+			"asnIdentifier": "S2541850",
+			"position": 304000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.3",
+			"description": "Create a treatment plan for each client individually to achieve their needs and goals of services or treatments being offered.",
+			"ancestorIds": [
+				"C691B10E90244C34ADC41A22F68A53A2",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"83A1892631F44B9C84075BC7C0D70DF2": {
+			"id": "83A1892631F44B9C84075BC7C0D70DF2",
+			"asnIdentifier": "S2541849",
+			"position": 303000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.2",
+			"description": "Generate professional treatment protocols to ensure the best possible outcomes for clients during services or treatments performed.",
+			"ancestorIds": [
+				"C691B10E90244C34ADC41A22F68A53A2",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"BDCAD575394740CA9FB3ADB4D6CFA259": {
+			"id": "BDCAD575394740CA9FB3ADB4D6CFA259",
+			"asnIdentifier": "S2541848",
+			"position": 302000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.1",
+			"description": "Revise or modify treatment protocols for clients as needed based on re-evaluating their needs, goals, or achievements during services or treatment plans offered.",
+			"ancestorIds": [
+				"C691B10E90244C34ADC41A22F68A53A2",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C691B10E90244C34ADC41A22F68A53A2": {
+			"id": "C691B10E90244C34ADC41A22F68A53A2",
+			"asnIdentifier": "S2541847",
+			"position": 301000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C10.0",
+			"description": "Synthesize the treatment protocols of clients to assess, re-evaluate, and change the services or treatment plans to reach their goals.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F048D45FC7AA4572A4939F3708B9B75F": {
+			"id": "F048D45FC7AA4572A4939F3708B9B75F",
+			"asnIdentifier": "S2541846",
+			"position": 300000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.4",
+			"description": "Prepare for all of the possible legal, ethical, and financial responsibilities that exist in the beauty industry in California.",
+			"ancestorIds": [
+				"981ECD9CB15846E286D4CEC5EF995214",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"883769A2FBF94FE2AF6BE81B0B706B6E": {
+			"id": "883769A2FBF94FE2AF6BE81B0B706B6E",
+			"asnIdentifier": "S2541845",
+			"position": 299000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.3",
+			"description": "Construct a training manual or protocol on legal, ethical, scope of practice, and financial responsibilities.",
+			"ancestorIds": [
+				"981ECD9CB15846E286D4CEC5EF995214",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2E57B2325D2F4023A597982B88069AA6": {
+			"id": "2E57B2325D2F4023A597982B88069AA6",
+			"asnIdentifier": "S2541844",
+			"position": 298000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.2",
+			"description": "Comply with all local, state and federal laws, rules, and regulations that affect the beauty industry at all times.",
+			"ancestorIds": [
+				"981ECD9CB15846E286D4CEC5EF995214",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"CA8718E5201749CAA0401D7C11FB1692": {
+			"id": "CA8718E5201749CAA0401D7C11FB1692",
+			"asnIdentifier": "S2541843",
+			"position": 297000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.1",
+			"description": "Collect information on the scope of practice from other states to ensure that the industry is staying up on new trends and technology that should be available for trained and licensed professionals to offer their clients in California.",
+			"ancestorIds": [
+				"981ECD9CB15846E286D4CEC5EF995214",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"981ECD9CB15846E286D4CEC5EF995214": {
+			"id": "981ECD9CB15846E286D4CEC5EF995214",
+			"asnIdentifier": "S2541842",
+			"position": 296000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C9.0",
+			"description": "Explain the legal, ethical, scope of practice, and financial responsibilities that exist in the beauty industry.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1F9237AE73594F07B09707C3E27BD651": {
+			"id": "1F9237AE73594F07B09707C3E27BD651",
+			"asnIdentifier": "S2541841",
+			"position": 295000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.5",
+			"description": "Diagram a service or treatment plan protocol for the client's needs, goals, and challenges to follow at home and with professional services.",
+			"ancestorIds": [
+				"584C776041F040E39C0DBB5AD30583CA",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"86C6D744E2944E46A59D36C870734CB3": {
+			"id": "86C6D744E2944E46A59D36C870734CB3",
+			"asnIdentifier": "S2541840",
+			"position": 294000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.4",
+			"description": "Illustrate the purpose of having a well-designed client consultation form for services and treatment plans.",
+			"ancestorIds": [
+				"584C776041F040E39C0DBB5AD30583CA",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F5B5FBFE103B485A9BE2AC3FAC2FC0A6": {
+			"id": "F5B5FBFE103B485A9BE2AC3FAC2FC0A6",
+			"asnIdentifier": "S2541839",
+			"position": 293000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.3",
+			"description": "Outline an at-home protocol for clients to use daily to assist in achieving their personal goals in the beauty services or treatment plans performed.",
+			"ancestorIds": [
+				"584C776041F040E39C0DBB5AD30583CA",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"33B7C6DE2D494C148CE56587A3382CBD": {
+			"id": "33B7C6DE2D494C148CE56587A3382CBD",
+			"asnIdentifier": "S2541838",
+			"position": 292000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.2",
+			"description": "Select the proper products and equipment to be used at home or in professional treatments to achieve the client's needs and goals.",
+			"ancestorIds": [
+				"584C776041F040E39C0DBB5AD30583CA",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D8F431B6A92D4655B0FDF8A34E54F2ED": {
+			"id": "D8F431B6A92D4655B0FDF8A34E54F2ED",
+			"asnIdentifier": "S2541837",
+			"position": 291000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.1",
+			"description": "Identify the appropriate tools, products, and supplies that are needed to help the client reach their treatment plan goals.",
+			"ancestorIds": [
+				"584C776041F040E39C0DBB5AD30583CA",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"584C776041F040E39C0DBB5AD30583CA": {
+			"id": "584C776041F040E39C0DBB5AD30583CA",
+			"asnIdentifier": "S2541836",
+			"position": 290000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C8.0",
+			"description": "Analyze the clients' needs, abilities, purpose, and challenges to obtaining their goals with services and treatment.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C0DD94ACE9784158B430A137EFB064B7": {
+			"id": "C0DD94ACE9784158B430A137EFB064B7",
+			"asnIdentifier": "S2541835",
+			"position": 289000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Model positive attributes about work.",
+			"ancestorIds": [
+				"39704A4FBE5C47A4BA9EDA613C0EAD0A",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B927A29E711C47CD8277E5B2FBC67EA9": {
+			"id": "B927A29E711C47CD8277E5B2FBC67EA9",
+			"asnIdentifier": "S2541834",
+			"position": 288000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Compare and contrast the components that make up a good business plan.",
+			"ancestorIds": [
+				"39704A4FBE5C47A4BA9EDA613C0EAD0A",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"EE4A2E5E03F04B2ABE41258E2A39FAA6": {
+			"id": "EE4A2E5E03F04B2ABE41258E2A39FAA6",
+			"asnIdentifier": "S2541833",
+			"position": 287000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Examine the pros and cons of managing a business.",
+			"ancestorIds": [
+				"39704A4FBE5C47A4BA9EDA613C0EAD0A",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9BC7210973024AD3A379C4645DE399F4": {
+			"id": "9BC7210973024AD3A379C4645DE399F4",
+			"asnIdentifier": "S2541832",
+			"position": 286000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Categorize the advantages and disadvantages of being a business owner.",
+			"ancestorIds": [
+				"39704A4FBE5C47A4BA9EDA613C0EAD0A",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B4A759F033EA42498AD44F04745223B5": {
+			"id": "B4A759F033EA42498AD44F04745223B5",
+			"asnIdentifier": "S2541831",
+			"position": 285000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Identify successful mentors in the personal service career pathways to help become successful.",
+			"ancestorIds": [
+				"39704A4FBE5C47A4BA9EDA613C0EAD0A",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"39704A4FBE5C47A4BA9EDA613C0EAD0A": {
+			"id": "39704A4FBE5C47A4BA9EDA613C0EAD0A",
+			"asnIdentifier": "S2541830",
+			"position": 284000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Differentiate the types of business ownership and the advantages/disadvantages of owning and/or managing a business.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3854C7997CCE45198D78B8DDC65328A3": {
+			"id": "3854C7997CCE45198D78B8DDC65328A3",
+			"asnIdentifier": "S2541829",
+			"position": 283000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Prepare and train new personnel in the salons, spas, or other beauty industry careers with integrity, ethics, and professionalism at all times.",
+			"ancestorIds": [
+				"39C000321CDE4E2AAD15D2AB5E79D772",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D45E9EA1826D476291B67B666EA9F480": {
+			"id": "D45E9EA1826D476291B67B666EA9F480",
+			"asnIdentifier": "S2541828",
+			"position": 282000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Operate as an ethical and responsible leader on a daily basis.",
+			"ancestorIds": [
+				"39C000321CDE4E2AAD15D2AB5E79D772",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0B59C2C3996F4E949B4D842BD221BCF8": {
+			"id": "0B59C2C3996F4E949B4D842BD221BCF8",
+			"asnIdentifier": "S2541827",
+			"position": 281000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Prepare to be a successful leader by practicing positive leadership and business management skills.",
+			"ancestorIds": [
+				"39C000321CDE4E2AAD15D2AB5E79D772",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"E458A4F5951040EDA631D2172211E6D9": {
+			"id": "E458A4F5951040EDA631D2172211E6D9",
+			"asnIdentifier": "S2541826",
+			"position": 280000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "Discover various methods to develop cultural proficiencies for a successful career.",
+			"ancestorIds": [
+				"39C000321CDE4E2AAD15D2AB5E79D772",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"39C000321CDE4E2AAD15D2AB5E79D772": {
+			"id": "39C000321CDE4E2AAD15D2AB5E79D772",
+			"asnIdentifier": "S2541825",
+			"position": 279000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Employ the leadership and business management practices and cultural proficiencies that would lead to success in the beauty industry.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1D4832A7789B4AA38737F8F55506B277": {
+			"id": "1D4832A7789B4AA38737F8F55506B277",
+			"asnIdentifier": "S2541824",
+			"position": 278000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.5",
+			"description": "Modify the service or treatment plan accordingly as the goals of the client change or become achieved in the services provided.",
+			"ancestorIds": [
+				"34B6BD2E8944474BA526ED257847D2DC",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"351DA26066974BBB9E7E87F3521B3F18": {
+			"id": "351DA26066974BBB9E7E87F3521B3F18",
+			"asnIdentifier": "S2541823",
+			"position": 277000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.4",
+			"description": "Illustrate the purpose of having a thorough client consultation and record system of services or treatment plans performed for clients.",
+			"ancestorIds": [
+				"34B6BD2E8944474BA526ED257847D2DC",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"CEEE39A3CEF34F1B9E2E4F6B6F1D3867": {
+			"id": "CEEE39A3CEF34F1B9E2E4F6B6F1D3867",
+			"asnIdentifier": "S2541822",
+			"position": 276000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.3",
+			"description": "Use professional respect, courtesy, and demeanor at all times when working with clients and other professionals.",
+			"ancestorIds": [
+				"34B6BD2E8944474BA526ED257847D2DC",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1BE46CB6D6BB47D9A3086702A0D3862C": {
+			"id": "1BE46CB6D6BB47D9A3086702A0D3862C",
+			"asnIdentifier": "S2541821",
+			"position": 275000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Practice ethical and moral leadership when performing services or treatment plans with/on clients at all times.",
+			"ancestorIds": [
+				"34B6BD2E8944474BA526ED257847D2DC",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"117ED4CCE56A43E9ADB33C1C8C482655": {
+			"id": "117ED4CCE56A43E9ADB33C1C8C482655",
+			"asnIdentifier": "S2541820",
+			"position": 274000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Apply consistent concepts and principles in designing a service or treatment plan for each client.",
+			"ancestorIds": [
+				"34B6BD2E8944474BA526ED257847D2DC",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"34B6BD2E8944474BA526ED257847D2DC": {
+			"id": "34B6BD2E8944474BA526ED257847D2DC",
+			"asnIdentifier": "S2541819",
+			"position": 273000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Demonstrate the key concepts and principles to designing and performing services and treatment plans for clients.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"58DC59CF84A24CA487E93AB3882B8716": {
+			"id": "58DC59CF84A24CA487E93AB3882B8716",
+			"asnIdentifier": "S2541818",
+			"position": 272000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Review new trends, technologies, product development, equipment, and services with a benefit/cost analysis perspective.",
+			"ancestorIds": [
+				"1415D00AC5774DF1A3B489BD4DBDDFAE",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B348F3B56C1F442BACC2572379559DC1": {
+			"id": "B348F3B56C1F442BACC2572379559DC1",
+			"asnIdentifier": "S2541817",
+			"position": 271000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Explain the benefits of keeping up with the trends, technologies and new products for treatment plans.",
+			"ancestorIds": [
+				"1415D00AC5774DF1A3B489BD4DBDDFAE",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D64FE1EBBA304A32A57B070623C299BB": {
+			"id": "D64FE1EBBA304A32A57B070623C299BB",
+			"asnIdentifier": "S2541816",
+			"position": 270000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Recognize which trends, technologies, products, equipment and services that will increase success.",
+			"ancestorIds": [
+				"1415D00AC5774DF1A3B489BD4DBDDFAE",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"149FA926AE5643308016BE1C0AA3E2C0": {
+			"id": "149FA926AE5643308016BE1C0AA3E2C0",
+			"asnIdentifier": "S2541815",
+			"position": 269000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Identify the need for professionals to continue with their education and training.",
+			"ancestorIds": [
+				"1415D00AC5774DF1A3B489BD4DBDDFAE",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1415D00AC5774DF1A3B489BD4DBDDFAE": {
+			"id": "1415D00AC5774DF1A3B489BD4DBDDFAE",
+			"asnIdentifier": "S2541814",
+			"position": 268000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Describe importance of keeping up with new trends, technologies, product development, new equipment, and services for clients.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B238F80B952048809C1C6E9372DF6293": {
+			"id": "B238F80B952048809C1C6E9372DF6293",
+			"asnIdentifier": "S2541813",
+			"position": 267000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.5",
+			"description": "Review the various business and industry companies that provide equipment and products for inflectional control practices for quality and safety.",
+			"ancestorIds": [
+				"7F858F1B345F402EA9C30D9DD98E1629",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"77D4A4248CB34E3BBA19928363B69CE3": {
+			"id": "77D4A4248CB34E3BBA19928363B69CE3",
+			"asnIdentifier": "S2541812",
+			"position": 266000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.4",
+			"description": "Distinguish the differences of the various infection control practices to protect the consumer as well as the professional.",
+			"ancestorIds": [
+				"7F858F1B345F402EA9C30D9DD98E1629",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"421A4B49313343019C74A5EC9D12CB4D": {
+			"id": "421A4B49313343019C74A5EC9D12CB4D",
+			"asnIdentifier": "S2541811",
+			"position": 265000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.3",
+			"description": "Discuss the purposes of knowing OSHA regulations.",
+			"ancestorIds": [
+				"7F858F1B345F402EA9C30D9DD98E1629",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3DF2316810234E2E93C9DFBA4AF3AE7F": {
+			"id": "3DF2316810234E2E93C9DFBA4AF3AE7F",
+			"asnIdentifier": "S2541810",
+			"position": 264000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.2",
+			"description": "Locate all Material Safety Data Sheets (MSDS) for chemicals and products.",
+			"ancestorIds": [
+				"7F858F1B345F402EA9C30D9DD98E1629",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B6D1E8B2570447B986D7028CBBB88250": {
+			"id": "B6D1E8B2570447B986D7028CBBB88250",
+			"asnIdentifier": "S2541809",
+			"position": 263000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Classify the different health and safety regulations for the industry from the federal, state, and local levels.",
+			"ancestorIds": [
+				"7F858F1B345F402EA9C30D9DD98E1629",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"7F858F1B345F402EA9C30D9DD98E1629": {
+			"id": "7F858F1B345F402EA9C30D9DD98E1629",
+			"asnIdentifier": "S2541808",
+			"position": 262000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "Explain the importance of following the federal and state health and safety regulations, Occupational Safety and Health Administration (OSHA) regulations, infection control practices for the beauty industry.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"12605F6FF3CA42E0A83917B7BB3831A6": {
+			"id": "12605F6FF3CA42E0A83917B7BB3831A6",
+			"asnIdentifier": "S2541807",
+			"position": 261000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.5",
+			"description": "Identify the reasons why people skills, critical thinking, and soft skills are an important component of being successful in the beauty industry.",
+			"ancestorIds": [
+				"0218D32FBD9F48B39DEC3F130825CC48",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F72B35762C044587AB686ADC65DF659D": {
+			"id": "F72B35762C044587AB686ADC65DF659D",
+			"asnIdentifier": "S2541806",
+			"position": 260000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.4",
+			"description": "Define the differences between body language, written, oral, and listening communication skills.",
+			"ancestorIds": [
+				"0218D32FBD9F48B39DEC3F130825CC48",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"669FFB88086748AF89E6C2E414793404": {
+			"id": "669FFB88086748AF89E6C2E414793404",
+			"asnIdentifier": "S2541805",
+			"position": 259000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Describe the communications skills that are essential to being successful in the beauty industry.",
+			"ancestorIds": [
+				"0218D32FBD9F48B39DEC3F130825CC48",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0F3379FBA258454CA97198E1A6F60B34": {
+			"id": "0F3379FBA258454CA97198E1A6F60B34",
+			"asnIdentifier": "S2541804",
+			"position": 258000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "List the ways that communication skills can enhance a career in the beauty industry.",
+			"ancestorIds": [
+				"0218D32FBD9F48B39DEC3F130825CC48",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"A2B1DA52E9094A35922FB4BD980024CD": {
+			"id": "A2B1DA52E9094A35922FB4BD980024CD",
+			"asnIdentifier": "S2541803",
+			"position": 257000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "Describe the different types of communication skills that must be used when pursuing a career in the beauty industry.",
+			"ancestorIds": [
+				"0218D32FBD9F48B39DEC3F130825CC48",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0218D32FBD9F48B39DEC3F130825CC48": {
+			"id": "0218D32FBD9F48B39DEC3F130825CC48",
+			"asnIdentifier": "S2541802",
+			"position": 256000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Recognize the different communication skills that are necessary to be successful in the personal service career pathways of the beauty industry.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"ADB7B605A674414895FF2A4B85E785DE": {
+			"id": "ADB7B605A674414895FF2A4B85E785DE",
+			"asnIdentifier": "S2541801",
+			"position": 255000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.5",
+			"description": "Access information regarding the Barbering and Cosmetology Board meetings, agendas, and minutes in California.",
+			"ancestorIds": [
+				"0A6A9E74669243A68ABBD97F607309BB",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"20C5CCDE260548388E1F64666CD420ED": {
+			"id": "20C5CCDE260548388E1F64666CD420ED",
+			"asnIdentifier": "S2541800",
+			"position": 254000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "State the purposes of having a governing or licensing board over the beauty industry in California.",
+			"ancestorIds": [
+				"0A6A9E74669243A68ABBD97F607309BB",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"34741EF13F2844038D02D222B96867C3": {
+			"id": "34741EF13F2844038D02D222B96867C3",
+			"asnIdentifier": "S2541799",
+			"position": 253000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Identify the state board officials to contact when professionals have comments, concerns, or complaints regarding state board rules, regulations, policies or procedures in California.",
+			"ancestorIds": [
+				"0A6A9E74669243A68ABBD97F607309BB",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"8BD26F77240E4F85B854ACFD45FFD6F4": {
+			"id": "8BD26F77240E4F85B854ACFD45FFD6F4",
+			"asnIdentifier": "S2541798",
+			"position": 252000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "List the state board rules and regulations that currently exist in California.",
+			"ancestorIds": [
+				"0A6A9E74669243A68ABBD97F607309BB",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2810977EC7CE4CEEB3BAEDB28EA5E440": {
+			"id": "2810977EC7CE4CEEB3BAEDB28EA5E440",
+			"asnIdentifier": "S2541797",
+			"position": 251000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Define the state board licensing requirements and procedures that currently exist in California.",
+			"ancestorIds": [
+				"0A6A9E74669243A68ABBD97F607309BB",
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0A6A9E74669243A68ABBD97F607309BB": {
+			"id": "0A6A9E74669243A68ABBD97F607309BB",
+			"asnIdentifier": "S2541796",
+			"position": 250000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Identify the importance of state board licensing, rules and regulations for the beauty industry.",
+			"ancestorIds": [
+				"DB31A02B985749D39162636A1F2EC40E",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"DB31A02B985749D39162636A1F2EC40E": {
+			"id": "DB31A02B985749D39162636A1F2EC40E",
+			"asnIdentifier": "S2541795",
+			"position": 249000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Personal Services",
+			"comments": [
+				"Students who follow the Personal Services pathway develop the essential concepts, knowledge, principles, and skills to be successful in the career opportunities in this industry. Careers or subjects in this field include barbering, cosmetology, makeup artistry, and manicuring, with the emphasis on client consultation, health/safety, service/treatment protocols, product/equipment knowledge, marketing/promotion, management, and business practices."
+			],
+			"ancestorIds": [
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"4E70A9ADCDC14AF0A8E1E8DB12D714D5": {
+			"id": "4E70A9ADCDC14AF0A8E1E8DB12D714D5",
+			"asnIdentifier": "S2541794",
+			"position": 248000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.7",
+			"description": "Identify characteristics of sustainable fibers and acquire knowledge about what elements contribute to a sustainable fiber.",
+			"ancestorIds": [
+				"BAE97D45AC6440849E1CBA24F172C95C",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"CBF67F2226CA47699963FB837A19BA8D": {
+			"id": "CBF67F2226CA47699963FB837A19BA8D",
+			"asnIdentifier": "S2541793",
+			"position": 247000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.6",
+			"description": "Analyze government incentives for sustainable practices to benefit the client.",
+			"ancestorIds": [
+				"BAE97D45AC6440849E1CBA24F172C95C",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"E2ED79BF405B476BB716DABBFD1D8137": {
+			"id": "E2ED79BF405B476BB716DABBFD1D8137",
+			"asnIdentifier": "S2541792",
+			"position": 246000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.5",
+			"description": "Explain how organizations such as Leadership in Energy and Environmental Design (LEED) promote sustainable practices.",
+			"ancestorIds": [
+				"BAE97D45AC6440849E1CBA24F172C95C",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"24BFCC15FC2748CFB8118CC8DBD02FD5": {
+			"id": "24BFCC15FC2748CFB8118CC8DBD02FD5",
+			"asnIdentifier": "S2541791",
+			"position": 245000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.4",
+			"description": "Research lighting, water, waste disposal, and other energies to determine the best options for the client that demonstrates sustainable practices.",
+			"ancestorIds": [
+				"BAE97D45AC6440849E1CBA24F172C95C",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D3B5C5609DA84FFCAE395749CBB02485": {
+			"id": "D3B5C5609DA84FFCAE395749CBB02485",
+			"asnIdentifier": "S2541790",
+			"position": 244000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.3",
+			"description": "Research sustainable products.",
+			"ancestorIds": [
+				"BAE97D45AC6440849E1CBA24F172C95C",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"428A96D0A7774E53814D36F6C7630A79": {
+			"id": "428A96D0A7774E53814D36F6C7630A79",
+			"asnIdentifier": "S2541789",
+			"position": 243000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.2",
+			"description": "Compare environmentally friendly and sustainable design concepts that reflect federal guidelines and voluntary standards, such as Leadership in Energy and Environmental Design (LEED).",
+			"ancestorIds": [
+				"BAE97D45AC6440849E1CBA24F172C95C",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1781320377C540F0A00880B345876CF7": {
+			"id": "1781320377C540F0A00880B345876CF7",
+			"asnIdentifier": "S2541788",
+			"position": 242000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B11.1",
+			"description": "Compile textile industry practices that demonstrate sustainability.",
+			"ancestorIds": [
+				"BAE97D45AC6440849E1CBA24F172C95C",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"BAE97D45AC6440849E1CBA24F172C95C": {
+			"id": "BAE97D45AC6440849E1CBA24F172C95C",
+			"asnIdentifier": "S2541787",
+			"position": 241000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B11.0",
+			"description": "Understand sustainable practices in the interior design field which includes: recyclable materials/products, efficient energy products and usage, sustainable construction principles, asset liquidation principles, transportation, and disposal of harmful chemicals/products.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B4C1376C97564F92AA1679B0C704773B": {
+			"id": "B4C1376C97564F92AA1679B0C704773B",
+			"asnIdentifier": "S2541786",
+			"position": 240000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.9",
+			"description": "Design a product describing how copyright, trademark, and patent laws affect textile design and production.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"4312538C15294C14B4CE2E72BA495700": {
+			"id": "4312538C15294C14B4CE2E72BA495700",
+			"asnIdentifier": "S2541785",
+			"position": 239000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.8",
+			"description": "Research how technology is used to create various characteristics in textiles.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"91D3456F98A7408FB1701590AAB21968": {
+			"id": "91D3456F98A7408FB1701590AAB21968",
+			"asnIdentifier": "S2541784",
+			"position": 238000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.7",
+			"description": "Integrate the skills and procedures necessary to create and produce textile products.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"7ED04DA092F7428E8C22BCFF6118A9BA": {
+			"id": "7ED04DA092F7428E8C22BCFF6118A9BA",
+			"asnIdentifier": "S2541783",
+			"position": 237000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.6",
+			"description": "Analyze principals of standard print design (e.g., abstract and geometric) and color designs (e.g., tone-on-tone, positive/negative, and monotone).",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"157F749AFD5E4E5FB339A9E38C26B1BB": {
+			"id": "157F749AFD5E4E5FB339A9E38C26B1BB",
+			"asnIdentifier": "S2541782",
+			"position": 236000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.5",
+			"description": "Compare textile manufacturing methods for producing fabrics that are woven, nonwoven, and knit.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B5C12BF3CD15485F9073E375AD74EA03": {
+			"id": "B5C12BF3CD15485F9073E375AD74EA03",
+			"asnIdentifier": "S2541781",
+			"position": 235000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.4",
+			"description": "Research color and design trends for textiles.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"98B55A040347417C9A7C900B14BBCD1A": {
+			"id": "98B55A040347417C9A7C900B14BBCD1A",
+			"asnIdentifier": "S2541780",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.3",
+			"description": "Compare the application of various fabric types to a variety of interior products.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B0586F55C34D4A0F8639E4C878EBAD95": {
+			"id": "B0586F55C34D4A0F8639E4C878EBAD95",
+			"asnIdentifier": "S2541779",
+			"position": 233000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.2",
+			"description": "Name various uses of textiles in interior design products.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"40A53A9341CF48459A1075803D06F76B": {
+			"id": "40A53A9341CF48459A1075803D06F76B",
+			"asnIdentifier": "S2541778",
+			"position": 232000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.1",
+			"description": "Identify general characteristics and maintenance of various fibers, fabrics, and finishes.",
+			"ancestorIds": [
+				"417DC90711B7491D89E58BFAD80A8CB2",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"417DC90711B7491D89E58BFAD80A8CB2": {
+			"id": "417DC90711B7491D89E58BFAD80A8CB2",
+			"asnIdentifier": "S2541777",
+			"position": 231000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B10.0",
+			"description": "Understand the characteristics and maintenance of textiles and their applications to interior design products.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"BC90A96D470F415EAE3B9AAEBBFA7F86": {
+			"id": "BC90A96D470F415EAE3B9AAEBBFA7F86",
+			"asnIdentifier": "S2541776",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.5",
+			"description": "Create a product that distinguishes how prosperity, mass production, and technology throughout history are related to the economics of the furnishings segment of the industry.",
+			"ancestorIds": [
+				"C49FE1F5C1E54451843A4B64D635856E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3EB424CEC79E417BA6B77DFD44F06617": {
+			"id": "3EB424CEC79E417BA6B77DFD44F06617",
+			"asnIdentifier": "S2541775",
+			"position": 229000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.4",
+			"description": "Research how furnishings from a particular period in history were influenced by political, social, economic, and aesthetic conditions.",
+			"ancestorIds": [
+				"C49FE1F5C1E54451843A4B64D635856E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"7F90CD3DA8864FED905CB24ECA54DCDB": {
+			"id": "7F90CD3DA8864FED905CB24ECA54DCDB",
+			"asnIdentifier": "S2541774",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.3",
+			"description": "Analyze recurring historical designs in today's furnishings.",
+			"ancestorIds": [
+				"C49FE1F5C1E54451843A4B64D635856E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"6831D628FC384D10B90ACC55A9B53A6B": {
+			"id": "6831D628FC384D10B90ACC55A9B53A6B",
+			"asnIdentifier": "S2541773",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.2",
+			"description": "Recognize the characteristics of furnishings that typify various periods and architectural styles throughout history.",
+			"ancestorIds": [
+				"C49FE1F5C1E54451843A4B64D635856E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9051B9C7966D49F7BF737287B716C8CB": {
+			"id": "9051B9C7966D49F7BF737287B716C8CB",
+			"asnIdentifier": "S2541772",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.1",
+			"description": "Identify basic furniture styles and interiors from historical periods.",
+			"ancestorIds": [
+				"C49FE1F5C1E54451843A4B64D635856E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C49FE1F5C1E54451843A4B64D635856E": {
+			"id": "C49FE1F5C1E54451843A4B64D635856E",
+			"asnIdentifier": "S2541771",
+			"position": 225000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B9.0",
+			"description": "Understand the history and events that have influenced the design of furnishings and interiors.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"08C763CCB6F5492DA261B2AF8314BB57": {
+			"id": "08C763CCB6F5492DA261B2AF8314BB57",
+			"asnIdentifier": "S2541770",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.4",
+			"description": "Interpret and complete orders by using accepted production methods.",
+			"ancestorIds": [
+				"84BE63EE470E412DA795315C146B56D3",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"6E579B2706BE4BF5976F84E65C2D870F": {
+			"id": "6E579B2706BE4BF5976F84E65C2D870F",
+			"asnIdentifier": "S2541769",
+			"position": 223000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.3",
+			"description": "Understand the steps, procedures, and processes necessary for the production of window coverings, furnishings, and accessories.",
+			"ancestorIds": [
+				"84BE63EE470E412DA795315C146B56D3",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"CD17C9DC1EB14A478FABA60E45915B5E": {
+			"id": "CD17C9DC1EB14A478FABA60E45915B5E",
+			"asnIdentifier": "S2541768",
+			"position": 222000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.2",
+			"description": "Name the construction skills and techniques that meet industry standards.",
+			"ancestorIds": [
+				"84BE63EE470E412DA795315C146B56D3",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1CDE72E9C3B7460CBDED2165EDDA35A7": {
+			"id": "1CDE72E9C3B7460CBDED2165EDDA35A7",
+			"asnIdentifier": "S2541767",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.1",
+			"description": "Identify the appropriate tools and supplies needed for production and fabrication of window, wall, and floor treatments and coverings.",
+			"ancestorIds": [
+				"84BE63EE470E412DA795315C146B56D3",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"84BE63EE470E412DA795315C146B56D3": {
+			"id": "84BE63EE470E412DA795315C146B56D3",
+			"asnIdentifier": "S2541766",
+			"position": 220000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B8.0",
+			"description": "Understand the fabrication of treatments for windows, walls, floors, and furnishings.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"A4577502EEFD4C26A3A41A039B458628": {
+			"id": "A4577502EEFD4C26A3A41A039B458628",
+			"asnIdentifier": "S2541765",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.6",
+			"description": "Outline schedules for completing work and installing appliances and cabinetry.",
+			"ancestorIds": [
+				"9CCAA29FACE845AF921BA42435F3DCA7",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"A9DE1B55A4C7448CA3CEF8ED23603DB4": {
+			"id": "A9DE1B55A4C7448CA3CEF8ED23603DB4",
+			"asnIdentifier": "S2541764",
+			"position": 218000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.5",
+			"description": "Research appropriate furnishings by evaluating the quality, source, function, and vendors' attributes.",
+			"ancestorIds": [
+				"9CCAA29FACE845AF921BA42435F3DCA7",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D11FF0DC780A4E3BB708CB1391A97163": {
+			"id": "D11FF0DC780A4E3BB708CB1391A97163",
+			"asnIdentifier": "S2541763",
+			"position": 217000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.4",
+			"description": "Evaluate how ergonomic and anthropometric concepts assist clients in the selection and adaptation of furnishings.",
+			"ancestorIds": [
+				"9CCAA29FACE845AF921BA42435F3DCA7",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"14FADC18AC674984A1163FD061CF1808": {
+			"id": "14FADC18AC674984A1163FD061CF1808",
+			"asnIdentifier": "S2541762",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Label the primary types of fabrics, trims, and finishes for various furniture, coverings, and accessories.",
+			"ancestorIds": [
+				"9CCAA29FACE845AF921BA42435F3DCA7",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"12F85DB36E674A2EAF72A1F63ECC109A": {
+			"id": "12F85DB36E674A2EAF72A1F63ECC109A",
+			"asnIdentifier": "S2541761",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Identify the primary types of woods, fillers, materials, finishes, and frames.",
+			"ancestorIds": [
+				"9CCAA29FACE845AF921BA42435F3DCA7",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"49C60DE5E94447DDAA8C4D28761E9728": {
+			"id": "49C60DE5E94447DDAA8C4D28761E9728",
+			"asnIdentifier": "S2541760",
+			"position": 214000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Define procedures, processes, and labels used for the production of furniture, coverings, and accessories that meet industry standards and codes.",
+			"ancestorIds": [
+				"9CCAA29FACE845AF921BA42435F3DCA7",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9CCAA29FACE845AF921BA42435F3DCA7": {
+			"id": "9CCAA29FACE845AF921BA42435F3DCA7",
+			"asnIdentifier": "S2541759",
+			"position": 213000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.0",
+			"description": "Understand the selection of furniture, upholstery, slipcovers, and accessories for residential, commercial, and mobile interiors.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"4B21EDF3AABB4F6ABF6123CB12F4A567": {
+			"id": "4B21EDF3AABB4F6ABF6123CB12F4A567",
+			"asnIdentifier": "S2541758",
+			"position": 212000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.5",
+			"description": "Estimate costs of materials, fabrication, and installation.",
+			"ancestorIds": [
+				"057EF30B2B0C46E6A750DC3531BDB0B1",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"36A828F5BF204768AB8670A0DB2161CC": {
+			"id": "36A828F5BF204768AB8670A0DB2161CC",
+			"asnIdentifier": "S2541757",
+			"position": 211000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.4",
+			"description": "Research the process for installing lighting, window, wall, and floor treatments, including measuring.",
+			"ancestorIds": [
+				"057EF30B2B0C46E6A750DC3531BDB0B1",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"A7EC979A0BD0434285E57A34A6FB4EAD": {
+			"id": "A7EC979A0BD0434285E57A34A6FB4EAD",
+			"asnIdentifier": "S2541756",
+			"position": 210000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.3",
+			"description": "Understand the procedures for tracking and following through on work orders.",
+			"ancestorIds": [
+				"057EF30B2B0C46E6A750DC3531BDB0B1",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B3542B51FB0E4C30B02DE6342F7E446C": {
+			"id": "B3542B51FB0E4C30B02DE6342F7E446C",
+			"asnIdentifier": "S2541755",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Describe the function, appearance, installation, maintenance of primary types of lighting, window treatments, floor, and wall coverings.",
+			"ancestorIds": [
+				"057EF30B2B0C46E6A750DC3531BDB0B1",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"E4F9AC80986D45F68F9EA4B85BA38AB5": {
+			"id": "E4F9AC80986D45F68F9EA4B85BA38AB5",
+			"asnIdentifier": "S2541754",
+			"position": 208000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Recognize a variety of styles, construction, materials, hardware, and their functions and the need to comply with industry codes.",
+			"ancestorIds": [
+				"057EF30B2B0C46E6A750DC3531BDB0B1",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"057EF30B2B0C46E6A750DC3531BDB0B1": {
+			"id": "057EF30B2B0C46E6A750DC3531BDB0B1",
+			"asnIdentifier": "S2541753",
+			"position": 207000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Understand the selection of lighting, window, wall, and floor treatments for residential, commercial, and mobile interiors.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0C7C2B9F774F4317A5AECFD8F42FA373": {
+			"id": "0C7C2B9F774F4317A5AECFD8F42FA373",
+			"asnIdentifier": "S2541752",
+			"position": 206000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.8",
+			"description": "Master presentation skills necessary to sell design concepts to a potential client.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"DE0979DEB6F0411AA959F5611658C127": {
+			"id": "DE0979DEB6F0411AA959F5611658C127",
+			"asnIdentifier": "S2541751",
+			"position": 205000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.7",
+			"description": "Understand the concept of universal design as it applies to people with and without disabilities and research the compliance requirements of the American with Disabilities Act.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"38DA38C03D3142F9A3CA091AABF23546": {
+			"id": "38DA38C03D3142F9A3CA091AABF23546",
+			"asnIdentifier": "S2541750",
+			"position": 204000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.6",
+			"description": "Analyze space needs on the basis of clients' specifications.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D219F10638824622AB1F7FF3F587860E": {
+			"id": "D219F10638824622AB1F7FF3F587860E",
+			"asnIdentifier": "S2541749",
+			"position": 203000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.5",
+			"description": "Create scale-drawings, elevations, renderings, and sample boards.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"FC7D2B35D6BC453BA036163EB0DE3FA2": {
+			"id": "FC7D2B35D6BC453BA036163EB0DE3FA2",
+			"asnIdentifier": "S2541748",
+			"position": 202000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.4",
+			"description": "Understand the traffic flow and product/furniture placement requirements for an interior design project.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"EAB94B1228F94103A60047EA1CC91FD5": {
+			"id": "EAB94B1228F94103A60047EA1CC91FD5",
+			"asnIdentifier": "S2541746",
+			"position": 201000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.3",
+			"description": "Interpret all types of blueprints, including symbols for plumbing, electrical, and heating/air.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"E17BBB713B6643CF803CD74590506577": {
+			"id": "E17BBB713B6643CF803CD74590506577",
+			"asnIdentifier": "S2541747",
+			"position": 200000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Understand the measurements of interior spaces and how to determine square footage.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"DED57A39001649F6819905F95E2EA0B9": {
+			"id": "DED57A39001649F6819905F95E2EA0B9",
+			"asnIdentifier": "S2541745",
+			"position": 199000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Understand the importance of clients' needs to the development of a design concept.",
+			"ancestorIds": [
+				"ADDB3E53B9F04D51ACB26F4307D55EB8",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"ADDB3E53B9F04D51ACB26F4307D55EB8": {
+			"id": "ADDB3E53B9F04D51ACB26F4307D55EB8",
+			"asnIdentifier": "S2541744",
+			"position": 198000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Understand and apply important aspects of design, space planning, and know the characteristics of interior systems.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C1205B4D89624583BC2B6C7073843FAF": {
+			"id": "C1205B4D89624583BC2B6C7073843FAF",
+			"asnIdentifier": "S2541743",
+			"position": 197000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.6",
+			"description": "Define basic policies and procedures for sales, exchanges, and returns.",
+			"ancestorIds": [
+				"AC77C0765D554F0284AE8A736C61AC9E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3B8A943D0179488BAA3D9BB220FBB14A": {
+			"id": "3B8A943D0179488BAA3D9BB220FBB14A",
+			"asnIdentifier": "S2541742",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Explain how technology can be used to provide customer service.",
+			"ancestorIds": [
+				"AC77C0765D554F0284AE8A736C61AC9E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"ABFC85EE22694C49800166D8A44302C2": {
+			"id": "ABFC85EE22694C49800166D8A44302C2",
+			"asnIdentifier": "S2541741",
+			"position": 195000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Assess strategies for helping customers select merchandise and recommend related products and services appropriate to their needs.",
+			"ancestorIds": [
+				"AC77C0765D554F0284AE8A736C61AC9E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"5C0C62DE09AA49888D6609F9E028ACBE": {
+			"id": "5C0C62DE09AA49888D6609F9E028ACBE",
+			"asnIdentifier": "S2541740",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Compare and contrast sales and marketing techniques for their effectiveness.",
+			"ancestorIds": [
+				"AC77C0765D554F0284AE8A736C61AC9E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1B21D7820514417FB9C5A7E860784237": {
+			"id": "1B21D7820514417FB9C5A7E860784237",
+			"asnIdentifier": "S2541739",
+			"position": 193000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Analyze customers' buying motives.",
+			"ancestorIds": [
+				"AC77C0765D554F0284AE8A736C61AC9E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"BE9C18A919C34B5BB32E0161D85C11D8": {
+			"id": "BE9C18A919C34B5BB32E0161D85C11D8",
+			"asnIdentifier": "S2541738",
+			"position": 192000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Identify factors that contribute to quality customer relations, service, and retail sales.",
+			"ancestorIds": [
+				"AC77C0765D554F0284AE8A736C61AC9E",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"AC77C0765D554F0284AE8A736C61AC9E": {
+			"id": "AC77C0765D554F0284AE8A736C61AC9E",
+			"asnIdentifier": "S2541737",
+			"position": 191000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.0",
+			"description": "Understand the main principles of sales and marketing in the interior design and furnishings industry.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0ADCC67B49714F17BA7A442C18C1EFF3": {
+			"id": "0ADCC67B49714F17BA7A442C18C1EFF3",
+			"asnIdentifier": "S2541736",
+			"position": 190000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.4",
+			"description": "Integrate various types of technology in the design process.",
+			"ancestorIds": [
+				"C901DDCD4232428298C0AFB70AA1DFAC",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C46A4B411EA7495C99D9DBC6F84DAC2F": {
+			"id": "C46A4B411EA7495C99D9DBC6F84DAC2F",
+			"asnIdentifier": "S2541735",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Explain the fundamentals of trend forecasting.",
+			"ancestorIds": [
+				"C901DDCD4232428298C0AFB70AA1DFAC",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"6A36E6591D454900881F20CCF7D884BF": {
+			"id": "6A36E6591D454900881F20CCF7D884BF",
+			"asnIdentifier": "S2541734",
+			"position": 188000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Understand the concept of universal design and relate it to the industry.",
+			"ancestorIds": [
+				"C901DDCD4232428298C0AFB70AA1DFAC",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"43FF203E988C4E13AB1FA6CDDFC9F0AC": {
+			"id": "43FF203E988C4E13AB1FA6CDDFC9F0AC",
+			"asnIdentifier": "S2541733",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Create an environment using the elements and principles of design for designing, marketing, and merchandising of interior design products.",
+			"ancestorIds": [
+				"C901DDCD4232428298C0AFB70AA1DFAC",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C901DDCD4232428298C0AFB70AA1DFAC": {
+			"id": "C901DDCD4232428298C0AFB70AA1DFAC",
+			"asnIdentifier": "S2541732",
+			"position": 186000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B3.0",
+			"description": "Understand and apply the elements and principles of design to various aspects of the interior design industry.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F17B2981B7594EBCAA758E40154F64FE": {
+			"id": "F17B2981B7594EBCAA758E40154F64FE",
+			"asnIdentifier": "S2541731",
+			"position": 185000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.6",
+			"description": "Plan and organize work schedules with a timeline showing the stages from consultation through installation.",
+			"ancestorIds": [
+				"968085B0C51E4B57BA205FEDD6D79931",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"7B7D5D4784F141BFA48F5173E827E63D": {
+			"id": "7B7D5D4784F141BFA48F5173E827E63D",
+			"asnIdentifier": "S2541730",
+			"position": 184000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.5",
+			"description": "Understand how designers and industry professionals keep appropriate records, write correspondence, and use forms to manage accounts and workflow.",
+			"ancestorIds": [
+				"968085B0C51E4B57BA205FEDD6D79931",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"DAC036584CCC4F81BDA3DBED3F8222B2": {
+			"id": "DAC036584CCC4F81BDA3DBED3F8222B2",
+			"asnIdentifier": "S2541729",
+			"position": 183000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.4",
+			"description": "Explain how designers determine their fees for services and materials.",
+			"ancestorIds": [
+				"968085B0C51E4B57BA205FEDD6D79931",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"11FF4177F022437A972127A3979CD675": {
+			"id": "11FF4177F022437A972127A3979CD675",
+			"asnIdentifier": "S2541728",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.3",
+			"description": "State the purpose of regulatory agencies and the function of tax forms and resale numbers.",
+			"ancestorIds": [
+				"968085B0C51E4B57BA205FEDD6D79931",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2786DFBADB9B47A8A794DCECEA794C8E": {
+			"id": "2786DFBADB9B47A8A794DCECEA794C8E",
+			"asnIdentifier": "S2541727",
+			"position": 181000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Recognize various types of liability, insurance policies, service agreements, contracts, and the need to comply with codes.",
+			"ancestorIds": [
+				"968085B0C51E4B57BA205FEDD6D79931",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"6C00FFAFCEFA473BA9499F29CB01E693": {
+			"id": "6C00FFAFCEFA473BA9499F29CB01E693",
+			"asnIdentifier": "S2541726",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Identify how various factors affect budgets and profits.",
+			"ancestorIds": [
+				"968085B0C51E4B57BA205FEDD6D79931",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"968085B0C51E4B57BA205FEDD6D79931": {
+			"id": "968085B0C51E4B57BA205FEDD6D79931",
+			"asnIdentifier": "S2541725",
+			"position": 179000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Understand key operational procedures and laws in the industry pertaining to design, production, and construction.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"89D094FBB5774537B04EEA19C42B7B12": {
+			"id": "89D094FBB5774537B04EEA19C42B7B12",
+			"asnIdentifier": "S2541724",
+			"position": 178000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.7",
+			"description": "Research postsecondary education options in the field of interior design.",
+			"ancestorIds": [
+				"48F60B71D8F44BFB84459014B787AE87",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1DC1A1F7E4DA4156A91C8E4125972C8A": {
+			"id": "1DC1A1F7E4DA4156A91C8E4125972C8A",
+			"asnIdentifier": "S2541723",
+			"position": 177000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.6",
+			"description": "Research various professional organizations such as American Society of Interior Designers (ASID) and National Kitchen and Bath Association (NKBA).",
+			"ancestorIds": [
+				"48F60B71D8F44BFB84459014B787AE87",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"8E3E181EA91E4B2495DF10E2F640C408": {
+			"id": "8E3E181EA91E4B2495DF10E2F640C408",
+			"asnIdentifier": "S2541722",
+			"position": 176000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.5",
+			"description": "Compare the major legislative, economic, and social trends that have an impact on the industry.",
+			"ancestorIds": [
+				"48F60B71D8F44BFB84459014B787AE87",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"6F658BE45B7B4DE2930810F7B7566126": {
+			"id": "6F658BE45B7B4DE2930810F7B7566126",
+			"asnIdentifier": "S2541721",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.4",
+			"description": "Understand how resources such as periodicals, mass media, and the Internet are used in the industry.",
+			"ancestorIds": [
+				"48F60B71D8F44BFB84459014B787AE87",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C577398FE596463B84311A68A218339A": {
+			"id": "C577398FE596463B84311A68A218339A",
+			"asnIdentifier": "S2541720",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Identify how the various segments of the industry contribute to local, state, national, and global economies.",
+			"ancestorIds": [
+				"48F60B71D8F44BFB84459014B787AE87",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3C6A5872330C4B0491FECBA99CB6B3B5": {
+			"id": "3C6A5872330C4B0491FECBA99CB6B3B5",
+			"asnIdentifier": "S2541719",
+			"position": 173000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "Understand how the industry functions, knowledge of materials/resources, and effective business practices.",
+			"ancestorIds": [
+				"48F60B71D8F44BFB84459014B787AE87",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"4159228A5D2A4EEC9DFF7BC1EFBB0BBF": {
+			"id": "4159228A5D2A4EEC9DFF7BC1EFBB0BBF",
+			"asnIdentifier": "S2541718",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Identify and list various career areas within the interior design field, including home furnishings; retail; furniture design; accessory design; and residential, commercial, and mobile design.",
+			"ancestorIds": [
+				"48F60B71D8F44BFB84459014B787AE87",
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"48F60B71D8F44BFB84459014B787AE87": {
+			"id": "48F60B71D8F44BFB84459014B787AE87",
+			"asnIdentifier": "S2541717",
+			"position": 171000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Understand the complexity of the interior design industry and learn and apply aspects of design that pertain to residential, commercial, and mobile interior design.",
+			"ancestorIds": [
+				"E8123CD5DDEF47F6872AAFDAC45BB707",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"E8123CD5DDEF47F6872AAFDAC45BB707": {
+			"id": "E8123CD5DDEF47F6872AAFDAC45BB707",
+			"asnIdentifier": "S2541716",
+			"position": 170000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Interior Design",
+			"comments": [
+				"The Interior Design pathway is designed to prepare students for careers and/or postsecondary education in this rapidly growing field. Students pursuing this career pathway study the principles and elements of design along with presentation skills. They gain knowledge of materials and products, including but not limited to furnishings, fabrics, fixtures and treatments, sourcing products, space planning, specifications, and interior systems. Students will also be exposed to state-of-the-industry, computer-aided design and the emerging field of sustainability."
+			],
+			"ancestorIds": [
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"104F0646CD6C460FAF8D806D27A160E1": {
+			"id": "104F0646CD6C460FAF8D806D27A160E1",
+			"asnIdentifier": "S2541715",
+			"position": 169000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.6",
+			"description": "Create a product which demonstrates the principles of packaging beauty products.",
+			"ancestorIds": [
+				"0C90CD710ABF41318B6CFCEFE015EC57",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"AEA96DFB0D254521A8BCE92B7E112B22": {
+			"id": "AEA96DFB0D254521A8BCE92B7E112B22",
+			"asnIdentifier": "S2541714",
+			"position": 168000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.5",
+			"description": "Research various techniques for marketing beauty products.",
+			"ancestorIds": [
+				"0C90CD710ABF41318B6CFCEFE015EC57",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"714DA77D82504B1A930DA0C6E217B6EF": {
+			"id": "714DA77D82504B1A930DA0C6E217B6EF",
+			"asnIdentifier": "S2541713",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.4",
+			"description": "Explain the training required for selling beauty products.",
+			"ancestorIds": [
+				"0C90CD710ABF41318B6CFCEFE015EC57",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F1EBBEFBB0224F908578F9423BC54E60": {
+			"id": "F1EBBEFBB0224F908578F9423BC54E60",
+			"asnIdentifier": "S2541712",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.3",
+			"description": "Compare how products are regulated.",
+			"ancestorIds": [
+				"0C90CD710ABF41318B6CFCEFE015EC57",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"A02F2BA5DAED4B2BB3610A5C1FBE1B08": {
+			"id": "A02F2BA5DAED4B2BB3610A5C1FBE1B08",
+			"asnIdentifier": "S2541711",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.2",
+			"description": "Compare how cosmetic products are made.",
+			"ancestorIds": [
+				"0C90CD710ABF41318B6CFCEFE015EC57",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"890EBCE6A4B548E5B42B2C7236E76AD2": {
+			"id": "890EBCE6A4B548E5B42B2C7236E76AD2",
+			"asnIdentifier": "S2541710",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A12.1",
+			"description": "Identify and list various careers in the beauty industry.",
+			"ancestorIds": [
+				"0C90CD710ABF41318B6CFCEFE015EC57",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0C90CD710ABF41318B6CFCEFE015EC57": {
+			"id": "0C90CD710ABF41318B6CFCEFE015EC57",
+			"asnIdentifier": "S2541709",
+			"position": 163000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A12.0",
+			"description": "Understand important aspects of the beauty industry.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"7167423B4A7F46E68CDE31E210A9468E": {
+			"id": "7167423B4A7F46E68CDE31E210A9468E",
+			"asnIdentifier": "S2541708",
+			"position": 162000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.5",
+			"description": "Analyze how loss prevention affects all profits.",
+			"ancestorIds": [
+				"0D72980808BE41BABD1E5E98EE1C3F24",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9646EA94F13D4EF68D6388DB25936B6A": {
+			"id": "9646EA94F13D4EF68D6388DB25936B6A",
+			"asnIdentifier": "S2541707",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.4",
+			"description": "Compare common inventory loss points and strategies for loss prevention.",
+			"ancestorIds": [
+				"0D72980808BE41BABD1E5E98EE1C3F24",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2D1EF70C09D04C979C73F166C177FB6A": {
+			"id": "2D1EF70C09D04C979C73F166C177FB6A",
+			"asnIdentifier": "S2541706",
+			"position": 160000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.3",
+			"description": "Understand the current laws that affect inventories.",
+			"ancestorIds": [
+				"0D72980808BE41BABD1E5E98EE1C3F24",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F8785DF394BF47E8B168D5A7C1BDD8E0": {
+			"id": "F8785DF394BF47E8B168D5A7C1BDD8E0",
+			"asnIdentifier": "S2541705",
+			"position": 159000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.2",
+			"description": "Explain the role of inter-store transfers in the general distribution of goods.",
+			"ancestorIds": [
+				"0D72980808BE41BABD1E5E98EE1C3F24",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"FE4C9922B8F043408EAB8475125D9331": {
+			"id": "FE4C9922B8F043408EAB8475125D9331",
+			"asnIdentifier": "S2541704",
+			"position": 158000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A11.1",
+			"description": "Describe the procedures involved in receiving, inspecting, and marking merchandise and distributing it to the selling floor.",
+			"ancestorIds": [
+				"0D72980808BE41BABD1E5E98EE1C3F24",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0D72980808BE41BABD1E5E98EE1C3F24": {
+			"id": "0D72980808BE41BABD1E5E98EE1C3F24",
+			"asnIdentifier": "S2541703",
+			"position": 157000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A11.0",
+			"description": "Understand the current laws, work site policies, and systems for inventory control and loss prevention.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3CADA12A812B402E97910B0CBAA28568": {
+			"id": "3CADA12A812B402E97910B0CBAA28568",
+			"asnIdentifier": "S2541702",
+			"position": 156000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.4",
+			"description": "Demonstrate understanding of methods of visual merchandising and styling as it relates to selling on all types of media by creating a marketing plan.",
+			"ancestorIds": [
+				"DC09B8AD7E9F4A3A9F3FECB8DC96C613",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"CC60B1E4967749F588F3B0719ED33DB7": {
+			"id": "CC60B1E4967749F588F3B0719ED33DB7",
+			"asnIdentifier": "S2541701",
+			"position": 155000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.3",
+			"description": "Construct store displays by using various fixtures (e.g., mannequins, shadow boxes, wall and tabletop displays, and props) to convey specific messages (e.g., a store's image, a specific manufacturer's label, a color or fabric story, or a specific event).",
+			"ancestorIds": [
+				"DC09B8AD7E9F4A3A9F3FECB8DC96C613",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"379A54EF66F1431195E396CC98FDBBC5": {
+			"id": "379A54EF66F1431195E396CC98FDBBC5",
+			"asnIdentifier": "S2541700",
+			"position": 154000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.2",
+			"description": "Understand the theory and practice of merchandise placement on a sales floor.",
+			"ancestorIds": [
+				"DC09B8AD7E9F4A3A9F3FECB8DC96C613",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"19CE8A9DF8BC4892BD7AFB611D34711B": {
+			"id": "19CE8A9DF8BC4892BD7AFB611D34711B",
+			"asnIdentifier": "S2541699",
+			"position": 153000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A10.1",
+			"description": "Explain the characteristics of effective interior and exterior retail displays.",
+			"ancestorIds": [
+				"DC09B8AD7E9F4A3A9F3FECB8DC96C613",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"DC09B8AD7E9F4A3A9F3FECB8DC96C613": {
+			"id": "DC09B8AD7E9F4A3A9F3FECB8DC96C613",
+			"asnIdentifier": "S2541698",
+			"position": 152000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A10.0",
+			"description": "Understand visual merchandising and product styling.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"73E4050CD11149C19110BECA7E91A047": {
+			"id": "73E4050CD11149C19110BECA7E91A047",
+			"asnIdentifier": "S2541697",
+			"position": 151000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.7",
+			"description": "Define the concept of branding and identify successful examples.",
+			"ancestorIds": [
+				"288E190B2ADB400CA6326F4C22123D6E",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"EA011AD37CF644A9ABE2DC1F620CCB88": {
+			"id": "EA011AD37CF644A9ABE2DC1F620CCB88",
+			"asnIdentifier": "S2541696",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.6",
+			"description": "Explain how technology can be used to provide customer service.",
+			"ancestorIds": [
+				"288E190B2ADB400CA6326F4C22123D6E",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"063AA7FB854E44DE9D311F63DB317E9D": {
+			"id": "063AA7FB854E44DE9D311F63DB317E9D",
+			"asnIdentifier": "S2541695",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.5",
+			"description": "Assess strategies for helping customers select merchandise and recommend related products and services appropriate to their needs.",
+			"ancestorIds": [
+				"288E190B2ADB400CA6326F4C22123D6E",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"59A5B78C19B149338DA14C4C3C237F3D": {
+			"id": "59A5B78C19B149338DA14C4C3C237F3D",
+			"asnIdentifier": "S2541694",
+			"position": 148000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.4",
+			"description": "Apply effective sales, marketing techniques, and presentation skills.",
+			"ancestorIds": [
+				"288E190B2ADB400CA6326F4C22123D6E",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"6B279FE33A53472298320407D141D32F": {
+			"id": "6B279FE33A53472298320407D141D32F",
+			"asnIdentifier": "S2541693",
+			"position": 147000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.3",
+			"description": "Analyze customer buying motives.",
+			"ancestorIds": [
+				"288E190B2ADB400CA6326F4C22123D6E",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"648682B7515F48E0A2F9A50A71A17145": {
+			"id": "648682B7515F48E0A2F9A50A71A17145",
+			"asnIdentifier": "S2541692",
+			"position": 146000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.2",
+			"description": "Identify the factors that contribute to quality customer relations, service, and sales.",
+			"ancestorIds": [
+				"288E190B2ADB400CA6326F4C22123D6E",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"A8B012E5099A44FF95235BAE79177A0A": {
+			"id": "A8B012E5099A44FF95235BAE79177A0A",
+			"asnIdentifier": "S2541691",
+			"position": 145000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.1",
+			"description": "Define basic procedures for sales, exchanges, and returns.",
+			"ancestorIds": [
+				"288E190B2ADB400CA6326F4C22123D6E",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"288E190B2ADB400CA6326F4C22123D6E": {
+			"id": "288E190B2ADB400CA6326F4C22123D6E",
+			"asnIdentifier": "S2541690",
+			"position": 144000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A9.0",
+			"description": "Understand the skills and procedures necessary for sales, marketing, and branding in the fashion industry.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"48B5B72DE72A48939F029E4F1F228093": {
+			"id": "48B5B72DE72A48939F029E4F1F228093",
+			"asnIdentifier": "S2541689",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.11",
+			"description": "Evaluate first-sample garments made from first patterns and make necessary adjustments.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"32DE82BF73CC46EFB746A769D1E6D733": {
+			"id": "32DE82BF73CC46EFB746A769D1E6D733",
+			"asnIdentifier": "S2541688",
+			"position": 142000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.10",
+			"description": "Distinguish how technology is used in patternmaking, grading, and marking.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"76063FC5401E40DAA8DC2AE331EB8E23": {
+			"id": "76063FC5401E40DAA8DC2AE331EB8E23",
+			"asnIdentifier": "S2541687",
+			"position": 141000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.9",
+			"description": "Experiment with draping using various fabrics.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"A722D8CB9B0E43D2B0899B0AD1444DD3": {
+			"id": "A722D8CB9B0E43D2B0899B0AD1444DD3",
+			"asnIdentifier": "S2541686",
+			"position": 140000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.8",
+			"description": "Recognize pattern specifications for global production.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2FFE9ED163A94CD5B4CCE9B088E79C80": {
+			"id": "2FFE9ED163A94CD5B4CCE9B088E79C80",
+			"asnIdentifier": "S2541685",
+			"position": 139000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.7",
+			"description": "Define flat patternmaking and draping techniques.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"83256897A7FE4D82A094981A44582171": {
+			"id": "83256897A7FE4D82A094981A44582171",
+			"asnIdentifier": "S2541684",
+			"position": 138000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.6",
+			"description": "Sketch a fashion design on the nine-head figure.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C714F469A3774D61A7FD471E9A567C8F": {
+			"id": "C714F469A3774D61A7FD471E9A567C8F",
+			"asnIdentifier": "S2541683",
+			"position": 137000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.5",
+			"description": "Formulate cost sheets for garments, including manufacturer's costs, markup, and profit margin.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"267ABF716F0B416596738E0F64B913CE": {
+			"id": "267ABF716F0B416596738E0F64B913CE",
+			"asnIdentifier": "S2541682",
+			"position": 136000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.4",
+			"description": "Evaluate the effects of global sourcing on garment production.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F4F5C7081A5E4D3F82550087A9E4643B": {
+			"id": "F4F5C7081A5E4D3F82550087A9E4643B",
+			"asnIdentifier": "S2541681",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.3",
+			"description": "Illustrate how the manufacturing process relates to the cost of producing garments.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3673F2A269D3474EBE1A4BBFCD8AB2FE": {
+			"id": "3673F2A269D3474EBE1A4BBFCD8AB2FE",
+			"asnIdentifier": "S2541680",
+			"position": 134000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.2",
+			"description": "Identify equipment, tools, supplies, and software to construct or manufacture garments.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"4EBAF4D6293D4DEE98D750EAA5CA9746": {
+			"id": "4EBAF4D6293D4DEE98D750EAA5CA9746",
+			"asnIdentifier": "S2541679",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.1",
+			"description": "Know the basic process of manufacturing garments.",
+			"ancestorIds": [
+				"D2956B5FB09E4FAABA771550842CEDE9",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D2956B5FB09E4FAABA771550842CEDE9": {
+			"id": "D2956B5FB09E4FAABA771550842CEDE9",
+			"asnIdentifier": "S2541678",
+			"position": 132000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A8.0",
+			"description": "Understand the principles and techniques used in fashion design and product development and manufacturing.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"CD9562169433414D8DA3D908BC42F549": {
+			"id": "CD9562169433414D8DA3D908BC42F549",
+			"asnIdentifier": "S2541677",
+			"position": 131000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Apply trend forecasting as it relates to fashion design, textile design, product development, and merchandising.",
+			"ancestorIds": [
+				"0701534D56814212A012E4B2C1C6925A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C07B6FF11BE34AB8BFE3029FF151057E": {
+			"id": "C07B6FF11BE34AB8BFE3029FF151057E",
+			"asnIdentifier": "S2541676",
+			"position": 130000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Research trends that influence fashion and interior design.",
+			"ancestorIds": [
+				"0701534D56814212A012E4B2C1C6925A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"DEEA7DBC42B0412EB384F1D673ECDD91": {
+			"id": "DEEA7DBC42B0412EB384F1D673ECDD91",
+			"asnIdentifier": "S2541675",
+			"position": 129000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Identify the resources available to the fashion industry that provide information on fashion trends, color, and societal trend forecasting.",
+			"ancestorIds": [
+				"0701534D56814212A012E4B2C1C6925A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0701534D56814212A012E4B2C1C6925A": {
+			"id": "0701534D56814212A012E4B2C1C6925A",
+			"asnIdentifier": "S2541674",
+			"position": 128000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Understand how trends, color, and societal forecasting are used in the fashion industry.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3A8AD1F1D56F4CE4A1AFE6A088A3B543": {
+			"id": "3A8AD1F1D56F4CE4A1AFE6A088A3B543",
+			"asnIdentifier": "S2541673",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.7",
+			"description": "Compile textile industry standards that demonstrate sustainable practices.",
+			"ancestorIds": [
+				"008582D708E844808988BFA874B76A2F",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"FDC0DCAFAF3544669B4C0739360FB1BD": {
+			"id": "FDC0DCAFAF3544669B4C0739360FB1BD",
+			"asnIdentifier": "S2541672",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.6",
+			"description": "Evaluate how copyright, trademark, and patent laws affect textile design and production.",
+			"ancestorIds": [
+				"008582D708E844808988BFA874B76A2F",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9554A7B1E2F34833849B70EB096A81F0": {
+			"id": "9554A7B1E2F34833849B70EB096A81F0",
+			"asnIdentifier": "S2541671",
+			"position": 125000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.5",
+			"description": "Research how technology is used to create various textiles.",
+			"ancestorIds": [
+				"008582D708E844808988BFA874B76A2F",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"AC04C889AA1449D08CD837B1A26D62BD": {
+			"id": "AC04C889AA1449D08CD837B1A26D62BD",
+			"asnIdentifier": "S2541670",
+			"position": 124000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.4",
+			"description": "Integrate the skills and procedures necessary to create and produce textile products.",
+			"ancestorIds": [
+				"008582D708E844808988BFA874B76A2F",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3096A236FB4143F0826C5A81E337956B": {
+			"id": "3096A236FB4143F0826C5A81E337956B",
+			"asnIdentifier": "S2541669",
+			"position": 123000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Analyze principals of standard print design (e.g., abstract and geometric) and color designs (e.g., tone-on-tone, positive/negative, and monotone).",
+			"ancestorIds": [
+				"008582D708E844808988BFA874B76A2F",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"876983B620E248A1B1DD248EA007A687": {
+			"id": "876983B620E248A1B1DD248EA007A687",
+			"asnIdentifier": "S2541668",
+			"position": 122000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Compare textile manufacturing methods for producing fabrics that are woven, nonwoven, and knit.",
+			"ancestorIds": [
+				"008582D708E844808988BFA874B76A2F",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"37A741E754A7478AA982295C1EF58883": {
+			"id": "37A741E754A7478AA982295C1EF58883",
+			"asnIdentifier": "S2541667",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Identify general characteristics and maintenance of various fibers, fabrics, and finishes.",
+			"ancestorIds": [
+				"008582D708E844808988BFA874B76A2F",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"008582D708E844808988BFA874B76A2F": {
+			"id": "008582D708E844808988BFA874B76A2F",
+			"asnIdentifier": "S2541666",
+			"position": 120000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Understand the characteristics, production, and maintenance of textiles and the use of sustainable practices.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2A0D2AE64B564B1E88A00BC9F5168A0F": {
+			"id": "2A0D2AE64B564B1E88A00BC9F5168A0F",
+			"asnIdentifier": "S2541665",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.4",
+			"description": "Create a product describing fashion cycles and the adaptation of historical fashions to current trends.",
+			"ancestorIds": [
+				"3BD49633BDEC4A3BABE6445C1997DDBC",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"FF4D97539B8D498382A8F1FE9993C65D": {
+			"id": "FF4D97539B8D498382A8F1FE9993C65D",
+			"asnIdentifier": "S2541664",
+			"position": 118000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Define the ways in which economies, mass production, labor unions, globalization, and technology affect the fashion industry.",
+			"ancestorIds": [
+				"3BD49633BDEC4A3BABE6445C1997DDBC",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"BD639A55C5C74351A6C18EA232099FC1": {
+			"id": "BD639A55C5C74351A6C18EA232099FC1",
+			"asnIdentifier": "S2541663",
+			"position": 117000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Compare how textiles and design have evolved throughout history.",
+			"ancestorIds": [
+				"3BD49633BDEC4A3BABE6445C1997DDBC",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B64328FCFE1D464EBDF2D16B73A2A5FC": {
+			"id": "B64328FCFE1D464EBDF2D16B73A2A5FC",
+			"asnIdentifier": "S2541662",
+			"position": 116000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "Analyze how fashion and design have been influenced by politics, society, economics, culture, and aesthetics.",
+			"ancestorIds": [
+				"3BD49633BDEC4A3BABE6445C1997DDBC",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3BD49633BDEC4A3BABE6445C1997DDBC": {
+			"id": "3BD49633BDEC4A3BABE6445C1997DDBC",
+			"asnIdentifier": "S2541661",
+			"position": 115000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Understand how the history of social, cultural, political, economic, and technological changes influence fashion.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"6F907FB6A49B4A82AEF227D4951C6DDE": {
+			"id": "6F907FB6A49B4A82AEF227D4951C6DDE",
+			"asnIdentifier": "S2541660",
+			"position": 114000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.5",
+			"description": "Create a portfolio to showcase design ideas and mastery.",
+			"ancestorIds": [
+				"9B62B0C8EDC846989A52E81B82E1862A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"B2FA3CD32BC34FA79B739CCA91E377AF": {
+			"id": "B2FA3CD32BC34FA79B739CCA91E377AF",
+			"asnIdentifier": "S2541659",
+			"position": 113000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.4",
+			"description": "Master skills to create presentation boards.",
+			"ancestorIds": [
+				"9B62B0C8EDC846989A52E81B82E1862A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F58EF884D32D4DB09013DB0655035A0B": {
+			"id": "F58EF884D32D4DB09013DB0655035A0B",
+			"asnIdentifier": "S2541658",
+			"position": 112000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Integrate various types of technology in the design process.",
+			"ancestorIds": [
+				"9B62B0C8EDC846989A52E81B82E1862A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2F0C0F727E2646B8BD1B4FD56FA3F1BD": {
+			"id": "2F0C0F727E2646B8BD1B4FD56FA3F1BD",
+			"asnIdentifier": "S2541657",
+			"position": 111000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Explain the fundamentals of trend forecasting.",
+			"ancestorIds": [
+				"9B62B0C8EDC846989A52E81B82E1862A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"2070723B67AA4BEE9CB1C711DD034570": {
+			"id": "2070723B67AA4BEE9CB1C711DD034570",
+			"asnIdentifier": "S2541656",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Apply the elements and principles of design to various tasks within the fashion industry (e.g., textiles design, fashion design, graphic design, visual merchandising).",
+			"ancestorIds": [
+				"9B62B0C8EDC846989A52E81B82E1862A",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9B62B0C8EDC846989A52E81B82E1862A": {
+			"id": "9B62B0C8EDC846989A52E81B82E1862A",
+			"asnIdentifier": "S2541655",
+			"position": 109000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Apply the elements and principles of design in various aspects of the fashion industry.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"EB22EFEDF27E482982535BB6D2AA7551": {
+			"id": "EB22EFEDF27E482982535BB6D2AA7551",
+			"asnIdentifier": "S2541654",
+			"position": 108000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.5",
+			"description": "Use the concepts and principles that lead to a healthy business with a positive company culture to begin creating a business plan.",
+			"ancestorIds": [
+				"E28FA3F27B6E4B61B1259E5F5FC94C38",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"39DA6384D6BC4CFEA19850B473A0E651": {
+			"id": "39DA6384D6BC4CFEA19850B473A0E651",
+			"asnIdentifier": "S2541653",
+			"position": 107000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.4",
+			"description": "Identify and list management titles and the role of each position in the overall operation of the company.",
+			"ancestorIds": [
+				"E28FA3F27B6E4B61B1259E5F5FC94C38",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"0800C9F26B8948979DBD9F4EB355D7F7": {
+			"id": "0800C9F26B8948979DBD9F4EB355D7F7",
+			"asnIdentifier": "S2541652",
+			"position": 106000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Compare and contrast the major outcomes of effective management, such as profitability, productivity, a positive work environment, and client satisfaction.",
+			"ancestorIds": [
+				"E28FA3F27B6E4B61B1259E5F5FC94C38",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"575F67E64ADB49B29DA7615A1013F07A": {
+			"id": "575F67E64ADB49B29DA7615A1013F07A",
+			"asnIdentifier": "S2541651",
+			"position": 105000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Practice using common organizational procedures and tools, such as business plans, spreadsheets, recordkeeping, and communication with consumers.",
+			"ancestorIds": [
+				"E28FA3F27B6E4B61B1259E5F5FC94C38",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"576AA0EB73A7444DB8ED1B9DC3439CB6": {
+			"id": "576AA0EB73A7444DB8ED1B9DC3439CB6",
+			"asnIdentifier": "S2541650",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Describe important management strategies, such as shared responsibilities and negotiation.",
+			"ancestorIds": [
+				"E28FA3F27B6E4B61B1259E5F5FC94C38",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"E28FA3F27B6E4B61B1259E5F5FC94C38": {
+			"id": "E28FA3F27B6E4B61B1259E5F5FC94C38",
+			"asnIdentifier": "S2541649",
+			"position": 103000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Understand the principles of organizational management, including the roles and responsibilities of management and employees.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"564F9A67AAF4497DA11FE060430E2B9A": {
+			"id": "564F9A67AAF4497DA11FE060430E2B9A",
+			"asnIdentifier": "S2541648",
+			"position": 102000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Create a product which assesses the importance of accurate and thorough documentation to various aspects of the industry.",
+			"ancestorIds": [
+				"51C6BB5BD02F4223B476BA37560D44F4",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D48E73FC55704945AE5BD94973B8C974": {
+			"id": "D48E73FC55704945AE5BD94973B8C974",
+			"asnIdentifier": "S2541647",
+			"position": 101000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Analyze basic operational procedures for all aspects of the industry (e.g., quality control, inventory control, distribution, quick response marketing, production, and accounting).",
+			"ancestorIds": [
+				"51C6BB5BD02F4223B476BA37560D44F4",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"9FF2608E735E4EA1813CB321CDCBDF68": {
+			"id": "9FF2608E735E4EA1813CB321CDCBDF68",
+			"asnIdentifier": "S2541608",
+			"position": 100000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Identify hiring practices within the industry.",
+			"ancestorIds": [
+				"51C6BB5BD02F4223B476BA37560D44F4",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"05E49F0EFA984600964563B691F61823": {
+			"id": "05E49F0EFA984600964563B691F61823",
+			"asnIdentifier": "S2541607",
+			"position": 99000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Identify what constitutes appropriate professional clothing, grooming, and personal hygiene for a variety of professions.",
+			"ancestorIds": [
+				"51C6BB5BD02F4223B476BA37560D44F4",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"51C6BB5BD02F4223B476BA37560D44F4": {
+			"id": "51C6BB5BD02F4223B476BA37560D44F4",
+			"asnIdentifier": "S2541606",
+			"position": 98000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Understand basic hiring practices, operational policies, procedures, and regulatory requirements in the fashion design, manufacturing, merchandising, and retail industry.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"D4FBA73C5BC24ECFAD8FE985E66D464E": {
+			"id": "D4FBA73C5BC24ECFAD8FE985E66D464E",
+			"asnIdentifier": "S2541605",
+			"position": 97000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.6",
+			"description": "Research postsecondary education options in the field of fashion design and merchandising.",
+			"ancestorIds": [
+				"77405D87CA75451C9A1ABE3C641448DB",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"F401CD4560E54DF3AE17E5F8040EBC18": {
+			"id": "F401CD4560E54DF3AE17E5F8040EBC18",
+			"asnIdentifier": "S2541604",
+			"position": 96000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.5",
+			"description": "Research various professional organizations such as Fashion Group International (FGI) and National Retail Federation (NRF).",
+			"ancestorIds": [
+				"77405D87CA75451C9A1ABE3C641448DB",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"5F9D89DBD9024955A6FC34C3ED958B4E": {
+			"id": "5F9D89DBD9024955A6FC34C3ED958B4E",
+			"asnIdentifier": "S2541603",
+			"position": 95000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "Compare major legislative, economic, and social trends that affect the industry.",
+			"ancestorIds": [
+				"77405D87CA75451C9A1ABE3C641448DB",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"C1EBDEAC44CB4378B472318A202AA129": {
+			"id": "C1EBDEAC44CB4378B472318A202AA129",
+			"asnIdentifier": "S2541602",
+			"position": 94000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Understand how such resources as periodicals, mass media, trend reports, and the Internet are used in the industry.",
+			"ancestorIds": [
+				"77405D87CA75451C9A1ABE3C641448DB",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"CFE2116BD4554CA0A3186A70CE09A6DC": {
+			"id": "CFE2116BD4554CA0A3186A70CE09A6DC",
+			"asnIdentifier": "S2541601",
+			"position": 93000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Identify how the various segments of the industry contribute to local, state, national, and international economies.",
+			"ancestorIds": [
+				"77405D87CA75451C9A1ABE3C641448DB",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3E1CECAA37894CD4BF2F827F5A76DA14": {
+			"id": "3E1CECAA37894CD4BF2F827F5A76DA14",
+			"asnIdentifier": "S2541600",
+			"position": 92000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "Understand the different segments of the fashion industry from textile design to retail sales.",
+			"ancestorIds": [
+				"77405D87CA75451C9A1ABE3C641448DB",
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"77405D87CA75451C9A1ABE3C641448DB": {
+			"id": "77405D87CA75451C9A1ABE3C641448DB",
+			"asnIdentifier": "S2541599",
+			"position": 91000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Understand various aspects of the fashion design, manufacturing, merchandising, and retail industry and the industry's role in local, state, national, and global economies.",
+			"ancestorIds": [
+				"3E37C431AB1A406499C9FF5ECB753444",
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"3E37C431AB1A406499C9FF5ECB753444": {
+			"id": "3E37C431AB1A406499C9FF5ECB753444",
+			"asnIdentifier": "S2541598",
+			"position": 90000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Fashion Design and Merchandising",
+			"comments": [
+				"The Fashion Design and Merchandising pathway focuses on the major aspects of the fashion industry and prepares students for careers and/or postsecondary education in this rapidly growing field. Students pursuing this career pathway have in-depth, hands-on experiences that focus on industry awareness, sustainable practices, elements and principles of design, history of fashion, fashion forecasting, textiles and textile products, product knowledge, apparel merchandising, and garment production."
+			],
+			"ancestorIds": [
+				"1562E71B7EF249E298ED6FD5BD663C23"
+			]
+		},
+		"1562E71B7EF249E298ED6FD5BD663C23": {
+			"id": "1562E71B7EF249E298ED6FD5BD663C23",
+			"asnIdentifier": "S2541597",
+			"position": 89000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"5228AA8AC3D445C49513D62B42391394": {
+			"id": "5228AA8AC3D445C49513D62B42391394",
+			"asnIdentifier": "S2541596",
+			"position": 88000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"F9679BE30D254485A8A9C30E214A2B62",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"271AB50472B141CF860C273289B39C11": {
+			"id": "271AB50472B141CF860C273289B39C11",
+			"asnIdentifier": "S2541595",
+			"position": 87000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors appropriate to Fashion and Interior Design sector opportunities.",
+			"ancestorIds": [
+				"F9679BE30D254485A8A9C30E214A2B62",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"B839E8460165479391043B55AC3A8B95": {
+			"id": "B839E8460165479391043B55AC3A8B95",
+			"asnIdentifier": "S2541594",
+			"position": 86000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"F9679BE30D254485A8A9C30E214A2B62",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"BAF062586F304D2AAE1DD99544467656": {
+			"id": "BAF062586F304D2AAE1DD99544467656",
+			"asnIdentifier": "S2541593",
+			"position": 85000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"F9679BE30D254485A8A9C30E214A2B62",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"A1D5EB99B453431AA5A66CC13EC4E028": {
+			"id": "A1D5EB99B453431AA5A66CC13EC4E028",
+			"asnIdentifier": "S2541592",
+			"position": 84000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Fashion and Interior Design sector program of study.",
+			"ancestorIds": [
+				"F9679BE30D254485A8A9C30E214A2B62",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"F9679BE30D254485A8A9C30E214A2B62": {
+			"id": "F9679BE30D254485A8A9C30E214A2B62",
+			"asnIdentifier": "S2541591",
+			"position": 83000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Fashion and Interior Design anchor standards, pathway standards, and performance indicators in classroom, laboratory and workplace settings and through the career technical student organization (such as FHA-HERO, the California Affiliate of FCCLA)."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"CB154F1A37B0464AA2D3F441F6950708": {
+			"id": "CB154F1A37B0464AA2D3F441F6950708",
+			"asnIdentifier": "S2541590",
+			"position": 82000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.16",
+			"description": "Demonstrate an understanding of how knowledge, skills, attitudes, and behaviors learned in Consumer and Family Studies can be transferred to advanced training and education or careers in the Fashion and Interior Design sector.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"1C4C97A307554CD8B807831D5D36B785": {
+			"id": "1C4C97A307554CD8B807831D5D36B785",
+			"asnIdentifier": "S2541589",
+			"position": 81000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.15",
+			"description": "Assess the factors regarding the individual, the family, and the workplace that influence decisions related to apparel and housing at each stage of the life cycle.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"644BB7A7FE344979B3937123B8F9A4FA": {
+			"id": "644BB7A7FE344979B3937123B8F9A4FA",
+			"asnIdentifier": "S2541588",
+			"position": 80000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.14",
+			"description": "Explain how individuals apply strategies that enable them to manage personal and work responsibilities to enhance productivity in the workplace.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"F684045A1DFD41A38777A224258E9270": {
+			"id": "F684045A1DFD41A38777A224258E9270",
+			"asnIdentifier": "S2541587",
+			"position": 79000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.13",
+			"description": "Assess the principles and factors that influence space planning and interior design, including universal access.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"D4B871BF4B4C487EAC300E35CC7C24B8": {
+			"id": "D4B871BF4B4C487EAC300E35CC7C24B8",
+			"asnIdentifier": "S2541586",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.12",
+			"description": "Identify the factors influencing the selection and care of home furnishings, accessories, and equipment.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"5BC3B828707147DD9A3926183F8EB7AE": {
+			"id": "5BC3B828707147DD9A3926183F8EB7AE",
+			"asnIdentifier": "S2541585",
+			"position": 77000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.11",
+			"description": "Evaluate the factors that influence housing decisions.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"DD18B3DDBF2A4F489025D3D4CA527231": {
+			"id": "DD18B3DDBF2A4F489025D3D4CA527231",
+			"asnIdentifier": "S2541584",
+			"position": 76000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.10",
+			"description": "Analyze the principles of wardrobe planning and maintenance and the factors that influence a person's apparel budget.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"F45E6D1AEAB4489B8252A7578159649F": {
+			"id": "F45E6D1AEAB4489B8252A7578159649F",
+			"asnIdentifier": "S2541583",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.9",
+			"description": "Demonstrate how to construct, alter, and repair fashion and interior items and accessories through the use of basic construction techniques and equipment.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"0139799FDCC3431CA91D93B9619108AA": {
+			"id": "0139799FDCC3431CA91D93B9619108AA",
+			"asnIdentifier": "S2541582",
+			"position": 74000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.8",
+			"description": "Explore and experiment with different textile fibers, fabrics, and finishes used for apparel and furnishings.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"110F754CCEB5441CA6C7D4168F25738D": {
+			"id": "110F754CCEB5441CA6C7D4168F25738D",
+			"asnIdentifier": "S2541581",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.7",
+			"description": "Compare and contrast the historical and cultural influences on apparel, furnishings, and housing.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"C25F2EE4A191491E93DFB78407C58EEC": {
+			"id": "C25F2EE4A191491E93DFB78407C58EEC",
+			"asnIdentifier": "S2541580",
+			"position": 72000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.6",
+			"description": "Demonstrate an understanding of the elements and principles of design and color theory as they apply to the selection of apparel, furnishings, and housing.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"AFA8B9794B3B44BE86E4FD54A5518403": {
+			"id": "AFA8B9794B3B44BE86E4FD54A5518403",
+			"asnIdentifier": "S2541579",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.5",
+			"description": "Explore how apparel and interior fashions meet social, physical, and psychological needs of individuals and families.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"B3211720BA684FED9D61F92109689238": {
+			"id": "B3211720BA684FED9D61F92109689238",
+			"asnIdentifier": "S2541578",
+			"position": 70000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Collaborate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"811C876A9AA84A379CE1BDDD39374769": {
+			"id": "811C876A9AA84A379CE1BDDD39374769",
+			"asnIdentifier": "S2541577",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Fashion and Interior Design sector requirements and expectations.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"898F6BEC02314AF9984D8A20C009C9B6": {
+			"id": "898F6BEC02314AF9984D8A20C009C9B6",
+			"asnIdentifier": "S2541576",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Fashion and Interior Design sector",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"5B9E56734C584E8B8F64B5C858B2BE04": {
+			"id": "5B9E56734C584E8B8F64B5C858B2BE04",
+			"asnIdentifier": "S2541575",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Fashion and Interior Design sector.",
+			"ancestorIds": [
+				"8F7F8619DB164D29B31D9F7DE3E499A3",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"8F7F8619DB164D29B31D9F7DE3E499A3": {
+			"id": "8F7F8619DB164D29B31D9F7DE3E499A3",
+			"asnIdentifier": "S2541574",
+			"position": 66000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Fashion and Interior Design sector, following procedures when carrying out experiments or performing technical tasks."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"CC04C83CDBB74710A85A48C080851827": {
+			"id": "CC04C83CDBB74710A85A48C080851827",
+			"asnIdentifier": "S2541573",
+			"position": 65000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Fashion and Interior Design sector issues and problems.",
+			"ancestorIds": [
+				"00412B824A4E47F28F32284AE9B5EC7F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"8DF7ABD181AB437AA6687AE97F2CDCF0": {
+			"id": "8DF7ABD181AB437AA6687AE97F2CDCF0",
+			"asnIdentifier": "S2541572",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"00412B824A4E47F28F32284AE9B5EC7F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"997251D19D5946ACA291C3BC57A35E81": {
+			"id": "997251D19D5946ACA291C3BC57A35E81",
+			"asnIdentifier": "S2541571",
+			"position": 63000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"00412B824A4E47F28F32284AE9B5EC7F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"C7A59363A1944DDD91CBCB56D4DC6710": {
+			"id": "C7A59363A1944DDD91CBCB56D4DC6710",
+			"asnIdentifier": "S2541570",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations (such as FHA-HERO) and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"00412B824A4E47F28F32284AE9B5EC7F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"0453F6CEBC8347FFA0FFF576EF057A29": {
+			"id": "0453F6CEBC8347FFA0FFF576EF057A29",
+			"asnIdentifier": "S2541569",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"00412B824A4E47F28F32284AE9B5EC7F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"CF4DFDAD76A04B4AB654883A3E7EA33C": {
+			"id": "CF4DFDAD76A04B4AB654883A3E7EA33C",
+			"asnIdentifier": "S2541568",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"00412B824A4E47F28F32284AE9B5EC7F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"1671A5B8CBD44AF8B346270902D68028": {
+			"id": "1671A5B8CBD44AF8B346270902D68028",
+			"asnIdentifier": "S2541567",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"00412B824A4E47F28F32284AE9B5EC7F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"00412B824A4E47F28F32284AE9B5EC7F": {
+			"id": "00412B824A4E47F28F32284AE9B5EC7F",
+			"asnIdentifier": "S2541566",
+			"position": 58000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution as practiced in the career technical student organization (such as FHA-HERO, the California Affiliate of FCCLA)."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"DEA023E60AC04D35ABE6462EA1605A4F": {
+			"id": "DEA023E60AC04D35ABE6462EA1605A4F",
+			"asnIdentifier": "S2541565",
+			"position": 57000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Fashion and Interior Design sector laws and practices.",
+			"ancestorIds": [
+				"04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"D5DA58841669496C8B41C44BC9D3B71A": {
+			"id": "D5DA58841669496C8B41C44BC9D3B71A",
+			"asnIdentifier": "S2541564",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"0C82467AAC764B49B67FB039BB595053": {
+			"id": "0C82467AAC764B49B67FB039BB595053",
+			"asnIdentifier": "S2541563",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"6A23EDC469674166B94C5B551A15644C": {
+			"id": "6A23EDC469674166B94C5B551A15644C",
+			"asnIdentifier": "S2541562",
+			"position": 54000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"658D454C37C444E1899BEB35C188B507": {
+			"id": "658D454C37C444E1899BEB35C188B507",
+			"asnIdentifier": "S2541561",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Fashion and Interior Design sector workplace standards.",
+			"ancestorIds": [
+				"04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"84A7D247C53A4152B0629AEE08743C08": {
+			"id": "84A7D247C53A4152B0629AEE08743C08",
+			"asnIdentifier": "S2541560",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, federal, and international regulatory agencies and nongovernmental entities, as well as laws and regulations, related to the Fashion and Interior Design industry sector.",
+			"ancestorIds": [
+				"04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"7A1EBE8318E2437B9F82B8A13D785C2A": {
+			"id": "7A1EBE8318E2437B9F82B8A13D785C2A",
+			"asnIdentifier": "S2541559",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"04C36FB2B2BC4BDC9F7C8235D3BF9DB2": {
+			"id": "04C36FB2B2BC4BDC9F7C8235D3BF9DB2",
+			"asnIdentifier": "S2541558",
+			"position": 50000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "8.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"1A02A2D6DA214C16BA637BA2A9AFBAFA": {
+			"id": "1A02A2D6DA214C16BA637BA2A9AFBAFA",
+			"asnIdentifier": "S2541557",
+			"position": 49000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Fashion and Interior Design sector.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"5414A237D7854B63B9ED9CF104A45F56": {
+			"id": "5414A237D7854B63B9ED9CF104A45F56",
+			"asnIdentifier": "S2541556",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"0975360EED864F44A4F677A9DCE17D00": {
+			"id": "0975360EED864F44A4F677A9DCE17D00",
+			"asnIdentifier": "S2541555",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"D0D0CA1173F04D1AB0675824C680E14F": {
+			"id": "D0D0CA1173F04D1AB0675824C680E14F",
+			"asnIdentifier": "S2541554",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"A6AF39D6CC1741679DEE471D92335AF8": {
+			"id": "A6AF39D6CC1741679DEE471D92335AF8",
+			"asnIdentifier": "S2541553",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"22BB5DFD25A74E6AA412809AFAC5378A": {
+			"id": "22BB5DFD25A74E6AA412809AFAC5378A",
+			"asnIdentifier": "S2541552",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"4443C643CC0D4DC390D06B91397321C4": {
+			"id": "4443C643CC0D4DC390D06B91397321C4",
+			"asnIdentifier": "S2541551",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"12452B349D2845A18E55B8F08581FA31": {
+			"id": "12452B349D2845A18E55B8F08581FA31",
+			"asnIdentifier": "S2541550",
+			"position": 42000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"A53D31978F50430383D593D061D5F466",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"A53D31978F50430383D593D061D5F466": {
+			"id": "A53D31978F50430383D593D061D5F466",
+			"asnIdentifier": "S2541549",
+			"position": 41000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate, and participate in, a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Fashion and Interior Design sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"35ED42CD46D14084A67C92031393EEB9": {
+			"id": "35ED42CD46D14084A67C92031393EEB9",
+			"asnIdentifier": "S2541548",
+			"position": 40000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Be informed of laws/acts pertaining to the Occupational Safety and Health Administration (OSHA).",
+			"ancestorIds": [
+				"FFA20EDA26374EDAA7CFA0266D666611",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"8B64D81C541B473581E7EBBEFA6BC55A": {
+			"id": "8B64D81C541B473581E7EBBEFA6BC55A",
+			"asnIdentifier": "S2541547",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"FFA20EDA26374EDAA7CFA0266D666611",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"B9FA8C08A15B4F5AAB8E28A110E8EC86": {
+			"id": "B9FA8C08A15B4F5AAB8E28A110E8EC86",
+			"asnIdentifier": "S2541546",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"FFA20EDA26374EDAA7CFA0266D666611",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"E0BB2F80837A4E43A6F271E56C4CB10E": {
+			"id": "E0BB2F80837A4E43A6F271E56C4CB10E",
+			"asnIdentifier": "S2541545",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"FFA20EDA26374EDAA7CFA0266D666611",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"B758A7317F194F1F9750D461EFFBF49C": {
+			"id": "B758A7317F194F1F9750D461EFFBF49C",
+			"asnIdentifier": "S2541544",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"FFA20EDA26374EDAA7CFA0266D666611",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"28533DD811D84B70A60D0F36C3FB2526": {
+			"id": "28533DD811D84B70A60D0F36C3FB2526",
+			"asnIdentifier": "S2541543",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"FFA20EDA26374EDAA7CFA0266D666611",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"E694B7F8EA65431B914A9E4FE0B8AE49": {
+			"id": "E694B7F8EA65431B914A9E4FE0B8AE49",
+			"asnIdentifier": "S2541542",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate, and adhere to, Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"FFA20EDA26374EDAA7CFA0266D666611",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"FFA20EDA26374EDAA7CFA0266D666611": {
+			"id": "FFA20EDA26374EDAA7CFA0266D666611",
+			"asnIdentifier": "S2541541",
+			"position": 33000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Fashion and Interior Design sector workplace environment."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"F5D8170673724FA2ACC7E9FFA47FFC62": {
+			"id": "F5D8170673724FA2ACC7E9FFA47FFC62",
+			"asnIdentifier": "S2541540",
+			"position": 32000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"1ABC746846BF4031846BFEE03F4DE158",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"1811FF5B7FC040C7A2643FE37DBB58A1": {
+			"id": "1811FF5B7FC040C7A2643FE37DBB58A1",
+			"asnIdentifier": "S2541539",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"1ABC746846BF4031846BFEE03F4DE158",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"E42282C0638C4B10ADFE55DC8930DB17": {
+			"id": "E42282C0638C4B10ADFE55DC8930DB17",
+			"asnIdentifier": "S2541538",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"1ABC746846BF4031846BFEE03F4DE158",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"5CD181EB2CCF4E6E84672D73D688C16A": {
+			"id": "5CD181EB2CCF4E6E84672D73D688C16A",
+			"asnIdentifier": "S2541537",
+			"position": 29000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"1ABC746846BF4031846BFEE03F4DE158",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"1ABC746846BF4031846BFEE03F4DE158": {
+			"id": "1ABC746846BF4031846BFEE03F4DE158",
+			"asnIdentifier": "S2541536",
+			"position": 28000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short, as well as more sustained, research to create alternative solutions to answer a question or solve a problem unique to the Fashion and Interior Design sector using critical and creative thinking, logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"236BAD3CBCCB45D585F5C3B942BD1982": {
+			"id": "236BAD3CBCCB45D585F5C3B942BD1982",
+			"asnIdentifier": "S2541535",
+			"position": 27000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"57514FC85AD04D4F9ABFB2E29E04109F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"95BF2A906CF34DFF8DEF99C6AB29AC71": {
+			"id": "95BF2A906CF34DFF8DEF99C6AB29AC71",
+			"asnIdentifier": "S2541534",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"57514FC85AD04D4F9ABFB2E29E04109F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"9BFEE113F6C24FDA8AFD91DA58BEF7D3": {
+			"id": "9BFEE113F6C24FDA8AFD91DA58BEF7D3",
+			"asnIdentifier": "S2541533",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"57514FC85AD04D4F9ABFB2E29E04109F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"EB1591BC1F664219855969712E041CFC": {
+			"id": "EB1591BC1F664219855969712E041CFC",
+			"asnIdentifier": "S2541532",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"57514FC85AD04D4F9ABFB2E29E04109F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"4E629A29C3764654B8CC17D800294003": {
+			"id": "4E629A29C3764654B8CC17D800294003",
+			"asnIdentifier": "S2541531",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ Web-based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"57514FC85AD04D4F9ABFB2E29E04109F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"3FA2F9D95A154EF98E09115283B05579": {
+			"id": "3FA2F9D95A154EF98E09115283B05579",
+			"asnIdentifier": "S2541530",
+			"position": 22000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"57514FC85AD04D4F9ABFB2E29E04109F",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"57514FC85AD04D4F9ABFB2E29E04109F": {
+			"id": "57514FC85AD04D4F9ABFB2E29E04109F",
+			"asnIdentifier": "S2541529",
+			"position": 21000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology to investigate, research, and produce products and services, including new information, as required in the Fashion and Interior Design sector workplace environment."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"1FC8C313AB47425A844AF40B88810DF5": {
+			"id": "1FC8C313AB47425A844AF40B88810DF5",
+			"asnIdentifier": "S2541528",
+			"position": 20000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"4FB9CD325D114E2EAE80731AEAC973E8": {
+			"id": "4FB9CD325D114E2EAE80731AEAC973E8",
+			"asnIdentifier": "S2541527",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"60B1C4191AE44127AC0D03B1C1570C24": {
+			"id": "60B1C4191AE44127AC0D03B1C1570C24",
+			"asnIdentifier": "S2541526",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"6E442F91FCBA4ADA9FA9E0B1EC0D75D5": {
+			"id": "6E442F91FCBA4ADA9FA9E0B1EC0D75D5",
+			"asnIdentifier": "S2541525",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"C36AB8CFE72F48D5AA7A2AE1DC862823": {
+			"id": "C36AB8CFE72F48D5AA7A2AE1DC862823",
+			"asnIdentifier": "S2541524",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"1C01F126C3714D1D95E6EB941706DDE7": {
+			"id": "1C01F126C3714D1D95E6EB941706DDE7",
+			"asnIdentifier": "S2541523",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"0DDAFD1D035C4E1AB04F206947F09136": {
+			"id": "0DDAFD1D035C4E1AB04F206947F09136",
+			"asnIdentifier": "S2541522",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"31BCA9CEC8BF4CEEB473E91AA2213E24": {
+			"id": "31BCA9CEC8BF4CEEB473E91AA2213E24",
+			"asnIdentifier": "S2541521",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits such as trust, respect, and responsibility and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"AC90EAB88CB9492A8576B2075D7247E9": {
+			"id": "AC90EAB88CB9492A8576B2075D7247E9",
+			"asnIdentifier": "S2541520",
+			"position": 12000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"F71656C1994D4E549AFAC3AA3E6A67DE",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"F71656C1994D4E549AFAC3AA3E6A67DE": {
+			"id": "F71656C1994D4E549AFAC3AA3E6A67DE",
+			"asnIdentifier": "S2541519",
+			"position": 11000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"0323C329FE684888B4B01830AB6F5948": {
+			"id": "0323C329FE684888B4B01830AB6F5948",
+			"asnIdentifier": "S2541518",
+			"position": 10000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.7",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"F9176B100A254C0DB992719DD99FA4E4",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"4C2C1A4D2E3A42BAAB52989B78805888": {
+			"id": "4C2C1A4D2E3A42BAAB52989B78805888",
+			"asnIdentifier": "S2541517",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"F9176B100A254C0DB992719DD99FA4E4",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"0A60247E456D442B910E5FB789996E42": {
+			"id": "0A60247E456D442B910E5FB789996E42",
+			"asnIdentifier": "S2541516",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Demonstrate elements of written and electronic communication such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"F9176B100A254C0DB992719DD99FA4E4",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"8F243D11A2F344FAAF4128C980980CAC": {
+			"id": "8F243D11A2F344FAAF4128C980980CAC",
+			"asnIdentifier": "S2541515",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"F9176B100A254C0DB992719DD99FA4E4",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"7D72EB2BA3034EC8A4625A6BD09FCBD3": {
+			"id": "7D72EB2BA3034EC8A4625A6BD09FCBD3",
+			"asnIdentifier": "S2541514",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"F9176B100A254C0DB992719DD99FA4E4",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"F6C5989416C547FF92D081111C05A202": {
+			"id": "F6C5989416C547FF92D081111C05A202",
+			"asnIdentifier": "S2541513",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Recognize the use of style guides in industry.",
+			"ancestorIds": [
+				"F9176B100A254C0DB992719DD99FA4E4",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"C51075F68E2E4145AAE30A98D3EF5564": {
+			"id": "C51075F68E2E4145AAE30A98D3EF5564",
+			"asnIdentifier": "S2541512",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"F9176B100A254C0DB992719DD99FA4E4",
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"F9176B100A254C0DB992719DD99FA4E4": {
+			"id": "F9176B100A254C0DB992719DD99FA4E4",
+			"asnIdentifier": "S2541511",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire and accurately use Fashion and Interior Design sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"DD4A3E3C8A08491E94AFC199FEAA46D1": {
+			"id": "DD4A3E3C8A08491E94AFC199FEAA46D1",
+			"asnIdentifier": "S2541510",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Fashion and Interior Design academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"D54A852376B046CFB8379A53879B41C4"
+			]
+		},
+		"D54A852376B046CFB8379A53879B41C4": {
+			"id": "D54A852376B046CFB8379A53879B41C4",
+			"asnIdentifier": "S2541509",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}

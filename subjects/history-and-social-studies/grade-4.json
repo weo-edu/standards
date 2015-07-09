@@ -1,0 +1,659 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-04",
+	"title": "Grade 4",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"04"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BD89B6D0DFE40131009D68A86D17958E": {
+			"id": "BD89B6D0DFE40131009D68A86D17958E",
+			"asnIdentifier": "S104321B",
+			"position": 54000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the components of California's governance structure (e.g., cities and towns, Indian rancherias and reservations, counties, school districts).",
+			"ancestorIds": [
+				"BD885CB0DFE40131009868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD8971E0DFE40131009C68A86D17958E": {
+			"id": "BD8971E0DFE40131009C68A86D17958E",
+			"asnIdentifier": "S104321A",
+			"position": 53000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Explain the structures and functions of state governments, including the roles and responsibilities of their elected officials.",
+			"ancestorIds": [
+				"BD885CB0DFE40131009868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD891B30DFE40131009B68A86D17958E": {
+			"id": "BD891B30DFE40131009B68A86D17958E",
+			"asnIdentifier": "S1043219",
+			"position": 52000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the similarities (e.g., written documents, rule of law, consent of the governed, three separate branches) and differences (e.g., scope of jurisdiction, limits on government powers, use of the military) among federal, state, and local governments.",
+			"ancestorIds": [
+				"BD885CB0DFE40131009868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD88DB90DFE40131009A68A86D17958E": {
+			"id": "BD88DB90DFE40131009A68A86D17958E",
+			"asnIdentifier": "S1043218",
+			"position": 51000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the purpose of the California Constitution, its key principles, and its relationship to the U.S. Constitution.",
+			"ancestorIds": [
+				"BD885CB0DFE40131009868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD889C50DFE40131009968A86D17958E": {
+			"id": "BD889C50DFE40131009968A86D17958E",
+			"asnIdentifier": "S1043217",
+			"position": 50000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss what the U.S. Constitution is and why it is important (i.e., a written document that defines the structure and purpose of the U.S. government and describes the shared powers of federal, state, and local governments).",
+			"ancestorIds": [
+				"BD885CB0DFE40131009868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD885CB0DFE40131009868A86D17958E": {
+			"id": "BD885CB0DFE40131009868A86D17958E",
+			"asnIdentifier": "S1042BFC",
+			"position": 49000,
+			"depth": 1,
+			"listId": "4.5",
+			"description": "Students understand the structures, functions, and powers of the local, state, and federal governments as described in the U.S. Constitution.",
+			"ancestorIds": [
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD881D40DFE40131009768A86D17958E": {
+			"id": "BD881D40DFE40131009768A86D17958E",
+			"asnIdentifier": "S1043216",
+			"position": 48000,
+			"depth": 2,
+			"listId": "9.",
+			"description": "Analyze the impact of twentieth-century Californians on the nation's artistic and cultural development, including the rise of the entertainment industry (e.g., Louis B. Mayer, Walt Disney, John Steinbeck, Ansel Adams, Dorothea Lange, John Wayne).",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD87D510DFE40131009668A86D17958E": {
+			"id": "BD87D510DFE40131009668A86D17958E",
+			"asnIdentifier": "S1043215",
+			"position": 47000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Describe the history and development of California's public education system, including universities and community colleges.",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD878450DFE40131009568A86D17958E": {
+			"id": "BD878450DFE40131009568A86D17958E",
+			"asnIdentifier": "S1043214",
+			"position": 46000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Trace the evolution of California's water system into a network of dams, aqueducts, and reservoirs.",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD872C60DFE40131009468A86D17958E": {
+			"id": "BD872C60DFE40131009468A86D17958E",
+			"asnIdentifier": "S1043213",
+			"position": 45000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Describe the development and locations of new industries since the nineteenth century, such as the aerospace industry, electronics industry, large-scale commercial agriculture and irrigation projects, the oil and automobile industries, communications and defense industries, and important trade links with the Pacific Basin.",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD86E6E0DFE40131009368A86D17958E": {
+			"id": "BD86E6E0DFE40131009368A86D17958E",
+			"asnIdentifier": "S1043212",
+			"position": 44000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss the effects of the Great Depression, the Dust Bowl, and World War II on California.",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD86A1C0DFE40131009268A86D17958E": {
+			"id": "BD86A1C0DFE40131009268A86D17958E",
+			"asnIdentifier": "S1043211",
+			"position": 43000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe rapid American immigration, internal migration, settlement, and the growth of towns and cities (e.g., Los Angeles).",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD865890DFE40131009168A86D17958E": {
+			"id": "BD865890DFE40131009168A86D17958E",
+			"asnIdentifier": "S1043210",
+			"position": 42000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Discuss immigration and migration to California between 1850 and 1900, including the diverse composition of those who came; the countries of origin and their relative locations; and conflicts and accords among the diverse groups (e.g., the 1882 Chinese Exclusion Act).",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD861380DFE40131009068A86D17958E": {
+			"id": "BD861380DFE40131009068A86D17958E",
+			"asnIdentifier": "S104320F",
+			"position": 41000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Explain how the Gold Rush transformed the economy of California, including the types of products produced and consumed, changes in towns (e.g., Sacramento, San Francisco), and economic conflicts between diverse groups of people.",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD85D2E0DFE40131008F68A86D17958E": {
+			"id": "BD85D2E0DFE40131008F68A86D17958E",
+			"asnIdentifier": "S104320E",
+			"position": 40000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Understand the story and lasting influence of the Pony Express, Overland Mail Service, Western Union, and the building of the transcontinental railroad, including the contributions of Chinese workers to its construction.",
+			"ancestorIds": [
+				"BD8585B0DFE40131008E68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD8585B0DFE40131008E68A86D17958E": {
+			"id": "BD8585B0DFE40131008E68A86D17958E",
+			"asnIdentifier": "S1042BFB",
+			"position": 39000,
+			"depth": 1,
+			"listId": "4.4",
+			"description": "Students explain how California became an agricultural and industrial power, tracing the transformation of the California economy and its political and cultural development since the 1850s.",
+			"ancestorIds": [
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD8544B0DFE40131008D68A86D17958E": {
+			"id": "BD8544B0DFE40131008D68A86D17958E",
+			"asnIdentifier": "S104320D",
+			"position": 38000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss how California became a state and how its new government differed from those during the Spanish and Mexican periods.",
+			"ancestorIds": [
+				"BD83EBC0DFE40131008868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD8504B0DFE40131008C68A86D17958E": {
+			"id": "BD8504B0DFE40131008C68A86D17958E",
+			"asnIdentifier": "S104320C",
+			"position": 37000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Study the lives of women who helped build early California (e.g., Biddy Mason).",
+			"ancestorIds": [
+				"BD83EBC0DFE40131008868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD84C390DFE40131008B68A86D17958E": {
+			"id": "BD84C390DFE40131008B68A86D17958E",
+			"asnIdentifier": "S104320B",
+			"position": 36000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Analyze the effects of the Gold Rush on settlements, daily life, politics, and the physical environment (e.g., using biographies of John Sutter, Mariano Guadalupe Vallejo, Louise Clapp).",
+			"ancestorIds": [
+				"BD83EBC0DFE40131008868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD847DD0DFE40131008A68A86D17958E": {
+			"id": "BD847DD0DFE40131008A68A86D17958E",
+			"asnIdentifier": "S104320A",
+			"position": 35000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Compare how and why people traveled to California and the routes they traveled (e.g., James Beckwourth, John Bidwell, John C. Fremont, Pio Pico).",
+			"ancestorIds": [
+				"BD83EBC0DFE40131008868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD843B90DFE40131008968A86D17958E": {
+			"id": "BD843B90DFE40131008968A86D17958E",
+			"asnIdentifier": "S1043209",
+			"position": 34000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Identify the locations of Mexican settlements in California and those of other settlements, including Fort Ross and Sutter's Fort.",
+			"ancestorIds": [
+				"BD83EBC0DFE40131008868A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD83EBC0DFE40131008868A86D17958E": {
+			"id": "BD83EBC0DFE40131008868A86D17958E",
+			"asnIdentifier": "S1042BFA",
+			"position": 33000,
+			"depth": 1,
+			"listId": "4.3",
+			"description": "Students explain the economic, social, and political life in California from the establishment of the Bear Flag Republic through the Mexican-American War, the Gold Rush, and the granting of statehood.",
+			"ancestorIds": [
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD839F10DFE40131008768A86D17958E": {
+			"id": "BD839F10DFE40131008768A86D17958E",
+			"asnIdentifier": "S1043208",
+			"position": 32000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Discuss the period of Mexican rule in California and its attributes, including land grants, secularization of the missions, and the rise of the rancho economy.",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD835F70DFE40131008668A86D17958E": {
+			"id": "BD835F70DFE40131008668A86D17958E",
+			"asnIdentifier": "S1043207",
+			"position": 31000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Describe the effects of the Mexican War for Independence on Alta California, including its effects on the territorial boundaries of North America.",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD831F00DFE40131008568A86D17958E": {
+			"id": "BD831F00DFE40131008568A86D17958E",
+			"asnIdentifier": "S1043206",
+			"position": 30000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Discuss the role of the Franciscans in changing the economy of California from a hunter-gatherer economy to an agricultural economy.",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD82DC40DFE40131008468A86D17958E": {
+			"id": "BD82DC40DFE40131008468A86D17958E",
+			"asnIdentifier": "S1043205",
+			"position": 29000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the daily lives of the people, native and nonnative, who occupied the presidios, missions, ranchos, and pueblos.",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD829070DFE40131008368A86D17958E": {
+			"id": "BD829070DFE40131008368A86D17958E",
+			"asnIdentifier": "S1043204",
+			"position": 28000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe the mapping of, geographic basis of, and economic factors in the placement and function of the Spanish missions; and understand how the mission system expanded the influence of Spain and Catholicism throughout New Spain and Latin America.",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD824470DFE40131008268A86D17958E": {
+			"id": "BD824470DFE40131008268A86D17958E",
+			"asnIdentifier": "S1043203",
+			"position": 27000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the Spanish exploration and colonization of California, including the relationships among soldiers, missionaries, and Indians (e.g., Juan Crespi, Junipero Serra, Gaspar de Portola).",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD81E070DFE40131008168A86D17958E": {
+			"id": "BD81E070DFE40131008168A86D17958E",
+			"asnIdentifier": "S1043202",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Identify the early land and sea routes to, and European settlements in, California with a focus on the exploration of the North Pacific (e.g., by Captain James Cook, Vitus Bering, Juan Cabrillo), noting especially the importance of mountains, deserts, ocean currents, and wind patterns.",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD81A080DFE40131008068A86D17958E": {
+			"id": "BD81A080DFE40131008068A86D17958E",
+			"asnIdentifier": "S1043201",
+			"position": 25000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss the major nations of California Indians, including their geographic distribution, economic activities, legends, and religious beliefs; and describe how they depended on, adapted to, and modi°fied the physical environment by cultivation of land and use of sea resources.",
+			"ancestorIds": [
+				"BD816060DFE40131007F68A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD816060DFE40131007F68A86D17958E": {
+			"id": "BD816060DFE40131007F68A86D17958E",
+			"asnIdentifier": "S1042BF9",
+			"position": 24000,
+			"depth": 1,
+			"listId": "4.2",
+			"description": "Students describe the social, political, cultural, and economic life and interactions among people of California from the pre-Columbian societies to the Spanish mission and Mexican rancho periods.",
+			"ancestorIds": [
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD811EA0DFE40131007E68A86D17958E": {
+			"id": "BD811EA0DFE40131007E68A86D17958E",
+			"asnIdentifier": "S1043200",
+			"position": 23000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Use maps, charts, and pictures to describe how communities in California vary in land use, vegetation, wildlife, climate, population density, architecture, services, and transportation.",
+			"ancestorIds": [
+				"BD7F8680DFE40131007968A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD80CDA0DFE40131007D68A86D17958E": {
+			"id": "BD80CDA0DFE40131007D68A86D17958E",
+			"asnIdentifier": "S10431FF",
+			"position": 22000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Identify the locations of the Pacific Ocean, rivers, valleys, and mountain passes and explain their effects on the growth of towns.",
+			"ancestorIds": [
+				"BD7F8680DFE40131007968A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD805FE0DFE40131007C68A86D17958E": {
+			"id": "BD805FE0DFE40131007C68A86D17958E",
+			"asnIdentifier": "S10431FE",
+			"position": 21000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Identify the state capital and describe the various regions of Califor°nia, including how their characteristics and physical environments (e.g., water, landforms, vegetation, climate) affect human activity.",
+			"ancestorIds": [
+				"BD7F8680DFE40131007968A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD801380DFE40131007B68A86D17958E": {
+			"id": "BD801380DFE40131007B68A86D17958E",
+			"asnIdentifier": "S10431FD",
+			"position": 20000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Distinguish between the North and South Poles; the equator and the prime meridian; the tropics; and the hemispheres, using coordinates to plot locations.",
+			"ancestorIds": [
+				"BD7F8680DFE40131007968A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD7FCEE0DFE40131007A68A86D17958E": {
+			"id": "BD7FCEE0DFE40131007A68A86D17958E",
+			"asnIdentifier": "S10431FC",
+			"position": 19000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Explain and use the coordinate grid system of latitude and longitude to determine the absolute locations of places in California and on Earth.",
+			"ancestorIds": [
+				"BD7F8680DFE40131007968A86D17958E",
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD7F8680DFE40131007968A86D17958E": {
+			"id": "BD7F8680DFE40131007968A86D17958E",
+			"asnIdentifier": "S1042BF8",
+			"position": 18000,
+			"depth": 1,
+			"listId": "4.1",
+			"description": "Students demonstrate an understanding of the physical and human geographic features that define places and regions in California.",
+			"ancestorIds": [
+				"BD7F4850DFE40131007868A86D17958E"
+			]
+		},
+		"BD7F4850DFE40131007868A86D17958E": {
+			"id": "BD7F4850DFE40131007868A86D17958E",
+			"asnIdentifier": "S1042BB4",
+			"position": 17000,
+			"depth": 0,
+			"description": "California: A Changing State",
+			"ancestorIds": [
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7F0930DFE40131007768A86D17958E": {
+			"id": "BD7F0930DFE40131007768A86D17958E",
+			"asnIdentifier": "S1042BC4",
+			"position": 16000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students conduct cost-benefit analyses of historical and current events.",
+			"ancestorIds": [
+				"BD7E03F0DFE40131007368A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7EC340DFE40131007668A86D17958E": {
+			"id": "BD7EC340DFE40131007668A86D17958E",
+			"asnIdentifier": "S1042BC3",
+			"position": 15000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students identify and interpret the multiple causes and effects of historical events.",
+			"ancestorIds": [
+				"BD7E03F0DFE40131007368A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7E7AC0DFE40131007568A86D17958E": {
+			"id": "BD7E7AC0DFE40131007568A86D17958E",
+			"asnIdentifier": "S1042BC2",
+			"position": 14000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students identify the human and physical characteristics of the places they are studying and explain how those features form the unique character of those places.",
+			"ancestorIds": [
+				"BD7E03F0DFE40131007368A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7E3F50DFE40131007468A86D17958E": {
+			"id": "BD7E3F50DFE40131007468A86D17958E",
+			"asnIdentifier": "S1042BC1",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students summarize the key events of the era they are studying and explain the historical contexts of those events.",
+			"ancestorIds": [
+				"BD7E03F0DFE40131007368A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7E03F0DFE40131007368A86D17958E": {
+			"id": "BD7E03F0DFE40131007368A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 12000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7DC870DFE40131007268A86D17958E": {
+			"id": "BD7DC870DFE40131007268A86D17958E",
+			"asnIdentifier": "S1042BC0",
+			"position": 11000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students distinguish fact from fiction by comparing documentary sources on historical figures and events with fictionalized characters and events.",
+			"ancestorIds": [
+				"BD7D0E70DFE40131006F68A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7D8C40DFE40131007168A86D17958E": {
+			"id": "BD7D8C40DFE40131007168A86D17958E",
+			"asnIdentifier": "S1042BBF",
+			"position": 10000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students pose relevant questions about events they encounter in historical documents, eyewitness accounts, oral histories, letters, diaries, artifacts, photographs, maps, artworks, and architecture.",
+			"ancestorIds": [
+				"BD7D0E70DFE40131006F68A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7D4EC0DFE40131007068A86D17958E": {
+			"id": "BD7D4EC0DFE40131007068A86D17958E",
+			"asnIdentifier": "S1042BBE",
+			"position": 9000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students differentiate between primary and secondary sources.",
+			"ancestorIds": [
+				"BD7D0E70DFE40131006F68A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7D0E70DFE40131006F68A86D17958E": {
+			"id": "BD7D0E70DFE40131006F68A86D17958E",
+			"asnIdentifier": "S1042BB7",
+			"position": 8000,
+			"depth": 1,
+			"description": "Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7CC5B0DFE40131006E68A86D17958E": {
+			"id": "BD7CC5B0DFE40131006E68A86D17958E",
+			"asnIdentifier": "S1042BBD",
+			"position": 7000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students judge the significance of the relative location of a place (e.g., proximity to a harbor, on trade routes) and analyze how relative advantages or disadvantages can change over time.",
+			"ancestorIds": [
+				"BD7B8B30DFE40131006968A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7C8740DFE40131006D68A86D17958E": {
+			"id": "BD7C8740DFE40131006D68A86D17958E",
+			"asnIdentifier": "S1042BBC",
+			"position": 6000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students use map and globe skills to determine the absolute locations of places and interpret information available through a map's or globe's legend, scale, and symbolic representations.",
+			"ancestorIds": [
+				"BD7B8B30DFE40131006968A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7C48A0DFE40131006C68A86D17958E": {
+			"id": "BD7C48A0DFE40131006C68A86D17958E",
+			"asnIdentifier": "S1042BBB",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students explain how the present is connected to the past, identifying both similarities and differences between the two, and how some things change over time and some things stay the same.",
+			"ancestorIds": [
+				"BD7B8B30DFE40131006968A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7C0BD0DFE40131006B68A86D17958E": {
+			"id": "BD7C0BD0DFE40131006B68A86D17958E",
+			"asnIdentifier": "S1042BBA",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students correctly apply terms related to time, including past, present, future, decade, century, and generation.",
+			"ancestorIds": [
+				"BD7B8B30DFE40131006968A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7BCDB0DFE40131006A68A86D17958E": {
+			"id": "BD7BCDB0DFE40131006A68A86D17958E",
+			"asnIdentifier": "S1042BB9",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students place key events and people of the historical era they are studying in a chronological sequence and within a spatial context; they interpret time lines.",
+			"ancestorIds": [
+				"BD7B8B30DFE40131006968A86D17958E",
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7B8B30DFE40131006968A86D17958E": {
+			"id": "BD7B8B30DFE40131006968A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BD7B3A00DFE40131006868A86D17958E"
+			]
+		},
+		"BD7B3A00DFE40131006868A86D17958E": {
+			"id": "BD7B3A00DFE40131006868A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

@@ -1,0 +1,463 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2592575_grade-03",
+	"title": "Grade 3",
+	"subject": "Science",
+	"educationLevels": [
+		"03"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2592575",
+		"valid": "2013",
+		"title": "Next Generation Science Standards for California Public Schools, Kindergarten through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp",
+		"asnIdentifier": "D2592575",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"7F8AB33C567B436E976CF815B8134724": {
+			"id": "7F8AB33C567B436E976CF815B8134724",
+			"asnIdentifier": "S2598218",
+			"position": 26000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454470"
+			],
+			"ancestorIds": [
+				"139D825D4D5740ECA2E8392E2E43FCC2"
+			]
+		},
+		"DC338174D18E4EC1A3D574F4ED0BD9AC": {
+			"id": "DC338174D18E4EC1A3D574F4ED0BD9AC",
+			"asnIdentifier": "S2598217",
+			"position": 25000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454469"
+			],
+			"ancestorIds": [
+				"139D825D4D5740ECA2E8392E2E43FCC2"
+			]
+		},
+		"34429848094A47A79C756445F1F5F66B": {
+			"id": "34429848094A47A79C756445F1F5F66B",
+			"asnIdentifier": "S2598216",
+			"position": 24000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454468"
+			],
+			"ancestorIds": [
+				"139D825D4D5740ECA2E8392E2E43FCC2"
+			]
+		},
+		"139D825D4D5740ECA2E8392E2E43FCC2": {
+			"id": "139D825D4D5740ECA2E8392E2E43FCC2",
+			"asnIdentifier": "S2598215",
+			"position": 23000,
+			"depth": 0,
+			"statementNotation": "3-5-ETS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Engineering Design",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467848"
+			],
+			"ancestorIds": [
+				"995472BB87194929AEE066010A8FA863"
+			]
+		},
+		"30D714B8286A432A98561F41B7EF7F1C": {
+			"id": "30D714B8286A432A98561F41B7EF7F1C",
+			"asnIdentifier": "S2598156",
+			"position": 22000,
+			"depth": 1,
+			"statementNotation": "3-PS2-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Define a simple design problem that can be solved by applying scientific ideas about magnets.",
+			"comments": [
+				"Clarification Statement: Examples of problems could include constructing a latch to keep a door shut and creating a device to keep two moving objects from touching each other."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454423"
+			],
+			"ancestorIds": [
+				"995472BB87194929AEE066010A8FA863"
+			]
+		},
+		"EAF003841AEC427FB80C6CFA8781A084": {
+			"id": "EAF003841AEC427FB80C6CFA8781A084",
+			"asnIdentifier": "S2598155",
+			"position": 21000,
+			"depth": 1,
+			"statementNotation": "3-PS2-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Ask questions to determine cause and effect relationships of electric or magnetic interactions between two objects not in contact with each other.",
+			"comments": [
+				"Clarification Statement: Examples of an electric force could include the force on hair from an electrically charged balloon and the electrical forces between a charged rod and pieces of paper; examples of a magnetic force could include the force between two permanent magnets, the force between an electromagnet and steel paperclips, and the force exerted by one magnet versus the force exerted by two magnets. Examples of cause and effect relationships could include how the distance between objects affects strength of the force and how the orientation of magnets affects the direction of the magnetic force.",
+				"Assessment Boundary: Assessment is limited to forces produced by objects that can be manipulated by students, and electrical interactions are limited to static electricity."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454422"
+			],
+			"ancestorIds": [
+				"995472BB87194929AEE066010A8FA863"
+			]
+		},
+		"EEB8BA9343944034BCAC58D75510A87D": {
+			"id": "EEB8BA9343944034BCAC58D75510A87D",
+			"asnIdentifier": "S2598154",
+			"position": 20000,
+			"depth": 1,
+			"statementNotation": "3-PS2-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Make observations and/or measurements of an object's motion to provide evidence that a pattern can be used to predict future motion.",
+			"comments": [
+				"Clarification Statement: Examples of motion with a predictable pattern could include a child swinging in a swing, a ball rolling back and forth in a bowl, and two children on a see-saw.",
+				"Assessment Boundary: Assessment does not include technical terms such as period and frequency."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454421"
+			],
+			"ancestorIds": [
+				"995472BB87194929AEE066010A8FA863"
+			]
+		},
+		"21A9458D532947F38CEB8C767863B80F": {
+			"id": "21A9458D532947F38CEB8C767863B80F",
+			"asnIdentifier": "S2598153",
+			"position": 19000,
+			"depth": 1,
+			"statementNotation": "3-PS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct an investigation to provide evidence of the effects of balanced and unbalanced forces on the motion of an object.",
+			"comments": [
+				"Clarification Statement: Examples could include an unbalanced force on one side of a ball can make it start moving; and, balanced forces pushing on a box from both sides will not produce any motion at all.",
+				"Assessment Boundary: Assessment is limited to one variable at a time: number, size, or direction of forces. Assessment does not include quantitative force size, only qualitative and relative. Assessment is limited to gravity being addressed as a force that pulls objects down."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454420"
+			],
+			"ancestorIds": [
+				"995472BB87194929AEE066010A8FA863"
+			]
+		},
+		"995472BB87194929AEE066010A8FA863": {
+			"id": "995472BB87194929AEE066010A8FA863",
+			"asnIdentifier": "S2598152",
+			"position": 18000,
+			"depth": 0,
+			"statementNotation": "3-PS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Motion and Stability: Forces and Interactions",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454367"
+			],
+			"ancestorIds": [
+				"0A8243E614804409A7F0A731E1E52555"
+			]
+		},
+		"0E459997D49E4858991D658CBD6A0DBB": {
+			"id": "0E459997D49E4858991D658CBD6A0DBB",
+			"asnIdentifier": "S2598173",
+			"position": 17000,
+			"depth": 1,
+			"statementNotation": "3-ESS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Make a claim about the merit of a design solution that reduces the impacts of a weather-related hazard.",
+			"comments": [
+				"Clarification Statement: Examples of design solutions to weather-related hazards could include barriers to prevent flooding, wind resistant roofs, and lighting rods."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454435"
+			],
+			"ancestorIds": [
+				"0A8243E614804409A7F0A731E1E52555"
+			]
+		},
+		"0A8243E614804409A7F0A731E1E52555": {
+			"id": "0A8243E614804409A7F0A731E1E52555",
+			"asnIdentifier": "S2598172",
+			"position": 16000,
+			"depth": 0,
+			"statementNotation": "3-ESS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth and Human Activity",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454373"
+			],
+			"ancestorIds": [
+				"899CE0909EE1427F8DAF11A3D0DF038F"
+			]
+		},
+		"052793084A85467CBAE21C771692C82F": {
+			"id": "052793084A85467CBAE21C771692C82F",
+			"asnIdentifier": "S2598171",
+			"position": 15000,
+			"depth": 1,
+			"statementNotation": "3-ESS2-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Obtain and combine information to describe climates in different regions of the world.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454434"
+			],
+			"ancestorIds": [
+				"899CE0909EE1427F8DAF11A3D0DF038F"
+			]
+		},
+		"544B1C22EFBC42649B45CB6DC9ACF6B7": {
+			"id": "544B1C22EFBC42649B45CB6DC9ACF6B7",
+			"asnIdentifier": "S2598170",
+			"position": 14000,
+			"depth": 1,
+			"statementNotation": "3-ESS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Represent data in tables and graphical displays to describe typical weather conditions expected during a particular season.",
+			"comments": [
+				"Clarification Statement: Examples of data could include average temperature, precipitation, and wind direction.",
+				"Assessment Boundary: Assessment of graphical displays is limited to pictographs and bar graphs. Assessment does not include climate change."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454433"
+			],
+			"ancestorIds": [
+				"899CE0909EE1427F8DAF11A3D0DF038F"
+			]
+		},
+		"899CE0909EE1427F8DAF11A3D0DF038F": {
+			"id": "899CE0909EE1427F8DAF11A3D0DF038F",
+			"asnIdentifier": "S2598169",
+			"position": 13000,
+			"depth": 0,
+			"statementNotation": "3-ESS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Systems",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454372"
+			],
+			"ancestorIds": [
+				"185238A88BCB453CBBB5A31A301CDF01"
+			]
+		},
+		"347E7CA899784FE99ACF94193AB367F7": {
+			"id": "347E7CA899784FE99ACF94193AB367F7",
+			"asnIdentifier": "S2598168",
+			"position": 12000,
+			"depth": 1,
+			"statementNotation": "3-LS4-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Make a claim about the merit of a solution to a problem caused when the environment changes and the types of plants and animals that live there may change.",
+			"comments": [
+				"Clarification Statement: Examples of environmental changes could include changes in land characteristics, water distribution, temperature, food, and other organisms.",
+				"Assessment Boundary: Assessment is limited to a single environmental change. Assessment does not include the greenhouse effect or climate change."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454427"
+			],
+			"ancestorIds": [
+				"185238A88BCB453CBBB5A31A301CDF01"
+			]
+		},
+		"53E530A37EF549D0ADB6032C1A50E908": {
+			"id": "53E530A37EF549D0ADB6032C1A50E908",
+			"asnIdentifier": "S2598167",
+			"position": 11000,
+			"depth": 1,
+			"statementNotation": "3-LS4-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an argument with evidence that in a particular habitat some organisms can survive well, some survive less well, and some cannot survive at all.",
+			"comments": [
+				"Clarification Statement: Examples of evidence could include needs and characteristics of the organisms and habitats involved. The organisms and their habitat make up a system in which the parts depend on each other."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454426"
+			],
+			"ancestorIds": [
+				"185238A88BCB453CBBB5A31A301CDF01"
+			]
+		},
+		"9229202521EA40338420C044796E2B36": {
+			"id": "9229202521EA40338420C044796E2B36",
+			"asnIdentifier": "S2598166",
+			"position": 10000,
+			"depth": 1,
+			"statementNotation": "3-LS4-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Use evidence to construct an explanation for how the variations in characteristics among individuals of the same species may provide advantages in surviving, finding mates, and reproducing.",
+			"comments": [
+				"Clarification Statement: Examples of cause and effect relationships could be plants that have larger thorns than other plants may be less likely to be eaten by predators; and, animals that have better camouflage coloration than other animals may be more likely to survive and therefore more likely to leave offspring."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454432"
+			],
+			"ancestorIds": [
+				"185238A88BCB453CBBB5A31A301CDF01"
+			]
+		},
+		"72E3DF0D207C40309CDE942EA62EE24C": {
+			"id": "72E3DF0D207C40309CDE942EA62EE24C",
+			"asnIdentifier": "S2598165",
+			"position": 9000,
+			"depth": 1,
+			"statementNotation": "3-LS4-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze and interpret data from fossils to provide evidence of the organisms and the environments in which they lived long ago.",
+			"comments": [
+				"Clarification Statement: Examples of data could include type, size, and distributions of fossil organisms. Examples of fossils and environments could include marine fossils found on dry land, tropical plant fossils found in Arctic areas, and fossils of extinct organisms.",
+				"Assessment Boundary: Assessment does not include identification of specific fossils or present plants and animals. Assessment is limited to major fossil types and relative ages."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454425"
+			],
+			"ancestorIds": [
+				"185238A88BCB453CBBB5A31A301CDF01"
+			]
+		},
+		"185238A88BCB453CBBB5A31A301CDF01": {
+			"id": "185238A88BCB453CBBB5A31A301CDF01",
+			"asnIdentifier": "S2598164",
+			"position": 8000,
+			"depth": 0,
+			"statementNotation": "3-LS4",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Biological Evolution: Unity and Diversity",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454371"
+			],
+			"ancestorIds": [
+				"DC6C4A9B731D4CA5817FBB47F31FC197"
+			]
+		},
+		"960B08FD709B4CCFB48D2B8053EECFD9": {
+			"id": "960B08FD709B4CCFB48D2B8053EECFD9",
+			"asnIdentifier": "S2598163",
+			"position": 7000,
+			"depth": 1,
+			"statementNotation": "3-LS3-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Use evidence to support the explanation that traits can be influenced by the environment.",
+			"comments": [
+				"Clarification Statement: Examples of the environment affecting a trait could include normally tall plants grown with insufficient water are stunted; and, a pet dog that is given too much food and little exercise may become overweight."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454431"
+			],
+			"ancestorIds": [
+				"DC6C4A9B731D4CA5817FBB47F31FC197"
+			]
+		},
+		"47016E5807E14EFC9F01702CB9B6875F": {
+			"id": "47016E5807E14EFC9F01702CB9B6875F",
+			"asnIdentifier": "S2598162",
+			"position": 6000,
+			"depth": 1,
+			"statementNotation": "3-LS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze and interpret data to provide evidence that plants and animals have traits inherited from parents and that variation of these traits exists in a group of similar organisms.",
+			"comments": [
+				"Clarification Statement: Patterns are the similarities and differences in traits shared between offspring and their parents, or among siblings. Emphasis is on organisms other than humans.",
+				"Assessment Boundary: Assessment does not include genetic mechanisms of inheritance and prediction of traits. Assessment is limited to non-human examples."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454430"
+			],
+			"ancestorIds": [
+				"DC6C4A9B731D4CA5817FBB47F31FC197"
+			]
+		},
+		"DC6C4A9B731D4CA5817FBB47F31FC197": {
+			"id": "DC6C4A9B731D4CA5817FBB47F31FC197",
+			"asnIdentifier": "S2598161",
+			"position": 5000,
+			"depth": 0,
+			"statementNotation": "3-LS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Heredity: Inheritance and Variation of Traits",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454370"
+			],
+			"ancestorIds": [
+				"D6FAD85679924A9CA106C0F0CE111C23"
+			]
+		},
+		"884ACEB7F18D44FF82E9257C0F984615": {
+			"id": "884ACEB7F18D44FF82E9257C0F984615",
+			"asnIdentifier": "S2598160",
+			"position": 4000,
+			"depth": 1,
+			"statementNotation": "3-LS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an argument that some animals form groups that help members survive.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454424"
+			],
+			"ancestorIds": [
+				"D6FAD85679924A9CA106C0F0CE111C23"
+			]
+		},
+		"D6FAD85679924A9CA106C0F0CE111C23": {
+			"id": "D6FAD85679924A9CA106C0F0CE111C23",
+			"asnIdentifier": "S2598159",
+			"position": 3000,
+			"depth": 0,
+			"statementNotation": "3-LS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Ecosystems: Interactions, Energy, and Dynamics",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454369"
+			],
+			"ancestorIds": [
+				"BC1E5CA966744A71BC14FD26457EA6F8"
+			]
+		},
+		"A79CEC75A0D14DFCAEA7D7FD1EE4E7B3": {
+			"id": "A79CEC75A0D14DFCAEA7D7FD1EE4E7B3",
+			"asnIdentifier": "S2598158",
+			"position": 2000,
+			"depth": 1,
+			"statementNotation": "3-LS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop models to describe that organisms have unique and diverse life cycles but all have in common birth, growth, reproduction, and death.",
+			"comments": [
+				"Clarification Statement: Changes organisms go through during their life form a pattern.",
+				"Assessment Boundary: Assessment of plant life cycles is limited to those of flowering plants. Assessment does not include details of human reproduction."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454428"
+			],
+			"ancestorIds": [
+				"BC1E5CA966744A71BC14FD26457EA6F8"
+			]
+		},
+		"BC1E5CA966744A71BC14FD26457EA6F8": {
+			"id": "BC1E5CA966744A71BC14FD26457EA6F8",
+			"asnIdentifier": "S2598157",
+			"position": 1000,
+			"depth": 0,
+			"statementNotation": "3-LS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "From Molecules to Organisms: Structures and Processes",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454368"
+			],
+			"ancestorIds": []
+		}
+	}
+}

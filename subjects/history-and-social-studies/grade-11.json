@@ -1,0 +1,1241 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-11",
+	"title": "Grade 11",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"11"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BE5437A0DFE40131026768A86D17958E": {
+			"id": "BE5437A0DFE40131026768A86D17958E",
+			"asnIdentifier": "S10435B3",
+			"position": 103000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Explain how the federal, state, and local governments have responded to demographic and social changes such as population shifts to the suburbs, racial concentrations in the cities, Frostbelt-to-Sunbelt migration, international migration, decline of family farms, increases in out-of-wedlock births, and drug abuse.",
+			"ancestorIds": [
+				"BE523090DFE40131026068A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE53F020DFE40131026668A86D17958E": {
+			"id": "BE53F020DFE40131026668A86D17958E",
+			"asnIdentifier": "S10435B2",
+			"position": 102000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Analyze the persistence of poverty and how different analyses of this issue influence welfare reform, health insurance reform, and other social policies.",
+			"ancestorIds": [
+				"BE523090DFE40131026068A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE53A430DFE40131026568A86D17958E": {
+			"id": "BE53A430DFE40131026568A86D17958E",
+			"asnIdentifier": "S10435B1",
+			"position": 101000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Trace the impact of, need for, and controversies associated with environmental conservation, expansion of the national park system, and the development of environmental protection laws, with particular attention to the interaction between environmental protection advocates and property rights advocates.",
+			"ancestorIds": [
+				"BE523090DFE40131026068A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE534E00DFE40131026468A86D17958E": {
+			"id": "BE534E00DFE40131026468A86D17958E",
+			"asnIdentifier": "S10435B0",
+			"position": 100000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Explain the constitutional crisis originating from the Watergate scandal.",
+			"ancestorIds": [
+				"BE523090DFE40131026068A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE52FC40DFE40131026368A86D17958E": {
+			"id": "BE52FC40DFE40131026368A86D17958E",
+			"asnIdentifier": "S10435AF",
+			"position": 99000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the changing roles of women in society as reflected in the entry of more women into the labor force and the changing family structure.",
+			"ancestorIds": [
+				"BE523090DFE40131026068A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE52B910DFE40131026268A86D17958E": {
+			"id": "BE52B910DFE40131026268A86D17958E",
+			"asnIdentifier": "S10435AE",
+			"position": 98000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Discuss the significant domestic policy speeches of Truman, Eisenhower, Kennedy, Johnson, Nixon, Carter, Reagan, Bush, and Clinton (e.g., with regard to education, civil rights, economic policy, environmental policy).",
+			"ancestorIds": [
+				"BE523090DFE40131026068A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE527560DFE40131026168A86D17958E": {
+			"id": "BE527560DFE40131026168A86D17958E",
+			"asnIdentifier": "S10435AD",
+			"position": 97000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss the reasons for the nation's changing immigration policy, with emphasis on how the Immigration Act of 1965 and successor acts have transformed American society.",
+			"ancestorIds": [
+				"BE523090DFE40131026068A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE523090DFE40131026068A86D17958E": {
+			"id": "BE523090DFE40131026068A86D17958E",
+			"asnIdentifier": "S1042C2A",
+			"position": 96000,
+			"depth": 1,
+			"listId": "11.11",
+			"description": "Students analyze the major social problems and domestic policy issues in contemporary American society.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE51E550DFE40131025F68A86D17958E": {
+			"id": "BE51E550DFE40131025F68A86D17958E",
+			"asnIdentifier": "S10435AC",
+			"position": 95000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Analyze the women's rights movement from the era of Elizabeth Cady Stanton and Susan B. Anthony and the passage of the Nineteenth Amendment to the movement launched in the 1960s, including differing perspectives on the roles of women.",
+			"ancestorIds": [
+				"BE4FB640DFE40131025868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE519A20DFE40131025E68A86D17958E": {
+			"id": "BE519A20DFE40131025E68A86D17958E",
+			"asnIdentifier": "S10435AB",
+			"position": 94000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Analyze the passage and effects of civil rights and voting rights legislation (e.g., 1964 Civil Rights Act, Voting Rights Act of 1965) and the Twenty-Fourth Amendment, with an emphasis on equality of access to education and to the political process.",
+			"ancestorIds": [
+				"BE4FB640DFE40131025868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE513E80DFE40131025D68A86D17958E": {
+			"id": "BE513E80DFE40131025D68A86D17958E",
+			"asnIdentifier": "S10435AA",
+			"position": 93000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss the diffusion of the civil rights movement of African Americans from the churches of the rural South and the urban North, including the resistance to racial desegregation in Little Rock and Birmingham, and how the advances influenced the agendas, strategies, and effectiveness of the quests of American Indians, Asian Americans, and Hispanic Americans for civil rights and equal opportunities.",
+			"ancestorIds": [
+				"BE4FB640DFE40131025868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE50EFE0DFE40131025C68A86D17958E": {
+			"id": "BE50EFE0DFE40131025C68A86D17958E",
+			"asnIdentifier": "S10435A9",
+			"position": 92000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Examine the roles of civil rights advocates (e.g., A. Philip Randolph, Martin Luther King, Jr., Malcolm X, Thurgood Marshall, James Farmer, Rosa Parks), including the significance of Martin Luther King, Jr.'s \"Letter from Birmingham Jail\" and \"I Have a Dream\" speech.",
+			"ancestorIds": [
+				"BE4FB640DFE40131025868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE509940DFE40131025B68A86D17958E": {
+			"id": "BE509940DFE40131025B68A86D17958E",
+			"asnIdentifier": "S10435A8",
+			"position": 91000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the collaboration on legal strategy between African American and white civil rights lawyers to end racial segregation in higher education.",
+			"ancestorIds": [
+				"BE4FB640DFE40131025868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE504720DFE40131025A68A86D17958E": {
+			"id": "BE504720DFE40131025A68A86D17958E",
+			"asnIdentifier": "S10435A7",
+			"position": 90000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Examine and analyze the key events, policies, and court cases in the evolution of civil rights, including Dred Scott v. Sandford, Plessy v. Ferguson, Brown v. Board of Education, Regents of the University of California v. Bakke, and California Proposition 209.",
+			"ancestorIds": [
+				"BE4FB640DFE40131025868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5001D0DFE40131025968A86D17958E": {
+			"id": "BE5001D0DFE40131025968A86D17958E",
+			"asnIdentifier": "S10435A6",
+			"position": 89000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Explain how demands of African Americans helped produce a stimulus for civil rights, including President Roosevelt's ban on racial discrimination in defense industries in 1941, and how African Americans' service in World War II produced a stimulus for President Truman's decision to end segregation in the armed forces in 1948.",
+			"ancestorIds": [
+				"BE4FB640DFE40131025868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE4FB640DFE40131025868A86D17958E": {
+			"id": "BE4FB640DFE40131025868A86D17958E",
+			"asnIdentifier": "S1042C29",
+			"position": 88000,
+			"depth": 1,
+			"listId": "11.10",
+			"description": "Students analyze the development of federal civil rights and voting rights.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE6750D0DFE4013102A668A86D17958E": {
+			"id": "BE6750D0DFE4013102A668A86D17958E",
+			"asnIdentifier": "S10435A5",
+			"position": 87000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Examine relations between the United States and Mexico in the twentieth century, including key economic, political, immigration, and environmental issues.",
+			"ancestorIds": [
+				"BE654FD0DFE40131029F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE670BA0DFE4013102A568A86D17958E": {
+			"id": "BE670BA0DFE4013102A568A86D17958E",
+			"asnIdentifier": "S10435A4",
+			"position": 86000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Describe U.S. Middle East policy and its strategic, political, and Content economic interests, including those related to the Gulf War.",
+			"ancestorIds": [
+				"BE654FD0DFE40131029F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE66C090DFE4013102A468A86D17958E": {
+			"id": "BE66C090DFE4013102A468A86D17958E",
+			"asnIdentifier": "S10435A3",
+			"position": 85000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Analyze the role of the Reagan administration and other factors in the victory of the West in the Cold War.",
+			"ancestorIds": [
+				"BE654FD0DFE40131029F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE667100DFE4013102A368A86D17958E": {
+			"id": "BE667100DFE4013102A368A86D17958E",
+			"asnIdentifier": "S10435A2",
+			"position": 84000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "List the effects of foreign policy on domestic policies and vice versa (e.g., protests during the war in Vietnam, the \"nuclear freeze\" movement).",
+			"ancestorIds": [
+				"BE654FD0DFE40131029F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE662C70DFE4013102A268A86D17958E": {
+			"id": "BE662C70DFE4013102A268A86D17958E",
+			"asnIdentifier": "S1042C2D",
+			"position": 83000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Trace the origins and geopolitical consequences (foreign and domestic) of the Cold War and containment policy, including the following:<ul><li>The era of McCarthyism, instances of domestic Communism (e.g., Alger Hiss) and blacklisting</li><li>The Truman Doctrine</li><li>The Berlin Blockade</li><li>The Korean War</li><li>The Bay of Pigs invasion and the Cuban Missile Crisis</li><li>Atomic testing in the American West, the \"mutual assured destruction\" doctrine, and disarmament policies</li><li>The Vietnam War</li><li>Latin American policy</li></ul>",
+			"ancestorIds": [
+				"BE654FD0DFE40131029F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE65E850DFE4013102A168A86D17958E": {
+			"id": "BE65E850DFE4013102A168A86D17958E",
+			"asnIdentifier": "S1042C2C",
+			"position": 82000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the role of military alliances, including NATO and SEATO, in deterring communist aggression and maintaining security during the Cold War.",
+			"ancestorIds": [
+				"BE654FD0DFE40131029F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE65A180DFE4013102A068A86D17958E": {
+			"id": "BE65A180DFE4013102A068A86D17958E",
+			"asnIdentifier": "S1042C2B",
+			"position": 81000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss the establishment of the United Nations and International Declaration of Human Rights, International Monetary Fund, World Bank, and General Agreement on Tariffs and Trade (GATT) and their importance in shaping modern Europe and maintaining peace and international order.",
+			"ancestorIds": [
+				"BE654FD0DFE40131029F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE654FD0DFE40131029F68A86D17958E": {
+			"id": "BE654FD0DFE40131029F68A86D17958E",
+			"asnIdentifier": "S1042C28",
+			"position": 80000,
+			"depth": 1,
+			"listId": "11.9",
+			"description": "Students analyze U.S. foreign policy since World War II.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE64F7B0DFE40131029E68A86D17958E": {
+			"id": "BE64F7B0DFE40131029E68A86D17958E",
+			"asnIdentifier": "S10435A1",
+			"position": 79000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Discuss forms of popular culture, with emphasis on their origins and geographic diffusion (e.g., jazz and other forms of popular music, professional sports, architectural and artistic styles).",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE647D40DFE40131029D68A86D17958E": {
+			"id": "BE647D40DFE40131029D68A86D17958E",
+			"asnIdentifier": "S10435A0",
+			"position": 78000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Describe the effects on society and the economy of technological developments since 1945, including the computer revolution, changes in communication, advances in medicine, and improvements in agricultural technology.",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE640C90DFE40131029C68A86D17958E": {
+			"id": "BE640C90DFE40131029C68A86D17958E",
+			"asnIdentifier": "S104359F",
+			"position": 77000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Discuss the diverse environmental regions of North America, their relationship to local economies, and the origins and prospects of environmental problems in those regions.",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE63C390DFE40131029B68A86D17958E": {
+			"id": "BE63C390DFE40131029B68A86D17958E",
+			"asnIdentifier": "S104359E",
+			"position": 76000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the increased powers of the presidency in response to the Great Depression, World War II, and the Cold War.",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE637A40DFE40131029A68A86D17958E": {
+			"id": "BE637A40DFE40131029A68A86D17958E",
+			"asnIdentifier": "S104359D",
+			"position": 75000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Analyze new federal government spending on defense, welfare, interest on the national debt, and federal and state spending on education, including the California Master Plan.",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE632FF0DFE40131029968A86D17958E": {
+			"id": "BE632FF0DFE40131029968A86D17958E",
+			"asnIdentifier": "S104359C",
+			"position": 74000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Examine Truman's labor policy and congressional reaction to it.",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE62DE60DFE40131029868A86D17958E": {
+			"id": "BE62DE60DFE40131029868A86D17958E",
+			"asnIdentifier": "S104359B",
+			"position": 73000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the significance of Mexican immigration and its relationship to the agricultural economy, especially in California.",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE629AB0DFE40131029768A86D17958E": {
+			"id": "BE629AB0DFE40131029768A86D17958E",
+			"asnIdentifier": "S104359A",
+			"position": 72000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Trace the growth of service sector, white collar, and professional sector jobs in business and government.",
+			"ancestorIds": [
+				"BE625520DFE40131029668A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE625520DFE40131029668A86D17958E": {
+			"id": "BE625520DFE40131029668A86D17958E",
+			"asnIdentifier": "S1042C27",
+			"position": 71000,
+			"depth": 1,
+			"listId": "11.8",
+			"description": "Students analyze the economic boom and social transformation of post-World War II America.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE620E00DFE40131029568A86D17958E": {
+			"id": "BE620E00DFE40131029568A86D17958E",
+			"asnIdentifier": "S1043599",
+			"position": 70000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Analyze the effect of massive aid given to Western Europe under the Marshall Plan to rebuild itself after the war and the importance of a rebuilt Europe to the U.S. economy.",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE61C7A0DFE40131029468A86D17958E": {
+			"id": "BE61C7A0DFE40131029468A86D17958E",
+			"asnIdentifier": "S1043598",
+			"position": 69000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Discuss the decision to drop atomic bombs and the consequences of the decision (Hiroshima and Nagasaki).",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE617E80DFE40131029368A86D17958E": {
+			"id": "BE617E80DFE40131029368A86D17958E",
+			"asnIdentifier": "S1043597",
+			"position": 68000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Describe major developments in aviation, weaponry, communication, and medicine and the war's impact on the location of American industry and use of resources.",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE612DE0DFE40131029268A86D17958E": {
+			"id": "BE612DE0DFE40131029268A86D17958E",
+			"asnIdentifier": "S1043596",
+			"position": 67000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss the constitutional issues and impact of events on the U.S. home front, including the internment of Japanese Americans (e.g., Fred Korematsu v. United States of America) and the restrictions on German and Italian resident aliens; the response of the administration to Hitler's atrocities against Jews and other groups; the roles of women in military production; and the roles and growing political demands of African Americans.",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE60EBD0DFE40131029168A86D17958E": {
+			"id": "BE60EBD0DFE40131029168A86D17958E",
+			"asnIdentifier": "S1043594",
+			"position": 66000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Analyze Roosevelt's foreign policy during World War II (e.g., Four Freedoms speech).",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE60A270DFE40131029068A86D17958E": {
+			"id": "BE60A270DFE40131029068A86D17958E",
+			"asnIdentifier": "S1043593",
+			"position": 65000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Identify the roles and sacrifices of individual American soldiers, as well as the unique contributions of the special fighting forces (e.g., the Tuskegee Airmen, the 442nd Regimental Combat team, the Navajo Code Talkers).",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE605080DFE40131028F68A86D17958E": {
+			"id": "BE605080DFE40131028F68A86D17958E",
+			"asnIdentifier": "S1043592",
+			"position": 64000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Explain U.S. and Allied wartime strategy, including the major battles of Midway, Normandy, Iwo Jima, Okinawa, and the Battle of the Bulge.",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE600050DFE40131028E68A86D17958E": {
+			"id": "BE600050DFE40131028E68A86D17958E",
+			"asnIdentifier": "S1043591",
+			"position": 63000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Examine the origins of American involvement in the war, with an emphasis on the events that precipitated the attack on Pearl Harbor.",
+			"ancestorIds": [
+				"BE5F9CB0DFE40131028D68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5F9CB0DFE40131028D68A86D17958E": {
+			"id": "BE5F9CB0DFE40131028D68A86D17958E",
+			"asnIdentifier": "S1042C26",
+			"position": 62000,
+			"depth": 1,
+			"listId": "11.7",
+			"description": "Students analyze America's participation in World War II.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5F4D10DFE40131028C68A86D17958E": {
+			"id": "BE5F4D10DFE40131028C68A86D17958E",
+			"asnIdentifier": "S1043590",
+			"position": 61000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Trace the advances and retreats of organized labor, from the creation of the American Federation of Labor and the Congress of Industrial Organizations to current issues of a postindustrial, multinational economy, including the United Farm Workers in California.",
+			"ancestorIds": [
+				"BE5DCD50DFE40131028768A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5F0050DFE40131028B68A86D17958E": {
+			"id": "BE5F0050DFE40131028B68A86D17958E",
+			"asnIdentifier": "S104358F",
+			"position": 60000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Analyze the effects of and the controversies arising from New Deal economic policies and the expanded role of the federal government in society and the economy since the 1930s (e.g., Works Progress Administration, Social Security, National Labor Relations Board, farm programs, regional development policies, and energy development projects such as the Tennessee Valley Authority, California Central Valley Project, and Bonneville Dam).",
+			"ancestorIds": [
+				"BE5DCD50DFE40131028768A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5EAF90DFE40131028A68A86D17958E": {
+			"id": "BE5EAF90DFE40131028A68A86D17958E",
+			"asnIdentifier": "S104358E",
+			"position": 59000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Discuss the human toll of the Depression, natural disasters, and unwise agricultural practices and their effects on the depopulation of rural regions and on political movements of the left and right, with particular attention to the Dust Bowl refugees and their social and economic impacts in California.",
+			"ancestorIds": [
+				"BE5DCD50DFE40131028768A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5E5B40DFE40131028968A86D17958E": {
+			"id": "BE5E5B40DFE40131028968A86D17958E",
+			"asnIdentifier": "S104358D",
+			"position": 58000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the explanations of the principal causes of the Great Depression and the steps taken by the Federal Reserve, Congress, and Presidents Herbert Hoover and Franklin Delano Roosevelt to combat the economic crisis.",
+			"ancestorIds": [
+				"BE5DCD50DFE40131028768A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5E1420DFE40131028868A86D17958E": {
+			"id": "BE5E1420DFE40131028868A86D17958E",
+			"asnIdentifier": "S104358C",
+			"position": 57000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the monetary issues of the late nineteenth and early twentieth centuries that gave rise to the establishment of the Federal Reserve and the weaknesses in key sectors of the economy in the late 1920s.",
+			"ancestorIds": [
+				"BE5DCD50DFE40131028768A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5DCD50DFE40131028768A86D17958E": {
+			"id": "BE5DCD50DFE40131028768A86D17958E",
+			"asnIdentifier": "S1042C25",
+			"position": 56000,
+			"depth": 1,
+			"listId": "11.6",
+			"description": "Students analyze the different explanations for the Great Depression and how the New Deal fundamentally changed the role of the federal government.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5D7C70DFE40131028668A86D17958E": {
+			"id": "BE5D7C70DFE40131028668A86D17958E",
+			"asnIdentifier": "S104358B",
+			"position": 55000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Discuss the rise of mass production techniques, the growth of cities, the impact of new technologies (e.g., the automobile, electricity), and the resulting prosperity and effect on the American landscape.",
+			"ancestorIds": [
+				"BE5B5150DFE40131027F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5D3000DFE40131028568A86D17958E": {
+			"id": "BE5D3000DFE40131028568A86D17958E",
+			"asnIdentifier": "S104358A",
+			"position": 54000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Trace the growth and effects of radio and movies and their role in the worldwide diffusion of popular culture.",
+			"ancestorIds": [
+				"BE5B5150DFE40131027F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5CDEC0DFE40131028468A86D17958E": {
+			"id": "BE5CDEC0DFE40131028468A86D17958E",
+			"asnIdentifier": "S1043589",
+			"position": 53000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the Harlem Renaissance and new trends in literature, music, and art, with special attention to the work of writers (e.g., Zora Neale Hurston, Langston Hughes).",
+			"ancestorIds": [
+				"BE5B5150DFE40131027F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5C8CB0DFE40131028368A86D17958E": {
+			"id": "BE5C8CB0DFE40131028368A86D17958E",
+			"asnIdentifier": "S1043588",
+			"position": 52000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Analyze the passage of the Nineteenth Amendment and the changing role of women in society.",
+			"ancestorIds": [
+				"BE5B5150DFE40131027F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5C4730DFE40131028268A86D17958E": {
+			"id": "BE5C4730DFE40131028268A86D17958E",
+			"asnIdentifier": "S1043587",
+			"position": 51000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Examine the passage of the Eighteenth Amendment to the Constitution and the Volstead Act (Prohibition).",
+			"ancestorIds": [
+				"BE5B5150DFE40131027F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5BF510DFE40131028168A86D17958E": {
+			"id": "BE5BF510DFE40131028168A86D17958E",
+			"asnIdentifier": "S1043585",
+			"position": 50000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Analyze the international and domestic events, interests, and philosophies that prompted attacks on civil liberties, including the Palmer Raids, Marcus Garvey's \"back-to-Africa\" movement, the Ku Klux Klan, and immigration quotas and the responses of organizations such as the American Civil Liberties Union, the National Association for the Advancement of Colored People, and the Anti-Defamation League to those attacks.",
+			"ancestorIds": [
+				"BE5B5150DFE40131027F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5BA520DFE40131028068A86D17958E": {
+			"id": "BE5BA520DFE40131028068A86D17958E",
+			"asnIdentifier": "S1043583",
+			"position": 49000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss the policies of Presidents Warren Harding, Calvin Coolidge, and Herbert Hoover.",
+			"ancestorIds": [
+				"BE5B5150DFE40131027F68A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5B5150DFE40131027F68A86D17958E": {
+			"id": "BE5B5150DFE40131027F68A86D17958E",
+			"asnIdentifier": "S1042C24",
+			"position": 48000,
+			"depth": 1,
+			"listId": "11.5",
+			"description": "Students analyze the major political, social, economic, technological, and cultural developments of the 1920s.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5B0230DFE40131027E68A86D17958E": {
+			"id": "BE5B0230DFE40131027E68A86D17958E",
+			"asnIdentifier": "S1043580",
+			"position": 47000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Trace the declining role of Great Britain and the expanding role of the United States in world affairs after World War II.",
+			"ancestorIds": [
+				"BE5932E0DFE40131027868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5AAC10DFE40131027D68A86D17958E": {
+			"id": "BE5AAC10DFE40131027D68A86D17958E",
+			"asnIdentifier": "S104357F",
+			"position": 46000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Analyze the political, economic, and social ramifications of World War I on the home front.",
+			"ancestorIds": [
+				"BE5932E0DFE40131027868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5A5E40DFE40131027C68A86D17958E": {
+			"id": "BE5A5E40DFE40131027C68A86D17958E",
+			"asnIdentifier": "S104357C",
+			"position": 45000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Explain Theodore Roosevelt's Big Stick diplomacy, William Taft's Dollar Diplomacy, and Woodrow Wilson's Moral Diplomacy, drawing on relevant speeches.",
+			"ancestorIds": [
+				"BE5932E0DFE40131027868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5A0B10DFE40131027B68A86D17958E": {
+			"id": "BE5A0B10DFE40131027B68A86D17958E",
+			"asnIdentifier": "S1043573",
+			"position": 44000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Discuss America's role in the Panama Revolution and the building of the Panama Canal.",
+			"ancestorIds": [
+				"BE5932E0DFE40131027868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE59C5E0DFE40131027A68A86D17958E": {
+			"id": "BE59C5E0DFE40131027A68A86D17958E",
+			"asnIdentifier": "S1043572",
+			"position": 43000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the Spanish-American War and U.S. expansion in the South Pacific.",
+			"ancestorIds": [
+				"BE5932E0DFE40131027868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE597EB0DFE40131027968A86D17958E": {
+			"id": "BE597EB0DFE40131027968A86D17958E",
+			"asnIdentifier": "S1043571",
+			"position": 42000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "List the purpose and the effects of the Open Door policy.",
+			"ancestorIds": [
+				"BE5932E0DFE40131027868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5932E0DFE40131027868A86D17958E": {
+			"id": "BE5932E0DFE40131027868A86D17958E",
+			"asnIdentifier": "S1042C23",
+			"position": 41000,
+			"depth": 1,
+			"listId": "11.4",
+			"description": "Students trace the rise of the United States to its role as a world power in the twentieth century.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE58E760DFE40131027768A86D17958E": {
+			"id": "BE58E760DFE40131027768A86D17958E",
+			"asnIdentifier": "S1043570",
+			"position": 40000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the principles of religious liberty found in the Establishment and Free Exercise clauses of the First Amendment, including the debate on the issue of separation of church and state.",
+			"ancestorIds": [
+				"BE577CA0DFE40131027268A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE589B70DFE40131027668A86D17958E": {
+			"id": "BE589B70DFE40131027668A86D17958E",
+			"asnIdentifier": "S104356F",
+			"position": 39000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Discuss the expanding religious pluralism in the United States and California that resulted from large-scale immigration in the twentieth century.",
+			"ancestorIds": [
+				"BE577CA0DFE40131027268A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE584A40DFE40131027568A86D17958E": {
+			"id": "BE584A40DFE40131027568A86D17958E",
+			"asnIdentifier": "S104356E",
+			"position": 38000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Cite incidences of religious intolerance in the United States (e.g., persecution of Mormons, anti-Catholic sentiment, anti-Semitism).",
+			"ancestorIds": [
+				"BE577CA0DFE40131027268A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE580510DFE40131027468A86D17958E": {
+			"id": "BE580510DFE40131027468A86D17958E",
+			"asnIdentifier": "S104356D",
+			"position": 37000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Analyze the great religious revivals and the leaders involved in them, including the First Great Awakening, the Second Great Awakening, the Civil War revivals, the Social Gospel Movement, the rise of Christian liberal theology in the nineteenth century, the impact of the Second Vatican Council, and the rise of Christian fundamentalism in current times.",
+			"ancestorIds": [
+				"BE577CA0DFE40131027268A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE57C130DFE40131027368A86D17958E": {
+			"id": "BE57C130DFE40131027368A86D17958E",
+			"asnIdentifier": "S104356C",
+			"position": 36000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the contributions of various religious groups to American civic principles and social reform movements (e.g., civil and human rights, individual responsibility and the work ethic, antimonarchy and self-rule, worker protection, family-centered communities).",
+			"ancestorIds": [
+				"BE577CA0DFE40131027268A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE577CA0DFE40131027268A86D17958E": {
+			"id": "BE577CA0DFE40131027268A86D17958E",
+			"asnIdentifier": "S1042C22",
+			"position": 35000,
+			"depth": 1,
+			"listId": "11.3",
+			"description": "Students analyze the role religion played in the founding of America, its lasting moral, social, and political impacts, and issues regarding religious liberty.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5736C0DFE40131027168A86D17958E": {
+			"id": "BE5736C0DFE40131027168A86D17958E",
+			"asnIdentifier": "S104356B",
+			"position": 34000,
+			"depth": 2,
+			"listId": "9.",
+			"description": "Understand the effect of political programs and activities of the Progressives (e.g., federal regulation of railroad transport, Children's Bureau, the Sixteenth Amendment, Theodore Roosevelt, Hiram Johnson).",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE56ECD0DFE40131027068A86D17958E": {
+			"id": "BE56ECD0DFE40131027068A86D17958E",
+			"asnIdentifier": "S104356A",
+			"position": 33000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Examine the effect of political programs and activities of Populists.",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE569E60DFE40131026F68A86D17958E": {
+			"id": "BE569E60DFE40131026F68A86D17958E",
+			"asnIdentifier": "S1043569",
+			"position": 32000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Analyze the similarities and differences between the ideologies of Social Darwinism and Social Gospel (e.g., using biographies of William Graham Sumner, Billy Sunday, Dwight L. Moody).",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE565210DFE40131026E68A86D17958E": {
+			"id": "BE565210DFE40131026E68A86D17958E",
+			"asnIdentifier": "S1043568",
+			"position": 31000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Trace the economic development of the United States and its emergence as a major industrial power, including its gains from trade and the advantages of its physical geography.",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5604F0DFE40131026D68A86D17958E": {
+			"id": "BE5604F0DFE40131026D68A86D17958E",
+			"asnIdentifier": "S1043567",
+			"position": 30000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss corporate mergers that produced trusts and cartels and the economic and political policies of industrial leaders.",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE55B090DFE40131026C68A86D17958E": {
+			"id": "BE55B090DFE40131026C68A86D17958E",
+			"asnIdentifier": "S1043566",
+			"position": 29000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Analyze the effect of urban political machines and responses to them by immigrants and middle-class reformers.",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE5565B0DFE40131026B68A86D17958E": {
+			"id": "BE5565B0DFE40131026B68A86D17958E",
+			"asnIdentifier": "S1043565",
+			"position": 28000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Trace the effect of the Americanization movement.",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE551840DFE40131026A68A86D17958E": {
+			"id": "BE551840DFE40131026A68A86D17958E",
+			"asnIdentifier": "S1043564",
+			"position": 27000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the changing landscape, including the growth of cities linked by industry and trade, and the development of cities divided according to race, ethnicity, and class.",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE54C640DFE40131026968A86D17958E": {
+			"id": "BE54C640DFE40131026968A86D17958E",
+			"asnIdentifier": "S1043563",
+			"position": 26000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Know the effects of industrialization on living and working conditions, including the portrayal of working conditions and food safety in Upton Sinclair's The Jungle.",
+			"ancestorIds": [
+				"BE547E00DFE40131026868A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE547E00DFE40131026868A86D17958E": {
+			"id": "BE547E00DFE40131026868A86D17958E",
+			"asnIdentifier": "S1042C21",
+			"position": 25000,
+			"depth": 1,
+			"listId": "11.2",
+			"description": "Students analyze the relationship among the rise of industrialization, large-scale rural-to-urban migration, and massive immigration from Southern and Eastern Europe.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE4F6160DFE40131025768A86D17958E": {
+			"id": "BE4F6160DFE40131025768A86D17958E",
+			"asnIdentifier": "S1043562",
+			"position": 24000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Examine the effects of the Civil War and Reconstruction and of the industrial revolution, including demographic shifts and the emergence in the late nineteenth century of the United States as a world power.",
+			"ancestorIds": [
+				"BE4E47B0DFE40131025368A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE4F1AA0DFE40131025668A86D17958E": {
+			"id": "BE4F1AA0DFE40131025668A86D17958E",
+			"asnIdentifier": "S1043561",
+			"position": 23000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the history of the Constitution after 1787 with emphasis on federal versus state authority and growing democratization.",
+			"ancestorIds": [
+				"BE4E47B0DFE40131025368A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE4ED610DFE40131025568A86D17958E": {
+			"id": "BE4ED610DFE40131025568A86D17958E",
+			"asnIdentifier": "S1043560",
+			"position": 22000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Analyze the ideological origins of the American Revolution, the Founding Fathers' philosophy of divinely bestowed unalienable natural rights, the debates on the drafting and ratification of the Constitution, and the addition of the Bill of Rights.",
+			"ancestorIds": [
+				"BE4E47B0DFE40131025368A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE4E8F90DFE40131025468A86D17958E": {
+			"id": "BE4E8F90DFE40131025468A86D17958E",
+			"asnIdentifier": "S104355F",
+			"position": 21000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the Enlightenment and the rise of democratic ideas as the context in which the nation was founded.",
+			"ancestorIds": [
+				"BE4E47B0DFE40131025368A86D17958E",
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE4E47B0DFE40131025368A86D17958E": {
+			"id": "BE4E47B0DFE40131025368A86D17958E",
+			"asnIdentifier": "S1042C20",
+			"position": 20000,
+			"depth": 1,
+			"listId": "11.1",
+			"description": "Students analyze the significant events in the founding of the nation and its attempts to realize the philosophy of government described in the Declaration of Independence.",
+			"ancestorIds": [
+				"BE4DEE80DFE40131025268A86D17958E"
+			]
+		},
+		"BE4DEE80DFE40131025268A86D17958E": {
+			"id": "BE4DEE80DFE40131025268A86D17958E",
+			"asnIdentifier": "S1042C0C",
+			"position": 19000,
+			"depth": 0,
+			"description": "United States History and Geography: Continuity and Change in the Twentieth Century",
+			"ancestorIds": [
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4D8160DFE40131025168A86D17958E": {
+			"id": "BE4D8160DFE40131025168A86D17958E",
+			"asnIdentifier": "S1042BDB",
+			"position": 18000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students construct and test hypotheses; collect, evaluate, and employ information from multiple primary and secondary sources; and apply it in oral and written presentations.",
+			"ancestorIds": [
+				"BE4C6AF0DFE40131024D68A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4D3830DFE40131025068A86D17958E": {
+			"id": "BE4D3830DFE40131025068A86D17958E",
+			"asnIdentifier": "S1042BDA",
+			"position": 17000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students evaluate major debates among historians concerning alternative interpretations of the past, including an analysis of authors' use of evidence and the distinctions between sound generalizations and misleading oversimplifications.",
+			"ancestorIds": [
+				"BE4C6AF0DFE40131024D68A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4CF340DFE40131024F68A86D17958E": {
+			"id": "BE4CF340DFE40131024F68A86D17958E",
+			"asnIdentifier": "S1042BD9",
+			"position": 16000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students identify bias and prejudice in historical interpretations.",
+			"ancestorIds": [
+				"BE4C6AF0DFE40131024D68A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4CAE40DFE40131024E68A86D17958E": {
+			"id": "BE4CAE40DFE40131024E68A86D17958E",
+			"asnIdentifier": "S1042BD8",
+			"position": 15000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students distinguish valid arguments from fallacious arguments in historical interpretations.",
+			"ancestorIds": [
+				"BE4C6AF0DFE40131024D68A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4C6AF0DFE40131024D68A86D17958E": {
+			"id": "BE4C6AF0DFE40131024D68A86D17958E",
+			"asnIdentifier": "S1042BD3",
+			"position": 14000,
+			"depth": 1,
+			"description": "Historical Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4C2170DFE40131024C68A86D17958E": {
+			"id": "BE4C2170DFE40131024C68A86D17958E",
+			"asnIdentifier": "S1042BE1",
+			"position": 13000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Students conduct cost-benefit analyses and apply basic economic indicators to analyze the aggregate economic behavior of the U.S. economy.",
+			"ancestorIds": [
+				"BE4A5A90DFE40131024668A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4BD340DFE40131024B68A86D17958E": {
+			"id": "BE4BD340DFE40131024B68A86D17958E",
+			"asnIdentifier": "S1042BE0",
+			"position": 12000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students analyze human modifications of landscapes and examine the resulting environmental policy issues.",
+			"ancestorIds": [
+				"BE4A5A90DFE40131024668A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4B8DE0DFE40131024A68A86D17958E": {
+			"id": "BE4B8DE0DFE40131024A68A86D17958E",
+			"asnIdentifier": "S1042BDF",
+			"position": 11000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students understand the meaning, implication, and impact of historical events and recognize that events could have taken other directions.",
+			"ancestorIds": [
+				"BE4A5A90DFE40131024668A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4B4790DFE40131024968A86D17958E": {
+			"id": "BE4B4790DFE40131024968A86D17958E",
+			"asnIdentifier": "S1042BDE",
+			"position": 10000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students interpret past events and issues within the context in which an event unfolded rather than solely in terms of present-day norms and values.",
+			"ancestorIds": [
+				"BE4A5A90DFE40131024668A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4B01A0DFE40131024868A86D17958E": {
+			"id": "BE4B01A0DFE40131024868A86D17958E",
+			"asnIdentifier": "S1042BDD",
+			"position": 9000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students recognize the complexity of historical causes and effects, including the limitations on determining cause and effect.",
+			"ancestorIds": [
+				"BE4A5A90DFE40131024668A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4ABC70DFE40131024768A86D17958E": {
+			"id": "BE4ABC70DFE40131024768A86D17958E",
+			"asnIdentifier": "S1042BDC",
+			"position": 8000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students show the connections, causal and otherwise, between particular historical events and larger social, economic, and political trends and developments.",
+			"ancestorIds": [
+				"BE4A5A90DFE40131024668A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE4A5A90DFE40131024668A86D17958E": {
+			"id": "BE4A5A90DFE40131024668A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 7000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE49F180DFE40131024568A86D17958E": {
+			"id": "BE49F180DFE40131024568A86D17958E",
+			"asnIdentifier": "S1042BD7",
+			"position": 6000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students relate current events to the physical and human characteristics of places and regions.",
+			"ancestorIds": [
+				"BE48C190DFE40131024168A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE49A230DFE40131024468A86D17958E": {
+			"id": "BE49A230DFE40131024468A86D17958E",
+			"asnIdentifier": "S1042BD6",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students use a variety of maps and documents to interpret human movement, including major patterns of domestic and international migration, changing environmental preferences and settlement patterns, the frictions that develop between population groups, and the diffusion of ideas, technological innovations, and goods.",
+			"ancestorIds": [
+				"BE48C190DFE40131024168A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE495390DFE40131024368A86D17958E": {
+			"id": "BE495390DFE40131024368A86D17958E",
+			"asnIdentifier": "S1042BD5",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students analyze how change happens at different rates at different times; understand that some aspects can change while others remain the same; and understand that change is complicated and affects not only technology and politics but also values and beliefs.",
+			"ancestorIds": [
+				"BE48C190DFE40131024168A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE490AC0DFE40131024268A86D17958E": {
+			"id": "BE490AC0DFE40131024268A86D17958E",
+			"asnIdentifier": "S1042BD4",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students compare the present with the past, evaluating the consequences of past events and decisions and determining the lessons that were learned.",
+			"ancestorIds": [
+				"BE48C190DFE40131024168A86D17958E",
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE48C190DFE40131024168A86D17958E": {
+			"id": "BE48C190DFE40131024168A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BE486C90DFE40131024068A86D17958E"
+			]
+		},
+		"BE486C90DFE40131024068A86D17958E": {
+			"id": "BE486C90DFE40131024068A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

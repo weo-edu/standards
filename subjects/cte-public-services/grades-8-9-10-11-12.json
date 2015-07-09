@@ -1,0 +1,4869 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2544695_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Public Services",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2544695",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Public Services",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/pubservices.pdf",
+		"asnIdentifier": "D2544695",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"8CF5170FE428442A84F8869BBDFC5DA0": {
+			"id": "8CF5170FE428442A84F8869BBDFC5DA0",
+			"asnIdentifier": "S2545822",
+			"position": 352000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.11",
+			"description": "Discuss the various aspects of fee setting in the law office, including fixed fees, minimum fees, contingent fees, retainers, payment schedules, and billing practice.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"435CE94FE4254116BFC30279B3B3916D": {
+			"id": "435CE94FE4254116BFC30279B3B3916D",
+			"asnIdentifier": "S2545821",
+			"position": 351000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.10",
+			"description": "Discuss what constitutes legal malpractice, and illustrate the discussion with examples of malpractice.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"05AC5F81B34444249BE3C4805C853B4A": {
+			"id": "05AC5F81B34444249BE3C4805C853B4A",
+			"asnIdentifier": "S2545820",
+			"position": 350000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.9",
+			"description": "List, discuss, and apply the rules of ethics in the legal profession, with special emphasis on client confidentiality.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5CF669787E7F4458A657FD4FA2D634EC": {
+			"id": "5CF669787E7F4458A657FD4FA2D634EC",
+			"asnIdentifier": "S2545819",
+			"position": 349000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.8",
+			"description": "List the advantages of data management and microcomputer skills in a law office.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"606B201721A2489AAEF1E5A8E3FCD79F": {
+			"id": "606B201721A2489AAEF1E5A8E3FCD79F",
+			"asnIdentifier": "S2545818",
+			"position": 348000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.7",
+			"description": "Describe how client files are opened, maintained, and closed.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"FA5D3E80D03449D0B76B09B17530CF0D": {
+			"id": "FA5D3E80D03449D0B76B09B17530CF0D",
+			"asnIdentifier": "S2545817",
+			"position": 347000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.6",
+			"description": "List and discuss techniques for improving the confidence that clients will have in the personnel of the law office.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6CDC7FD70E9A4356B15619BD60CAE9E9": {
+			"id": "6CDC7FD70E9A4356B15619BD60CAE9E9",
+			"asnIdentifier": "S2545816",
+			"position": 346000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.5",
+			"description": "Define a variety of terms and concepts related to law-office management and structure.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A4DE9C3E4CF94C6CB2E823CBE605903D": {
+			"id": "A4DE9C3E4CF94C6CB2E823CBE605903D",
+			"asnIdentifier": "S2545815",
+			"position": 345000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.4",
+			"description": "Describe alternative methods for resolving ethical dilemmas within the legal environment.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"2C219A03A69448AAA68809FC79675E9B": {
+			"id": "2C219A03A69448AAA68809FC79675E9B",
+			"asnIdentifier": "S2545814",
+			"position": 344000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.3",
+			"description": "Understand the roles and responsibilities that lawyers (including judges) have in our society.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"194FB1DB0A3B4AE1B32B22179EF68739": {
+			"id": "194FB1DB0A3B4AE1B32B22179EF68739",
+			"asnIdentifier": "S2545813",
+			"position": 343000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.2",
+			"description": "Explain how judges, lawyers, and paralegal personnel function in our legal system.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"381DA374B2744D249CECB00A8A2BDEFA": {
+			"id": "381DA374B2744D249CECB00A8A2BDEFA",
+			"asnIdentifier": "S2545812",
+			"position": 342000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.1",
+			"description": "Define a variety of legal terms and concepts related to professionalism and the unauthorized practice of law.",
+			"ancestorIds": [
+				"4D86DCE197F44CE3A3EE494386542D11",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4D86DCE197F44CE3A3EE494386542D11": {
+			"id": "4D86DCE197F44CE3A3EE494386542D11",
+			"asnIdentifier": "S2545811",
+			"position": 341000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C10.0",
+			"description": "Demonstrate an understanding of the ethical and professional standards of the legal professions and knowledge of management techniques and procedures.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"8962D3EB61514012B8B1B5CB2ABD1D51": {
+			"id": "8962D3EB61514012B8B1B5CB2ABD1D51",
+			"asnIdentifier": "S2545810",
+			"position": 340000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.18",
+			"description": "Create a hypothetical case and describe why you would or would not like to participate as a juror on that case.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"B785BFCDA71D4D5CA49E79512859C97E": {
+			"id": "B785BFCDA71D4D5CA49E79512859C97E",
+			"asnIdentifier": "S2545809",
+			"position": 339000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.17",
+			"description": "Describe the judge's role, the role of the prosecutor, and that of the defense attorney.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"013A913B000E4CFBB0B6059CB73CF9A2": {
+			"id": "013A913B000E4CFBB0B6059CB73CF9A2",
+			"asnIdentifier": "S2545808",
+			"position": 338000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.16",
+			"description": "Understand the purpose and process of jury voir dire and how it determines the makeup of the jury panel.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5522B93DCC9F4CF594C1E2F8E962BD1B": {
+			"id": "5522B93DCC9F4CF594C1E2F8E962BD1B",
+			"asnIdentifier": "S2545807",
+			"position": 337000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.15",
+			"description": "Understand the importance of the jury in relation to fairness and due process.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5E25D951AB4A488C850E2B25F21E3508": {
+			"id": "5E25D951AB4A488C850E2B25F21E3508",
+			"asnIdentifier": "S2545806",
+			"position": 336000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.14",
+			"description": "Describe the role of a jury in a criminal case versus a civil case in state court proceedings.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4D63173AA7A540FA9A01E38724EA5142": {
+			"id": "4D63173AA7A540FA9A01E38724EA5142",
+			"asnIdentifier": "S2545805",
+			"position": 335000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.13",
+			"description": "Discuss the evaluation and use of evidence.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3F0DE6D409394F228E29E97843725B1C": {
+			"id": "3F0DE6D409394F228E29E97843725B1C",
+			"asnIdentifier": "S2545804",
+			"position": 334000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.12",
+			"description": "Describe how the results of background investigation and analysis can be presented to the attorney",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F775155DD6684862A22D5C469EA21A37": {
+			"id": "F775155DD6684862A22D5C469EA21A37",
+			"asnIdentifier": "S2545803",
+			"position": 333000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.11",
+			"description": "List the sources of information for conducting background investigations.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A537F2A9E952473DA357A2826752F311": {
+			"id": "A537F2A9E952473DA357A2826752F311",
+			"asnIdentifier": "S2545802",
+			"position": 332000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.10",
+			"description": "Describe the purpose of background investigations and analysis.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"49C7C3EC655844DAAC118EF4C31B7B79": {
+			"id": "49C7C3EC655844DAAC118EF4C31B7B79",
+			"asnIdentifier": "S2545801",
+			"position": 331000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.9",
+			"description": "Describe the techniques for asking questions and list the basic points for good listening.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"FC3E75D23F884C729052538EA3CA8F34": {
+			"id": "FC3E75D23F884C729052538EA3CA8F34",
+			"asnIdentifier": "S2545800",
+			"position": 330000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.8",
+			"description": "Describe the purpose and contents of a trial notebook.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F3F63974572F49B1BD2D11126D36F193": {
+			"id": "F3F63974572F49B1BD2D11126D36F193",
+			"asnIdentifier": "S2545799",
+			"position": 329000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.7",
+			"description": "Describe how evidence and exhibits are organized for trial.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"30A2123B58304D9D99FF5E8E62DFAD43": {
+			"id": "30A2123B58304D9D99FF5E8E62DFAD43",
+			"asnIdentifier": "S2545798",
+			"position": 328000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.6",
+			"description": "Discuss the basic rules of procedure and evidence code.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"98284A1776C249F688567B6DC30D9462": {
+			"id": "98284A1776C249F688567B6DC30D9462",
+			"asnIdentifier": "S2545797",
+			"position": 327000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.5",
+			"description": "Explain the basic concept of the Statute of Limitations.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C109A5E178424E6AAA5774F4B06CFB04": {
+			"id": "C109A5E178424E6AAA5774F4B06CFB04",
+			"asnIdentifier": "S2545796",
+			"position": 326000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.4",
+			"description": "List and briefly explain six causes of action in civil cases.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"8EEBCD7C7A0747D59C93B48A4D1F2676": {
+			"id": "8EEBCD7C7A0747D59C93B48A4D1F2676",
+			"asnIdentifier": "S2545795",
+			"position": 325000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.3",
+			"description": "Explain the sequence and basic contents of pleadings.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C5B21042C185413F87CD2E40DFD292C3": {
+			"id": "C5B21042C185413F87CD2E40DFD292C3",
+			"asnIdentifier": "S2545794",
+			"position": 324000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.2",
+			"description": "Describe the typical steps in jury and nonjury civil trials, from pretrial through the appeal.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4F32832A605C4D0E82120C9984A73893": {
+			"id": "4F32832A605C4D0E82120C9984A73893",
+			"asnIdentifier": "S2545793",
+			"position": 323000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.1",
+			"description": "Define a variety of terms associated with litigation and trial practice.",
+			"ancestorIds": [
+				"54CAB52D58A543EC80EB289D92B6E272",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"54CAB52D58A543EC80EB289D92B6E272": {
+			"id": "54CAB52D58A543EC80EB289D92B6E272",
+			"asnIdentifier": "S2545792",
+			"position": 322000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C9.0",
+			"description": "Demonstrate a general understanding of all phases of trial practice and procedure, as well as knowledge of and ability to perform litigation techniques and procedures.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6CDBD90E128A427184344978E1E96C1F": {
+			"id": "6CDBD90E128A427184344978E1E96C1F",
+			"asnIdentifier": "S2545791",
+			"position": 321000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.7",
+			"description": "Identify emerging issues of law related to infringement of intellectual property and discuss how personal access to, and use of, technology makes intellectual property infringement easier.",
+			"ancestorIds": [
+				"7DF5351BE7784E669AE7DD2539DC96B3",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"01B635CE14A045F59AD033289126963F": {
+			"id": "01B635CE14A045F59AD033289126963F",
+			"asnIdentifier": "S2545790",
+			"position": 320000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.6",
+			"description": "Explain the ways in which creative rights can be compromised, such as plagiarism and \"sampling.\"",
+			"ancestorIds": [
+				"7DF5351BE7784E669AE7DD2539DC96B3",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3555471AF8BF40B2928ECFF23FEBF779": {
+			"id": "3555471AF8BF40B2928ECFF23FEBF779",
+			"asnIdentifier": "S2545789",
+			"position": 319000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.5",
+			"description": "Understand the definition of \"intellectual property\": the legal concept that certain types of creations—musical, literary, and artistic works; discoveries and inventions; and words, phrases, symbols, and designs—are types of property \"owned\" by their creators and cannot be copied or used without the permission of the creators.",
+			"ancestorIds": [
+				"7DF5351BE7784E669AE7DD2539DC96B3",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"0539191FBA0D48F1B0A3009583AFE1E3": {
+			"id": "0539191FBA0D48F1B0A3009583AFE1E3",
+			"asnIdentifier": "S2545788",
+			"position": 318000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.4",
+			"description": "Discuss how social media can be used by governments or individuals to suppress or enhance freedom of expressions.",
+			"ancestorIds": [
+				"7DF5351BE7784E669AE7DD2539DC96B3",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A869E0B38302454AB0BB3834D9A595AF": {
+			"id": "A869E0B38302454AB0BB3834D9A595AF",
+			"asnIdentifier": "S2545787",
+			"position": 317000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.3",
+			"description": "Demonstrate an appreciation for balancing the First Amendment right to free speech vs. the interest of parents, schools, and the government regulating social media because of concerns about privacy, online bullying, defamation/slander, and harassment.",
+			"ancestorIds": [
+				"7DF5351BE7784E669AE7DD2539DC96B3",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C059D70F2424443488FB01272558D665": {
+			"id": "C059D70F2424443488FB01272558D665",
+			"asnIdentifier": "S2545786",
+			"position": 316000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.2",
+			"description": "Describe the economic barriers to equal public access to technology and legal strategies for overcoming them.",
+			"ancestorIds": [
+				"7DF5351BE7784E669AE7DD2539DC96B3",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4F16DF79C46B4D759AEFEE946AB37D73": {
+			"id": "4F16DF79C46B4D759AEFEE946AB37D73",
+			"asnIdentifier": "S2545785",
+			"position": 315000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.1",
+			"description": "Explore emerging issues of law related to personal access to, and use of, technology.",
+			"ancestorIds": [
+				"7DF5351BE7784E669AE7DD2539DC96B3",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"7DF5351BE7784E669AE7DD2539DC96B3": {
+			"id": "7DF5351BE7784E669AE7DD2539DC96B3",
+			"asnIdentifier": "S2545784",
+			"position": 314000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C8.0",
+			"description": "Recognize the importance of laws and procedures related to intellectual property.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4FAA19C2F7424973A5C12F77793C8D8C": {
+			"id": "4FAA19C2F7424973A5C12F77793C8D8C",
+			"asnIdentifier": "S2545783",
+			"position": 313000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Discuss the nature of the agency relationship, including the duties and liabilities of the principal, the agent, and third parties.",
+			"ancestorIds": [
+				"F7A53C9EF80B490195F049B23EA3487D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4941D7FF3CCE49A0A49BF8767C803D7E": {
+			"id": "4941D7FF3CCE49A0A49BF8767C803D7E",
+			"asnIdentifier": "S2545782",
+			"position": 312000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Discuss the rights, duties, and liabilities of the owners, officers, directors, and employees of various types of business organizations.",
+			"ancestorIds": [
+				"F7A53C9EF80B490195F049B23EA3487D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"79FBD649B88B485AB648D870CED59558": {
+			"id": "79FBD649B88B485AB648D870CED59558",
+			"asnIdentifier": "S2545781",
+			"position": 311000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Compare the major advantages and disadvantages of the various types of business organizations.",
+			"ancestorIds": [
+				"F7A53C9EF80B490195F049B23EA3487D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"89B5FB88D1AE4E048C445B4929E9B4CD": {
+			"id": "89B5FB88D1AE4E048C445B4929E9B4CD",
+			"asnIdentifier": "S2545780",
+			"position": 310000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Describe the procedures necessary to form, modify, and dissolve various types of business organizations.",
+			"ancestorIds": [
+				"F7A53C9EF80B490195F049B23EA3487D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"14C47CD3460A4EEE945BD0DCF22B1F61": {
+			"id": "14C47CD3460A4EEE945BD0DCF22B1F61",
+			"asnIdentifier": "S2545779",
+			"position": 309000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Define a variety of terms associated with business organizations.",
+			"ancestorIds": [
+				"F7A53C9EF80B490195F049B23EA3487D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F7A53C9EF80B490195F049B23EA3487D": {
+			"id": "F7A53C9EF80B490195F049B23EA3487D",
+			"asnIdentifier": "S2545778",
+			"position": 308000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Understand the fundamental principles of the law of business organizations.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6DD082D311074ED99118C84EB80E1315": {
+			"id": "6DD082D311074ED99118C84EB80E1315",
+			"asnIdentifier": "S2545777",
+			"position": 307000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.20",
+			"description": "Explain the basic procedures, claims, and responses in an unlawful detainer case.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"22616851F0CE45FDBE33DF772E6F7162": {
+			"id": "22616851F0CE45FDBE33DF772E6F7162",
+			"asnIdentifier": "S2545776",
+			"position": 306000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.19",
+			"description": "Understand the basic rights and responsibilities of both landlords and tenants.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"1029C2AB7DF64C7CAF945D6D3AF71628": {
+			"id": "1029C2AB7DF64C7CAF945D6D3AF71628",
+			"asnIdentifier": "S2545775",
+			"position": 305000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.18",
+			"description": "Identify the types of discrimination that renters and home buyers might face.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"AE3AB664101A470CA08A67F03CF1E505": {
+			"id": "AE3AB664101A470CA08A67F03CF1E505",
+			"asnIdentifier": "S2545774",
+			"position": 304000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.17",
+			"description": "Create a personal will, following legal guidelines.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"15E1C7A81BE34935BAFA91443F65C27C": {
+			"id": "15E1C7A81BE34935BAFA91443F65C27C",
+			"asnIdentifier": "S2545773",
+			"position": 303000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.16",
+			"description": "Explain the purposes of wills and codicils.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"14523203DAF742C3BCEE3B188FE61C94": {
+			"id": "14523203DAF742C3BCEE3B188FE61C94",
+			"asnIdentifier": "S2545772",
+			"position": 302000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.15",
+			"description": "Explain the general procedures of the probate process.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F1350D90C517488E9128ED87F9422381": {
+			"id": "F1350D90C517488E9128ED87F9422381",
+			"asnIdentifier": "S2545771",
+			"position": 301000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.14",
+			"description": "Compare and contrast a trust and a will, including advantages and disadvantages for each.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"75D58389300943C8AA1F3A89468F565B": {
+			"id": "75D58389300943C8AA1F3A89468F565B",
+			"asnIdentifier": "S2545770",
+			"position": 300000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.13",
+			"description": "Define a simple Inter Vivos, and a Testamentary trust.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EF3340BA1179456385B1E3B3D74B6CD6": {
+			"id": "EF3340BA1179456385B1E3B3D74B6CD6",
+			"asnIdentifier": "S2545769",
+			"position": 299000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.12",
+			"description": "Define a variety of terms and concepts associated with wills, trusts, and probate administration.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A59AE5BD6AC643CCA5D52038E4693A6B": {
+			"id": "A59AE5BD6AC643CCA5D52038E4693A6B",
+			"asnIdentifier": "S2545768",
+			"position": 298000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.11",
+			"description": "Compare a variety of real property documents, such as a lease, a promissory note, an option contract, and an agreement for deed or a mortgage, and be able to prepare at least one.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"969D6A720A4F43DC8DC9500E96E01834": {
+			"id": "969D6A720A4F43DC8DC9500E96E01834",
+			"asnIdentifier": "S2545767",
+			"position": 297000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.10",
+			"description": "Describe the steps and procedures in a typical real estate closing.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"AFF6A7E617EB454380B24DDEBC1AAC4B": {
+			"id": "AFF6A7E617EB454380B24DDEBC1AAC4B",
+			"asnIdentifier": "S2545766",
+			"position": 296000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.9",
+			"description": "Explain at least two types of encumbrances that can be placed against real property.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"72E132FC7A2044709BA34A1043103B36": {
+			"id": "72E132FC7A2044709BA34A1043103B36",
+			"asnIdentifier": "S2545765",
+			"position": 295000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.8",
+			"description": "Explain the most common forms of limitations on real property use, such as covenants, easements, zoning laws, and land-use regulations.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"73F30DB0A4A447B0858FF49AD973A0E1": {
+			"id": "73F30DB0A4A447B0858FF49AD973A0E1",
+			"asnIdentifier": "S2545764",
+			"position": 294000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.7",
+			"description": "Explain how \"recording\" is accomplished and the importance of recording a deed, mortgage, or other real estate documents.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5A40332E4F6D4713B402C594299D93F8": {
+			"id": "5A40332E4F6D4713B402C594299D93F8",
+			"asnIdentifier": "S2545763",
+			"position": 293000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.6",
+			"description": "Discuss the purpose of title insurance, a title search, and how the \"search\" is made.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"96CC16FD78604256A79EFA5270E3CDA2": {
+			"id": "96CC16FD78604256A79EFA5270E3CDA2",
+			"asnIdentifier": "S2545762",
+			"position": 292000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.5",
+			"description": "Describe the basic requirements of a contract for sale of real property.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"262483C13E9A4C0E809797402A2DC1F7": {
+			"id": "262483C13E9A4C0E809797402A2DC1F7",
+			"asnIdentifier": "S2545761",
+			"position": 291000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Contrast the basic responsibilities of the lawyer and the real estate broker in the conveyance of real property, from the sales or option contract to the recording of the deed.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A54C6874276A48E7BE215C281B0CAF0D": {
+			"id": "A54C6874276A48E7BE215C281B0CAF0D",
+			"asnIdentifier": "S2545760",
+			"position": 290000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Discuss real property concepts, including but not limited to the types of estates that can be conveyed under California law.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4739470383D34AB88C774AF7B4F82646": {
+			"id": "4739470383D34AB88C774AF7B4F82646",
+			"asnIdentifier": "S2545759",
+			"position": 289000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Define a variety of terms associated with real estate transactions.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E160D62710FE4C9CA37E4AF3B4D8E759": {
+			"id": "E160D62710FE4C9CA37E4AF3B4D8E759",
+			"asnIdentifier": "S2545758",
+			"position": 288000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "Distinguish personal property from real property.",
+			"ancestorIds": [
+				"F46D9B74312843008D0987D6A8055EF4",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F46D9B74312843008D0987D6A8055EF4": {
+			"id": "F46D9B74312843008D0987D6A8055EF4",
+			"asnIdentifier": "S2545757",
+			"position": 287000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Demonstrate knowledge of property law and its application to property transactions, estate planning and probate administration, and housing law, including landlord/tenant and fair housing laws.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6F79A77491D543C3BF960F7C41DA904C": {
+			"id": "6F79A77491D543C3BF960F7C41DA904C",
+			"asnIdentifier": "S2545756",
+			"position": 286000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.10",
+			"description": "Prepare a sample of a false advertisement.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"604E906B10D24806B804FCA7F90D6189": {
+			"id": "604E906B10D24806B804FCA7F90D6189",
+			"asnIdentifier": "S2545755",
+			"position": 285000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.9",
+			"description": "Analyze deceptive business practices, including false advertising, \"bait and switch\" sales practices, and truth-in-lending disclosure requirements.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6442457E11284571A9230226C47E0F31": {
+			"id": "6442457E11284571A9230226C47E0F31",
+			"asnIdentifier": "S2545754",
+			"position": 284000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.8",
+			"description": "Interpret contract rules and expectations, including specific performance, breach of contract, remedies for breach of contract, third-party beneficiary, and requirements for modifications.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3509FDDAB6514B8588A3DB7294E01D4F": {
+			"id": "3509FDDAB6514B8588A3DB7294E01D4F",
+			"asnIdentifier": "S2545753",
+			"position": 283000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.7",
+			"description": "Explain the Parole Evidence Rule.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DBA4AA6F5BCB40959491CABE017FFBCD": {
+			"id": "DBA4AA6F5BCB40959491CABE017FFBCD",
+			"asnIdentifier": "S2545752",
+			"position": 282000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.6",
+			"description": "Explain the Statute of Frauds.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"15D1834C7DE14A0A91D9CED34CCAE128": {
+			"id": "15D1834C7DE14A0A91D9CED34CCAE128",
+			"asnIdentifier": "S2545751",
+			"position": 281000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.5",
+			"description": "Describe the elements of a contract, including contract terminology.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DF9EECEF3A6342139CC023190D00F1FC": {
+			"id": "DF9EECEF3A6342139CC023190D00F1FC",
+			"asnIdentifier": "S2545750",
+			"position": 280000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.4",
+			"description": "Identify ways by which the Internet and social media can be used to inform consumers and address deceptive business practices.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6FC220EBD9584AC3B1D121128AA491D8": {
+			"id": "6FC220EBD9584AC3B1D121128AA491D8",
+			"asnIdentifier": "S2545749",
+			"position": 279000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.3",
+			"description": "Identify emerging business practices that may result in consumer fraud or deception.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"1F38BD626C4E40F8B1F0ABEB0B250DBE": {
+			"id": "1F38BD626C4E40F8B1F0ABEB0B250DBE",
+			"asnIdentifier": "S2545748",
+			"position": 278000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Recognize various types of contracts, such as adhesion, bilateral, unilateral, implied, and express.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"34940DE143CA444A8CB53E9E0A9CAB26": {
+			"id": "34940DE143CA444A8CB53E9E0A9CAB26",
+			"asnIdentifier": "S2545747",
+			"position": 277000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Recognize the differences between void and voidable contracts.",
+			"ancestorIds": [
+				"474F20A8C4F44A10AD13AE3291B180D1",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"474F20A8C4F44A10AD13AE3291B180D1": {
+			"id": "474F20A8C4F44A10AD13AE3291B180D1",
+			"asnIdentifier": "S2545746",
+			"position": 276000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Demonstrate a familiarity with fundamental principles of contract law (including the uniform commercial code) and fundamentals of consumer protection law.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A27A013F9F5E422B9542981BC8335263": {
+			"id": "A27A013F9F5E422B9542981BC8335263",
+			"asnIdentifier": "S2545745",
+			"position": 275000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.11",
+			"description": "Prepare a chart displaying the process for applying for citizenship, including a display of the average number of immigrants who apply each year and the percentage of successful applicants.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"26782FCA88A84DDC941E5058CF9CA2F7": {
+			"id": "26782FCA88A84DDC941E5058CF9CA2F7",
+			"asnIdentifier": "S2545744",
+			"position": 274000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.10",
+			"description": "Explain the process and basis for political asylum.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"13301CBF554D4F17823F5146C1BFACFD": {
+			"id": "13301CBF554D4F17823F5146C1BFACFD",
+			"asnIdentifier": "S2545743",
+			"position": 273000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.9",
+			"description": "Describe the various types of immigration visas.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4A69712B6C2E4EE3A763E5D8ECD7C04A": {
+			"id": "4A69712B6C2E4EE3A763E5D8ECD7C04A",
+			"asnIdentifier": "S2545742",
+			"position": 272000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.8",
+			"description": "Define a variety of legal terms and concepts related to immigration law.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"0025A6D82D7B4ADDABB08C3D6D807BC4": {
+			"id": "0025A6D82D7B4ADDABB08C3D6D807BC4",
+			"asnIdentifier": "S2545741",
+			"position": 271000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.7",
+			"description": "Discuss the concept of implicit bias and the impact it has on the criminal and civil justice systems.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"8464B54B762F4E0CB1EEF64C438B167F": {
+			"id": "8464B54B762F4E0CB1EEF64C438B167F",
+			"asnIdentifier": "S2545740",
+			"position": 270000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.6",
+			"description": "Research court data regarding annual statewide numbers of criminal proceedings and demographics of defendants; discuss disproportionate minority contact.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"1C2CFD3E03384E34A69D6E7C617DF95C": {
+			"id": "1C2CFD3E03384E34A69D6E7C617DF95C",
+			"asnIdentifier": "S2545739",
+			"position": 269000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.5",
+			"description": "Discuss each stage in a criminal proceeding, from investigation to disposition (e.g., arrest, prosecution of crimes, and defenses of criminal prosecution) and postconviction procedure.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"693F7D9714B942AFBF1A82D1B4244D7A": {
+			"id": "693F7D9714B942AFBF1A82D1B4244D7A",
+			"asnIdentifier": "S2545738",
+			"position": 268000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Describe types and elements of crimes against persons and property, overlapping crimes against people and their property, and inchoate crimes.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3B84B32B31D140BCA4A429F0614649DC": {
+			"id": "3B84B32B31D140BCA4A429F0614649DC",
+			"asnIdentifier": "S2545737",
+			"position": 267000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Discuss and define terms and concepts of criminal law, including the theory of criminal law (Malum in se and Malum prohibitum) and the evolving nature of criminal law (e.g., the legal definition of a viable human being).",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"69152A045C604D62A05AEC5A17FD21BE": {
+			"id": "69152A045C604D62A05AEC5A17FD21BE",
+			"asnIdentifier": "S2545736",
+			"position": 266000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Analyze the Fourteenth Amendment, particularly (1) the Due Process Clause and Substantive Due Process, as contrasted with Procedural Due Process; and (2) the Equal Protection Clause.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"BDF6C5DE0EF4423DBEC983A68ED4DE61": {
+			"id": "BDF6C5DE0EF4423DBEC983A68ED4DE61",
+			"asnIdentifier": "S2545735",
+			"position": 265000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Discuss the United States Constitution, including its philosophical underpinnings and structure.",
+			"ancestorIds": [
+				"7073FCA72DD64FBD8A7ADF3672884A7D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"7073FCA72DD64FBD8A7ADF3672884A7D": {
+			"id": "7073FCA72DD64FBD8A7ADF3672884A7D",
+			"asnIdentifier": "S2545734",
+			"position": 264000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Demonstrate knowledge of constitutional law, criminal law, immigration law, and related concepts, as well as their application to factual situations.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C83603ED350E478EBEDAF7B07E6525B7": {
+			"id": "C83603ED350E478EBEDAF7B07E6525B7",
+			"asnIdentifier": "S2545733",
+			"position": 263000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.3",
+			"description": "Describe defenses to negligence actions, including strict and product liability.",
+			"ancestorIds": [
+				"72B33792FF1C47DABE9EB585735ED1E6",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"455B574E2BD2427094F7DC3AAF326C2D": {
+			"id": "455B574E2BD2427094F7DC3AAF326C2D",
+			"asnIdentifier": "S2545732",
+			"position": 262000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.2",
+			"description": "Describe the tort of negligence and the elements of negligence (e.g., \"reasonable person,\" res ipsa loquitur, proximate cause).",
+			"ancestorIds": [
+				"72B33792FF1C47DABE9EB585735ED1E6",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"43D88D6973424AB88F9520E0D0CDACFD": {
+			"id": "43D88D6973424AB88F9520E0D0CDACFD",
+			"asnIdentifier": "S2545731",
+			"position": 261000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Define the tort concept of civil wrong and apply the concept to factual situations with persons, property, and defenses of an intentional tort.",
+			"ancestorIds": [
+				"72B33792FF1C47DABE9EB585735ED1E6",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"72B33792FF1C47DABE9EB585735ED1E6": {
+			"id": "72B33792FF1C47DABE9EB585735ED1E6",
+			"asnIdentifier": "S2545730",
+			"position": 260000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "Demonstrate an understanding of tort law and concepts and their application to factual situations.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"7DDE008DBF164F8A904BA41FB4420DD6": {
+			"id": "7DDE008DBF164F8A904BA41FB4420DD6",
+			"asnIdentifier": "S2545729",
+			"position": 259000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.14",
+			"description": "Prepare a legal brief to represent the defendant in the hypothetical case.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E408999DD3D946489CA60283491312DD": {
+			"id": "E408999DD3D946489CA60283491312DD",
+			"asnIdentifier": "S2545728",
+			"position": 258000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.13",
+			"description": "Create a hypothetical case and identify the applicable statutory, regulatory, and case law.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"780E11F33023436D92E79722A90ED32C": {
+			"id": "780E11F33023436D92E79722A90ED32C",
+			"asnIdentifier": "S2545727",
+			"position": 257000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.12",
+			"description": "Contrast case law with statutory law and explain how to interpret statutes using intrinsic and extrinsic sources.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"48C6F05D8F1A4C4D8C4825356009ED33": {
+			"id": "48C6F05D8F1A4C4D8C4825356009ED33",
+			"asnIdentifier": "S2545726",
+			"position": 256000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.11",
+			"description": "Discuss case law, how it is made, its component parts, and how to use cases to resolve a legal problem.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"172C4F808B6F47279B86FF074A558584": {
+			"id": "172C4F808B6F47279B86FF074A558584",
+			"asnIdentifier": "S2545725",
+			"position": 255000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.10",
+			"description": "Discuss the purpose of a legal memorandum, brief or points, and authorities to a particular audience (how the memorandum may vary in emphasis and style, depending on the audience).",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"231849AF37C64B9882CF0CBE4E28F1E3": {
+			"id": "231849AF37C64B9882CF0CBE4E28F1E3",
+			"asnIdentifier": "S2545724",
+			"position": 254000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.9",
+			"description": "Discuss the term \"authority\" as it is used in legal writing, and explain the hierarchy of authority and the difference between mandatory and persuasive authority.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"19AB4CB0928B4BD0A2DF41C0C1B79F0D": {
+			"id": "19AB4CB0928B4BD0A2DF41C0C1B79F0D",
+			"asnIdentifier": "S2545723",
+			"position": 253000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.8",
+			"description": "Demonstrate how to \"brief\" a case.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"836E768B9F5741DCB8D2D8CA709F3144": {
+			"id": "836E768B9F5741DCB8D2D8CA709F3144",
+			"asnIdentifier": "S2545722",
+			"position": 252000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.7",
+			"description": "Demonstrate how to analogize or distinguish the facts and law of one case from the facts of a given legal problem.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"55EEDF691B2E42A9B6868EDA1AB6179D": {
+			"id": "55EEDF691B2E42A9B6868EDA1AB6179D",
+			"asnIdentifier": "S2545721",
+			"position": 251000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.6",
+			"description": "Demonstrate the ability to locate and update legal authority using computer-assisted legal research tools.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D0D0CAA1808A40D0ADA49C5A7AECF5BD": {
+			"id": "D0D0CAA1808A40D0ADA49C5A7AECF5BD",
+			"asnIdentifier": "S2545720",
+			"position": 250000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.5",
+			"description": "Demonstrate the ability to use a uniform system of citing cases for updating and cross-referencing cases.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"540BF55F95304358BBC28E110B6BD46C": {
+			"id": "540BF55F95304358BBC28E110B6BD46C",
+			"asnIdentifier": "S2545719",
+			"position": 249000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.4",
+			"description": "Demonstrate a working knowledge of the legal research system by writing a short memorandum on a given question of law and explaining the steps taken to find sources and reach conclusions.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A854B5A1250143C5B31DBD9167A88558": {
+			"id": "A854B5A1250143C5B31DBD9167A88558",
+			"asnIdentifier": "S2545718",
+			"position": 248000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Explain the difference between legal publications, treatises, and other legal writings.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"41FE4323FD0F4776B332F4A81236047B": {
+			"id": "41FE4323FD0F4776B332F4A81236047B",
+			"asnIdentifier": "S2545717",
+			"position": 247000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "Explain the importance and purpose of legal research.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A0FC392967354D1FA4EA92BF5DF2D568": {
+			"id": "A0FC392967354D1FA4EA92BF5DF2D568",
+			"asnIdentifier": "S2545716",
+			"position": 246000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "List the basic steps in legal research, including the legal publications most commonly used in the practice of law.",
+			"ancestorIds": [
+				"A3157C0DBA2449DB83E59E99101C399D",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A3157C0DBA2449DB83E59E99101C399D": {
+			"id": "A3157C0DBA2449DB83E59E99101C399D",
+			"asnIdentifier": "S2545715",
+			"position": 245000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Demonstrate an understanding and ability to utilize legal research and writing.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"2F3A51415D4C49709D79D90C125B140F": {
+			"id": "2F3A51415D4C49709D79D90C125B140F",
+			"asnIdentifier": "S2545714",
+			"position": 244000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.8",
+			"description": "Contrast the fundamental features of civil, criminal, and administrative law.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"972D9D1EB10B4AA1BDE9EB99229642B7": {
+			"id": "972D9D1EB10B4AA1BDE9EB99229642B7",
+			"asnIdentifier": "S2545713",
+			"position": 243000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.7",
+			"description": "Present and defend the case for diversity in the legal professions.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"CD81BD78A0B3482A9E96481A715F3F74": {
+			"id": "CD81BD78A0B3482A9E96481A715F3F74",
+			"asnIdentifier": "S2545712",
+			"position": 242000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.6",
+			"description": "Become familiar with the concept of equal access to justice.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"22D9CC1D067E4CECB506AB820B12B903": {
+			"id": "22D9CC1D067E4CECB506AB820B12B903",
+			"asnIdentifier": "S2545711",
+			"position": 241000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.5",
+			"description": "Explain the court system of the State of California, including the different types of state courts and their jurisdictions.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5C25B5B8957A49A78D925AE3A9EE1680": {
+			"id": "5C25B5B8957A49A78D925AE3A9EE1680",
+			"asnIdentifier": "S2545710",
+			"position": 240000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "Become familiar with educational and experiential requirements needed to establish and maintain successful careers in each practice area.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D97797EF841249278C16D40A153FABF1": {
+			"id": "D97797EF841249278C16D40A153FABF1",
+			"asnIdentifier": "S2545709",
+			"position": 239000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Identify, by practice area, the types of clients served and related legal needs and issues.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"2CE76C0B13A64B8CAC71EFCBD7DE72FD": {
+			"id": "2CE76C0B13A64B8CAC71EFCBD7DE72FD",
+			"asnIdentifier": "S2545708",
+			"position": 238000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "Identify the primary legal practice settings (e.g., private firms, government and public sector entities, corporate counsel, and public interest practice), and explain the nature and scope of each practice area.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6B741884964F408980EAE009ECDFDEC5": {
+			"id": "6B741884964F408980EAE009ECDFDEC5",
+			"asnIdentifier": "S2545707",
+			"position": 237000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Describe the different levels of federal courts and their jurisdictions.",
+			"ancestorIds": [
+				"50F0E3B1D9394E51B9F0AF87D4D93A98",
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"50F0E3B1D9394E51B9F0AF87D4D93A98": {
+			"id": "50F0E3B1D9394E51B9F0AF87D4D93A98",
+			"asnIdentifier": "S2545706",
+			"position": 236000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Demonstrate an understanding of the state and federal justice system, the Rule of Law, and the environment/practice settings for legal professionals.",
+			"ancestorIds": [
+				"57672D7D5FCE4B7298903CC6AA0D1551",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"57672D7D5FCE4B7298903CC6AA0D1551": {
+			"id": "57672D7D5FCE4B7298903CC6AA0D1551",
+			"asnIdentifier": "S2545705",
+			"position": 235000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Legal Practices",
+			"comments": [
+				"The Legal Practices pathway prepares students with a broad-based foundation of knowledge pertaining to the various types of law and of legal practice and provides a foundation of basic skills necessary at all levels in the legal professions."
+			],
+			"ancestorIds": [
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"1DF51352C123431CA694BFB45DCCFDC9": {
+			"id": "1DF51352C123431CA694BFB45DCCFDC9",
+			"asnIdentifier": "S2545704",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.9",
+			"description": "Build a plan describing processes and procedures to follow prior to, during, and after a wildfire event.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6259F2F65E4840758D00086F0FCBE8BB": {
+			"id": "6259F2F65E4840758D00086F0FCBE8BB",
+			"asnIdentifier": "S2545703",
+			"position": 233000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.8",
+			"description": "Describe and evaluate the importance of the various types of equipment used to control and/or extinguish wildland fires.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"FB9509B2DC4E4885A0F9F610F30D5DFB": {
+			"id": "FB9509B2DC4E4885A0F9F610F30D5DFB",
+			"asnIdentifier": "S2545702",
+			"position": 232000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.7",
+			"description": "Recognize factors that influence the start and spread of wildland fires.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"859EE5B1A83244F2909FA4FA7EE8019C": {
+			"id": "859EE5B1A83244F2909FA4FA7EE8019C",
+			"asnIdentifier": "S2545701",
+			"position": 231000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.6",
+			"description": "Evaluate the importance of the fire suppression aviation program.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C1ABA08E00A14F2FA599914C35E0F217": {
+			"id": "C1ABA08E00A14F2FA599914C35E0F217",
+			"asnIdentifier": "S2545700",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.5",
+			"description": "Create a state map showing the locations of wildland lookouts, and describe the lookouts' purpose and staffing.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5E171D61DDF84A499663C905EC651D0E": {
+			"id": "5E171D61DDF84A499663C905EC651D0E",
+			"asnIdentifier": "S2545699",
+			"position": 229000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.4",
+			"description": "Assess the value of the resource management program, including the impact on timber, watershed, wildlife, and recreation.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F80D96E0E48046A5BC5AB97F9F578D26": {
+			"id": "F80D96E0E48046A5BC5AB97F9F578D26",
+			"asnIdentifier": "S2545698",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.3",
+			"description": "Describe fire prevention and planning procedures to save wildland structures during a forest fire.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"86EF32E192D347C98EC5F063D8968092": {
+			"id": "86EF32E192D347C98EC5F063D8968092",
+			"asnIdentifier": "S2545697",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.2",
+			"description": "Explain the role of fire personnel in wildland fires, structure fires, auto accidents, medical aid, swift-water rescue, civil disturbances, search and rescue operations, hazardous material spills, train wrecks, floods, and earthquakes.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"0D52722FFA6B4426995C2234B42D81C5": {
+			"id": "0D52722FFA6B4426995C2234B42D81C5",
+			"asnIdentifier": "S2545696",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B10.1",
+			"description": "Describe wildland firefighter safety and survival preparations.",
+			"ancestorIds": [
+				"EEB600391702434A8D9CDAA24B577F85",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EEB600391702434A8D9CDAA24B577F85": {
+			"id": "EEB600391702434A8D9CDAA24B577F85",
+			"asnIdentifier": "S2545695",
+			"position": 225000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B10.0",
+			"description": "Analyze and describe the functions and responsibilities of federal, state, and local wildland services.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"19653D7BBF374E5BBEEEB9F5C5D1DC7B": {
+			"id": "19653D7BBF374E5BBEEEB9F5C5D1DC7B",
+			"asnIdentifier": "S2545694",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.11",
+			"description": "Describe the function of emergency vehicles, use of medical and communication equipment, and the necessity of maintaining inventory as required for emergency services practices and procedures.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"8CF63C2AF85E469A9BC3CCC60D1D509B": {
+			"id": "8CF63C2AF85E469A9BC3CCC60D1D509B",
+			"asnIdentifier": "S2545693",
+			"position": 223000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.10",
+			"description": "Demonstrate the ability to receive and provide patient-care information to other medical providers.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"CCE793A2489B4B94BE3863D31955A4F4": {
+			"id": "CCE793A2489B4B94BE3863D31955A4F4",
+			"asnIdentifier": "S2545692",
+			"position": 222000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.9",
+			"description": "Communicate with treatment-center staff to arrange reception of victims and to get instructions for further treatment.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"57D82FA8C7B94694985A4D39DC9D0672": {
+			"id": "57D82FA8C7B94694985A4D39DC9D0672",
+			"asnIdentifier": "S2545691",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.8",
+			"description": "Demonstrate the ability to assess the nature and extent of an illness or injury to establish and prioritize medical response.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3C494AB28AC34715AC365DEBB828B1C8": {
+			"id": "3C494AB28AC34715AC365DEBB828B1C8",
+			"asnIdentifier": "S2545690",
+			"position": 220000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.7",
+			"description": "Execute protocols in emergency management response when working with an on-scene accident.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EE3A4692AEE44B41906F5EE80B135575": {
+			"id": "EE3A4692AEE44B41906F5EE80B135575",
+			"asnIdentifier": "S2545689",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.6",
+			"description": "Manage an incident scene as the first responder, using emergency response skills appropriate to training and certification.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"AB8B223C775C494A8485AAEFCA87B628": {
+			"id": "AB8B223C775C494A8485AAEFCA87B628",
+			"asnIdentifier": "S2545688",
+			"position": 218000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.5",
+			"description": "Demonstrate administration of a limited number of drugs appropriate to the scope of practice.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"2EAD73D240894DCAA4467BA92C19FDC3": {
+			"id": "2EAD73D240894DCAA4467BA92C19FDC3",
+			"asnIdentifier": "S2545687",
+			"position": 217000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.4",
+			"description": "Follow instructions for immediate care procedure as transmitted by an emergency medical dispatcher during transport.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"CBCC610899C645338B69889133521542": {
+			"id": "CBCC610899C645338B69889133521542",
+			"asnIdentifier": "S2545686",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.3",
+			"description": "Perform technical skill and equipment use required for emergency response occupations—for example, airway, oxygen, and ventilation procedures; suction; bleeding control; shock management; cardiac arrest management; immobilization techniques; traction; splinting; transport; defibrillation; and wound management.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"22BA5EC84BEC4878B9C1A0532E8AB495": {
+			"id": "22BA5EC84BEC4878B9C1A0532E8AB495",
+			"asnIdentifier": "S2545685",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.2",
+			"description": "Know the common acronyms used in fire and emergency services.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"ABF646FDEA5D47E58DDD3B7CF1B7A092": {
+			"id": "ABF646FDEA5D47E58DDD3B7CF1B7A092",
+			"asnIdentifier": "S2545684",
+			"position": 214000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.1",
+			"description": "Understand and use medical terminology and related knowledge of anatomy, physiology, diseases, diagnoses, pharmacology, therapeutics, and common abbreviations necessary for emergency medical services.",
+			"ancestorIds": [
+				"3A6452DFD63D487F93FC58706A4115E8",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3A6452DFD63D487F93FC58706A4115E8": {
+			"id": "3A6452DFD63D487F93FC58706A4115E8",
+			"asnIdentifier": "S2545683",
+			"position": 213000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B9.0",
+			"description": "Demonstrate the immediate basic life support and interim medical care for a sick, injured, or compromised person until advanced medical care is provided or transport is initiated.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"533DED0577BB4BD2B649A776E105FC80": {
+			"id": "533DED0577BB4BD2B649A776E105FC80",
+			"asnIdentifier": "S2545682",
+			"position": 212000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.8",
+			"description": "Participate in public education aimed at reducing loss of life and property, through programs and activities on fire prevention and safety as well as other injury-prevention education.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"CA4DA592842E4A1C9781BF247FE80231": {
+			"id": "CA4DA592842E4A1C9781BF247FE80231",
+			"asnIdentifier": "S2545681",
+			"position": 211000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.7",
+			"description": "Apply principles of proper body mechanics, including ergonomics, equipment use, and techniques to prevent personal injury.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"23892583C86940B5AEBDEE0296C929DE": {
+			"id": "23892583C86940B5AEBDEE0296C929DE",
+			"asnIdentifier": "S2545680",
+			"position": 210000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.6",
+			"description": "Identify structural characteristics of building construction types as they relate to fire protection and suppression, and recognize the signs and causes of potential building collapse and other hazards.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EE8EA88CC2534C9198F2CB5E8EA112E7": {
+			"id": "EE8EA88CC2534C9198F2CB5E8EA112E7",
+			"asnIdentifier": "S2545679",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.5",
+			"description": "Demonstrate the skills necessary to perform fire suppression and basic rescue operations using firefighting techniques and rescue equipment.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DE984263BE084B20A75EB85ACE9E0DA6": {
+			"id": "DE984263BE084B20A75EB85ACE9E0DA6",
+			"asnIdentifier": "S2545678",
+			"position": 208000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.4",
+			"description": "Demonstrate the operation of fire protection equipment and systems.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"FDEE76D2914E4441A077C877215C8C91": {
+			"id": "FDEE76D2914E4441A077C877215C8C91",
+			"asnIdentifier": "S2545677",
+			"position": 207000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.3",
+			"description": "Explain the fundamentals and scientific principles of fire behavior, combustible materials, extinguishing agents, hazardous and toxic materials, forms of energy, and fire prevention/suppression techniques for all types of fires and conditions.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"427AF6C12F914F4C872F7E53B5C4F0C6": {
+			"id": "427AF6C12F914F4C872F7E53B5C4F0C6",
+			"asnIdentifier": "S2545676",
+			"position": 206000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.2",
+			"description": "Describe the skills and knowledge necessary for an entry-level firefighter to safely perform the tasks required of the job.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E7BCE35736B14F1ABFB0EE72492801E8": {
+			"id": "E7BCE35736B14F1ABFB0EE72492801E8",
+			"asnIdentifier": "S2545675",
+			"position": 205000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.1",
+			"description": "Understand the history, organization, and operation of fire services.",
+			"ancestorIds": [
+				"16CC12742CD1403ABB3C9E5F95274064",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"16CC12742CD1403ABB3C9E5F95274064": {
+			"id": "16CC12742CD1403ABB3C9E5F95274064",
+			"asnIdentifier": "S2545674",
+			"position": 204000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B8.0",
+			"description": "Understand the fundamental mission of fire services occupations and the responsibility to preserve life and property, promote public safety, and reduce fire deaths.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"BA8614E08F2746FCB794D697A136588A": {
+			"id": "BA8614E08F2746FCB794D697A136588A",
+			"asnIdentifier": "S2545673",
+			"position": 203000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.5",
+			"description": "Research and report on the most common incidents involving hazardous materials.",
+			"ancestorIds": [
+				"334A94A5DCAB47188AC8BD33C6DBC7DC",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4C9309D8C814435795780373061B68DE": {
+			"id": "4C9309D8C814435795780373061B68DE",
+			"asnIdentifier": "S2545672",
+			"position": 202000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.4",
+			"description": "Explain the steps taken, including appropriate personnel and safety measures, for a hazardous-material release.",
+			"ancestorIds": [
+				"334A94A5DCAB47188AC8BD33C6DBC7DC",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"9B1B2E3090E34FFFAC2D89F6D742D610": {
+			"id": "9B1B2E3090E34FFFAC2D89F6D742D610",
+			"asnIdentifier": "S2545671",
+			"position": 201000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Describe the type of damage and injury that can occur if hazardous materials are handled improperly.",
+			"ancestorIds": [
+				"334A94A5DCAB47188AC8BD33C6DBC7DC",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3EB44B18D44747EB913836C0EA47AEE9": {
+			"id": "3EB44B18D44747EB913836C0EA47AEE9",
+			"asnIdentifier": "S2545670",
+			"position": 200000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Describe the hazardous materials labeling system and identify definitions associated with various hazardous materials.",
+			"ancestorIds": [
+				"334A94A5DCAB47188AC8BD33C6DBC7DC",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3F3F0FC5CA2C4EBE8DBE7591F6631A51": {
+			"id": "3F3F0FC5CA2C4EBE8DBE7591F6631A51",
+			"asnIdentifier": "S2545669",
+			"position": 199000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Describe commonly encountered hazardous materials.",
+			"ancestorIds": [
+				"334A94A5DCAB47188AC8BD33C6DBC7DC",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"334A94A5DCAB47188AC8BD33C6DBC7DC": {
+			"id": "334A94A5DCAB47188AC8BD33C6DBC7DC",
+			"asnIdentifier": "S2545668",
+			"position": 198000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B7.0",
+			"description": "Research and define what is considered to be hazardous materials incidents and threats.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3996EF4105CB417482D1968A2977F345": {
+			"id": "3996EF4105CB417482D1968A2977F345",
+			"asnIdentifier": "S2545667",
+			"position": 197000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.5",
+			"description": "Recognize the importance and variety of recovery strategies to support individuals and communities impacted by a catastrophic event.",
+			"ancestorIds": [
+				"7B8745C72E5248ECBB8DFC645B9E9449",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A40058835093471798E31E19BD24798D": {
+			"id": "A40058835093471798E31E19BD24798D",
+			"asnIdentifier": "S2545666",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.4",
+			"description": "Prepare an emergency preparedness and response plan that includes the roles of emergency response personnel for a potential catastrophic event in the community.",
+			"ancestorIds": [
+				"7B8745C72E5248ECBB8DFC645B9E9449",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"9BB4495ABE884FE481061304F5BEB026": {
+			"id": "9BB4495ABE884FE481061304F5BEB026",
+			"asnIdentifier": "S2545665",
+			"position": 195000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.3",
+			"description": "Review a hazard mitigation plan to reduce death and injury for potential man-made and natural hazards.",
+			"ancestorIds": [
+				"7B8745C72E5248ECBB8DFC645B9E9449",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F1E6B31E9EF34CE6A2314E3C6A9D6592": {
+			"id": "F1E6B31E9EF34CE6A2314E3C6A9D6592",
+			"asnIdentifier": "S2545664",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Analyze the history and outcomes of catastrophic events and the appropriate emergency responses.",
+			"ancestorIds": [
+				"7B8745C72E5248ECBB8DFC645B9E9449",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"25C616D618D849D4A1F132D1B79EF6E1": {
+			"id": "25C616D618D849D4A1F132D1B79EF6E1",
+			"asnIdentifier": "S2545663",
+			"position": 193000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Describe steps for each potential catastrophic event.",
+			"ancestorIds": [
+				"7B8745C72E5248ECBB8DFC645B9E9449",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"7B8745C72E5248ECBB8DFC645B9E9449": {
+			"id": "7B8745C72E5248ECBB8DFC645B9E9449",
+			"asnIdentifier": "S2545662",
+			"position": 192000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Understand the roles of federal, state, and local agencies in catastrophic event planning, preparation, response, and recovery.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4357211B74264FE882FD0F087489C9E9": {
+			"id": "4357211B74264FE882FD0F087489C9E9",
+			"asnIdentifier": "S2545661",
+			"position": 191000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.5",
+			"description": "Recognize and understand the importance of maintaining psychological health and well-being in emergency response occupations.",
+			"ancestorIds": [
+				"09E079B898E94E05AA4F685A01C848F7",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C64397B2307B4D7BB6250D158962C824": {
+			"id": "C64397B2307B4D7BB6250D158962C824",
+			"asnIdentifier": "S2545660",
+			"position": 190000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.4",
+			"description": "Design and implement a personal plan for achieving and maintaining an acceptable level of nutrition, strength and agility, and a lifetime fitness mindset.",
+			"ancestorIds": [
+				"09E079B898E94E05AA4F685A01C848F7",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3E889A61F1194CDAB39A1FAE8DDAFDE3": {
+			"id": "3E889A61F1194CDAB39A1FAE8DDAFDE3",
+			"asnIdentifier": "S2545659",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.3",
+			"description": "Apply the skills and techniques necessary for success in strength and agility testing.",
+			"ancestorIds": [
+				"09E079B898E94E05AA4F685A01C848F7",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D3083A7CD42E4522B048C64C4F64CEEC": {
+			"id": "D3083A7CD42E4522B048C64C4F64CEEC",
+			"asnIdentifier": "S2545658",
+			"position": 188000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Recognize the different physical strength and agility assessments required for entrance into emergency response employment.",
+			"ancestorIds": [
+				"09E079B898E94E05AA4F685A01C848F7",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6F91DD49C355403B814344F1174FE3B6": {
+			"id": "6F91DD49C355403B814344F1174FE3B6",
+			"asnIdentifier": "S2545657",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Understand that physical fitness and proper nutrition are needed to perform the duties of emergency response personnel.",
+			"ancestorIds": [
+				"09E079B898E94E05AA4F685A01C848F7",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"09E079B898E94E05AA4F685A01C848F7": {
+			"id": "09E079B898E94E05AA4F685A01C848F7",
+			"asnIdentifier": "S2545656",
+			"position": 186000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Develop the level of nutrition, fitness, strength, agility, and psychological health and well-being required for safely working in emergency response career fields.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"BFF9F4B6BC1643F98718B2C1FFE7853B": {
+			"id": "BFF9F4B6BC1643F98718B2C1FFE7853B",
+			"asnIdentifier": "S2545655",
+			"position": 185000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.6",
+			"description": "Complete certification in emergency care as appropriate—for example, cardiopulmonary resuscitation (CPR), automated external defibrillator (AED), and first aid.",
+			"ancestorIds": [
+				"4C6AA965883E4FC19011EFA6E45DCCD1",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"1EBB7EA0589A490EA6D4F36C7887AFE4": {
+			"id": "1EBB7EA0589A490EA6D4F36C7887AFE4",
+			"asnIdentifier": "S2545654",
+			"position": 184000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Demonstrate strategies to identify and eliminate hazards.",
+			"ancestorIds": [
+				"4C6AA965883E4FC19011EFA6E45DCCD1",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DA658C7CFDB6449294D2117F485A5BEC": {
+			"id": "DA658C7CFDB6449294D2117F485A5BEC",
+			"asnIdentifier": "S2545653",
+			"position": 183000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Understand and adhere to comprehensive and systematic risk management strategies to reduce injury and fatalities for self, team, and community.",
+			"ancestorIds": [
+				"4C6AA965883E4FC19011EFA6E45DCCD1",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F119E99C603540F5AA440F44661F7902": {
+			"id": "F119E99C603540F5AA440F44661F7902",
+			"asnIdentifier": "S2545652",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Know how to establish situational awareness, identify hazards, and assess personal, team, or environmental risks.",
+			"ancestorIds": [
+				"4C6AA965883E4FC19011EFA6E45DCCD1",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"8C8F86C5C4214536B3E365344863A02A": {
+			"id": "8C8F86C5C4214536B3E365344863A02A",
+			"asnIdentifier": "S2545651",
+			"position": 181000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Know and use the appropriate personal protective equipment (PPE) required for emergency services duties.",
+			"ancestorIds": [
+				"4C6AA965883E4FC19011EFA6E45DCCD1",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C744375160744F9FA4F5C4BF378B3D8F": {
+			"id": "C744375160744F9FA4F5C4BF378B3D8F",
+			"asnIdentifier": "S2545650",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Describe the basic elements of safety and survival for emergency response personnel.",
+			"ancestorIds": [
+				"4C6AA965883E4FC19011EFA6E45DCCD1",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4C6AA965883E4FC19011EFA6E45DCCD1": {
+			"id": "4C6AA965883E4FC19011EFA6E45DCCD1",
+			"asnIdentifier": "S2545649",
+			"position": 179000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B4.0",
+			"description": "Execute safety procedures and protocols associated with local, state, and federal regulations in order to effectively and safely conduct duties within fire and emergency services.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"24D0D2CFD63944F5A18197809961CB43": {
+			"id": "24D0D2CFD63944F5A18197809961CB43",
+			"asnIdentifier": "S2545648",
+			"position": 178000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.10",
+			"description": "Gather information and ideas from primary and secondary sources accurately and coherently.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6C6B65C165BD4AEB8714FF49ADF40152": {
+			"id": "6C6B65C165BD4AEB8714FF49ADF40152",
+			"asnIdentifier": "S2545647",
+			"position": 177000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.9",
+			"description": "Practice verbal and nonverbal emergency terminology and communication techniques to be used when interacting with emergency response personnel in a variety of emergency situations.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E697260090D2405FA4839CC06EF65800": {
+			"id": "E697260090D2405FA4839CC06EF65800",
+			"asnIdentifier": "S2545646",
+			"position": 176000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.8",
+			"description": "Use and maintain a variety of communication equipment, understanding the importance of using current and up-to-date technology and communication equipment.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"49CE7E8CDCDB4677B710B0C85D99B208": {
+			"id": "49CE7E8CDCDB4677B710B0C85D99B208",
+			"asnIdentifier": "S2545645",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.7",
+			"description": "Use appropriate terminology in clear, concise, and legible report entries when preparing and submitting required reports.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"545EC7DBAA5A4906B9AC85C43025B600": {
+			"id": "545EC7DBAA5A4906B9AC85C43025B600",
+			"asnIdentifier": "S2545644",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.6",
+			"description": "Adhere to Health Insurance Portability and Accountability Act (HIPAA) regulations and agency guidelines regarding public and media communications.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F0BADB54FC724C348D7FC5E992528826": {
+			"id": "F0BADB54FC724C348D7FC5E992528826",
+			"asnIdentifier": "S2545643",
+			"position": 173000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.5",
+			"description": "Demonstrate a variety of appropriate and effective methods of communicating with the public, including techniques such as professional demeanor, active listening, empathy, projecting a confident tone of voice, paraphrasing, and the proper use of nonverbal body language.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"AAE9ABCE983441119C5C411C642BF5BC": {
+			"id": "AAE9ABCE983441119C5C411C642BF5BC",
+			"asnIdentifier": "S2545642",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.4",
+			"description": "Describe emergency response techniques and methods of active listening to obtain and clarify information in oral communications.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DEEA29A7B8944F53809058B5707F5F98": {
+			"id": "DEEA29A7B8944F53809058B5707F5F98",
+			"asnIdentifier": "S2545641",
+			"position": 171000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Employ active listening, concise reporting, and familiarity with emergency response communication equipment to interact efficiently and effectively.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"38E78B55DD3248E9B3A5CEFF0D655704": {
+			"id": "38E78B55DD3248E9B3A5CEFF0D655704",
+			"asnIdentifier": "S2545640",
+			"position": 170000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in community and workplace settings.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E10F7B2209164C9FB466223B7B8F0400": {
+			"id": "E10F7B2209164C9FB466223B7B8F0400",
+			"asnIdentifier": "S2545639",
+			"position": 169000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in emergency services.",
+			"ancestorIds": [
+				"339000393FE14D0AAC9939E8BFF27627",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"339000393FE14D0AAC9939E8BFF27627": {
+			"id": "339000393FE14D0AAC9939E8BFF27627",
+			"asnIdentifier": "S2545638",
+			"position": 168000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B3.0",
+			"description": "Demonstrate necessary leadership qualities, team concepts, and personal integrity for emergency response personnel.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"B42EB36BF42248A8808308AF2FAAE123": {
+			"id": "B42EB36BF42248A8808308AF2FAAE123",
+			"asnIdentifier": "S2545637",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.7",
+			"description": "Design an emergency plan for an earthquake in a major metropolitan area that has shut off access from all directions.",
+			"ancestorIds": [
+				"AD6B4367DA7E461F9EACB27EFE8A907C",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"438A96AABFA04CFEA4F853A4315B9679": {
+			"id": "438A96AABFA04CFEA4F853A4315B9679",
+			"asnIdentifier": "S2545636",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.6",
+			"description": "Review a simulated local hazard mitigation plan based on a potential hazard to the community, and describe the appropriate response.",
+			"ancestorIds": [
+				"AD6B4367DA7E461F9EACB27EFE8A907C",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"2187C21AE06F44478A77E485FB52FDFF": {
+			"id": "2187C21AE06F44478A77E485FB52FDFF",
+			"asnIdentifier": "S2545635",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.5",
+			"description": "Describe the principles and responsibilities of the Incident Command System (ICS) and the National Incident Management System (NIMS).",
+			"ancestorIds": [
+				"AD6B4367DA7E461F9EACB27EFE8A907C",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F3D3CA454FB745CE970A1DFD15A56D9A": {
+			"id": "F3D3CA454FB745CE970A1DFD15A56D9A",
+			"asnIdentifier": "S2545634",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.4",
+			"description": "Recognize multiagency coordination; unified command, training, identification and management of resources; qualification and certification; and the collection, tracking, evaluation, and dissemination of information.",
+			"ancestorIds": [
+				"AD6B4367DA7E461F9EACB27EFE8A907C",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3F1186DD50F84138AB3C8C352F793C58": {
+			"id": "3F1186DD50F84138AB3C8C352F793C58",
+			"asnIdentifier": "S2545633",
+			"position": 163000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.3",
+			"description": "Understand the core set of basic concepts, principles, terminology, and technologies of emergency response management.",
+			"ancestorIds": [
+				"AD6B4367DA7E461F9EACB27EFE8A907C",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"385C94EA7BD74C5CBE3CA3FC4D93E4B7": {
+			"id": "385C94EA7BD74C5CBE3CA3FC4D93E4B7",
+			"asnIdentifier": "S2545632",
+			"position": 162000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Understand the importance of an organized Command and Control System to provide for interoperability, efficiency, and effectiveness.",
+			"ancestorIds": [
+				"AD6B4367DA7E461F9EACB27EFE8A907C",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"432CC9E1E2AD4253A1AF3D62DFBF30DD": {
+			"id": "432CC9E1E2AD4253A1AF3D62DFBF30DD",
+			"asnIdentifier": "S2545631",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Describe the mechanisms by which emergency management stakeholder agencies and resources are coordinated for mutual aid.",
+			"ancestorIds": [
+				"AD6B4367DA7E461F9EACB27EFE8A907C",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"AD6B4367DA7E461F9EACB27EFE8A907C": {
+			"id": "AD6B4367DA7E461F9EACB27EFE8A907C",
+			"asnIdentifier": "S2545630",
+			"position": 160000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Understand the processes by which emergency management organizations and emergency managers exert command and control over an emergency response and recovery operation.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5B076B571A3E4288A738473C7B5D2294": {
+			"id": "5B076B571A3E4288A738473C7B5D2294",
+			"asnIdentifier": "S2545629",
+			"position": 159000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.5",
+			"description": "Summarize the laws, regulations, and organizational protocols that define the guidelines governing selected emergency agencies and services.",
+			"ancestorIds": [
+				"DB47D0DB6D0D4E3A96EE2EFA7A7F814F",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DE0090AA41704CF4A816710799F5EDED": {
+			"id": "DE0090AA41704CF4A816710799F5EDED",
+			"asnIdentifier": "S2545628",
+			"position": 158000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.4",
+			"description": "Describe the roles and responsibilities of emergency response agencies.",
+			"ancestorIds": [
+				"DB47D0DB6D0D4E3A96EE2EFA7A7F814F",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D12AA6A984444F1B9AA118100258130B": {
+			"id": "D12AA6A984444F1B9AA118100258130B",
+			"asnIdentifier": "S2545627",
+			"position": 157000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Outline a realistic program of study (education plan) based on career choice, job-entry requirements, and personal commitment.",
+			"ancestorIds": [
+				"DB47D0DB6D0D4E3A96EE2EFA7A7F814F",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"9B08792922E84A9C9F73F8902CB2F33F": {
+			"id": "9B08792922E84A9C9F73F8902CB2F33F",
+			"asnIdentifier": "S2545626",
+			"position": 156000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "List the standards for emergency response employee qualifications, training, and certification.",
+			"ancestorIds": [
+				"DB47D0DB6D0D4E3A96EE2EFA7A7F814F",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"CA966049DB8744459CBEBB8913849F10": {
+			"id": "CA966049DB8744459CBEBB8913849F10",
+			"asnIdentifier": "S2545625",
+			"position": 155000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Understand the responsibilities, requirements, and advancement opportunities in emergency response careers.",
+			"ancestorIds": [
+				"DB47D0DB6D0D4E3A96EE2EFA7A7F814F",
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DB47D0DB6D0D4E3A96EE2EFA7A7F814F": {
+			"id": "DB47D0DB6D0D4E3A96EE2EFA7A7F814F",
+			"asnIdentifier": "S2545624",
+			"position": 154000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Analyze the characteristics of different career fields within the Emergency Response pathway to develop a perspective on the nature of the work, entry-level requirements, career options, and expectations.",
+			"ancestorIds": [
+				"7F101A5F38934D238BEA938C09F0DC2A",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"7F101A5F38934D238BEA938C09F0DC2A": {
+			"id": "7F101A5F38934D238BEA938C09F0DC2A",
+			"asnIdentifier": "S2545623",
+			"position": 153000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Emergency Response",
+			"comments": [
+				"The Emergency Response pathway encompasses standards for designing student coursework in preparation for a number of careers in this field. The standards provide the foundation for further professional education and training at a postsecondary level, leading to certification and employment. By mastering these standards, students gain critical knowledge and skills through classroom and job-site experiences, simulations, and other learning modalities. Careers in this pathway include those in fire services, emergency medical services, wildland services, and emergency management."
+			],
+			"ancestorIds": [
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"69487AC8622F4CC69B8A84010758A051": {
+			"id": "69487AC8622F4CC69B8A84010758A051",
+			"asnIdentifier": "S2544847",
+			"position": 152000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.6",
+			"description": "Understand the potential impact of assignments to \"hardship posts\" and dangerous posts on life and family choices.",
+			"ancestorIds": [
+				"A6BD77DA8BBF43D795C399AEF8671104",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E15CEC1A07F240EDA29A5482E0979B58": {
+			"id": "E15CEC1A07F240EDA29A5482E0979B58",
+			"asnIdentifier": "S2544846",
+			"position": 151000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.5",
+			"description": "Describe the countries and settings in which Foreign Service Officers serve.",
+			"ancestorIds": [
+				"A6BD77DA8BBF43D795C399AEF8671104",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"17FCB6B8C0BA4DB7AF944C215023AFED": {
+			"id": "17FCB6B8C0BA4DB7AF944C215023AFED",
+			"asnIdentifier": "S2544845",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.4",
+			"description": "Research the history of the Foreign Service and describe how its careers have evolved and how the Foreign Service has impacted the United States and other societies.",
+			"ancestorIds": [
+				"A6BD77DA8BBF43D795C399AEF8671104",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"B08108C65488434A8827F5F3D8DB9664": {
+			"id": "B08108C65488434A8827F5F3D8DB9664",
+			"asnIdentifier": "S2544844",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.3",
+			"description": "Describe the roles and responsibilities of different career tracks within the Foreign Service: Consular Officers, Economic Officers, Management Officers, Political Officers, and Public Diplomacy Officers.",
+			"ancestorIds": [
+				"A6BD77DA8BBF43D795C399AEF8671104",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C5BA7B77D378492CBB3D9D7D46D31C42": {
+			"id": "C5BA7B77D378492CBB3D9D7D46D31C42",
+			"asnIdentifier": "S2544843",
+			"position": 148000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.2",
+			"description": "Describe the primary mission and role of the Foreign Service.",
+			"ancestorIds": [
+				"A6BD77DA8BBF43D795C399AEF8671104",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D3DF2E9E283947519CECFE87E18D91A2": {
+			"id": "D3DF2E9E283947519CECFE87E18D91A2",
+			"asnIdentifier": "S2544842",
+			"position": 147000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A9.1",
+			"description": "Describe the primary mission of the U.S. Department of State and the role of the Foreign Service within that Department.",
+			"ancestorIds": [
+				"A6BD77DA8BBF43D795C399AEF8671104",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"A6BD77DA8BBF43D795C399AEF8671104": {
+			"id": "A6BD77DA8BBF43D795C399AEF8671104",
+			"asnIdentifier": "S2544841",
+			"position": 146000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A9.0",
+			"description": "Demonstrate an understanding of the functions of the U.S. Foreign Service.",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"73E4418A08294FF0855F4DBD5B56B123": {
+			"id": "73E4418A08294FF0855F4DBD5B56B123",
+			"asnIdentifier": "S2544840",
+			"position": 145000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.8",
+			"description": "Analyze the various elements of emergency preparedness, including emergency response and recovery, within the context of homeland security.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4B89F87942754FD0A10ABC59858EEBDE": {
+			"id": "4B89F87942754FD0A10ABC59858EEBDE",
+			"asnIdentifier": "S2544839",
+			"position": 144000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.7",
+			"description": "Survey the roles, functions, and interdependency among local, federal, and international law enforcement, intelligence, and military agencies.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"7181FFE57C2D421087408C4D9DE5E297": {
+			"id": "7181FFE57C2D421087408C4D9DE5E297",
+			"asnIdentifier": "S2544838",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.6",
+			"description": "Understand the role of cyber-security professionals within the homeland defense community and the methods and techniques used to combat public and private cyber attacks.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"AD518770F4E149D39826C8D0632848CF": {
+			"id": "AD518770F4E149D39826C8D0632848CF",
+			"asnIdentifier": "S2544837",
+			"position": 142000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.5",
+			"description": "List the various techniques and methods of infrastructure and facilities protection.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C44647A443504B8AADCE472773B811F1": {
+			"id": "C44647A443504B8AADCE472773B811F1",
+			"asnIdentifier": "S2544836",
+			"position": 141000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.4",
+			"description": "Identify the current global and national issues and policies concerning terrorism and homeland security.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"842E7EEC643B49D09431DE05ACA6B889": {
+			"id": "842E7EEC643B49D09431DE05ACA6B889",
+			"asnIdentifier": "S2544835",
+			"position": 140000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.3",
+			"description": "Recognize the impact of the September 11, 2001, terror attacks on the security and intelligence community structure and the resulting emphasis placed on coordination and cooperation between public safety agencies.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"FAD65F8BB6054B9C9FF11CA7ED6D9AEF": {
+			"id": "FAD65F8BB6054B9C9FF11CA7ED6D9AEF",
+			"asnIdentifier": "S2544834",
+			"position": 139000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.2",
+			"description": "Assess the local, state, national, and global perspectives on homeland security and the implications of protecting the public from natural and man-made threats to public safety.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F8878925F3824384927B26DBD7E29FAD": {
+			"id": "F8878925F3824384927B26DBD7E29FAD",
+			"asnIdentifier": "S2544833",
+			"position": 138000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.1",
+			"description": "Describe the mission, roles, and responsibilities of the U.S. Department of Homeland Security.",
+			"ancestorIds": [
+				"0D01F94107144CEEA214674ED4757E40",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"0D01F94107144CEEA214674ED4757E40": {
+			"id": "0D01F94107144CEEA214674ED4757E40",
+			"asnIdentifier": "S2544832",
+			"position": 137000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A8.0",
+			"description": "Demonstrate an understanding of the functions and career opportunities within the U.S. Department of Homeland Security (DHS).",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5807BC6D7C5246E3BDBD515F6F1CE67F": {
+			"id": "5807BC6D7C5246E3BDBD515F6F1CE67F",
+			"asnIdentifier": "S2544831",
+			"position": 136000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.7",
+			"description": "Understand the role and structure of federal agencies and national organizations.",
+			"ancestorIds": [
+				"72F84294F0C04EA08402F8FE8213462E",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"FE2374B4F56C4EB58D34E8CE4990C3DD": {
+			"id": "FE2374B4F56C4EB58D34E8CE4990C3DD",
+			"asnIdentifier": "S2544830",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.6",
+			"description": "Describe the need for, and the responsibilities of, the following functions within the DOD: armored security, maritime security and welfare, air superiority, space operations, and cyber security.",
+			"ancestorIds": [
+				"72F84294F0C04EA08402F8FE8213462E",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"B3D07A4BB9DB4BBA9BF02C2C8089FBB1": {
+			"id": "B3D07A4BB9DB4BBA9BF02C2C8089FBB1",
+			"asnIdentifier": "S2544829",
+			"position": 134000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.5",
+			"description": "Understand and adhere to the following personal attributes within the DOD: leadership, teamwork, fitness, honor, integrity, respect, selfless service, and personal courage.",
+			"ancestorIds": [
+				"72F84294F0C04EA08402F8FE8213462E",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EBE63C21B57C498BAFB65456B812C3AE": {
+			"id": "EBE63C21B57C498BAFB65456B812C3AE",
+			"asnIdentifier": "S2544828",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.4",
+			"description": "Describe the structure and composition of the DOD.",
+			"ancestorIds": [
+				"72F84294F0C04EA08402F8FE8213462E",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"7EA4B92BF94C4C5D8CFEC001F82CEFC8": {
+			"id": "7EA4B92BF94C4C5D8CFEC001F82CEFC8",
+			"asnIdentifier": "S2544827",
+			"position": 132000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Understand the initial entry assessments of physical, educational, and legal for military recruitment and levels of service.",
+			"ancestorIds": [
+				"72F84294F0C04EA08402F8FE8213462E",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"0AC8FFB404FC4CE0896B559CA6AEF200": {
+			"id": "0AC8FFB404FC4CE0896B559CA6AEF200",
+			"asnIdentifier": "S2544826",
+			"position": 131000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Understand the chain of command within organizations of the DOD.",
+			"ancestorIds": [
+				"72F84294F0C04EA08402F8FE8213462E",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4BB45923BDD94EC3A3BA5711F86ADA24": {
+			"id": "4BB45923BDD94EC3A3BA5711F86ADA24",
+			"asnIdentifier": "S2544825",
+			"position": 130000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Describe the mission and role of the DOD and the individual armed services.",
+			"ancestorIds": [
+				"72F84294F0C04EA08402F8FE8213462E",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"72F84294F0C04EA08402F8FE8213462E": {
+			"id": "72F84294F0C04EA08402F8FE8213462E",
+			"asnIdentifier": "S2544824",
+			"position": 129000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Demonstrate an understanding of the major elements and career opportunities within the United States Department of Defense (DOD), including the Army, Navy, Marine Corps, Air Force, and Coast Guard.",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3AE073E3FC3F495A9992C234ED763146": {
+			"id": "3AE073E3FC3F495A9992C234ED763146",
+			"asnIdentifier": "S2544823",
+			"position": 128000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.10",
+			"description": "Apply appropriate problem-solving strategies and critical-thinking skills to work-related issues and tasks.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"0D3491A39DC64DB69B8145D3E77318FD": {
+			"id": "0D3491A39DC64DB69B8145D3E77318FD",
+			"asnIdentifier": "S2544822",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.9",
+			"description": "Explain the management of crisis negotiations to promote the safety of individuals and the public.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D6037B440BFA47688EBC2BCAFB07740F": {
+			"id": "D6037B440BFA47688EBC2BCAFB07740F",
+			"asnIdentifier": "S2544821",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.8",
+			"description": "Implement procedures for emergency response and know the requirements for handling hazardous materials—in normal and emergency situations—to avoid health and environmental risks (e.g., airborne and blood-borne pathogens, contamination).",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"05C37F66BA5B4D7283C42A06FE0355CC": {
+			"id": "05C37F66BA5B4D7283C42A06FE0355CC",
+			"asnIdentifier": "S2544820",
+			"position": 125000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.7",
+			"description": "Practice basic emergency lifesaving techniques in order to apply those skills as needed in emergencies.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"9BC9907A4A6F4EE0A63E25BBC14CBEF6": {
+			"id": "9BC9907A4A6F4EE0A63E25BBC14CBEF6",
+			"asnIdentifier": "S2544819",
+			"position": 124000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.6",
+			"description": "Demonstrate the techniques for restraining individuals without violating their individual rights or jeopardizing safety.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4A179A3F9ABF4EB9A725BF0580257B4B": {
+			"id": "4A179A3F9ABF4EB9A725BF0580257B4B",
+			"asnIdentifier": "S2544818",
+			"position": 123000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.5",
+			"description": "Understand the safety and health issues related to serving persons with disabilities.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"1A849890A48F49B9B93EA8A2264E6E58": {
+			"id": "1A849890A48F49B9B93EA8A2264E6E58",
+			"asnIdentifier": "S2544817",
+			"position": 122000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.4",
+			"description": "List the key elements of an action plan.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EB63277BF4CF4EC48824DA3477856672": {
+			"id": "EB63277BF4CF4EC48824DA3477856672",
+			"asnIdentifier": "S2544816",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Become familiar with personal safety procedures to meet prescribed regulations and situations.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EAC5DDF310A14AF59868D163B643F0A4": {
+			"id": "EAC5DDF310A14AF59868D163B643F0A4",
+			"asnIdentifier": "S2544815",
+			"position": 120000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Identify the skills required to deal effectively with emergency situations.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E7FBDA2951E3417B9186377394B6876F": {
+			"id": "E7FBDA2951E3417B9186377394B6876F",
+			"asnIdentifier": "S2544814",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Know the principles of emergency communications management and the importance of technological interoperability for information sharing among public safety agencies and for effective public address/warning systems.",
+			"ancestorIds": [
+				"5FFED63BB18F4EC1A42EC3138A47246A",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"5FFED63BB18F4EC1A42EC3138A47246A": {
+			"id": "5FFED63BB18F4EC1A42EC3138A47246A",
+			"asnIdentifier": "S2544813",
+			"position": 118000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Know the skills and equipment needed to deal with various types of situations found in public safety occupations (e.g., working with special populations, responding to emergencies, and assisting with incidents).",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"455F284997BF4A37A703B005D4D386EB": {
+			"id": "455F284997BF4A37A703B005D4D386EB",
+			"asnIdentifier": "S2544812",
+			"position": 117000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Prepare a chart showing the organizational chain of command and other administrative systems to assign tasks and responsibilities for maximum effectiveness.",
+			"ancestorIds": [
+				"2162DA5EF2FB42FBBBD4A164EDCE3B58",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"209B98D808CD4613B2FA0C3909089B26": {
+			"id": "209B98D808CD4613B2FA0C3909089B26",
+			"asnIdentifier": "S2544811",
+			"position": 116000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Explain the importance of individual liberties and civil rights provided in the Constitution and how public safety workers should safeguard these rights when interacting with the public.",
+			"ancestorIds": [
+				"2162DA5EF2FB42FBBBD4A164EDCE3B58",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"781B7808586A46C19D5C45559A23B9CD": {
+			"id": "781B7808586A46C19D5C45559A23B9CD",
+			"asnIdentifier": "S2544810",
+			"position": 115000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "Describe how federal, state, and local laws and regulations affect public safety operations",
+			"ancestorIds": [
+				"2162DA5EF2FB42FBBBD4A164EDCE3B58",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"2162DA5EF2FB42FBBBD4A164EDCE3B58": {
+			"id": "2162DA5EF2FB42FBBBD4A164EDCE3B58",
+			"asnIdentifier": "S2544809",
+			"position": 114000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Understand the laws, ordinances, regulations, and organizational policies that guide public safety career fields.",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"8180AB9CA17147E6A3E7966F59D28B4E": {
+			"id": "8180AB9CA17147E6A3E7966F59D28B4E",
+			"asnIdentifier": "S2544808",
+			"position": 113000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.7",
+			"description": "Convey information and ideas from primary and secondary sources accurately and coherently, consistent with agency report-writing formats.",
+			"ancestorIds": [
+				"EAFCCEC3462D4740A103200F02A306DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D0BF880B1BCB4FDB8F28C8F4A408A93F": {
+			"id": "D0BF880B1BCB4FDB8F28C8F4A408A93F",
+			"asnIdentifier": "S2544807",
+			"position": 112000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.6",
+			"description": "Narrate a sequence of events consistent with agency reporting formats.",
+			"ancestorIds": [
+				"EAFCCEC3462D4740A103200F02A306DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"44E98D5014F74F65BD32248A1EC2F203": {
+			"id": "44E98D5014F74F65BD32248A1EC2F203",
+			"asnIdentifier": "S2544806",
+			"position": 111000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.5",
+			"description": "Practice public safety verbal communication techniques that can be used when interacting with difficult individuals.",
+			"ancestorIds": [
+				"EAFCCEC3462D4740A103200F02A306DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6282713929684F839E5817574BF1FD0E": {
+			"id": "6282713929684F839E5817574BF1FD0E",
+			"asnIdentifier": "S2544805",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.4",
+			"description": "Understand the professional use of a variety of communication methods and equipment.",
+			"ancestorIds": [
+				"EAFCCEC3462D4740A103200F02A306DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"796ECCBDF4B9487884F0E4D44BA1D8FD": {
+			"id": "796ECCBDF4B9487884F0E4D44BA1D8FD",
+			"asnIdentifier": "S2544804",
+			"position": 109000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Demonstrate the use of clear, concise, and legible entries based on experience and observation to prepare and submit required reports.",
+			"ancestorIds": [
+				"EAFCCEC3462D4740A103200F02A306DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F499D0514A4C4CA5B0CF92DC72514723": {
+			"id": "F499D0514A4C4CA5B0CF92DC72514723",
+			"asnIdentifier": "S2544803",
+			"position": 108000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Demonstrate effective methods of communicating with the public with a variety of techniques, such as command presence, active listening, and empathy; projecting a professional tone of voice; paraphrasing; and the proper use of nonverbal body language.",
+			"ancestorIds": [
+				"EAFCCEC3462D4740A103200F02A306DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"6EFA6764A3E2424DB179D5B80BFE2C1B": {
+			"id": "6EFA6764A3E2424DB179D5B80BFE2C1B",
+			"asnIdentifier": "S2544802",
+			"position": 107000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Know the basic techniques and methods of active listening to obtain and clarify information in oral communications.",
+			"ancestorIds": [
+				"EAFCCEC3462D4740A103200F02A306DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"EAFCCEC3462D4740A103200F02A306DD": {
+			"id": "EAFCCEC3462D4740A103200F02A306DD",
+			"asnIdentifier": "S2544801",
+			"position": 106000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Employ active listening, concise reporting, and familiarity with professional equipment to communicate effectively.",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"22D0651B0E3F4D2B8E9D7867BA35F9F6": {
+			"id": "22D0651B0E3F4D2B8E9D7867BA35F9F6",
+			"asnIdentifier": "S2544800",
+			"position": 105000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Design and implement a personal plan for achieving and maintaining an acceptable level of agility and a lifetime fitness mindset.",
+			"ancestorIds": [
+				"AA1E9037DFA04FADBD5C634100C5EED1",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3F29E1D8E2DE4BEBB497EE7B60AC8941": {
+			"id": "3F29E1D8E2DE4BEBB497EE7B60AC8941",
+			"asnIdentifier": "S2544799",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Recognize the different physical agility assessments required for entrance into a public safety career and understand the skills and techniques necessary for success in agility testing.",
+			"ancestorIds": [
+				"AA1E9037DFA04FADBD5C634100C5EED1",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"76E6EBD0027F487EB7EE68090B50FAA2": {
+			"id": "76E6EBD0027F487EB7EE68090B50FAA2",
+			"asnIdentifier": "S2544798",
+			"position": 103000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Understand the need for physical fitness and proper nutrition in the public safety career areas.",
+			"ancestorIds": [
+				"AA1E9037DFA04FADBD5C634100C5EED1",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"AA1E9037DFA04FADBD5C634100C5EED1": {
+			"id": "AA1E9037DFA04FADBD5C634100C5EED1",
+			"asnIdentifier": "S2544797",
+			"position": 102000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Demonstrate an understanding of the appropriate level of nutrition, fitness, and agility required by the public safety career fields.",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"9D5F73E95BF245DE928864B8EE27A8AE": {
+			"id": "9D5F73E95BF245DE928864B8EE27A8AE",
+			"asnIdentifier": "S2544796",
+			"position": 101000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.10",
+			"description": "Create a scenario that includes a potential threat from terrorism, a hostage situation, or danger at a school site, describing who should respond and actions that should be taken.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F81557EB970941D1A5DD2EC7D2419832": {
+			"id": "F81557EB970941D1A5DD2EC7D2419832",
+			"asnIdentifier": "S2544795",
+			"position": 100000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.9",
+			"description": "Analyze and evaluate ideas, proposals, and solutions to problems.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"DC1FA45876D34E2DA0E77DCD36925002": {
+			"id": "DC1FA45876D34E2DA0E77DCD36925002",
+			"asnIdentifier": "S2544794",
+			"position": 99000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.8",
+			"description": "Survey the history of public safety agencies in the United States and their influence on the current systems.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"CC7BDFC0237B4C22B763D14774D86EF2": {
+			"id": "CC7BDFC0237B4C22B763D14774D86EF2",
+			"asnIdentifier": "S2544793",
+			"position": 98000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.7",
+			"description": "Apply critical-thinking skills to manage emergency response situations.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"0B7091A5CB5E4DC29488F76934273802": {
+			"id": "0B7091A5CB5E4DC29488F76934273802",
+			"asnIdentifier": "S2544792",
+			"position": 97000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.6",
+			"description": "Use conflict-resolution and anger-management skills and procedures to resolve problems.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E5869ECB3237423991AFFDD7751CE461": {
+			"id": "E5869ECB3237423991AFFDD7751CE461",
+			"asnIdentifier": "S2544791",
+			"position": 96000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.5",
+			"description": "Analyze information to make prompt, effective, and appropriate decisions.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4BE8CD484C434559A01B2C5FC1343F90": {
+			"id": "4BE8CD484C434559A01B2C5FC1343F90",
+			"asnIdentifier": "S2544790",
+			"position": 95000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Identify the major public safety agencies at the international, national, state, and local levels, as well as scenarios (including response to catastrophic events with multiple casualties) that call for a referral to a higher-level agency or collaboration with other public safety agencies.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"1DF63EC547E340EA9F68E46A9589FE42": {
+			"id": "1DF63EC547E340EA9F68E46A9589FE42",
+			"asnIdentifier": "S2544789",
+			"position": 94000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Describe public safety agency roles in preventing terrorism, enhancing security, managing border security, securing cyberspace, and preparing for and responding to emergencies and disasters.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"E3D9FAC5F8BF4A95A00500C451D511F9": {
+			"id": "E3D9FAC5F8BF4A95A00500C451D511F9",
+			"asnIdentifier": "S2544788",
+			"position": 93000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Describe the public safety agency role in saving lives, protecting lives and property, reducing the vulnerability of critical infrastructure, identifying key resources, and maintaining order.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"C9CCFE6BFE0D4B0290B4A2F198824E86": {
+			"id": "C9CCFE6BFE0D4B0290B4A2F198824E86",
+			"asnIdentifier": "S2544787",
+			"position": 92000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Recognize issues particular to policing and other public safety occupations, including accountability, codes of ethical conduct, jurisdiction, and civil rights of individuals.",
+			"ancestorIds": [
+				"3500E10C121F4C30BD869F5B3680E2DD",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3500E10C121F4C30BD869F5B3680E2DD": {
+			"id": "3500E10C121F4C30BD869F5B3680E2DD",
+			"asnIdentifier": "S2544786",
+			"position": 91000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Describe the history, shared mission, and roles of public safety agencies and professionals at the national, state, and local government levels.",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"9A60F38B060A4CE28CAD04F46BDE32AF": {
+			"id": "9A60F38B060A4CE28CAD04F46BDE32AF",
+			"asnIdentifier": "S2544785",
+			"position": 90000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.12",
+			"description": "Compile a personal portfolio specific to the expectations for employment in a public safety career.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"15FFF37FF3994EC1A8137353562DBA68": {
+			"id": "15FFF37FF3994EC1A8137353562DBA68",
+			"asnIdentifier": "S2544784",
+			"position": 89000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.11",
+			"description": "Understand how to interact with others in ways that demonstrate respect for persons, property, individual lifestyle choices, and cultural differences.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"843263312B2D4951B7630691847BBCFA": {
+			"id": "843263312B2D4951B7630691847BBCFA",
+			"asnIdentifier": "S2544783",
+			"position": 88000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.10",
+			"description": "Understand how loyalty, duty, honor, integrity, selfless service, and personal courage play an important role in many public safety occupations.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F686BB80CA6E4554B4FB11D468B8D57A": {
+			"id": "F686BB80CA6E4554B4FB11D468B8D57A",
+			"asnIdentifier": "S2544782",
+			"position": 87000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.9",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace settings.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F2B217EE2513425BAAE08510083E72DF": {
+			"id": "F2B217EE2513425BAAE08510083E72DF",
+			"asnIdentifier": "S2544781",
+			"position": 86000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.8",
+			"description": "Understand the importance of security and background checks, credit checks, and other assessments—including oral interviews and polygraph tests—that are required for some public safety occupations.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"D4E846B523884D34899A43D08FCF7C5C": {
+			"id": "D4E846B523884D34899A43D08FCF7C5C",
+			"asnIdentifier": "S2544780",
+			"position": 85000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.7",
+			"description": "Understand the selection process for many public safety occupations that require certifications, reading and writing assessments, psychological evaluations, medical evaluations, and probationary periods.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"4290CEB423324DCBA70FA9490C675154": {
+			"id": "4290CEB423324DCBA70FA9490C675154",
+			"asnIdentifier": "S2544779",
+			"position": 84000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.6",
+			"description": "Understand the necessity of maintaining strong academic records, high levels of physical fitness, and positive personal history to successfully pursue a career in a public safety.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"934E319955C644B7B7B99E8A24ACD34C": {
+			"id": "934E319955C644B7B7B99E8A24ACD34C",
+			"asnIdentifier": "S2544778",
+			"position": 83000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.5",
+			"description": "Demonstrate strategies and requirements for individuals and organizations to employ to respond to unethical and illegal actions in a variety of workplace situations.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"321E979DE3994B088CE500C8564613C9": {
+			"id": "321E979DE3994B088CE500C8564613C9",
+			"asnIdentifier": "S2544777",
+			"position": 82000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "Know personal and ethical behaviors that demonstrate commitment to professional ethics and legal responsibilities.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"3F271A7A86314830ACF1CEAD48E8F36A": {
+			"id": "3F271A7A86314830ACF1CEAD48E8F36A",
+			"asnIdentifier": "S2544776",
+			"position": 81000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Recognize the extent and scope of a background investigation, what sorts of information is collected, and how it may impact the evaluation of a candidate for a position in a public safety occupation.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"F8411459F65441EF9A0CD280B7886646": {
+			"id": "F8411459F65441EF9A0CD280B7886646",
+			"asnIdentifier": "S2544775",
+			"position": 80000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Identify a range of personal choices and conduct that would disqualify an individual from public safety occupations, and describe ways to avoid such behaviors.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"8F388CDA979A436CADDC84F5C2A82D0F": {
+			"id": "8F388CDA979A436CADDC84F5C2A82D0F",
+			"asnIdentifier": "S2544774",
+			"position": 79000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "State the major types of occupations found in the Public Safety Pathway and the number of those occupations that require background-investigation security clearance and personal records free of disqualifying information.",
+			"ancestorIds": [
+				"BBC388BA533A46E29F53666A481048B8",
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"BBC388BA533A46E29F53666A481048B8": {
+			"id": "BBC388BA533A46E29F53666A481048B8",
+			"asnIdentifier": "S2544773",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Demonstrate an awareness of the personal, physical, and psychological qualities found in successful public safety job candidates, and recall critical types of decisions and outcomes which determine employability in public safety occupations.",
+			"ancestorIds": [
+				"76508D54F8E34ECBBF472A8350DFF82E",
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"76508D54F8E34ECBBF472A8350DFF82E": {
+			"id": "76508D54F8E34ECBBF472A8350DFF82E",
+			"asnIdentifier": "S2544772",
+			"position": 77000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Public Safety",
+			"comments": [
+				"The Public Safety pathway prepares students with a broad-based foundational knowledge in careers that involve public safety. The educational foundation will assist students who wish to pursue related professional training at the postsecondary level. Students will gain experience through classroom instruction, hands-on training, and community exercises. The evolving integration of state public safety organizations, their connections with federal and state intelligence and security agencies, interoperability and coordination of effort, and the shared mission to protect the public in a post-9/11 world are areas of emphasis for the pathway. The careers included in this pathway primarily address law enforcement services, homeland and cyber security services, and correctional services."
+			],
+			"ancestorIds": [
+				"97BAF1F32B904A0A8C27E9AEC5524268"
+			]
+		},
+		"97BAF1F32B904A0A8C27E9AEC5524268": {
+			"id": "97BAF1F32B904A0A8C27E9AEC5524268",
+			"asnIdentifier": "S2544771",
+			"position": 76000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"D40F2DD2BFB2477C9CB1CEE69F31EBCA": {
+			"id": "D40F2DD2BFB2477C9CB1CEE69F31EBCA",
+			"asnIdentifier": "S2544770",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"4F323A163930421C81235B03983255C9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"A887E6AEEFAE4D84979FFC8B2F2CA3E8": {
+			"id": "A887E6AEEFAE4D84979FFC8B2F2CA3E8",
+			"asnIdentifier": "S2544769",
+			"position": 74000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors appropriate to Public Services sector opportunities.",
+			"ancestorIds": [
+				"4F323A163930421C81235B03983255C9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"A478CFB8209B460BB7CE258AF2CADEE4": {
+			"id": "A478CFB8209B460BB7CE258AF2CADEE4",
+			"asnIdentifier": "S2544768",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"4F323A163930421C81235B03983255C9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"56826E88A9814C3F93E8A5275CEEB148": {
+			"id": "56826E88A9814C3F93E8A5275CEEB148",
+			"asnIdentifier": "S2544767",
+			"position": 72000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"4F323A163930421C81235B03983255C9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"E2E1623078914747AE8ABE2B523A9D03": {
+			"id": "E2E1623078914747AE8ABE2B523A9D03",
+			"asnIdentifier": "S2544766",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Public Services sector program of study.",
+			"ancestorIds": [
+				"4F323A163930421C81235B03983255C9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"4F323A163930421C81235B03983255C9": {
+			"id": "4F323A163930421C81235B03983255C9",
+			"asnIdentifier": "S2544765",
+			"position": 70000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Public Services anchor standards, pathway standards, and performance indicators in classroom, laboratory and workplace settings, and through the Cal-HOSA and SkillsUSA career technical student organizations."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"E67D9E3A52084D2D9716F42AD977FDEF": {
+			"id": "E67D9E3A52084D2D9716F42AD977FDEF",
+			"asnIdentifier": "S2544764",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Collaborate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"75715BF099C0402E926D6D59465D8C23",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"BA8E6CD6236C45F793A5E994A0AC67C3": {
+			"id": "BA8E6CD6236C45F793A5E994A0AC67C3",
+			"asnIdentifier": "S2544763",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Public Services sector requirements and expectations.",
+			"ancestorIds": [
+				"75715BF099C0402E926D6D59465D8C23",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"D9A08F5126CA4624AEB09F6F02E7A676": {
+			"id": "D9A08F5126CA4624AEB09F6F02E7A676",
+			"asnIdentifier": "S2544762",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Public Services sector.",
+			"ancestorIds": [
+				"75715BF099C0402E926D6D59465D8C23",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"E921EA60738C4495928C86EF7AE89F39": {
+			"id": "E921EA60738C4495928C86EF7AE89F39",
+			"asnIdentifier": "S2544761",
+			"position": 66000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Public Services sector.",
+			"ancestorIds": [
+				"75715BF099C0402E926D6D59465D8C23",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"75715BF099C0402E926D6D59465D8C23": {
+			"id": "75715BF099C0402E926D6D59465D8C23",
+			"asnIdentifier": "S2544760",
+			"position": 65000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Public Services sector, following procedures when carrying out experiments or performing technical tasks."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"7AA75F7DB994458FBA00E18144ED3C34": {
+			"id": "7AA75F7DB994458FBA00E18144ED3C34",
+			"asnIdentifier": "S2544759",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Public Services sector issues and problems.",
+			"ancestorIds": [
+				"BD12D66739AC4F3AA0A37611F0BC58BB",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"2C0D7F21B7934F6480C8F4118EC092E2": {
+			"id": "2C0D7F21B7934F6480C8F4118EC092E2",
+			"asnIdentifier": "S2544758",
+			"position": 63000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"BD12D66739AC4F3AA0A37611F0BC58BB",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"B637D64683F34F2BBA878790F02D1AF0": {
+			"id": "B637D64683F34F2BBA878790F02D1AF0",
+			"asnIdentifier": "S2544757",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"BD12D66739AC4F3AA0A37611F0BC58BB",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"264119DEAC9B4A8181DF4983E1609373": {
+			"id": "264119DEAC9B4A8181DF4983E1609373",
+			"asnIdentifier": "S2544756",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"BD12D66739AC4F3AA0A37611F0BC58BB",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"7A94D51CC89C4729B66A3FEAFFF87645": {
+			"id": "7A94D51CC89C4729B66A3FEAFFF87645",
+			"asnIdentifier": "S2544755",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"BD12D66739AC4F3AA0A37611F0BC58BB",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"9F49ECF1DB214E94BE1ED055A269CAB4": {
+			"id": "9F49ECF1DB214E94BE1ED055A269CAB4",
+			"asnIdentifier": "S2544754",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"BD12D66739AC4F3AA0A37611F0BC58BB",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"F20D0B3762764341BCDB521CB3A81AB3": {
+			"id": "F20D0B3762764341BCDB521CB3A81AB3",
+			"asnIdentifier": "S2544753",
+			"position": 58000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"BD12D66739AC4F3AA0A37611F0BC58BB",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"BD12D66739AC4F3AA0A37611F0BC58BB": {
+			"id": "BD12D66739AC4F3AA0A37611F0BC58BB",
+			"asnIdentifier": "S2544752",
+			"position": 57000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution as practiced in the Cal-HOSA and SkillsUSA career technical student organizations."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"14EEBEC350DA4921A48D20263A1381BC": {
+			"id": "14EEBEC350DA4921A48D20263A1381BC",
+			"asnIdentifier": "S2544751",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Public Services sector laws and practices.",
+			"ancestorIds": [
+				"696FBB859CBE47CFA599F85A817ED51E",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"C43C57B301E940CB9AEC5139951A6981": {
+			"id": "C43C57B301E940CB9AEC5139951A6981",
+			"asnIdentifier": "S2544750",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"696FBB859CBE47CFA599F85A817ED51E",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"8ADFC88D781B43079D7C0F8EF1696A3D": {
+			"id": "8ADFC88D781B43079D7C0F8EF1696A3D",
+			"asnIdentifier": "S2544749",
+			"position": 54000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"696FBB859CBE47CFA599F85A817ED51E",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"F5143690AACC4BA4B05D69EE023478DB": {
+			"id": "F5143690AACC4BA4B05D69EE023478DB",
+			"asnIdentifier": "S2544748",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"696FBB859CBE47CFA599F85A817ED51E",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"0E27994DC4E24225ADB94CE71FC51824": {
+			"id": "0E27994DC4E24225ADB94CE71FC51824",
+			"asnIdentifier": "S2544747",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Public Services sector workplace standards.",
+			"ancestorIds": [
+				"696FBB859CBE47CFA599F85A817ED51E",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"8C9061C082554E9FBBE5768199896386": {
+			"id": "8C9061C082554E9FBBE5768199896386",
+			"asnIdentifier": "S2544746",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, and federal regulatory agencies, entities, laws, and regulations related to the Public Services industry sector.",
+			"ancestorIds": [
+				"696FBB859CBE47CFA599F85A817ED51E",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"CB18D8F3661743B5BF36E8341E0861E1": {
+			"id": "CB18D8F3661743B5BF36E8341E0861E1",
+			"asnIdentifier": "S2544745",
+			"position": 50000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"696FBB859CBE47CFA599F85A817ED51E",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"696FBB859CBE47CFA599F85A817ED51E": {
+			"id": "696FBB859CBE47CFA599F85A817ED51E",
+			"asnIdentifier": "S2544744",
+			"position": 49000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"42AFCCA78DD741879A1DF55CF18A2FB0": {
+			"id": "42AFCCA78DD741879A1DF55CF18A2FB0",
+			"asnIdentifier": "S2544743",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Public Services sector.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"DD15B8239D244DAEAEBD50FB69B99343": {
+			"id": "DD15B8239D244DAEAEBD50FB69B99343",
+			"asnIdentifier": "S2544742",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"923EA12E1B524A7FA97E1674F52801D2": {
+			"id": "923EA12E1B524A7FA97E1674F52801D2",
+			"asnIdentifier": "S2544741",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"022AE8BEE66E42CDBB2FB389A45D998D": {
+			"id": "022AE8BEE66E42CDBB2FB389A45D998D",
+			"asnIdentifier": "S2544740",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"C21DB9764161497F96C4F48402D79EE2": {
+			"id": "C21DB9764161497F96C4F48402D79EE2",
+			"asnIdentifier": "S2544739",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"4180BA631305404589269EC291BE1F8D": {
+			"id": "4180BA631305404589269EC291BE1F8D",
+			"asnIdentifier": "S2544738",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"1AF51A25AD6040769EF30D38677C0074": {
+			"id": "1AF51A25AD6040769EF30D38677C0074",
+			"asnIdentifier": "S2544737",
+			"position": 42000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"80FCEE3A1A2E45E38B2CB1FB87270850": {
+			"id": "80FCEE3A1A2E45E38B2CB1FB87270850",
+			"asnIdentifier": "S2544736",
+			"position": 41000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"6B29CFADB6FF4CFE850666719323B87B",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"6B29CFADB6FF4CFE850666719323B87B": {
+			"id": "6B29CFADB6FF4CFE850666719323B87B",
+			"asnIdentifier": "S2544735",
+			"position": 40000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate, and participate in, a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Public Services sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"D6C4486E9B7244CAA8EE3C4947CFDE7C": {
+			"id": "D6C4486E9B7244CAA8EE3C4947CFDE7C",
+			"asnIdentifier": "S2544734",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Be informed of laws/acts pertaining to the Occupational Safety and Health Administration (OSHA).",
+			"ancestorIds": [
+				"C25C38469E6C46E7B6D9C934E9B10AD4",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"F7109D6AD1F34C3DBF39C7DE2D176092": {
+			"id": "F7109D6AD1F34C3DBF39C7DE2D176092",
+			"asnIdentifier": "S2544733",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"C25C38469E6C46E7B6D9C934E9B10AD4",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"7C46E0ABD211499382DC5AA10D392ED5": {
+			"id": "7C46E0ABD211499382DC5AA10D392ED5",
+			"asnIdentifier": "S2544732",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.5",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"C25C38469E6C46E7B6D9C934E9B10AD4",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"184853677697423B99ED89B56D80EBC0": {
+			"id": "184853677697423B99ED89B56D80EBC0",
+			"asnIdentifier": "S2544731",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"C25C38469E6C46E7B6D9C934E9B10AD4",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"674E73802BD2472E9D5081E3943E83E5": {
+			"id": "674E73802BD2472E9D5081E3943E83E5",
+			"asnIdentifier": "S2544730",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"C25C38469E6C46E7B6D9C934E9B10AD4",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"CDCF50C45B724A4988585F5F59AE6E0B": {
+			"id": "CDCF50C45B724A4988585F5F59AE6E0B",
+			"asnIdentifier": "S2544729",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"C25C38469E6C46E7B6D9C934E9B10AD4",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"F39387213D1D467BA0CCDE97671160A7": {
+			"id": "F39387213D1D467BA0CCDE97671160A7",
+			"asnIdentifier": "S2544728",
+			"position": 33000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate, and adhere to, Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"C25C38469E6C46E7B6D9C934E9B10AD4",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"C25C38469E6C46E7B6D9C934E9B10AD4": {
+			"id": "C25C38469E6C46E7B6D9C934E9B10AD4",
+			"asnIdentifier": "S2544727",
+			"position": 32000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Public Services sector workplace environment."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"2375BC6C1F1947CAB52A11B586649231": {
+			"id": "2375BC6C1F1947CAB52A11B586649231",
+			"asnIdentifier": "S2544726",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"D150D188EF974C6BB953571F8D22ABE9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"EE028F1B837149239437391C675EF8EB": {
+			"id": "EE028F1B837149239437391C675EF8EB",
+			"asnIdentifier": "S2544725",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"D150D188EF974C6BB953571F8D22ABE9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"65865A6AD1E24A05978E407CEF8951D2": {
+			"id": "65865A6AD1E24A05978E407CEF8951D2",
+			"asnIdentifier": "S2544724",
+			"position": 29000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"D150D188EF974C6BB953571F8D22ABE9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"A29B6740F1F747598E0BD02DC19BB7F6": {
+			"id": "A29B6740F1F747598E0BD02DC19BB7F6",
+			"asnIdentifier": "S2544723",
+			"position": 28000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"D150D188EF974C6BB953571F8D22ABE9",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"D150D188EF974C6BB953571F8D22ABE9": {
+			"id": "D150D188EF974C6BB953571F8D22ABE9",
+			"asnIdentifier": "S2544722",
+			"position": 27000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short, as well as more sustained, research to create alternative solutions to answer a question or solve a problem unique to the Public Services sector using critical and creative thinking, logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"35660EE58CFC45178F08E1083BDC9CEC": {
+			"id": "35660EE58CFC45178F08E1083BDC9CEC",
+			"asnIdentifier": "S2544721",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"4BE5093A60A1447FBBC57330439520D8",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"67DE31843D434491B4FFF7CC8381E11E": {
+			"id": "67DE31843D434491B4FFF7CC8381E11E",
+			"asnIdentifier": "S2544720",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"4BE5093A60A1447FBBC57330439520D8",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"2C6CC85CEE684637A78FAED62A8529A3": {
+			"id": "2C6CC85CEE684637A78FAED62A8529A3",
+			"asnIdentifier": "S2544719",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"4BE5093A60A1447FBBC57330439520D8",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"4E07EA98AAC140859244A78E5256CD50": {
+			"id": "4E07EA98AAC140859244A78E5256CD50",
+			"asnIdentifier": "S2544718",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"4BE5093A60A1447FBBC57330439520D8",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"433098D06A3340708256C02E33D029A7": {
+			"id": "433098D06A3340708256C02E33D029A7",
+			"asnIdentifier": "S2544717",
+			"position": 22000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ Web-based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"4BE5093A60A1447FBBC57330439520D8",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"28AF1B2B32B94384A5DDECCDAADDFD53": {
+			"id": "28AF1B2B32B94384A5DDECCDAADDFD53",
+			"asnIdentifier": "S2544716",
+			"position": 21000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"4BE5093A60A1447FBBC57330439520D8",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"4BE5093A60A1447FBBC57330439520D8": {
+			"id": "4BE5093A60A1447FBBC57330439520D8",
+			"asnIdentifier": "S2544715",
+			"position": 20000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology to investigate, research, and produce products and services, including new information, as required in the Public Services sector workplace environment."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"7381109629A0495380077D0C14EC88A1": {
+			"id": "7381109629A0495380077D0C14EC88A1",
+			"asnIdentifier": "S2544714",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"4A630FF579B340BB8368208BFED4D205": {
+			"id": "4A630FF579B340BB8368208BFED4D205",
+			"asnIdentifier": "S2544713",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"CF778E126D034C2BBB2F196D24DCEF50": {
+			"id": "CF778E126D034C2BBB2F196D24DCEF50",
+			"asnIdentifier": "S2544712",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"1ED93A36EEBD4CC1BC5581669CB777EA": {
+			"id": "1ED93A36EEBD4CC1BC5581669CB777EA",
+			"asnIdentifier": "S2544711",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"76CDF80B8032449A8FE10B35266A04E8": {
+			"id": "76CDF80B8032449A8FE10B35266A04E8",
+			"asnIdentifier": "S2544710",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"C053AC110B674BF49FAB1D9BAFEF2871": {
+			"id": "C053AC110B674BF49FAB1D9BAFEF2871",
+			"asnIdentifier": "S2544709",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"5170E453318D475EAC912D9D212739F3": {
+			"id": "5170E453318D475EAC912D9D212739F3",
+			"asnIdentifier": "S2544708",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"D9EEDEE617AA4A379254DAFD4A05C930": {
+			"id": "D9EEDEE617AA4A379254DAFD4A05C930",
+			"asnIdentifier": "S2544707",
+			"position": 12000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits such as trust, respect, and responsibility and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"1A0E01D08ADD44F69A09A6FED77B1EE9": {
+			"id": "1A0E01D08ADD44F69A09A6FED77B1EE9",
+			"asnIdentifier": "S2544706",
+			"position": 11000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"893FB4BF72734B6097F68CF55B240F3F",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"893FB4BF72734B6097F68CF55B240F3F": {
+			"id": "893FB4BF72734B6097F68CF55B240F3F",
+			"asnIdentifier": "S2544705",
+			"position": 10000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"849034D3E3C84CDAB45C56694117E997": {
+			"id": "849034D3E3C84CDAB45C56694117E997",
+			"asnIdentifier": "S2544704",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"89A7942194134A8AAB3155D0E63A2931",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"F5C7C821C6814B008C30414432A3FE08": {
+			"id": "F5C7C821C6814B008C30414432A3FE08",
+			"asnIdentifier": "S2544703",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"89A7942194134A8AAB3155D0E63A2931",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"E07BDCF4810644DEA0FCEAE4E527824C": {
+			"id": "E07BDCF4810644DEA0FCEAE4E527824C",
+			"asnIdentifier": "S2544702",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Demonstrate elements of written and electronic communication such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"89A7942194134A8AAB3155D0E63A2931",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"9231EAD62A4642F7A6D91185BDD32456": {
+			"id": "9231EAD62A4642F7A6D91185BDD32456",
+			"asnIdentifier": "S2544701",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"89A7942194134A8AAB3155D0E63A2931",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"FC41D05EF85B472EBA3BA20C8C0F6366": {
+			"id": "FC41D05EF85B472EBA3BA20C8C0F6366",
+			"asnIdentifier": "S2544700",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"89A7942194134A8AAB3155D0E63A2931",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"34151880ED6C49D0BC695EAE4CE92FBF": {
+			"id": "34151880ED6C49D0BC695EAE4CE92FBF",
+			"asnIdentifier": "S2544699",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"89A7942194134A8AAB3155D0E63A2931",
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"89A7942194134A8AAB3155D0E63A2931": {
+			"id": "89A7942194134A8AAB3155D0E63A2931",
+			"asnIdentifier": "S2544698",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire and accurately use Public Services sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"1C3F5F02B3624088B91E2586B6717E98": {
+			"id": "1C3F5F02B3624088B91E2586B6717E98",
+			"asnIdentifier": "S2544697",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Public Services academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"20AA01B51E4A49AABA613064E5057C71"
+			]
+		},
+		"20AA01B51E4A49AABA613064E5057C71": {
+			"id": "20AA01B51E4A49AABA613064E5057C71",
+			"asnIdentifier": "S2544696",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}

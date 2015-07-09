@@ -1,0 +1,234 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-09",
+	"title": "Grade 9",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"09"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"FB2B3EC0DFE3013194F368A86D17958E": {
+			"id": "FB2B3EC0DFE3013194F368A86D17958E",
+			"asnIdentifier": "S1042BDB",
+			"position": 18000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students construct and test hypotheses; collect, evaluate, and employ information from multiple primary and secondary sources; and apply it in oral and written presentations.",
+			"ancestorIds": [
+				"FB2A37A0DFE3013194EF68A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB2B03F0DFE3013194F268A86D17958E": {
+			"id": "FB2B03F0DFE3013194F268A86D17958E",
+			"asnIdentifier": "S1042BDA",
+			"position": 17000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students evaluate major debates among historians concerning alternative interpretations of the past, including an analysis of authors' use of evidence and the distinctions between sound generalizations and misleading oversimplifications.",
+			"ancestorIds": [
+				"FB2A37A0DFE3013194EF68A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB2AC790DFE3013194F168A86D17958E": {
+			"id": "FB2AC790DFE3013194F168A86D17958E",
+			"asnIdentifier": "S1042BD9",
+			"position": 16000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students identify bias and prejudice in historical interpretations.",
+			"ancestorIds": [
+				"FB2A37A0DFE3013194EF68A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB2A7F60DFE3013194F068A86D17958E": {
+			"id": "FB2A7F60DFE3013194F068A86D17958E",
+			"asnIdentifier": "S1042BD8",
+			"position": 15000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students distinguish valid arguments from fallacious arguments in historical interpretations.",
+			"ancestorIds": [
+				"FB2A37A0DFE3013194EF68A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB2A37A0DFE3013194EF68A86D17958E": {
+			"id": "FB2A37A0DFE3013194EF68A86D17958E",
+			"asnIdentifier": "S1042BD3",
+			"position": 14000,
+			"depth": 1,
+			"description": "Historical Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB29FC70DFE3013194EE68A86D17958E": {
+			"id": "FB29FC70DFE3013194EE68A86D17958E",
+			"asnIdentifier": "S1042BE1",
+			"position": 13000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Students conduct cost-benefit analyses and apply basic economic indicators to analyze the aggregate economic behavior of the U.S. economy.",
+			"ancestorIds": [
+				"FB286C30DFE3013194E868A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB29BEA0DFE3013194ED68A86D17958E": {
+			"id": "FB29BEA0DFE3013194ED68A86D17958E",
+			"asnIdentifier": "S1042BE0",
+			"position": 12000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students analyze human modifications of landscapes and examine the resulting environmental policy issues.",
+			"ancestorIds": [
+				"FB286C30DFE3013194E868A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB298070DFE3013194EC68A86D17958E": {
+			"id": "FB298070DFE3013194EC68A86D17958E",
+			"asnIdentifier": "S1042BDF",
+			"position": 11000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students understand the meaning, implication, and impact of historical events and recognize that events could have taken other directions.",
+			"ancestorIds": [
+				"FB286C30DFE3013194E868A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB2943E0DFE3013194EB68A86D17958E": {
+			"id": "FB2943E0DFE3013194EB68A86D17958E",
+			"asnIdentifier": "S1042BDE",
+			"position": 10000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students interpret past events and issues within the context in which an event unfolded rather than solely in terms of present-day norms and values.",
+			"ancestorIds": [
+				"FB286C30DFE3013194E868A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB2903C0DFE3013194EA68A86D17958E": {
+			"id": "FB2903C0DFE3013194EA68A86D17958E",
+			"asnIdentifier": "S1042BDD",
+			"position": 9000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students recognize the complexity of historical causes and effects, including the limitations on determining cause and effect.",
+			"ancestorIds": [
+				"FB286C30DFE3013194E868A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB28B3F0DFE3013194E968A86D17958E": {
+			"id": "FB28B3F0DFE3013194E968A86D17958E",
+			"asnIdentifier": "S1042BDC",
+			"position": 8000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students show the connections, causal and otherwise, between particular historical events and larger social, economic, and political trends and developments.",
+			"ancestorIds": [
+				"FB286C30DFE3013194E868A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB286C30DFE3013194E868A86D17958E": {
+			"id": "FB286C30DFE3013194E868A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 7000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB283110DFE3013194E768A86D17958E": {
+			"id": "FB283110DFE3013194E768A86D17958E",
+			"asnIdentifier": "S1042BD7",
+			"position": 6000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students relate current events to the physical and human characteristics of places and regions.",
+			"ancestorIds": [
+				"FB2736E0DFE3013194E368A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB27F5A0DFE3013194E668A86D17958E": {
+			"id": "FB27F5A0DFE3013194E668A86D17958E",
+			"asnIdentifier": "S1042BD6",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students use a variety of maps and documents to interpret human movement, including major patterns of domestic and international migration, changing environmental preferences and settlement patterns, the frictions that develop between population groups, and the diffusion of ideas, technological innovations, and goods.",
+			"ancestorIds": [
+				"FB2736E0DFE3013194E368A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB27B850DFE3013194E568A86D17958E": {
+			"id": "FB27B850DFE3013194E568A86D17958E",
+			"asnIdentifier": "S1042BD5",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students analyze how change happens at different rates at different times; understand that some aspects can change while others remain the same; and understand that change is complicated and affects not only technology and politics but also values and beliefs.",
+			"ancestorIds": [
+				"FB2736E0DFE3013194E368A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB277970DFE3013194E468A86D17958E": {
+			"id": "FB277970DFE3013194E468A86D17958E",
+			"asnIdentifier": "S1042BD4",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students compare the present with the past, evaluating the consequences of past events and decisions and determining the lessons that were learned.",
+			"ancestorIds": [
+				"FB2736E0DFE3013194E368A86D17958E",
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB2736E0DFE3013194E368A86D17958E": {
+			"id": "FB2736E0DFE3013194E368A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"FB26E710DFE3013194E268A86D17958E"
+			]
+		},
+		"FB26E710DFE3013194E268A86D17958E": {
+			"id": "FB26E710DFE3013194E268A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

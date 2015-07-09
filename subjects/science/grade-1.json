@@ -1,0 +1,313 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2592575_grade-01",
+	"title": "Grade 1",
+	"subject": "Science",
+	"educationLevels": [
+		"01"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2592575",
+		"valid": "2013",
+		"title": "Next Generation Science Standards for California Public Schools, Kindergarten through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp",
+		"asnIdentifier": "D2592575",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"31F83841C45D4DC68D06025CC09C7ED2": {
+			"id": "31F83841C45D4DC68D06025CC09C7ED2",
+			"asnIdentifier": "S2598123",
+			"position": 17000,
+			"depth": 1,
+			"statementNotation": "1-PS4-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Use tools and materials to design and build a device that uses light or sound to solve the problem of communicating over a distance.",
+			"comments": [
+				"Clarification Statement: Examples of devices could include a light source to send signals, paper cup and string \"telephones,\" and a pattern of drum beats.",
+				"Assessment Boundary: Assessment does not include technological details for how communication devices work."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454393"
+			],
+			"ancestorIds": [
+				"E054373AA34945B8829ADBB6BE864E0E"
+			]
+		},
+		"CE722085412E4A63A369AAB275AB41FE": {
+			"id": "CE722085412E4A63A369AAB275AB41FE",
+			"asnIdentifier": "S2598122",
+			"position": 16000,
+			"depth": 1,
+			"statementNotation": "1-PS4-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct an investigation to determine the effect of placing objects made with different materials in the path of a beam of light.",
+			"comments": [
+				"Clarification Statement: Examples of materials could include those that are transparent (such as clear plastic), translucent (such as wax paper), opaque (such as cardboard), and reflective (such as a mirror).",
+				"Assessment Boundary: Assessment does not include the speed of light."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454392"
+			],
+			"ancestorIds": [
+				"E054373AA34945B8829ADBB6BE864E0E"
+			]
+		},
+		"80CF8B7ACFB04D2F9EB1276FF6B82446": {
+			"id": "80CF8B7ACFB04D2F9EB1276FF6B82446",
+			"asnIdentifier": "S2598121",
+			"position": 15000,
+			"depth": 1,
+			"statementNotation": "1-PS4-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Make observations to construct an evidence-based account that objects can be seen only when illuminated.",
+			"comments": [
+				"Clarification Statement: Examples of observations could include those made in a completely dark room, a pinhole box, and a video of a cave explorer with a flashlight. Illumination could be from an external light source or by an object giving off its own light."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454391"
+			],
+			"ancestorIds": [
+				"E054373AA34945B8829ADBB6BE864E0E"
+			]
+		},
+		"9CF1F82C2278446CA160007F53201358": {
+			"id": "9CF1F82C2278446CA160007F53201358",
+			"asnIdentifier": "S2598120",
+			"position": 14000,
+			"depth": 1,
+			"statementNotation": "1-PS4-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct investigations to provide evidence that vibrating materials can make sound and that sound can make materials vibrate.",
+			"comments": [
+				"Clarification Statement: Examples of vibrating materials that make sound could include tuning forks and plucking a stretched string. Examples of how sound can make matter vibrate could include holding a piece of paper near a speaker making sound and holding an object near a vibrating tuning fork."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454390"
+			],
+			"ancestorIds": [
+				"E054373AA34945B8829ADBB6BE864E0E"
+			]
+		},
+		"E054373AA34945B8829ADBB6BE864E0E": {
+			"id": "E054373AA34945B8829ADBB6BE864E0E",
+			"asnIdentifier": "S2598119",
+			"position": 13000,
+			"depth": 0,
+			"statementNotation": "1-PS4",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Waves and their Applications in Technologies for Information Transfer",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454357"
+			],
+			"ancestorIds": [
+				"CED33551B5C3490C80683D740098D9CD"
+			]
+		},
+		"E473FFFEB37E4B89AA9962D668D9E6CA": {
+			"id": "E473FFFEB37E4B89AA9962D668D9E6CA",
+			"asnIdentifier": "S2598131",
+			"position": 12000,
+			"depth": 1,
+			"statementNotation": "1-ESS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Make observations at different times of year to relate the amount of daylight to the time of year.",
+			"comments": [
+				"Clarification Statement: Emphasis is on relative comparisons of the amount of daylight in the winter to the amount in the spring or fall.",
+				"Assessment Boundary: Assessment is limited to relative amounts of daylight, not quantifying the hours or time of daylight."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454400"
+			],
+			"ancestorIds": [
+				"CED33551B5C3490C80683D740098D9CD"
+			]
+		},
+		"A891B882C66745F39FDF5B55668BD999": {
+			"id": "A891B882C66745F39FDF5B55668BD999",
+			"asnIdentifier": "S2598130",
+			"position": 11000,
+			"depth": 1,
+			"statementNotation": "1-ESS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Use observations of the sun, moon, and stars to describe patterns that can be predicted.",
+			"comments": [
+				"Clarification Statement: Examples of patterns could include that the sun and moon appear to rise in one part of the sky, move across the sky, and set; and stars other than our sun are visible at night but not during the day.",
+				"Assessment Boundary: Assessment of star patterns is limited to stars being seen at night and not during the day."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454399"
+			],
+			"ancestorIds": [
+				"CED33551B5C3490C80683D740098D9CD"
+			]
+		},
+		"CED33551B5C3490C80683D740098D9CD": {
+			"id": "CED33551B5C3490C80683D740098D9CD",
+			"asnIdentifier": "S2598129",
+			"position": 10000,
+			"depth": 0,
+			"statementNotation": "1-ESS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Place in the Universe",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454360"
+			],
+			"ancestorIds": [
+				"BF96287C523F4389B48434DEE3FA851E"
+			]
+		},
+		"243BE1A7FB8F479FA04DE40A694C217E": {
+			"id": "243BE1A7FB8F479FA04DE40A694C217E",
+			"asnIdentifier": "S2598128",
+			"position": 9000,
+			"depth": 1,
+			"statementNotation": "1-LS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Make observations to construct an evidence-based account that young plants and animals are like, but not exactly like, their parents.",
+			"comments": [
+				"Clarification Statement: Examples of patterns could include features plants or animals share. Examples of observations could include leaves from the same kind of plant are the same shape but can differ in size; and, a particular breed of dog looks like its parents but is not exactly the same.",
+				"Assessment Boundary: Assessment does not include inheritance or animals that undergo metamorphosis or hybrids."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454397"
+			],
+			"ancestorIds": [
+				"BF96287C523F4389B48434DEE3FA851E"
+			]
+		},
+		"BF96287C523F4389B48434DEE3FA851E": {
+			"id": "BF96287C523F4389B48434DEE3FA851E",
+			"asnIdentifier": "S2598127",
+			"position": 8000,
+			"depth": 0,
+			"statementNotation": "1-LS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Heredity: Inheritance and Variation of Traits",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454359"
+			],
+			"ancestorIds": [
+				"5493F1292DE74080A1AB5FA7692E772D"
+			]
+		},
+		"0F7F85383C664E63B1DA3E2AD98C306B": {
+			"id": "0F7F85383C664E63B1DA3E2AD98C306B",
+			"asnIdentifier": "S2598126",
+			"position": 7000,
+			"depth": 1,
+			"statementNotation": "1-LS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Read texts and use media to determine patterns in behavior of parents and offspring that help offspring survive.",
+			"comments": [
+				"Clarification Statement: Examples of patterns of behaviors could include the signals that offspring make (such as crying, cheeping, and other vocalizations) and the responses of the parents (such as feeding, comforting, and protecting the offspring)."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454396"
+			],
+			"ancestorIds": [
+				"5493F1292DE74080A1AB5FA7692E772D"
+			]
+		},
+		"53F523070D0348BCA2CB59B9098A7DA0": {
+			"id": "53F523070D0348BCA2CB59B9098A7DA0",
+			"asnIdentifier": "S2598125",
+			"position": 6000,
+			"depth": 1,
+			"statementNotation": "1-LS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Use materials to design a solution to a human problem by mimicking how plants and/or animals use their external parts to help them survive, grow, and meet their needs.",
+			"comments": [
+				"Clarification Statement: Examples of human problems that can be solved by mimicking plant or animal solutions could include designing clothing or equipment to protect bicyclists by mimicking turtle shells, acorn shells, and animal scales; stabilizing structures by mimicking animal tails and roots on plants; keeping out intruders by mimicking thorns on branches and animal quills; and, detecting intruders by mimicking eyes and ears."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454395"
+			],
+			"ancestorIds": [
+				"5493F1292DE74080A1AB5FA7692E772D"
+			]
+		},
+		"5493F1292DE74080A1AB5FA7692E772D": {
+			"id": "5493F1292DE74080A1AB5FA7692E772D",
+			"asnIdentifier": "S2598124",
+			"position": 5000,
+			"depth": 0,
+			"statementNotation": "1-LS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "From Molecules to Organisms: Structures and Processes",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454358"
+			],
+			"ancestorIds": [
+				"2F20DB39AD714D2CB1660AF3DB77B4F2"
+			]
+		},
+		"BE87DE1A19C140889B7AA10194EBEB2E": {
+			"id": "BE87DE1A19C140889B7AA10194EBEB2E",
+			"asnIdentifier": "S2598151",
+			"position": 4000,
+			"depth": 1,
+			"statementNotation": "K-2-ETS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454418"
+			],
+			"ancestorIds": [
+				"2F20DB39AD714D2CB1660AF3DB77B4F2"
+			]
+		},
+		"7F70C5BD627C4B9C8AFD5222B353C622": {
+			"id": "7F70C5BD627C4B9C8AFD5222B353C622",
+			"asnIdentifier": "S2598150",
+			"position": 3000,
+			"depth": 1,
+			"statementNotation": "K-2-ETS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454417"
+			],
+			"ancestorIds": [
+				"2F20DB39AD714D2CB1660AF3DB77B4F2"
+			]
+		},
+		"0C674890D7514AB4AD28AD1E24AEC36B": {
+			"id": "0C674890D7514AB4AD28AD1E24AEC36B",
+			"asnIdentifier": "S2598149",
+			"position": 2000,
+			"depth": 1,
+			"statementNotation": "K-2-ETS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454416"
+			],
+			"ancestorIds": [
+				"2F20DB39AD714D2CB1660AF3DB77B4F2"
+			]
+		},
+		"2F20DB39AD714D2CB1660AF3DB77B4F2": {
+			"id": "2F20DB39AD714D2CB1660AF3DB77B4F2",
+			"asnIdentifier": "S2598148",
+			"position": 1000,
+			"depth": 0,
+			"statementNotation": "K-2-ETS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Engineering Design",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454366"
+			],
+			"ancestorIds": []
+		}
+	}
+}

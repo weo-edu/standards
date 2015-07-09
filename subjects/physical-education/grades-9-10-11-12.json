@@ -1,0 +1,4017 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2400206_grades-09-10-11-12",
+	"title": "Grades 9, 10, 11, 12",
+	"subject": "Physical Education",
+	"educationLevels": [
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2400206",
+		"valid": "2005",
+		"title": "Physical Education Model Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/pestandards.pdf",
+		"asnIdentifier": "D2400206",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"F7FC0CC0DFE30131903168A86D17958E": {
+			"id": "F7FC0CC0DFE30131903168A86D17958E",
+			"asnIdentifier": "S2403361",
+			"position": 327000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Perform planned and spontaneous leadership assignments and roles in high-level dance activities.",
+			"ancestorIds": [
+				"F7FBAE00DFE30131903068A86D17958E",
+				"F7FA2440DFE30131902C68A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7FBAE00DFE30131903068A86D17958E": {
+			"id": "F7FBAE00DFE30131903068A86D17958E",
+			"asnIdentifier": "S2403360",
+			"position": 326000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7FA2440DFE30131902C68A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7FB5310DFE30131902F68A86D17958E": {
+			"id": "F7FB5310DFE30131902F68A86D17958E",
+			"asnIdentifier": "S2403359",
+			"position": 325000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Set personal goals for improved performance and enjoyment of dance activities.",
+			"ancestorIds": [
+				"F7FA8650DFE30131902D68A86D17958E",
+				"F7FA2440DFE30131902C68A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7FAEB00DFE30131902E68A86D17958E": {
+			"id": "F7FAEB00DFE30131902E68A86D17958E",
+			"asnIdentifier": "S2403358",
+			"position": 324000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Evaluate changes in self-responsibility as skill levels in dance activities improve.",
+			"ancestorIds": [
+				"F7FA8650DFE30131902D68A86D17958E",
+				"F7FA2440DFE30131902C68A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7FA8650DFE30131902D68A86D17958E": {
+			"id": "F7FA8650DFE30131902D68A86D17958E",
+			"asnIdentifier": "S2403357",
+			"position": 323000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7FA2440DFE30131902C68A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7FA2440DFE30131902C68A86D17958E": {
+			"id": "F7FA2440DFE30131902C68A86D17958E",
+			"asnIdentifier": "S2403356",
+			"position": 322000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F9BFF0DFE30131902B68A86D17958E": {
+			"id": "F7F9BFF0DFE30131902B68A86D17958E",
+			"asnIdentifier": "S2403355",
+			"position": 321000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Adjust personal fitness goals on the basis of fitness assessment measures to improve performance in dance activities.",
+			"ancestorIds": [
+				"F7F87C50DFE30131902868A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F96580DFE30131902A68A86D17958E": {
+			"id": "F7F96580DFE30131902A68A86D17958E",
+			"asnIdentifier": "S2403354",
+			"position": 320000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Design a personal physical fitness program to be completed in a home or gym and that will be consistent with the demands of a dance activity.",
+			"ancestorIds": [
+				"F7F87C50DFE30131902868A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F8FFD0DFE30131902968A86D17958E": {
+			"id": "F7F8FFD0DFE30131902968A86D17958E",
+			"asnIdentifier": "S2403353",
+			"position": 319000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Achieve a level of fitness that improves health and performance and provides opportunities for enjoyment and challenge in a dance activity.",
+			"ancestorIds": [
+				"F7F87C50DFE30131902868A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F87C50DFE30131902868A86D17958E": {
+			"id": "F7F87C50DFE30131902868A86D17958E",
+			"asnIdentifier": "S2403352",
+			"position": 318000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F81E90DFE30131902768A86D17958E": {
+			"id": "F7F81E90DFE30131902768A86D17958E",
+			"asnIdentifier": "S2403351",
+			"position": 317000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "Demonstrate skills in choreography.",
+			"ancestorIds": [
+				"F7F62D60DFE30131902268A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F7B940DFE30131902668A86D17958E": {
+			"id": "F7F7B940DFE30131902668A86D17958E",
+			"asnIdentifier": "S2403350",
+			"position": 316000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Practice dance in real-world settings.",
+			"ancestorIds": [
+				"F7F62D60DFE30131902268A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F75ED0DFE30131902568A86D17958E": {
+			"id": "F7F75ED0DFE30131902568A86D17958E",
+			"asnIdentifier": "S2403349",
+			"position": 315000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Create or modify practice/training plans based on evaluative feedback from skill acquisition and performance.",
+			"ancestorIds": [
+				"F7F62D60DFE30131902268A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F6EC40DFE30131902468A86D17958E": {
+			"id": "F7F6EC40DFE30131902468A86D17958E",
+			"asnIdentifier": "S2403348",
+			"position": 314000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Analyze and evaluate the interrelationship of the principles of biomechanics and the use of strategies in high-level performance in dance activities.",
+			"ancestorIds": [
+				"F7F62D60DFE30131902268A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F690A0DFE30131902368A86D17958E": {
+			"id": "F7F690A0DFE30131902368A86D17958E",
+			"asnIdentifier": "S2403347",
+			"position": 313000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate expertise in two or more of the following dance activities, preferably one from each category:<ul><li>Category 1<ul><li>Ballet</li><li>Folk</li><li>Jazz</li></ul></li><li>Category 2<ul><li>Modern</li><li>Social</li><li>Square</li></ul></li></ul>",
+			"ancestorIds": [
+				"F7F62D60DFE30131902268A86D17958E",
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F62D60DFE30131902268A86D17958E": {
+			"id": "F7F62D60DFE30131902268A86D17958E",
+			"asnIdentifier": "S2403346",
+			"position": 312000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7F5BA30DFE30131902168A86D17958E"
+			]
+		},
+		"F7F5BA30DFE30131902168A86D17958E": {
+			"id": "F7F5BA30DFE30131902168A86D17958E",
+			"asnIdentifier": "S2403345",
+			"position": 311000,
+			"depth": 0,
+			"description": "High School Course 4D - Advanced Dance",
+			"comments": [
+				"High School Courses 1, 2, and 3D are designed to be completed before a student enrolls in High School Course 4D."
+			],
+			"ancestorIds": [
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F55360DFE30131902068A86D17958E": {
+			"id": "F7F55360DFE30131902068A86D17958E",
+			"asnIdentifier": "S2403344",
+			"position": 310000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Perform and evaluate planned and spontaneous leadership assignments and roles in high-level individual and dual activities.",
+			"ancestorIds": [
+				"F7F4FA80DFE30131901F68A86D17958E",
+				"F7F38D90DFE30131901B68A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F4FA80DFE30131901F68A86D17958E": {
+			"id": "F7F4FA80DFE30131901F68A86D17958E",
+			"asnIdentifier": "S2403343",
+			"position": 309000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7F38D90DFE30131901B68A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F4A4E0DFE30131901E68A86D17958E": {
+			"id": "F7F4A4E0DFE30131901E68A86D17958E",
+			"asnIdentifier": "S2403342",
+			"position": 308000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Set personal goals for improved performance and enjoyment of individual and dual activities.",
+			"ancestorIds": [
+				"F7F3E940DFE30131901C68A86D17958E",
+				"F7F38D90DFE30131901B68A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F44A40DFE30131901D68A86D17958E": {
+			"id": "F7F44A40DFE30131901D68A86D17958E",
+			"asnIdentifier": "S2403341",
+			"position": 307000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Evaluate changes in self-responsibility as skill levels in individual and dual activities improve.",
+			"ancestorIds": [
+				"F7F3E940DFE30131901C68A86D17958E",
+				"F7F38D90DFE30131901B68A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F3E940DFE30131901C68A86D17958E": {
+			"id": "F7F3E940DFE30131901C68A86D17958E",
+			"asnIdentifier": "S2403340",
+			"position": 306000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7F38D90DFE30131901B68A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F38D90DFE30131901B68A86D17958E": {
+			"id": "F7F38D90DFE30131901B68A86D17958E",
+			"asnIdentifier": "S2403339",
+			"position": 305000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F33010DFE30131901A68A86D17958E": {
+			"id": "F7F33010DFE30131901A68A86D17958E",
+			"asnIdentifier": "S2403338",
+			"position": 304000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Design a personal physical fitness program to be completed in a home or gym and that will be consistent with the demands of a selected individual or dual activity.",
+			"ancestorIds": [
+				"F7F1BDC0DFE30131901668A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F2D710DFE30131901968A86D17958E": {
+			"id": "F7F2D710DFE30131901968A86D17958E",
+			"asnIdentifier": "S2403337",
+			"position": 303000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Achieve a level of fitness that improves health and performance and provides opportunities for enjoyment and challenge in individual and dual activities.",
+			"ancestorIds": [
+				"F7F1BDC0DFE30131901668A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F27A00DFE30131901868A86D17958E": {
+			"id": "F7F27A00DFE30131901868A86D17958E",
+			"asnIdentifier": "S2403336",
+			"position": 302000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Demonstrate the ability to develop criteria and analyze factors to consider in the purchase of products and programs related to individual and dual activities.",
+			"ancestorIds": [
+				"F7F1BDC0DFE30131901668A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F215E0DFE30131901768A86D17958E": {
+			"id": "F7F215E0DFE30131901768A86D17958E",
+			"asnIdentifier": "S2403335",
+			"position": 301000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Develop personal physical fitness standards that exceed those of a scientifically based health-related physical fitness assessment.",
+			"ancestorIds": [
+				"F7F1BDC0DFE30131901668A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F1BDC0DFE30131901668A86D17958E": {
+			"id": "F7F1BDC0DFE30131901668A86D17958E",
+			"asnIdentifier": "S2403334",
+			"position": 300000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F165C0DFE30131901568A86D17958E": {
+			"id": "F7F165C0DFE30131901568A86D17958E",
+			"asnIdentifier": "S2403333",
+			"position": 299000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Practice individual and dual activities in real-world settings.",
+			"ancestorIds": [
+				"F7EFCDA0DFE30131901168A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F10B70DFE30131901468A86D17958E": {
+			"id": "F7F10B70DFE30131901468A86D17958E",
+			"asnIdentifier": "S2403332",
+			"position": 298000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Create or modify practice/training plans based on evaluative feedback from skill acquisition and performance.",
+			"ancestorIds": [
+				"F7EFCDA0DFE30131901168A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F09B20DFE30131901368A86D17958E": {
+			"id": "F7F09B20DFE30131901368A86D17958E",
+			"asnIdentifier": "S2403331",
+			"position": 297000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Analyze and evaluate the interrelationship of the principles of biomechanics and the use of strategies in high-level performance in individual and dual activities.",
+			"ancestorIds": [
+				"F7EFCDA0DFE30131901168A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7F02D20DFE30131901268A86D17958E": {
+			"id": "F7F02D20DFE30131901268A86D17958E",
+			"asnIdentifier": "S2403330",
+			"position": 296000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate expertise in two or more of the following individual and dual activities, preferably one from each category:<ul><li>Individual<ul><li>Archery</li><li>Cycling</li><li>Golf</li><li>Gymnastics/Tumbling</li><li>Skating</li><li>Skiing</li><li>Surfing</li><li>Yoga</li></ul></li><li>Dual<ul><li>Badminton</li><li>Handball</li><li>Racquetball</li><li>Squash</li><li>Tennis</li><li>Two-player volleyball</li></ul></li></ul>",
+			"ancestorIds": [
+				"F7EFCDA0DFE30131901168A86D17958E",
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7EFCDA0DFE30131901168A86D17958E": {
+			"id": "F7EFCDA0DFE30131901168A86D17958E",
+			"asnIdentifier": "S2403329",
+			"position": 295000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7EF77F0DFE30131901068A86D17958E"
+			]
+		},
+		"F7EF77F0DFE30131901068A86D17958E": {
+			"id": "F7EF77F0DFE30131901068A86D17958E",
+			"asnIdentifier": "S2403328",
+			"position": 294000,
+			"depth": 0,
+			"description": "High School Course 4C - Advanced Individual and Dual Activities",
+			"comments": [
+				"High School Courses 1, 2, and 3C are designed to be completed before a student enrolls in High School Course 4C."
+			],
+			"ancestorIds": [
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EF2270DFE30131900F68A86D17958E": {
+			"id": "F7EF2270DFE30131900F68A86D17958E",
+			"asnIdentifier": "S2403327",
+			"position": 293000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Perform and evaluate planned and spontaneous leadership assignments and roles in high-level aerobic activities.",
+			"ancestorIds": [
+				"F7EEC780DFE30131900E68A86D17958E",
+				"F7EC39C0DFE30131900868A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EEC780DFE30131900E68A86D17958E": {
+			"id": "F7EEC780DFE30131900E68A86D17958E",
+			"asnIdentifier": "S2403326",
+			"position": 292000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7EC39C0DFE30131900868A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EE6230DFE30131900D68A86D17958E": {
+			"id": "F7EE6230DFE30131900D68A86D17958E",
+			"asnIdentifier": "S2403325",
+			"position": 291000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Set personal goals for improved performance and enjoyment of aerobic activities.",
+			"ancestorIds": [
+				"F7ECB240DFE30131900968A86D17958E",
+				"F7EC39C0DFE30131900868A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EE06F0DFE30131900C68A86D17958E": {
+			"id": "F7EE06F0DFE30131900C68A86D17958E",
+			"asnIdentifier": "S2403324",
+			"position": 290000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Evaluate changes in self-responsibility as skill levels in aerobic activities improve.",
+			"ancestorIds": [
+				"F7ECB240DFE30131900968A86D17958E",
+				"F7EC39C0DFE30131900868A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7ED8F00DFE30131900B68A86D17958E": {
+			"id": "F7ED8F00DFE30131900B68A86D17958E",
+			"asnIdentifier": "S2403323",
+			"position": 289000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Identify the qualities of aerobic activity that enhance personal enjoyment.",
+			"ancestorIds": [
+				"F7ECB240DFE30131900968A86D17958E",
+				"F7EC39C0DFE30131900868A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7ED1900DFE30131900A68A86D17958E": {
+			"id": "F7ED1900DFE30131900A68A86D17958E",
+			"asnIdentifier": "S2403322",
+			"position": 288000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Demonstrate a physically active lifestyle that provides for enjoyment and challenge through aerobic activity.",
+			"ancestorIds": [
+				"F7ECB240DFE30131900968A86D17958E",
+				"F7EC39C0DFE30131900868A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7ECB240DFE30131900968A86D17958E": {
+			"id": "F7ECB240DFE30131900968A86D17958E",
+			"asnIdentifier": "S2403321",
+			"position": 287000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7EC39C0DFE30131900868A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EC39C0DFE30131900868A86D17958E": {
+			"id": "F7EC39C0DFE30131900868A86D17958E",
+			"asnIdentifier": "S2403320",
+			"position": 286000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EBE000DFE30131900768A86D17958E": {
+			"id": "F7EBE000DFE30131900768A86D17958E",
+			"asnIdentifier": "S2403319",
+			"position": 285000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Design a personal physical fitness program in preparation for the demands of a competitive aerobic activity.",
+			"ancestorIds": [
+				"F7EAD030DFE30131900468A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EB8930DFE30131900668A86D17958E": {
+			"id": "F7EB8930DFE30131900668A86D17958E",
+			"asnIdentifier": "S2403318",
+			"position": 284000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Adjust personal fitness goals on the basis of fitness assessment measures to improve performance in aerobic activities.",
+			"ancestorIds": [
+				"F7EAD030DFE30131900468A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EB2F40DFE30131900568A86D17958E": {
+			"id": "F7EB2F40DFE30131900568A86D17958E",
+			"asnIdentifier": "S2403317",
+			"position": 283000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Identify and achieve levels of personal excellence in health-related physical fitness.",
+			"ancestorIds": [
+				"F7EAD030DFE30131900468A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EAD030DFE30131900468A86D17958E": {
+			"id": "F7EAD030DFE30131900468A86D17958E",
+			"asnIdentifier": "S2403316",
+			"position": 282000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EA7860DFE30131900368A86D17958E": {
+			"id": "F7EA7860DFE30131900368A86D17958E",
+			"asnIdentifier": "S2403315",
+			"position": 281000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Practice aerobic activities in real-world settings.",
+			"ancestorIds": [
+				"F7E8FCE0DFE301318FFF68A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7EA20B0DFE30131900268A86D17958E": {
+			"id": "F7EA20B0DFE30131900268A86D17958E",
+			"asnIdentifier": "S2403314",
+			"position": 280000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Create or modify practice/training plans based on evaluative feedback from skill acquisition and performance.",
+			"ancestorIds": [
+				"F7E8FCE0DFE301318FFF68A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7E9CA50DFE30131900168A86D17958E": {
+			"id": "F7E9CA50DFE30131900168A86D17958E",
+			"asnIdentifier": "S2403313",
+			"position": 279000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Analyze and evaluate the interrelationship of the principles of biomechanics and the use of strategies in high-level performance.",
+			"ancestorIds": [
+				"F7E8FCE0DFE301318FFF68A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7E96940DFE30131900068A86D17958E": {
+			"id": "F7E96940DFE30131900068A86D17958E",
+			"asnIdentifier": "S2403312",
+			"position": 278000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate expertise in two or more of the following aerobic activities, preferably one from each category:<ul><li>Category 1<ul><li>Aerobic dance</li><li>Running</li><li>Skating</li><li>Swimming</li></ul></li><li>Category 2<ul><li>Cross-country skiing</li><li>Cycling</li><li>Rowing</li><li>Triathlon</li><li>Walking</li></ul></li></ul>",
+			"ancestorIds": [
+				"F7E8FCE0DFE301318FFF68A86D17958E",
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7E8FCE0DFE301318FFF68A86D17958E": {
+			"id": "F7E8FCE0DFE301318FFF68A86D17958E",
+			"asnIdentifier": "S2403311",
+			"position": 277000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7E89380DFE301318FFE68A86D17958E"
+			]
+		},
+		"F7E89380DFE301318FFE68A86D17958E": {
+			"id": "F7E89380DFE301318FFE68A86D17958E",
+			"asnIdentifier": "S2403310",
+			"position": 276000,
+			"depth": 0,
+			"description": "High School Course 4B - Advanced Aerobic Activities",
+			"comments": [
+				"High School Courses 1, 2, and 3B are designed to be completed before a student enrolls in High School Course 4B."
+			],
+			"ancestorIds": [
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E82E30DFE301318FFD68A86D17958E": {
+			"id": "F7E82E30DFE301318FFD68A86D17958E",
+			"asnIdentifier": "S2403309",
+			"position": 275000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Perform and evaluate planned and spontaneous leadership assignments and roles in high-level adventure/outdoor activities.",
+			"ancestorIds": [
+				"F7E79F20DFE301318FFC68A86D17958E",
+				"F7E63420DFE301318FF868A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E79F20DFE301318FFC68A86D17958E": {
+			"id": "F7E79F20DFE301318FFC68A86D17958E",
+			"asnIdentifier": "S2403308",
+			"position": 274000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7E63420DFE301318FF868A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E73F60DFE301318FFB68A86D17958E": {
+			"id": "F7E73F60DFE301318FFB68A86D17958E",
+			"asnIdentifier": "S2403307",
+			"position": 273000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Set personal goals for improved performance and enjoyment of adventure/outdoor activities.",
+			"ancestorIds": [
+				"F7E68EB0DFE301318FF968A86D17958E",
+				"F7E63420DFE301318FF868A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E6E640DFE301318FFA68A86D17958E": {
+			"id": "F7E6E640DFE301318FFA68A86D17958E",
+			"asnIdentifier": "S2403306",
+			"position": 272000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Evaluate changes in self-responsibility as skill levels in adventure/outdoor activities improve.",
+			"ancestorIds": [
+				"F7E68EB0DFE301318FF968A86D17958E",
+				"F7E63420DFE301318FF868A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E68EB0DFE301318FF968A86D17958E": {
+			"id": "F7E68EB0DFE301318FF968A86D17958E",
+			"asnIdentifier": "S2403305",
+			"position": 271000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7E63420DFE301318FF868A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E63420DFE301318FF868A86D17958E": {
+			"id": "F7E63420DFE301318FF868A86D17958E",
+			"asnIdentifier": "S2403304",
+			"position": 270000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E5D900DFE301318FF768A86D17958E": {
+			"id": "F7E5D900DFE301318FF768A86D17958E",
+			"asnIdentifier": "S2403303",
+			"position": 269000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Design a personal physical fitness program to be completed in a home or gym and that will be consistent with the demands of an adventure/outdoor activity.",
+			"ancestorIds": [
+				"F7E52520DFE301318FF568A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E57C10DFE301318FF668A86D17958E": {
+			"id": "F7E57C10DFE301318FF668A86D17958E",
+			"asnIdentifier": "S2403302",
+			"position": 268000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Achieve a level of fitness that improves health and performance and provides opportunities for enjoyment and challenge in an adventure/outdoor activity.",
+			"ancestorIds": [
+				"F7E52520DFE301318FF568A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E52520DFE301318FF568A86D17958E": {
+			"id": "F7E52520DFE301318FF568A86D17958E",
+			"asnIdentifier": "S2403301",
+			"position": 267000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E4CF10DFE301318FF468A86D17958E": {
+			"id": "F7E4CF10DFE301318FF468A86D17958E",
+			"asnIdentifier": "S2403300",
+			"position": 266000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Practice adventure/outdoor activities in real-world settings.",
+			"ancestorIds": [
+				"F7E337D0DFE301318FF068A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E47400DFE301318FF368A86D17958E": {
+			"id": "F7E47400DFE301318FF368A86D17958E",
+			"asnIdentifier": "S2403299",
+			"position": 265000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Create or modify practice/training plans based on evaluative feedback from skill acquisition and performance of adventure/outdoor activities.",
+			"ancestorIds": [
+				"F7E337D0DFE301318FF068A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E40F90DFE301318FF268A86D17958E": {
+			"id": "F7E40F90DFE301318FF268A86D17958E",
+			"asnIdentifier": "S2403298",
+			"position": 264000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Analyze and evaluate the interrelationship of the principles of biomechanics and the use of strategies in high-level performance.",
+			"ancestorIds": [
+				"F7E337D0DFE301318FF068A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E398A0DFE301318FF168A86D17958E": {
+			"id": "F7E398A0DFE301318FF168A86D17958E",
+			"asnIdentifier": "S2403297",
+			"position": 263000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate expertise in one adventure/outdoor activity.",
+			"ancestorIds": [
+				"F7E337D0DFE301318FF068A86D17958E",
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E337D0DFE301318FF068A86D17958E": {
+			"id": "F7E337D0DFE301318FF068A86D17958E",
+			"asnIdentifier": "S2403296",
+			"position": 262000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7E2D9E0DFE301318FEF68A86D17958E"
+			]
+		},
+		"F7E2D9E0DFE301318FEF68A86D17958E": {
+			"id": "F7E2D9E0DFE301318FEF68A86D17958E",
+			"asnIdentifier": "S2403295",
+			"position": 261000,
+			"depth": 0,
+			"description": "High School Course 4A - Advanced Adventure/Outdoor Activities",
+			"comments": [
+				"High School Courses 1, 2, and 3A are designed to be completed before a student enrolls in High School Course 4A."
+			],
+			"ancestorIds": [
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7E27AE0DFE301318FEE68A86D17958E": {
+			"id": "F7E27AE0DFE301318FEE68A86D17958E",
+			"asnIdentifier": "S2403294",
+			"position": 260000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Assist others in the achievement of their fitness goals.",
+			"ancestorIds": [
+				"F7E1FC30DFE301318FED68A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7E1FC30DFE301318FED68A86D17958E": {
+			"id": "F7E1FC30DFE301318FED68A86D17958E",
+			"asnIdentifier": "S2403293",
+			"position": 259000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7E19180DFE301318FEC68A86D17958E": {
+			"id": "F7E19180DFE301318FEC68A86D17958E",
+			"asnIdentifier": "S2403292",
+			"position": 258000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Analyze the role of social interaction in the successful participation in and enjoyment of weight-training and fitness activities.",
+			"ancestorIds": [
+				"F7E0DD50DFE301318FEA68A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7E13740DFE301318FEB68A86D17958E": {
+			"id": "F7E13740DFE301318FEB68A86D17958E",
+			"asnIdentifier": "S2403291",
+			"position": 257000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Explain how to select and modify weight-training and fitness activities to allow for participation by younger children, the elderly, and individuals with special needs.",
+			"ancestorIds": [
+				"F7E0DD50DFE301318FEA68A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7E0DD50DFE301318FEA68A86D17958E": {
+			"id": "F7E0DD50DFE301318FEA68A86D17958E",
+			"asnIdentifier": "S2403290",
+			"position": 256000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7E08890DFE301318FE968A86D17958E": {
+			"id": "F7E08890DFE301318FE968A86D17958E",
+			"asnIdentifier": "S2403289",
+			"position": 255000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Evaluate the risks and safety factors that may affect participation in weight training and fitness throughout a lifetime.",
+			"ancestorIds": [
+				"F7DE53E0DFE301318FE368A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7E02FA0DFE301318FE868A86D17958E": {
+			"id": "F7E02FA0DFE301318FE868A86D17958E",
+			"asnIdentifier": "S2403288",
+			"position": 254000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Identify and analyze weight-training and fitness activities that enhance personal enjoyment.",
+			"ancestorIds": [
+				"F7DE53E0DFE301318FE368A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DFCD90DFE301318FE768A86D17958E": {
+			"id": "F7DFCD90DFE301318FE768A86D17958E",
+			"asnIdentifier": "S2403287",
+			"position": 253000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Develop personal goals to improve performance in weight training and fitness.",
+			"ancestorIds": [
+				"F7DE53E0DFE301318FE368A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DF7A70DFE301318FE668A86D17958E": {
+			"id": "F7DF7A70DFE301318FE668A86D17958E",
+			"asnIdentifier": "S2403286",
+			"position": 252000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Describe how the perception of effort and quality is a personal assessment and describe the role that perception plays in achieving fitness goals.",
+			"ancestorIds": [
+				"F7DE53E0DFE301318FE368A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DF1EF0DFE301318FE568A86D17958E": {
+			"id": "F7DF1EF0DFE301318FE568A86D17958E",
+			"asnIdentifier": "S2403285",
+			"position": 251000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Describe the role of motivation in physical activity.",
+			"ancestorIds": [
+				"F7DE53E0DFE301318FE368A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DEBDE0DFE301318FE468A86D17958E": {
+			"id": "F7DEBDE0DFE301318FE468A86D17958E",
+			"asnIdentifier": "S2403284",
+			"position": 250000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Display safe and responsible behavior while training.",
+			"ancestorIds": [
+				"F7DE53E0DFE301318FE368A86D17958E",
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DE53E0DFE301318FE368A86D17958E": {
+			"id": "F7DE53E0DFE301318FE368A86D17958E",
+			"asnIdentifier": "S2403283",
+			"position": 249000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7DDE330DFE301318FE268A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DDE330DFE301318FE268A86D17958E": {
+			"id": "F7DDE330DFE301318FE268A86D17958E",
+			"asnIdentifier": "S2403282",
+			"position": 248000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DD8FB0DFE301318FE168A86D17958E": {
+			"id": "F7DD8FB0DFE301318FE168A86D17958E",
+			"asnIdentifier": "S2403281",
+			"position": 247000,
+			"depth": 2,
+			"listId": "2.9",
+			"description": "Meet physical fitness standards that exceed those of scientifically based health-related fitness assessments.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DD3A70DFE301318FE068A86D17958E": {
+			"id": "F7DD3A70DFE301318FE068A86D17958E",
+			"asnIdentifier": "S2403280",
+			"position": 246000,
+			"depth": 2,
+			"listId": "2.8",
+			"description": "Meet increasingly higher levels of speed, strength, power, and endurance.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DCDD80DFE301318FDF68A86D17958E": {
+			"id": "F7DCDD80DFE301318FDF68A86D17958E",
+			"asnIdentifier": "S2403279",
+			"position": 245000,
+			"depth": 2,
+			"listId": "2.7",
+			"description": "Develop and use a personal physical fitness log to record all workout data on a daily basis.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DC6170DFE301318FDE68A86D17958E": {
+			"id": "F7DC6170DFE301318FDE68A86D17958E",
+			"asnIdentifier": "S2403278",
+			"position": 244000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Demonstrate and explain the concepts of two different conditioning programs.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DBF2B0DFE301318FDD68A86D17958E": {
+			"id": "F7DBF2B0DFE301318FDD68A86D17958E",
+			"asnIdentifier": "S2403277",
+			"position": 243000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Demonstrate and explain the techniques and concepts of three types of weight-training programs.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DB9DB0DFE301318FDC68A86D17958E": {
+			"id": "F7DB9DB0DFE301318FDC68A86D17958E",
+			"asnIdentifier": "S2403276",
+			"position": 242000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Explain how the principles of biomechanics, muscle development, gender, age, training experience, training technique, and specificity affect performance related to strength training.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DB4A20DFE301318FDB68A86D17958E": {
+			"id": "F7DB4A20DFE301318FDB68A86D17958E",
+			"asnIdentifier": "S2403275",
+			"position": 241000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Assess multiple performances of another person in the following areas: muscular strength, muscular endurance, cardiorespiratory endurance, and flexibility.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DAF5E0DFE301318FDA68A86D17958E": {
+			"id": "F7DAF5E0DFE301318FDA68A86D17958E",
+			"asnIdentifier": "S2403274",
+			"position": 240000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Identify the prime mover muscles, antagonistic muscles, and stabilizer muscles for each of the major weight-training exercises.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DA9F50DFE301318FD968A86D17958E": {
+			"id": "F7DA9F50DFE301318FD968A86D17958E",
+			"asnIdentifier": "S2403273",
+			"position": 239000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Establish a set of personal physical fitness goals, using the principles of training, and create a strength-training and conditioning program.",
+			"ancestorIds": [
+				"F7DA3A80DFE301318FD868A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7DA3A80DFE301318FD868A86D17958E": {
+			"id": "F7DA3A80DFE301318FD868A86D17958E",
+			"asnIdentifier": "S2403272",
+			"position": 238000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D9D660DFE301318FD768A86D17958E": {
+			"id": "F7D9D660DFE301318FD768A86D17958E",
+			"asnIdentifier": "S2403271",
+			"position": 237000,
+			"depth": 2,
+			"listId": "1.8",
+			"description": "Demonstrate independent learning of movement skills in weight training.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D96F70DFE301318FD668A86D17958E": {
+			"id": "F7D96F70DFE301318FD668A86D17958E",
+			"asnIdentifier": "S2403270",
+			"position": 236000,
+			"depth": 2,
+			"listId": "1.7",
+			"description": "List the safety equipment required for participation in weight training; describe and demonstrate the use of such equipment.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D911C0DFE301318FD568A86D17958E": {
+			"id": "F7D911C0DFE301318FD568A86D17958E",
+			"asnIdentifier": "S2403269",
+			"position": 235000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Identify and apply the principles of biomechanics necessary for the safe and successful performance of weight training.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D8BC00DFE301318FD468A86D17958E": {
+			"id": "F7D8BC00DFE301318FD468A86D17958E",
+			"asnIdentifier": "S2403268",
+			"position": 234000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "Measure and assess multiple performances of another person in the following areas: balance, reaction time, agility, coordination, power, and speed.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D85BA0DFE301318FD368A86D17958E": {
+			"id": "F7D85BA0DFE301318FD368A86D17958E",
+			"asnIdentifier": "S2403267",
+			"position": 233000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Observe and analyze the techniques of another person (or oneself through video) performing a plyometric exercise and write an analysis of the performance.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D803D0DFE301318FD268A86D17958E": {
+			"id": "F7D803D0DFE301318FD268A86D17958E",
+			"asnIdentifier": "S2403266",
+			"position": 232000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Demonstrate proper spotting techniques for all lifts and exercises that require spotting.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D7A960DFE301318FD168A86D17958E": {
+			"id": "F7D7A960DFE301318FD168A86D17958E",
+			"asnIdentifier": "S2403265",
+			"position": 231000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Observe and analyze the lifting techniques of another person (or oneself through video) and write an analysis of the performance.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D74AB0DFE301318FD068A86D17958E": {
+			"id": "F7D74AB0DFE301318FD068A86D17958E",
+			"asnIdentifier": "S2403264",
+			"position": 230000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Explain the principles of biomechanics of first-, second-, and third-class levers and apply those principles to a variety of lifting techniques.",
+			"ancestorIds": [
+				"F7D6E000DFE301318FCF68A86D17958E",
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D6E000DFE301318FCF68A86D17958E": {
+			"id": "F7D6E000DFE301318FCF68A86D17958E",
+			"asnIdentifier": "S2403263",
+			"position": 229000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7D66A40DFE301318FCE68A86D17958E"
+			]
+		},
+		"F7D66A40DFE301318FCE68A86D17958E": {
+			"id": "F7D66A40DFE301318FCE68A86D17958E",
+			"asnIdentifier": "S2403262",
+			"position": 228000,
+			"depth": 0,
+			"description": "High School Course 3F - Weight Training and Fitness",
+			"comments": [
+				"High School Courses 1 and 2 are designed to be completed before a student enrolls in High School Course 3F."
+			],
+			"ancestorIds": [
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D56410DFE301318FCB68A86D17958E": {
+			"id": "F7D56410DFE301318FCB68A86D17958E",
+			"asnIdentifier": "S2403261",
+			"position": 227000,
+			"depth": 3,
+			"listId": "3.10",
+			"description": "Engage in aquatic activities both in school and outside school.",
+			"ancestorIds": [
+				"F7D505E0DFE301318FCA68A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D615A0DFE301318FCD68A86D17958E": {
+			"id": "F7D615A0DFE301318FCD68A86D17958E",
+			"asnIdentifier": "S2403260",
+			"position": 226000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Analyze the role that cooperation and leadership play in aquatic activities.",
+			"ancestorIds": [
+				"F7D505E0DFE301318FCA68A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D5BED0DFE301318FCC68A86D17958E": {
+			"id": "F7D5BED0DFE301318FCC68A86D17958E",
+			"asnIdentifier": "S2403259",
+			"position": 225000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Accept and perform planned and spontaneous leadership assignments and roles in aquatic activities.",
+			"ancestorIds": [
+				"F7D505E0DFE301318FCA68A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D505E0DFE301318FCA68A86D17958E": {
+			"id": "F7D505E0DFE301318FCA68A86D17958E",
+			"asnIdentifier": "S2403258",
+			"position": 224000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D49A90DFE301318FC968A86D17958E": {
+			"id": "F7D49A90DFE301318FC968A86D17958E",
+			"asnIdentifier": "S2403257",
+			"position": 223000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Analyze the role of social interaction in the successful participation in and enjoyment of aquatic activities.",
+			"ancestorIds": [
+				"F7D3D7D0DFE301318FC768A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D438A0DFE301318FC868A86D17958E": {
+			"id": "F7D438A0DFE301318FC868A86D17958E",
+			"asnIdentifier": "S2403256",
+			"position": 222000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Explain how to select and modify aquatic activities to allow for participation by younger children, the elderly, and individuals with special needs.",
+			"ancestorIds": [
+				"F7D3D7D0DFE301318FC768A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D3D7D0DFE301318FC768A86D17958E": {
+			"id": "F7D3D7D0DFE301318FC768A86D17958E",
+			"asnIdentifier": "S2403255",
+			"position": 221000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D381A0DFE301318FC668A86D17958E": {
+			"id": "F7D381A0DFE301318FC668A86D17958E",
+			"asnIdentifier": "S2403254",
+			"position": 220000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Identify and demonstrate personal responsibilities for safety and hygiene in the aquatics setting.",
+			"ancestorIds": [
+				"F7D1A8A0DFE301318FC168A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D329D0DFE301318FC568A86D17958E": {
+			"id": "F7D329D0DFE301318FC568A86D17958E",
+			"asnIdentifier": "S2403253",
+			"position": 219000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Evaluate the risks and safety factors that may affect participation in aquatic activities throughout a lifetime.",
+			"ancestorIds": [
+				"F7D1A8A0DFE301318FC168A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D2C410DFE301318FC468A86D17958E": {
+			"id": "F7D2C410DFE301318FC468A86D17958E",
+			"asnIdentifier": "S2403252",
+			"position": 218000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Identify and analyze aquatic activities that enhance personal enjoyment.",
+			"ancestorIds": [
+				"F7D1A8A0DFE301318FC168A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D25C70DFE301318FC368A86D17958E": {
+			"id": "F7D25C70DFE301318FC368A86D17958E",
+			"asnIdentifier": "S2403251",
+			"position": 217000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Develop personal goals to improve performance in aquatic activities.",
+			"ancestorIds": [
+				"F7D1A8A0DFE301318FC168A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D20270DFE301318FC268A86D17958E": {
+			"id": "F7D20270DFE301318FC268A86D17958E",
+			"asnIdentifier": "S2403250",
+			"position": 216000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Compare and contrast the effective leadership skills used in aquatic activities and those used in other physical activities.",
+			"ancestorIds": [
+				"F7D1A8A0DFE301318FC168A86D17958E",
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D1A8A0DFE301318FC168A86D17958E": {
+			"id": "F7D1A8A0DFE301318FC168A86D17958E",
+			"asnIdentifier": "S2403249",
+			"position": 215000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7D14020DFE301318FC068A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D14020DFE301318FC068A86D17958E": {
+			"id": "F7D14020DFE301318FC068A86D17958E",
+			"asnIdentifier": "S2403248",
+			"position": 214000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D0C3B0DFE301318FBF68A86D17958E": {
+			"id": "F7D0C3B0DFE301318FBF68A86D17958E",
+			"asnIdentifier": "S2403247",
+			"position": 213000,
+			"depth": 2,
+			"listId": "2.9",
+			"description": "Create and implement aquatic programs that improve health-related physical fitness.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D07210DFE301318FBE68A86D17958E": {
+			"id": "F7D07210DFE301318FBE68A86D17958E",
+			"asnIdentifier": "S2403246",
+			"position": 212000,
+			"depth": 2,
+			"listId": "2.8",
+			"description": "Explain how aquatic activities contribute to the development and maintenance of health-related physical fitness.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7D01F50DFE301318FBD68A86D17958E": {
+			"id": "F7D01F50DFE301318FBD68A86D17958E",
+			"asnIdentifier": "S2403245",
+			"position": 211000,
+			"depth": 2,
+			"listId": "2.7",
+			"description": "Develop and implement a month-long personal physical fitness plan that includes aquatic activities.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CFC8D0DFE301318FBC68A86D17958E": {
+			"id": "F7CFC8D0DFE301318FBC68A86D17958E",
+			"asnIdentifier": "S2403244",
+			"position": 210000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Demonstrate the ability to develop criteria and analyze factors to consider in the purchase of products and programs related to aquatic activities.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CF6DD0DFE301318FBB68A86D17958E": {
+			"id": "F7CF6DD0DFE301318FBB68A86D17958E",
+			"asnIdentifier": "S2403243",
+			"position": 209000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Explain the relationship between participation in aquatic activities and indicators of good health.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CF0CC0DFE301318FBA68A86D17958E": {
+			"id": "F7CF0CC0DFE301318FBA68A86D17958E",
+			"asnIdentifier": "S2403242",
+			"position": 208000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Improve or maintain one's physical fitness by adjusting physical activity levels according to the principles of exercise.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CEB650DFE301318FB968A86D17958E": {
+			"id": "F7CEB650DFE301318FB968A86D17958E",
+			"asnIdentifier": "S2403241",
+			"position": 207000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Analyze the effects of participation in aquatic activities on levels of health-related physical fitness activities and a personal fitness program.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CE5FA0DFE301318FB868A86D17958E": {
+			"id": "F7CE5FA0DFE301318FB868A86D17958E",
+			"asnIdentifier": "S2403240",
+			"position": 206000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Participate in aquatic activities that improve or maintain health-related physical fitness.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CE0800DFE301318FB768A86D17958E": {
+			"id": "F7CE0800DFE301318FB768A86D17958E",
+			"asnIdentifier": "S2403239",
+			"position": 205000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Meet physical fitness standards that exceed those of a scientifically based health-related fitness assessment.",
+			"ancestorIds": [
+				"F7CDAC90DFE301318FB668A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CDAC90DFE301318FB668A86D17958E": {
+			"id": "F7CDAC90DFE301318FB668A86D17958E",
+			"asnIdentifier": "S2403238",
+			"position": 204000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CD3DB0DFE301318FB568A86D17958E": {
+			"id": "F7CD3DB0DFE301318FB568A86D17958E",
+			"asnIdentifier": "S2403237",
+			"position": 203000,
+			"depth": 2,
+			"listId": "1.9",
+			"description": "Demonstrate and explain basic cardiopulmonary resuscitation.",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CCDDF0DFE301318FB468A86D17958E": {
+			"id": "F7CCDDF0DFE301318FB468A86D17958E",
+			"asnIdentifier": "S2403236",
+			"position": 202000,
+			"depth": 2,
+			"listId": "1.8",
+			"description": "Demonstrate and explain basic water rescue with and without equipment.",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CC7980DFE301318FB368A86D17958E": {
+			"id": "F7CC7980DFE301318FB368A86D17958E",
+			"asnIdentifier": "S2403235",
+			"position": 201000,
+			"depth": 2,
+			"listId": "1.7",
+			"description": "Identify and practice the safety skills necessary for entering swimming pools, lakes, rivers, and oceans (e.g., walking, jumping, falling, and diving).",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CC1E60DFE301318FB268A86D17958E": {
+			"id": "F7CC1E60DFE301318FB268A86D17958E",
+			"asnIdentifier": "S2403234",
+			"position": 200000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Demonstrate independent learning of movement skills in aquatic activities.",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CBB920DFE301318FB168A86D17958E": {
+			"id": "F7CBB920DFE301318FB168A86D17958E",
+			"asnIdentifier": "S2403233",
+			"position": 199000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "List the safety equipment required for participation in aquatic activities; describe and demonstrate the use of such equipment.",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CB4230DFE301318FB068A86D17958E": {
+			"id": "F7CB4230DFE301318FB068A86D17958E",
+			"asnIdentifier": "S2403232",
+			"position": 198000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Identify and apply the principles of biomechanics necessary for the safe and successful performance of aquatic activities.",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CAD720DFE301318FAF68A86D17958E": {
+			"id": "F7CAD720DFE301318FAF68A86D17958E",
+			"asnIdentifier": "S2403231",
+			"position": 197000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Apply previously learned movement concepts to the learning and development of motor skills required for successful participation in aquatic activities.",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CA83D0DFE301318FAE68A86D17958E": {
+			"id": "F7CA83D0DFE301318FAE68A86D17958E",
+			"asnIdentifier": "S2403230",
+			"position": 196000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Identify the characteristics and critical elements of a highly skilled performance in aquatic activities and demonstrate them.",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7CA2E00DFE301318FAD68A86D17958E": {
+			"id": "F7CA2E00DFE301318FAD68A86D17958E",
+			"asnIdentifier": "S2403229",
+			"position": 195000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate advanced knowledge and skills in two or more aquatic activities, selecting one or more from each of the following categories:<ul><li>Category 1<ul><li>Diving</li><li>Kayaking/Canoeing/Rowing</li><li>Snorkeling</li><li>Swimming</li></ul></li><li>Category 2<ul><li>Life guarding</li><li>Scuba diving</li><li>Synchronized swimming</li><li>Water polo</li></ul></li></ul>",
+			"ancestorIds": [
+				"F7C9D530DFE301318FAC68A86D17958E",
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7C9D530DFE301318FAC68A86D17958E": {
+			"id": "F7C9D530DFE301318FAC68A86D17958E",
+			"asnIdentifier": "S2403228",
+			"position": 194000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7C971E0DFE301318FAB68A86D17958E"
+			]
+		},
+		"F7C971E0DFE301318FAB68A86D17958E": {
+			"id": "F7C971E0DFE301318FAB68A86D17958E",
+			"asnIdentifier": "S2403227",
+			"position": 193000,
+			"depth": 0,
+			"description": "High School Course 3E - Aquatic Activities",
+			"comments": [
+				"High School Courses 1 and 2 are designed to be completed before a student enrolls in High School Course 3E."
+			],
+			"ancestorIds": [
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C91DE0DFE301318FAA68A86D17958E": {
+			"id": "F7C91DE0DFE301318FAA68A86D17958E",
+			"asnIdentifier": "S2403226",
+			"position": 192000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Engage in dance activities both in school and outside school.",
+			"ancestorIds": [
+				"F7C80180DFE301318FA768A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C8C8B0DFE301318FA968A86D17958E": {
+			"id": "F7C8C8B0DFE301318FA968A86D17958E",
+			"asnIdentifier": "S2403225",
+			"position": 191000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Analyze the role that cooperation and leadership play in dance activities.",
+			"ancestorIds": [
+				"F7C80180DFE301318FA768A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C86C10DFE301318FA868A86D17958E": {
+			"id": "F7C86C10DFE301318FA868A86D17958E",
+			"asnIdentifier": "S2403224",
+			"position": 190000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Accept and perform planned and spontaneous leadership assignments and roles in dance activities.",
+			"ancestorIds": [
+				"F7C80180DFE301318FA768A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C80180DFE301318FA768A86D17958E": {
+			"id": "F7C80180DFE301318FA768A86D17958E",
+			"asnIdentifier": "S2403223",
+			"position": 189000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C79060DFE301318FA668A86D17958E": {
+			"id": "F7C79060DFE301318FA668A86D17958E",
+			"asnIdentifier": "S2403222",
+			"position": 188000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Analyze the role of social interaction in the successful participation in and enjoyment of dance activities.",
+			"ancestorIds": [
+				"F7C6D4E0DFE301318FA468A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C72B40DFE301318FA568A86D17958E": {
+			"id": "F7C72B40DFE301318FA568A86D17958E",
+			"asnIdentifier": "S2403221",
+			"position": 187000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Explain how to select and modify dance activities to allow for participation by younger children, the elderly, and individuals with special needs.",
+			"ancestorIds": [
+				"F7C6D4E0DFE301318FA468A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C6D4E0DFE301318FA468A86D17958E": {
+			"id": "F7C6D4E0DFE301318FA468A86D17958E",
+			"asnIdentifier": "S2403220",
+			"position": 186000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C67E00DFE301318FA368A86D17958E": {
+			"id": "F7C67E00DFE301318FA368A86D17958E",
+			"asnIdentifier": "S2403219",
+			"position": 185000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Evaluate the risks and safety factors that may affect participation in dance activities throughout a lifetime.",
+			"ancestorIds": [
+				"F7C4F680DFE301318F9F68A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C62020DFE301318FA268A86D17958E": {
+			"id": "F7C62020DFE301318FA268A86D17958E",
+			"asnIdentifier": "S2403218",
+			"position": 184000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Identify and analyze dance activities that enhance personal enjoyment.",
+			"ancestorIds": [
+				"F7C4F680DFE301318F9F68A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C5A4B0DFE301318FA168A86D17958E": {
+			"id": "F7C5A4B0DFE301318FA168A86D17958E",
+			"asnIdentifier": "S2403217",
+			"position": 183000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Develop personal goals to improve performance in dance activities.",
+			"ancestorIds": [
+				"F7C4F680DFE301318F9F68A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C54F40DFE301318FA068A86D17958E": {
+			"id": "F7C54F40DFE301318FA068A86D17958E",
+			"asnIdentifier": "S2403216",
+			"position": 182000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Compare and contrast the effective leadership skills used in dance activities and those used in other physical activities.",
+			"ancestorIds": [
+				"F7C4F680DFE301318F9F68A86D17958E",
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C4F680DFE301318F9F68A86D17958E": {
+			"id": "F7C4F680DFE301318F9F68A86D17958E",
+			"asnIdentifier": "S2403215",
+			"position": 181000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7C49A80DFE301318F9E68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C49A80DFE301318F9E68A86D17958E": {
+			"id": "F7C49A80DFE301318F9E68A86D17958E",
+			"asnIdentifier": "S2403214",
+			"position": 180000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C43C40DFE301318F9D68A86D17958E": {
+			"id": "F7C43C40DFE301318F9D68A86D17958E",
+			"asnIdentifier": "S2403213",
+			"position": 179000,
+			"depth": 2,
+			"listId": "2.7",
+			"description": "Develop and implement a month-long personal physical fitness plan that includes dance activities.",
+			"ancestorIds": [
+				"F7C199B0DFE301318F9668A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C3DF70DFE301318F9C68A86D17958E": {
+			"id": "F7C3DF70DFE301318F9C68A86D17958E",
+			"asnIdentifier": "S2403212",
+			"position": 178000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Demonstrate the ability to develop criteria and analyze factors to consider in the purchase of products and programs related to dance activities.",
+			"ancestorIds": [
+				"F7C199B0DFE301318F9668A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C38740DFE301318F9B68A86D17958E": {
+			"id": "F7C38740DFE301318F9B68A86D17958E",
+			"asnIdentifier": "S2403211",
+			"position": 177000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Explain the relationship between participation in dance activities and health.",
+			"ancestorIds": [
+				"F7C199B0DFE301318F9668A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C32870DFE301318F9A68A86D17958E": {
+			"id": "F7C32870DFE301318F9A68A86D17958E",
+			"asnIdentifier": "S2403210",
+			"position": 176000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Improve or maintain one's physical fitness by adjusting physical activity levels according to the principles of exercise.",
+			"ancestorIds": [
+				"F7C199B0DFE301318F9668A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C2C450DFE301318F9968A86D17958E": {
+			"id": "F7C2C450DFE301318F9968A86D17958E",
+			"asnIdentifier": "S2403209",
+			"position": 175000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Analyze the effects of dance activities on a personal physical fitness program and personal levels of health-related physical fitness.",
+			"ancestorIds": [
+				"F7C199B0DFE301318F9668A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C25EC0DFE301318F9868A86D17958E": {
+			"id": "F7C25EC0DFE301318F9868A86D17958E",
+			"asnIdentifier": "S2403208",
+			"position": 174000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Participate in dance activities that improve or maintain personal levels of health-related physical fitness.",
+			"ancestorIds": [
+				"F7C199B0DFE301318F9668A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C1EF60DFE301318F9768A86D17958E": {
+			"id": "F7C1EF60DFE301318F9768A86D17958E",
+			"asnIdentifier": "S2403207",
+			"position": 173000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Meet physical fitness standards that exceed those of a scientifically based health-related fitness assessment.",
+			"ancestorIds": [
+				"F7C199B0DFE301318F9668A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C199B0DFE301318F9668A86D17958E": {
+			"id": "F7C199B0DFE301318F9668A86D17958E",
+			"asnIdentifier": "S2403206",
+			"position": 172000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C14080DFE301318F9568A86D17958E": {
+			"id": "F7C14080DFE301318F9568A86D17958E",
+			"asnIdentifier": "S2403205",
+			"position": 171000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Demonstrate independent learning of movement skills in dance activities.",
+			"ancestorIds": [
+				"F7BF0990DFE301318F8F68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C0E9E0DFE301318F9468A86D17958E": {
+			"id": "F7C0E9E0DFE301318F9468A86D17958E",
+			"asnIdentifier": "S2403204",
+			"position": 170000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "List the safety equipment and facilities required for participation in dance activities; describe and demonstrate the use of such equipment and facilities.",
+			"ancestorIds": [
+				"F7BF0990DFE301318F8F68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C08A20DFE301318F9368A86D17958E": {
+			"id": "F7C08A20DFE301318F9368A86D17958E",
+			"asnIdentifier": "S2403203",
+			"position": 169000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Identify and apply the principles of biomechanics necessary for the safe and successful performance of dance activities.",
+			"ancestorIds": [
+				"F7BF0990DFE301318F8F68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7C01830DFE301318F9268A86D17958E": {
+			"id": "F7C01830DFE301318F9268A86D17958E",
+			"asnIdentifier": "S2403202",
+			"position": 168000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Apply previously learned movement concepts to the learning and development of the motor skills required for successful participation in dance activities.",
+			"ancestorIds": [
+				"F7BF0990DFE301318F8F68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7BFBBB0DFE301318F9168A86D17958E": {
+			"id": "F7BFBBB0DFE301318F9168A86D17958E",
+			"asnIdentifier": "S2403201",
+			"position": 167000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Identify the characteristics and critical elements of a highly skilled performance in dance activities and demonstrate them.",
+			"ancestorIds": [
+				"F7BF0990DFE301318F8F68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7BF6510DFE301318F9068A86D17958E": {
+			"id": "F7BF6510DFE301318F9068A86D17958E",
+			"asnIdentifier": "S2403200",
+			"position": 166000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate advanced knowledge and skills in two or more dance activities, selecting one or more from each of the following categories:<ul><li>Category 1<ul><li>Ballet</li><li>Folk</li><li>Jazz</li></ul></li><li>Category 2<ul><li>MOdern</li><li>Social</li><li>Square</li></ul></li></ul>",
+			"ancestorIds": [
+				"F7BF0990DFE301318F8F68A86D17958E",
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7BF0990DFE301318F8F68A86D17958E": {
+			"id": "F7BF0990DFE301318F8F68A86D17958E",
+			"asnIdentifier": "S2403199",
+			"position": 165000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7BEB040DFE301318F8E68A86D17958E"
+			]
+		},
+		"F7BEB040DFE301318F8E68A86D17958E": {
+			"id": "F7BEB040DFE301318F8E68A86D17958E",
+			"asnIdentifier": "S2403198",
+			"position": 164000,
+			"depth": 0,
+			"description": "High School Course 3D - Dance",
+			"comments": [
+				"High School Courses 1 and 2 are designed to be completed before a student enrolls in High School Course 3D."
+			],
+			"ancestorIds": [
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BE5640DFE301318F8D68A86D17958E": {
+			"id": "F7BE5640DFE301318F8D68A86D17958E",
+			"asnIdentifier": "S2403197",
+			"position": 163000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Engage in individual and dual activities both in school and outside school.",
+			"ancestorIds": [
+				"F7BD1700DFE301318F8A68A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BDF5A0DFE301318F8C68A86D17958E": {
+			"id": "F7BDF5A0DFE301318F8C68A86D17958E",
+			"asnIdentifier": "S2403196",
+			"position": 162000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Analyze the role that cooperation and leadership play in individual and dual activities.",
+			"ancestorIds": [
+				"F7BD1700DFE301318F8A68A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BD90E0DFE301318F8B68A86D17958E": {
+			"id": "F7BD90E0DFE301318F8B68A86D17958E",
+			"asnIdentifier": "S2403195",
+			"position": 161000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Accept and perform planned and spontaneous leadership assignments and roles in individual and dual activities.",
+			"ancestorIds": [
+				"F7BD1700DFE301318F8A68A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BD1700DFE301318F8A68A86D17958E": {
+			"id": "F7BD1700DFE301318F8A68A86D17958E",
+			"asnIdentifier": "S2403194",
+			"position": 160000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BCB850DFE301318F8968A86D17958E": {
+			"id": "F7BCB850DFE301318F8968A86D17958E",
+			"asnIdentifier": "S2403193",
+			"position": 159000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Analyze the role of social interaction in the successful participation in and enjoyment of individual and dual activities.",
+			"ancestorIds": [
+				"F7BC0D60DFE301318F8768A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BC6360DFE301318F8868A86D17958E": {
+			"id": "F7BC6360DFE301318F8868A86D17958E",
+			"asnIdentifier": "S2403192",
+			"position": 158000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Explain how to select and modify individual and dual activities to allow for participation by younger children, the elderly, and individuals with special needs.",
+			"ancestorIds": [
+				"F7BC0D60DFE301318F8768A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BC0D60DFE301318F8768A86D17958E": {
+			"id": "F7BC0D60DFE301318F8768A86D17958E",
+			"asnIdentifier": "S2403191",
+			"position": 157000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BBB130DFE301318F8668A86D17958E": {
+			"id": "F7BBB130DFE301318F8668A86D17958E",
+			"asnIdentifier": "S2403190",
+			"position": 156000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Evaluate the risks and safety factors that may affect participation in individual and dual activities throughout a lifetime.",
+			"ancestorIds": [
+				"F7BA27E0DFE301318F8268A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BB4430DFE301318F8568A86D17958E": {
+			"id": "F7BB4430DFE301318F8568A86D17958E",
+			"asnIdentifier": "S2403189",
+			"position": 155000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Identify and analyze individual and dual physical activities that enhance personal enjoyment.",
+			"ancestorIds": [
+				"F7BA27E0DFE301318F8268A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BADF80DFE301318F8468A86D17958E": {
+			"id": "F7BADF80DFE301318F8468A86D17958E",
+			"asnIdentifier": "S2403188",
+			"position": 154000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Develop personal goals to improve performance in individual and dual activities.",
+			"ancestorIds": [
+				"F7BA27E0DFE301318F8268A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BA7E50DFE301318F8368A86D17958E": {
+			"id": "F7BA7E50DFE301318F8368A86D17958E",
+			"asnIdentifier": "S2403187",
+			"position": 153000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Compare and contrast the effective leadership skills used in individual and dual activities and those used in other physical activities.",
+			"ancestorIds": [
+				"F7BA27E0DFE301318F8268A86D17958E",
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7BA27E0DFE301318F8268A86D17958E": {
+			"id": "F7BA27E0DFE301318F8268A86D17958E",
+			"asnIdentifier": "S2403186",
+			"position": 152000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7B9D3B0DFE301318F8168A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B9D3B0DFE301318F8168A86D17958E": {
+			"id": "F7B9D3B0DFE301318F8168A86D17958E",
+			"asnIdentifier": "S2403185",
+			"position": 151000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B97C60DFE301318F8068A86D17958E": {
+			"id": "F7B97C60DFE301318F8068A86D17958E",
+			"asnIdentifier": "S2403184",
+			"position": 150000,
+			"depth": 2,
+			"listId": "2.7",
+			"description": "Develop and implement a month-long personal physical fitness plan that includes individual and dual activities.",
+			"ancestorIds": [
+				"F7B70890DFE301318F7968A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B91E30DFE301318F7F68A86D17958E": {
+			"id": "F7B91E30DFE301318F7F68A86D17958E",
+			"asnIdentifier": "S2403183",
+			"position": 149000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Demonstrate the ability to develop criteria and analyze factors to consider in the purchase of fitness products and programs related to individual and dual activities.",
+			"ancestorIds": [
+				"F7B70890DFE301318F7968A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B8C560DFE301318F7E68A86D17958E": {
+			"id": "F7B8C560DFE301318F7E68A86D17958E",
+			"asnIdentifier": "S2403182",
+			"position": 148000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Explain the relationship between participation in individual and in dual activities and health.",
+			"ancestorIds": [
+				"F7B70890DFE301318F7968A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B869A0DFE301318F7D68A86D17958E": {
+			"id": "F7B869A0DFE301318F7D68A86D17958E",
+			"asnIdentifier": "S2403181",
+			"position": 147000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Improve or maintain physical fitness by adjusting physical activity levels according to the principles of exercise.",
+			"ancestorIds": [
+				"F7B70890DFE301318F7968A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B814D0DFE301318F7C68A86D17958E": {
+			"id": "F7B814D0DFE301318F7C68A86D17958E",
+			"asnIdentifier": "S2403180",
+			"position": 146000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Analyze the effects of individual and dual activities on a personal physical fitness program and personal levels of health-related physical fitness.",
+			"ancestorIds": [
+				"F7B70890DFE301318F7968A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B7BD50DFE301318F7B68A86D17958E": {
+			"id": "F7B7BD50DFE301318F7B68A86D17958E",
+			"asnIdentifier": "S2403179",
+			"position": 145000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Participate in individual and dual activities that improve or maintain health-related physical fitness.",
+			"ancestorIds": [
+				"F7B70890DFE301318F7968A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B761E0DFE301318F7A68A86D17958E": {
+			"id": "F7B761E0DFE301318F7A68A86D17958E",
+			"asnIdentifier": "S2403178",
+			"position": 144000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Meet physical fitness standards that exceed those of a scientifically based health-related fitness assessment.",
+			"ancestorIds": [
+				"F7B70890DFE301318F7968A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B70890DFE301318F7968A86D17958E": {
+			"id": "F7B70890DFE301318F7968A86D17958E",
+			"asnIdentifier": "S2403177",
+			"position": 143000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B6AF30DFE301318F7868A86D17958E": {
+			"id": "F7B6AF30DFE301318F7868A86D17958E",
+			"asnIdentifier": "S2403176",
+			"position": 142000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Demonstrate independent learning of movement skills in individual and dual activities.",
+			"ancestorIds": [
+				"F7B40550DFE301318F7268A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B64F60DFE301318F7768A86D17958E": {
+			"id": "F7B64F60DFE301318F7768A86D17958E",
+			"asnIdentifier": "S2403175",
+			"position": 141000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "List the safety equipment required for participation in individual and dual activities; describe and demonstrate the use of such equipment.",
+			"ancestorIds": [
+				"F7B40550DFE301318F7268A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B5EC70DFE301318F7668A86D17958E": {
+			"id": "F7B5EC70DFE301318F7668A86D17958E",
+			"asnIdentifier": "S2403174",
+			"position": 140000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Identify and apply the principles of biomechanics necessary for the safe and successful performance of individual and dual activities.",
+			"ancestorIds": [
+				"F7B40550DFE301318F7268A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B57E00DFE301318F7568A86D17958E": {
+			"id": "F7B57E00DFE301318F7568A86D17958E",
+			"asnIdentifier": "S2403173",
+			"position": 139000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Apply previously learned movement concepts to the learning and development of the motor skills required for successful participation in individual and dual activities.",
+			"ancestorIds": [
+				"F7B40550DFE301318F7268A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B51890DFE301318F7468A86D17958E": {
+			"id": "F7B51890DFE301318F7468A86D17958E",
+			"asnIdentifier": "S2403172",
+			"position": 138000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Identify the characteristics and critical elements of a highly skilled performance in individual and dual activities and demonstrate them.",
+			"ancestorIds": [
+				"F7B40550DFE301318F7268A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B48A90DFE301318F7368A86D17958E": {
+			"id": "F7B48A90DFE301318F7368A86D17958E",
+			"asnIdentifier": "S2403171",
+			"position": 137000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate advanced knowledge and skills in two or more individual and dual activities, selecting one or more from each of the following categories:<ul><li>Individual<ul><li>Archery</li><li>Cycling</li><li>Golf</li><li>Gymnastics/Tumbling</li><li>Skating</li><li>Skiing</li><li>Surfing</li><li>Yoga</li></ul></li><li>Dual<ul><li>Badminton</li><li>Handball</li><li>Racquetball</li><li>Squash</li><li>Tennis</li><li>Two-player volleyball</li></ul></li></ul>",
+			"ancestorIds": [
+				"F7B40550DFE301318F7268A86D17958E",
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B40550DFE301318F7268A86D17958E": {
+			"id": "F7B40550DFE301318F7268A86D17958E",
+			"asnIdentifier": "S2403170",
+			"position": 136000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies essential to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7B38F00DFE301318F7168A86D17958E"
+			]
+		},
+		"F7B38F00DFE301318F7168A86D17958E": {
+			"id": "F7B38F00DFE301318F7168A86D17958E",
+			"asnIdentifier": "S2403169",
+			"position": 135000,
+			"depth": 0,
+			"description": "High School Course 3C - Individual and Dual Activities",
+			"comments": [
+				"High School Courses 1 and 2 are designed to be completed before a student enrolls in High School Course 3C."
+			],
+			"ancestorIds": [
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B2E3F0DFE301318F6F68A86D17958E": {
+			"id": "F7B2E3F0DFE301318F6F68A86D17958E",
+			"asnIdentifier": "S2403168",
+			"position": 134000,
+			"depth": 3,
+			"listId": "3.11",
+			"description": "Engage in aerobic activities both in school and outside school.",
+			"ancestorIds": [
+				"F7B22730DFE301318F6D68A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B28380DFE301318F6E68A86D17958E": {
+			"id": "F7B28380DFE301318F6E68A86D17958E",
+			"asnIdentifier": "S2403167",
+			"position": 133000,
+			"depth": 3,
+			"listId": "3.10",
+			"description": "Analyze the role that cooperation and leadership play in aerobic activities.",
+			"ancestorIds": [
+				"F7B22730DFE301318F6D68A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B33A10DFE301318F7068A86D17958E": {
+			"id": "F7B33A10DFE301318F7068A86D17958E",
+			"asnIdentifier": "S2403166",
+			"position": 132000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Accept and perform planned and spontaneous leadership assignments and roles in aerobic activities.",
+			"ancestorIds": [
+				"F7B22730DFE301318F6D68A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B22730DFE301318F6D68A86D17958E": {
+			"id": "F7B22730DFE301318F6D68A86D17958E",
+			"asnIdentifier": "S2403165",
+			"position": 131000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B1C3D0DFE301318F6C68A86D17958E": {
+			"id": "F7B1C3D0DFE301318F6C68A86D17958E",
+			"asnIdentifier": "S2403164",
+			"position": 130000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Analyze the role of social interaction in the successful participation in and enjoyment of aerobic activities.",
+			"ancestorIds": [
+				"F7B0A030DFE301318F6968A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B16950DFE301318F6B68A86D17958E": {
+			"id": "F7B16950DFE301318F6B68A86D17958E",
+			"asnIdentifier": "S2403163",
+			"position": 129000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Explain how to select and modify aerobic activities to allow for participation by younger children, the elderly, and individuals with special needs.",
+			"ancestorIds": [
+				"F7B0A030DFE301318F6968A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B105E0DFE301318F6A68A86D17958E": {
+			"id": "F7B105E0DFE301318F6A68A86D17958E",
+			"asnIdentifier": "S2403162",
+			"position": 128000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Invite others to join in aerobic activity.",
+			"ancestorIds": [
+				"F7B0A030DFE301318F6968A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B0A030DFE301318F6968A86D17958E": {
+			"id": "F7B0A030DFE301318F6968A86D17958E",
+			"asnIdentifier": "S2403161",
+			"position": 127000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7B02D10DFE301318F6868A86D17958E": {
+			"id": "F7B02D10DFE301318F6868A86D17958E",
+			"asnIdentifier": "S2403160",
+			"position": 126000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Evaluate the risks and safety factors that may affect participation in aerobic activities throughout a lifetime.",
+			"ancestorIds": [
+				"F7AE5220DFE301318F6368A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AFC030DFE301318F6768A86D17958E": {
+			"id": "F7AFC030DFE301318F6768A86D17958E",
+			"asnIdentifier": "S2403159",
+			"position": 125000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Identify and analyze aerobic activities that enhance both personal enjoyment and the challenge.",
+			"ancestorIds": [
+				"F7AE5220DFE301318F6368A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AF5F90DFE301318F6668A86D17958E": {
+			"id": "F7AF5F90DFE301318F6668A86D17958E",
+			"asnIdentifier": "S2403158",
+			"position": 124000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Compare and contrast the effective leadership skills used in aerobic activities and those used in other physical activities.",
+			"ancestorIds": [
+				"F7AE5220DFE301318F6368A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AF0490DFE301318F6568A86D17958E": {
+			"id": "F7AF0490DFE301318F6568A86D17958E",
+			"asnIdentifier": "S2403157",
+			"position": 123000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Develop personal goals to improve performance in aerobic activities.",
+			"ancestorIds": [
+				"F7AE5220DFE301318F6368A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AEAC00DFE301318F6468A86D17958E": {
+			"id": "F7AEAC00DFE301318F6468A86D17958E",
+			"asnIdentifier": "S2403156",
+			"position": 122000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Engage independently in aerobic activities.",
+			"ancestorIds": [
+				"F7AE5220DFE301318F6368A86D17958E",
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AE5220DFE301318F6368A86D17958E": {
+			"id": "F7AE5220DFE301318F6368A86D17958E",
+			"asnIdentifier": "S2403155",
+			"position": 121000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7ADED60DFE301318F6268A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7ADED60DFE301318F6268A86D17958E": {
+			"id": "F7ADED60DFE301318F6268A86D17958E",
+			"asnIdentifier": "S2403154",
+			"position": 120000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AD9470DFE301318F6168A86D17958E": {
+			"id": "F7AD9470DFE301318F6168A86D17958E",
+			"asnIdentifier": "S2403153",
+			"position": 119000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Identify and explain the positive effects of participation in aerobic activity on personal health.",
+			"ancestorIds": [
+				"F7ABA1C0DFE301318F5C68A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AD3B00DFE301318F6068A86D17958E": {
+			"id": "F7AD3B00DFE301318F6068A86D17958E",
+			"asnIdentifier": "S2403152",
+			"position": 118000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Measure health-related physical fitness periodically and adjust physical activity to achieve fitness goals.",
+			"ancestorIds": [
+				"F7ABA1C0DFE301318F5C68A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7ACDF00DFE301318F5F68A86D17958E": {
+			"id": "F7ACDF00DFE301318F5F68A86D17958E",
+			"asnIdentifier": "S2403151",
+			"position": 117000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Evaluate goal-setting and other strategies as effective tools for maintaining and increasing adherence to a personal physical activity program.",
+			"ancestorIds": [
+				"F7ABA1C0DFE301318F5C68A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AC7F80DFE301318F5E68A86D17958E": {
+			"id": "F7AC7F80DFE301318F5E68A86D17958E",
+			"asnIdentifier": "S2403150",
+			"position": 116000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Engage independently in physical activity that increases aerobic capacity.",
+			"ancestorIds": [
+				"F7ABA1C0DFE301318F5C68A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AC0840DFE301318F5D68A86D17958E": {
+			"id": "F7AC0840DFE301318F5D68A86D17958E",
+			"asnIdentifier": "S2403149",
+			"position": 115000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Identify and achieve a personal level of excellence in physical fitness.",
+			"ancestorIds": [
+				"F7ABA1C0DFE301318F5C68A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7ABA1C0DFE301318F5C68A86D17958E": {
+			"id": "F7ABA1C0DFE301318F5C68A86D17958E",
+			"asnIdentifier": "S2403148",
+			"position": 114000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AB3BE0DFE301318F5B68A86D17958E": {
+			"id": "F7AB3BE0DFE301318F5B68A86D17958E",
+			"asnIdentifier": "S2403147",
+			"position": 113000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Demonstrate independent learning of movement skills in aerobic activities.",
+			"ancestorIds": [
+				"F7A907B0DFE301318F5568A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AAE6A0DFE301318F5A68A86D17958E": {
+			"id": "F7AAE6A0DFE301318F5A68A86D17958E",
+			"asnIdentifier": "S2403146",
+			"position": 112000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "List the safety equipment required for participation in aerobic activities; describe and demonstrate the use of such equipment.",
+			"ancestorIds": [
+				"F7A907B0DFE301318F5568A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AA8D50DFE301318F5968A86D17958E": {
+			"id": "F7AA8D50DFE301318F5968A86D17958E",
+			"asnIdentifier": "S2403145",
+			"position": 111000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Identify and apply the principles of biomechanics necessary for the safe and successful performance of aerobic activities.",
+			"ancestorIds": [
+				"F7A907B0DFE301318F5568A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7AA2920DFE301318F5868A86D17958E": {
+			"id": "F7AA2920DFE301318F5868A86D17958E",
+			"asnIdentifier": "S2403144",
+			"position": 110000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Apply previously learned movement concepts to the learning and development of the motor skills required for successful participation in aerobic activities.",
+			"ancestorIds": [
+				"F7A907B0DFE301318F5568A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7A9CB80DFE301318F5768A86D17958E": {
+			"id": "F7A9CB80DFE301318F5768A86D17958E",
+			"asnIdentifier": "S2403143",
+			"position": 109000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Identify the characteristics and critical elements of a highly skilled performance in aerobic activities and demonstrate them.",
+			"ancestorIds": [
+				"F7A907B0DFE301318F5568A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7A96190DFE301318F5668A86D17958E": {
+			"id": "F7A96190DFE301318F5668A86D17958E",
+			"asnIdentifier": "S2403142",
+			"position": 108000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate advanced knowledge and skills in two or more aerobic activities, selecting one or more from each of the following categories:<ul><li>Category 1<ul><li>Aerobic dance</li><li>Running</li><li>Skating</li><li>Swimming</li></ul></li><li>Category 2<ul><li>Cross-country skiing</li><li>Cycling</li><li>Rowing</li><li>Triathlon</li><li>Walking</li></ul></li></ul>",
+			"ancestorIds": [
+				"F7A907B0DFE301318F5568A86D17958E",
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7A907B0DFE301318F5568A86D17958E": {
+			"id": "F7A907B0DFE301318F5568A86D17958E",
+			"asnIdentifier": "S2403141",
+			"position": 107000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7A8A980DFE301318F5468A86D17958E"
+			]
+		},
+		"F7A8A980DFE301318F5468A86D17958E": {
+			"id": "F7A8A980DFE301318F5468A86D17958E",
+			"asnIdentifier": "S2403140",
+			"position": 106000,
+			"depth": 0,
+			"description": "High School Course 3B - Aerobic Activities",
+			"comments": [
+				"High School Courses 1 and 2 are designed to be completed before a student enrolls in High School Course 3B."
+			],
+			"ancestorIds": [
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A84840DFE301318F5368A86D17958E": {
+			"id": "F7A84840DFE301318F5368A86D17958E",
+			"asnIdentifier": "S2403139",
+			"position": 105000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Engage in adventure/outdoor activities both in school and outside school.",
+			"ancestorIds": [
+				"F7A74000DFE301318F5068A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A7EF80DFE301318F5268A86D17958E": {
+			"id": "F7A7EF80DFE301318F5268A86D17958E",
+			"asnIdentifier": "S2403138",
+			"position": 104000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Analyze the role that cooperation and leadership play in adventure/outdoor activities.",
+			"ancestorIds": [
+				"F7A74000DFE301318F5068A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A79580DFE301318F5168A86D17958E": {
+			"id": "F7A79580DFE301318F5168A86D17958E",
+			"asnIdentifier": "S2403137",
+			"position": 103000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Accept and perform planned and spontaneous leadership assignments and roles in adventure/outdoor activities.",
+			"ancestorIds": [
+				"F7A74000DFE301318F5068A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A74000DFE301318F5068A86D17958E": {
+			"id": "F7A74000DFE301318F5068A86D17958E",
+			"asnIdentifier": "S2403136",
+			"position": 102000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A6DCE0DFE301318F4F68A86D17958E": {
+			"id": "F7A6DCE0DFE301318F4F68A86D17958E",
+			"asnIdentifier": "S2403135",
+			"position": 101000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Analyze the role of social interaction in the successful participation in and enjoyment of adventure/outdoor activities.",
+			"ancestorIds": [
+				"F7A60630DFE301318F4D68A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A66C10DFE301318F4E68A86D17958E": {
+			"id": "F7A66C10DFE301318F4E68A86D17958E",
+			"asnIdentifier": "S2403134",
+			"position": 100000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Explain how to select and modify adventure/outdoor activities to allow for participation by younger children, the elderly, and individuals with special needs.",
+			"ancestorIds": [
+				"F7A60630DFE301318F4D68A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A60630DFE301318F4D68A86D17958E": {
+			"id": "F7A60630DFE301318F4D68A86D17958E",
+			"asnIdentifier": "S2403133",
+			"position": 99000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A5B090DFE301318F4C68A86D17958E": {
+			"id": "F7A5B090DFE301318F4C68A86D17958E",
+			"asnIdentifier": "S2403132",
+			"position": 98000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Evaluate the risks and safety factors that may affect participation in adventure/outdoor activities throughout a lifetime.",
+			"ancestorIds": [
+				"F7A41BB0DFE301318F4868A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A55AC0DFE301318F4B68A86D17958E": {
+			"id": "F7A55AC0DFE301318F4B68A86D17958E",
+			"asnIdentifier": "S2403131",
+			"position": 97000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Identify and analyze adventure/outdoor physical activities that enhance personal enjoyment.",
+			"ancestorIds": [
+				"F7A41BB0DFE301318F4868A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A50270DFE301318F4A68A86D17958E": {
+			"id": "F7A50270DFE301318F4A68A86D17958E",
+			"asnIdentifier": "S2403130",
+			"position": 96000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Develop personal goals to improve performance in adventure/outdoor activities.",
+			"ancestorIds": [
+				"F7A41BB0DFE301318F4868A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A490E0DFE301318F4968A86D17958E": {
+			"id": "F7A490E0DFE301318F4968A86D17958E",
+			"asnIdentifier": "S2403129",
+			"position": 95000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Compare and contrast the effective leadership skills used in adventure/outdoor activities and those used in other physical activities.",
+			"ancestorIds": [
+				"F7A41BB0DFE301318F4868A86D17958E",
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A41BB0DFE301318F4868A86D17958E": {
+			"id": "F7A41BB0DFE301318F4868A86D17958E",
+			"asnIdentifier": "S2403128",
+			"position": 94000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7A39760DFE301318F4768A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A39760DFE301318F4768A86D17958E": {
+			"id": "F7A39760DFE301318F4768A86D17958E",
+			"asnIdentifier": "S2403127",
+			"position": 93000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A335B0DFE301318F4668A86D17958E": {
+			"id": "F7A335B0DFE301318F4668A86D17958E",
+			"asnIdentifier": "S2403126",
+			"position": 92000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Explain the relationship between participation in adventure/outdoor activities and health.",
+			"ancestorIds": [
+				"F7A1E180DFE301318F4268A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A2DFA0DFE301318F4568A86D17958E": {
+			"id": "F7A2DFA0DFE301318F4568A86D17958E",
+			"asnIdentifier": "S2403125",
+			"position": 91000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Improve or maintain physical fitness by adjusting physical activity levels according to the principles of exercise.",
+			"ancestorIds": [
+				"F7A1E180DFE301318F4268A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A28CC0DFE301318F4468A86D17958E": {
+			"id": "F7A28CC0DFE301318F4468A86D17958E",
+			"asnIdentifier": "S2403124",
+			"position": 90000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Analyze the effects of adventure/outdoor activities on a personal physical fitness program and personal levels of health related physical fitness.",
+			"ancestorIds": [
+				"F7A1E180DFE301318F4268A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A237F0DFE301318F4368A86D17958E": {
+			"id": "F7A237F0DFE301318F4368A86D17958E",
+			"asnIdentifier": "S2403123",
+			"position": 89000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Participate in adventure/outdoor activities that improve health-related physical fitness.",
+			"ancestorIds": [
+				"F7A1E180DFE301318F4268A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A1E180DFE301318F4268A86D17958E": {
+			"id": "F7A1E180DFE301318F4268A86D17958E",
+			"asnIdentifier": "S2403122",
+			"position": 88000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A17FC0DFE301318F4168A86D17958E": {
+			"id": "F7A17FC0DFE301318F4168A86D17958E",
+			"asnIdentifier": "S2403121",
+			"position": 87000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Demonstrate independent learning of movement skills in adventure/outdoor activities.",
+			"ancestorIds": [
+				"F79F4160DFE301318F3B68A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A116E0DFE301318F4068A86D17958E": {
+			"id": "F7A116E0DFE301318F4068A86D17958E",
+			"asnIdentifier": "S2403120",
+			"position": 86000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "List the safety equipment required for participation in outdoor pursuits and adventures; describe and demonstrate the use of such equipment.",
+			"ancestorIds": [
+				"F79F4160DFE301318F3B68A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A0C150DFE301318F3F68A86D17958E": {
+			"id": "F7A0C150DFE301318F3F68A86D17958E",
+			"asnIdentifier": "S2403119",
+			"position": 85000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Identify and apply the principles of biomechanics necessary for the safe and successful performance of adventure/outdoor activities.",
+			"ancestorIds": [
+				"F79F4160DFE301318F3B68A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A06AB0DFE301318F3E68A86D17958E": {
+			"id": "F7A06AB0DFE301318F3E68A86D17958E",
+			"asnIdentifier": "S2403118",
+			"position": 84000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Apply previously learned movement concepts and principles to the learning and development of the motor skills required for successful participation in adventure/outdoor pursuits and activities.",
+			"ancestorIds": [
+				"F79F4160DFE301318F3B68A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F7A012A0DFE301318F3D68A86D17958E": {
+			"id": "F7A012A0DFE301318F3D68A86D17958E",
+			"asnIdentifier": "S2403117",
+			"position": 83000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Identify the characteristics and critical elements of a highly skilled performance in adventure/outdoor activities and demonstrate them.",
+			"ancestorIds": [
+				"F79F4160DFE301318F3B68A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F79FB330DFE301318F3C68A86D17958E": {
+			"id": "F79FB330DFE301318F3C68A86D17958E",
+			"asnIdentifier": "S2403116",
+			"position": 82000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Demonstrate advanced knowledge and skills in two or more adventure/outdoor activities.",
+			"ancestorIds": [
+				"F79F4160DFE301318F3B68A86D17958E",
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F79F4160DFE301318F3B68A86D17958E": {
+			"id": "F79F4160DFE301318F3B68A86D17958E",
+			"asnIdentifier": "S2403115",
+			"position": 81000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F79ED400DFE301318F3A68A86D17958E"
+			]
+		},
+		"F79ED400DFE301318F3A68A86D17958E": {
+			"id": "F79ED400DFE301318F3A68A86D17958E",
+			"asnIdentifier": "S2403114",
+			"position": 80000,
+			"depth": 0,
+			"description": "High School Course 3A - Adventure/Outdoor Activities",
+			"comments": [
+				"High School Courses 1 and 2 are designed to be completed before a student enrolls in High School Course 3A."
+			],
+			"ancestorIds": [
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79E6710DFE301318F3968A86D17958E": {
+			"id": "F79E6710DFE301318F3968A86D17958E",
+			"asnIdentifier": "S2403113",
+			"position": 79000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Encourage others to be supportive and inclusive of individuals of all ability levels.",
+			"ancestorIds": [
+				"F79D7510DFE301318F3768A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79DF0F0DFE301318F3868A86D17958E": {
+			"id": "F79DF0F0DFE301318F3868A86D17958E",
+			"asnIdentifier": "S2403112",
+			"position": 78000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Identify leadership skills, perform planned leadership assignments, and assume spontaneous leadership roles.",
+			"ancestorIds": [
+				"F79D7510DFE301318F3768A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79D7510DFE301318F3768A86D17958E": {
+			"id": "F79D7510DFE301318F3768A86D17958E",
+			"asnIdentifier": "S2403111",
+			"position": 77000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79D0E20DFE301318F3668A86D17958E": {
+			"id": "F79D0E20DFE301318F3668A86D17958E",
+			"asnIdentifier": "S2403110",
+			"position": 76000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Explain how to select and modify physical activities to allow for participation by younger children, the elderly, and individuals with special needs.",
+			"ancestorIds": [
+				"F79C51E0DFE301318F3468A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79CAB60DFE301318F3568A86D17958E": {
+			"id": "F79CAB60DFE301318F3568A86D17958E",
+			"asnIdentifier": "S2403109",
+			"position": 75000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Identify the effects of individual differences, such as age, gender, ethnicity, socioeconomic status, and culture, on preferences for and participation in physical activity.",
+			"ancestorIds": [
+				"F79C51E0DFE301318F3468A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79C51E0DFE301318F3468A86D17958E": {
+			"id": "F79C51E0DFE301318F3468A86D17958E",
+			"asnIdentifier": "S2403108",
+			"position": 74000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79BE9C0DFE301318F3368A86D17958E": {
+			"id": "F79BE9C0DFE301318F3368A86D17958E",
+			"asnIdentifier": "S2403107",
+			"position": 73000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Evaluate and refine personal goals to improve performance in physical activities.",
+			"ancestorIds": [
+				"F79A0B00DFE301318F2E68A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79B8380DFE301318F3268A86D17958E": {
+			"id": "F79B8380DFE301318F3268A86D17958E",
+			"asnIdentifier": "S2403106",
+			"position": 72000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Explain and analyze the role of individual attitude, motivation, and determination in achieving personal satisfaction from challenging physical activities.",
+			"ancestorIds": [
+				"F79A0B00DFE301318F2E68A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79B2AF0DFE301318F3168A86D17958E": {
+			"id": "F79B2AF0DFE301318F3168A86D17958E",
+			"asnIdentifier": "S2403105",
+			"position": 71000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Evaluate the psychological benefits derived from regular participation in physical activity.",
+			"ancestorIds": [
+				"F79A0B00DFE301318F2E68A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79AD0C0DFE301318F3068A86D17958E": {
+			"id": "F79AD0C0DFE301318F3068A86D17958E",
+			"asnIdentifier": "S2403104",
+			"position": 70000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Examine and explain the ways in which personal characteristics, performance styles, and preferences for activities may change over a lifetime.",
+			"ancestorIds": [
+				"F79A0B00DFE301318F2E68A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79A71C0DFE301318F2F68A86D17958E": {
+			"id": "F79A71C0DFE301318F2F68A86D17958E",
+			"asnIdentifier": "S2403103",
+			"position": 69000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Participate in physical activities for personal enjoyment.",
+			"ancestorIds": [
+				"F79A0B00DFE301318F2E68A86D17958E",
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79A0B00DFE301318F2E68A86D17958E": {
+			"id": "F79A0B00DFE301318F2E68A86D17958E",
+			"asnIdentifier": "S2403102",
+			"position": 68000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F7999260DFE301318F2D68A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7999260DFE301318F2D68A86D17958E": {
+			"id": "F7999260DFE301318F2D68A86D17958E",
+			"asnIdentifier": "S2403101",
+			"position": 67000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7965F50DFE301318F2468A86D17958E": {
+			"id": "F7965F50DFE301318F2468A86D17958E",
+			"asnIdentifier": "S2403100",
+			"position": 66000,
+			"depth": 2,
+			"listId": "2.11",
+			"description": "Use and analyze scientifically based data and protocols to assess oneself on the five components of health-related physical fitness.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F795F8F0DFE301318F2368A86D17958E": {
+			"id": "F795F8F0DFE301318F2368A86D17958E",
+			"asnIdentifier": "S2403099",
+			"position": 65000,
+			"depth": 2,
+			"listId": "2.10",
+			"description": "Evaluate the availability and quality of fitness resources in the community.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79932E0DFE301318F2C68A86D17958E": {
+			"id": "F79932E0DFE301318F2C68A86D17958E",
+			"asnIdentifier": "S2403098",
+			"position": 64000,
+			"depth": 2,
+			"listId": "2.9",
+			"description": "Identify and evaluate ergogenic aids that claim to enhance body composition, appearance, physical fitness, and performance.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F798DBE0DFE301318F2B68A86D17958E": {
+			"id": "F798DBE0DFE301318F2B68A86D17958E",
+			"asnIdentifier": "S2403097",
+			"position": 63000,
+			"depth": 2,
+			"listId": "2.8",
+			"description": "Explain how to evaluate consumer physical fitness products and programs.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7987B30DFE301318F2A68A86D17958E": {
+			"id": "F7987B30DFE301318F2A68A86D17958E",
+			"asnIdentifier": "S2403096",
+			"position": 62000,
+			"depth": 2,
+			"listId": "2.7",
+			"description": "Develop and implement an appropriate personal physical fitness program for a family or community member.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7981A10DFE301318F2968A86D17958E": {
+			"id": "F7981A10DFE301318F2968A86D17958E",
+			"asnIdentifier": "S2403095",
+			"position": 61000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Develop and describe a physical fitness plan that enhances personal health and performance in future leisure and workplace activities.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F797BD20DFE301318F2868A86D17958E": {
+			"id": "F797BD20DFE301318F2868A86D17958E",
+			"asnIdentifier": "S2403094",
+			"position": 60000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Justify the use of particular physical activities to achieve desired fitness goals.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7976990DFE301318F2768A86D17958E": {
+			"id": "F7976990DFE301318F2768A86D17958E",
+			"asnIdentifier": "S2403093",
+			"position": 59000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Assess levels of physical fitness and adjust physical activity to accommodate changes in age, growth, and development.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7971450DFE301318F2668A86D17958E": {
+			"id": "F7971450DFE301318F2668A86D17958E",
+			"asnIdentifier": "S2403092",
+			"position": 58000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Identify and achieve levels of excellence in physical fitness that enhance physical and mental performance beyond the standards established by scientifically based health-related fitness assessments.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F796BC10DFE301318F2568A86D17958E": {
+			"id": "F796BC10DFE301318F2568A86D17958E",
+			"asnIdentifier": "S2403091",
+			"position": 57000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Participate in challenging physical fitness activities using the principles of exercise to meet individual needs and interests.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7959B10DFE301318F2268A86D17958E": {
+			"id": "F7959B10DFE301318F2268A86D17958E",
+			"asnIdentifier": "S2403090",
+			"position": 56000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Participate in moderate to vigorous physical activity at least four days each week.",
+			"ancestorIds": [
+				"F7953000DFE301318F2168A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7953000DFE301318F2168A86D17958E": {
+			"id": "F7953000DFE301318F2168A86D17958E",
+			"asnIdentifier": "S2403089",
+			"position": 55000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F791C2A0DFE301318F1868A86D17958E": {
+			"id": "F791C2A0DFE301318F1868A86D17958E",
+			"asnIdentifier": "S2403088",
+			"position": 54000,
+			"depth": 2,
+			"listId": "1.12",
+			"description": "Evaluate independent learning of movement skills.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79168C0DFE301318F1768A86D17958E": {
+			"id": "F79168C0DFE301318F1768A86D17958E",
+			"asnIdentifier": "S2403087",
+			"position": 53000,
+			"depth": 2,
+			"listId": "1.11",
+			"description": "Assess the effect/outcome of a particular performance strategy used in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7910D20DFE301318F1668A86D17958E": {
+			"id": "F7910D20DFE301318F1668A86D17958E",
+			"asnIdentifier": "S2403086",
+			"position": 52000,
+			"depth": 2,
+			"listId": "1.10",
+			"description": "Analyze situations to determine appropriate strategies to use in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F794CC30DFE301318F2068A86D17958E": {
+			"id": "F794CC30DFE301318F2068A86D17958E",
+			"asnIdentifier": "S2403085",
+			"position": 51000,
+			"depth": 2,
+			"listId": "1.9",
+			"description": "Create or modify practice/training plans based on evaluative feedback from skill acquisition and performance in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7946580DFE301318F1F68A86D17958E": {
+			"id": "F7946580DFE301318F1F68A86D17958E",
+			"asnIdentifier": "S2403084",
+			"position": 50000,
+			"depth": 2,
+			"listId": "1.8",
+			"description": "Analyze and explain which training and conditioning practices have the greatest impact on skill acquisition and performance in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79405C0DFE301318F1E68A86D17958E": {
+			"id": "F79405C0DFE301318F1E68A86D17958E",
+			"asnIdentifier": "S2403083",
+			"position": 49000,
+			"depth": 2,
+			"listId": "1.7",
+			"description": "Analyze and evaluate feedback from proprioception, from others, and from the performance of complex motor (movement) activities to improve performance in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F793B150DFE301318F1D68A86D17958E": {
+			"id": "F793B150DFE301318F1D68A86D17958E",
+			"asnIdentifier": "S2403082",
+			"position": 48000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Evaluate the relationships of physical, emotional, and cognitive factors affecting individual and team performance.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7935A40DFE301318F1C68A86D17958E": {
+			"id": "F7935A40DFE301318F1C68A86D17958E",
+			"asnIdentifier": "S2403081",
+			"position": 47000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "Explain the use of the principles of biomechanics (leverage, force, inertia, rotary motion, and opposition); apply the principles to achieve advanced performance in combative, gymnastic/tumbling, and team activities; and evaluate the performance based on use of the principles.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F792F470DFE301318F1B68A86D17958E": {
+			"id": "F792F470DFE301318F1B68A86D17958E",
+			"asnIdentifier": "S2403080",
+			"position": 46000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Explain and demonstrate advanced offensive, defensive, and transition strategies and tactics in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F7927D30DFE301318F1A68A86D17958E": {
+			"id": "F7927D30DFE301318F1A68A86D17958E",
+			"asnIdentifier": "S2403079",
+			"position": 45000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Explain the skill-related components of balance, reaction time, agility, coordination, explosive power, and speed that enhance performance levels in combative, gymnastic/tumbling, and team activities and apply those components in performance.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79218C0DFE301318F1968A86D17958E": {
+			"id": "F79218C0DFE301318F1968A86D17958E",
+			"asnIdentifier": "S2403078",
+			"position": 44000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Demonstrate proficient movement skills in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F790AF30DFE301318F1568A86D17958E": {
+			"id": "F790AF30DFE301318F1568A86D17958E",
+			"asnIdentifier": "S2403077",
+			"position": 43000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Combine and apply movement patterns, from simple to complex, in combative, gymnastic/tumbling, and team activities.",
+			"ancestorIds": [
+				"F79046B0DFE301318F1468A86D17958E",
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F79046B0DFE301318F1468A86D17958E": {
+			"id": "F79046B0DFE301318F1468A86D17958E",
+			"asnIdentifier": "S2403076",
+			"position": 42000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F78FD720DFE301318F1368A86D17958E"
+			]
+		},
+		"F78FD720DFE301318F1368A86D17958E": {
+			"id": "F78FD720DFE301318F1368A86D17958E",
+			"asnIdentifier": "S2403075",
+			"position": 41000,
+			"depth": 0,
+			"description": "High School Course 2",
+			"ancestorIds": [
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78EFF10DFE301318F1168A86D17958E": {
+			"id": "F78EFF10DFE301318F1168A86D17958E",
+			"asnIdentifier": "S2403074",
+			"position": 40000,
+			"depth": 3,
+			"listId": "3.10",
+			"description": "Identify and utilize the potential strengths of each individual in physical activities.",
+			"ancestorIds": [
+				"F78E99B0DFE301318F1068A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78F6C10DFE301318F1268A86D17958E": {
+			"id": "F78F6C10DFE301318F1268A86D17958E",
+			"asnIdentifier": "S2403073",
+			"position": 39000,
+			"depth": 3,
+			"listId": "3.9",
+			"description": "Recognize and evaluate the role of cooperation and positive interactions with others when participating in physical activity.",
+			"ancestorIds": [
+				"F78E99B0DFE301318F1068A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78E99B0DFE301318F1068A86D17958E": {
+			"id": "F78E99B0DFE301318F1068A86D17958E",
+			"asnIdentifier": "S2403072",
+			"position": 38000,
+			"depth": 2,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78E44A0DFE301318F0F68A86D17958E": {
+			"id": "F78E44A0DFE301318F0F68A86D17958E",
+			"asnIdentifier": "S2403071",
+			"position": 37000,
+			"depth": 3,
+			"listId": "3.8",
+			"description": "Recognize the value of physical activity in understanding multiculturalism.",
+			"ancestorIds": [
+				"F78D1D20DFE301318F0C68A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78DEA20DFE301318F0E68A86D17958E": {
+			"id": "F78DEA20DFE301318F0E68A86D17958E",
+			"asnIdentifier": "S2403070",
+			"position": 36000,
+			"depth": 3,
+			"listId": "3.7",
+			"description": "Analyze the role that physical activity plays in social interaction and cooperative opportunities in the family and the workplace.",
+			"ancestorIds": [
+				"F78D1D20DFE301318F0C68A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78D8760DFE301318F0D68A86D17958E": {
+			"id": "F78D8760DFE301318F0D68A86D17958E",
+			"asnIdentifier": "S2403069",
+			"position": 35000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Discuss the changing psychological and sociological needs of a diverse society in relation to physical activity.",
+			"ancestorIds": [
+				"F78D1D20DFE301318F0C68A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78D1D20DFE301318F0C68A86D17958E": {
+			"id": "F78D1D20DFE301318F0C68A86D17958E",
+			"asnIdentifier": "S2403068",
+			"position": 34000,
+			"depth": 2,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78CA720DFE301318F0B68A86D17958E": {
+			"id": "F78CA720DFE301318F0B68A86D17958E",
+			"asnIdentifier": "S2403067",
+			"position": 33000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Develop personal goals to improve one's performance in physical activities.",
+			"ancestorIds": [
+				"F78AD420DFE301318F0668A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78C5020DFE301318F0A68A86D17958E": {
+			"id": "F78C5020DFE301318F0A68A86D17958E",
+			"asnIdentifier": "S2403066",
+			"position": 32000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Describe the enjoyment, self-expression, challenge, and social benefits experienced by achieving one's best in physical activities.",
+			"ancestorIds": [
+				"F78AD420DFE301318F0668A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78BF650DFE301318F0968A86D17958E": {
+			"id": "F78BF650DFE301318F0968A86D17958E",
+			"asnIdentifier": "S2403065",
+			"position": 31000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Identify and evaluate personal psychological responses to physical activity.",
+			"ancestorIds": [
+				"F78AD420DFE301318F0668A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78B9A40DFE301318F0868A86D17958E": {
+			"id": "F78B9A40DFE301318F0868A86D17958E",
+			"asnIdentifier": "S2403064",
+			"position": 30000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Act independently of negative peer pressure during physical activity.",
+			"ancestorIds": [
+				"F78AD420DFE301318F0668A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78B3C90DFE301318F0768A86D17958E": {
+			"id": "F78B3C90DFE301318F0768A86D17958E",
+			"asnIdentifier": "S2403063",
+			"position": 29000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Accept personal responsibility to create and maintain a physically and emotionally safe and nonthreatening environment for physical activity.",
+			"ancestorIds": [
+				"F78AD420DFE301318F0668A86D17958E",
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78AD420DFE301318F0668A86D17958E": {
+			"id": "F78AD420DFE301318F0668A86D17958E",
+			"asnIdentifier": "S2403062",
+			"position": 28000,
+			"depth": 2,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F78A7C10DFE301318F0568A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78A7C10DFE301318F0568A86D17958E": {
+			"id": "F78A7C10DFE301318F0568A86D17958E",
+			"asnIdentifier": "S2403061",
+			"position": 27000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students demonstrate knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78702D0DFE301318EFC68A86D17958E": {
+			"id": "F78702D0DFE301318EFC68A86D17958E",
+			"asnIdentifier": "S2403060",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.11",
+			"description": "Explain the role of physical activity in the prevention of disease and the reduction of health care costs.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7869240DFE301318EFB68A86D17958E": {
+			"id": "F7869240DFE301318EFB68A86D17958E",
+			"asnIdentifier": "S2403059",
+			"position": 25000,
+			"depth": 2,
+			"listId": "2.10",
+			"description": "Identify and list available fitness resources in the community.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78A2510DFE301318F0468A86D17958E": {
+			"id": "F78A2510DFE301318F0468A86D17958E",
+			"asnIdentifier": "S2403058",
+			"position": 24000,
+			"depth": 2,
+			"listId": "2.9",
+			"description": "Explain the inherent risks associated with physical activity in extreme environments.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F789CBF0DFE301318F0368A86D17958E": {
+			"id": "F789CBF0DFE301318F0368A86D17958E",
+			"asnIdentifier": "S2403057",
+			"position": 23000,
+			"depth": 2,
+			"listId": "2.8",
+			"description": "Analyze consumer physical fitness products and programs.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7896F40DFE301318F0268A86D17958E": {
+			"id": "F7896F40DFE301318F0268A86D17958E",
+			"asnIdentifier": "S2403056",
+			"position": 22000,
+			"depth": 2,
+			"listId": "2.7",
+			"description": "Develop and implement a one-month personal physical fitness plan.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7890EF0DFE301318F0168A86D17958E": {
+			"id": "F7890EF0DFE301318F0168A86D17958E",
+			"asnIdentifier": "S2403055",
+			"position": 21000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Identify the physical fitness requirements of an occupation.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F788BAF0DFE301318F0068A86D17958E": {
+			"id": "F788BAF0DFE301318F0068A86D17958E",
+			"asnIdentifier": "S2403054",
+			"position": 20000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Improve and maintain physical fitness by adjusting physical activity levels according to the principles of exercise.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7886530DFE301318EFF68A86D17958E": {
+			"id": "F7886530DFE301318EFF68A86D17958E",
+			"asnIdentifier": "S2403053",
+			"position": 19000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Use physical fitness test results to set and adjust goals to improve fitness.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78801D0DFE301318EFE68A86D17958E": {
+			"id": "F78801D0DFE301318EFE68A86D17958E",
+			"asnIdentifier": "S2403052",
+			"position": 18000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Meet health-related physical fitness standards established by a scientifically based health-related fitness assessment.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7879B50DFE301318EFD68A86D17958E": {
+			"id": "F7879B50DFE301318EFD68A86D17958E",
+			"asnIdentifier": "S2403050",
+			"position": 17000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Participate in enjoyable and challenging physical activities that develop and maintain the five components of physical fitness.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7863760DFE301318EFA68A86D17958E": {
+			"id": "F7863760DFE301318EFA68A86D17958E",
+			"asnIdentifier": "S2403049",
+			"position": 16000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Participate in moderate to vigorous physical activity at least four days each week.",
+			"ancestorIds": [
+				"F785CD20DFE301318EF968A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F785CD20DFE301318EF968A86D17958E": {
+			"id": "F785CD20DFE301318EF968A86D17958E",
+			"asnIdentifier": "S2403047",
+			"position": 15000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students achieve a level of physical fitness for health and performance while demonstrating knowledge of fitness concepts, principles, and strategies.",
+			"ancestorIds": [
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7829630DFE301318EF068A86D17958E": {
+			"id": "F7829630DFE301318EF068A86D17958E",
+			"asnIdentifier": "S2403045",
+			"position": 14000,
+			"depth": 2,
+			"listId": "1.12",
+			"description": "Demonstrate independent learning of movement skills.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78237C0DFE301318EEF68A86D17958E": {
+			"id": "F78237C0DFE301318EEF68A86D17958E",
+			"asnIdentifier": "S2403044",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.11",
+			"description": "Assess the effect/outcome of a particular performance strategy in aquatic, rhythms/dance, and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F781CD30DFE301318EEE68A86D17958E": {
+			"id": "F781CD30DFE301318EEE68A86D17958E",
+			"asnIdentifier": "S2403042",
+			"position": 12000,
+			"depth": 2,
+			"listId": "1.10",
+			"description": "Analyze situations and determine appropriate strategies for improved performance in aquatic, rhythms/dance, and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7856D00DFE301318EF868A86D17958E": {
+			"id": "F7856D00DFE301318EF868A86D17958E",
+			"asnIdentifier": "S2403041",
+			"position": 11000,
+			"depth": 2,
+			"listId": "1.9",
+			"description": "Create or modify practice/training plans based on evaluative feedback of skill acquisition and performance in aquatic, rhythms/dance, and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7851770DFE301318EF768A86D17958E": {
+			"id": "F7851770DFE301318EF768A86D17958E",
+			"asnIdentifier": "S2403040",
+			"position": 10000,
+			"depth": 2,
+			"listId": "1.8",
+			"description": "Analyze and explain which training and conditioning practices have the greatest impact on skill acquisition and performance in aquatic, rhythms/dance, and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F784C380DFE301318EF668A86D17958E": {
+			"id": "F784C380DFE301318EF668A86D17958E",
+			"asnIdentifier": "S2403039",
+			"position": 9000,
+			"depth": 2,
+			"listId": "1.7",
+			"description": "Analyze and evaluate feedback from proprioception, from others, and from the performance of complex motor (movement) activities to improve performance in aquatic, rhythms/dance, individual activities, and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7846EE0DFE301318EF568A86D17958E": {
+			"id": "F7846EE0DFE301318EF568A86D17958E",
+			"asnIdentifier": "S2403038",
+			"position": 8000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Examine the physical, emotional, cognitive, and scientific factors that affect performance a nd explain the relationship between those factors.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F78415B0DFE301318EF468A86D17958E": {
+			"id": "F78415B0DFE301318EF468A86D17958E",
+			"asnIdentifier": "S2403037",
+			"position": 7000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "Explain the use of the principles of biomechanics (leverage, force, inertia, rotary motion, opposition, and buoyancy); apply the principles to achieve advanced performance in aquatic, rhythms/dance, and individual and dual activities; and evaluate the performance based on the use of the principles.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F783B6C0DFE301318EF368A86D17958E": {
+			"id": "F783B6C0DFE301318EF368A86D17958E",
+			"asnIdentifier": "S2403036",
+			"position": 6000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Explain and demonstrate advanced offensive, defensive, and transition strategies in aquatic and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7835E50DFE301318EF268A86D17958E": {
+			"id": "F7835E50DFE301318EF268A86D17958E",
+			"asnIdentifier": "S2403035",
+			"position": 5000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Identify, explain, and apply the skill-related components of balance, reaction time, agility, coordination, explosive power, and speed that enhance performance levels in aquatic, rhythms/dance, and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F782FA00DFE301318EF168A86D17958E": {
+			"id": "F782FA00DFE301318EF168A86D17958E",
+			"asnIdentifier": "S2403034",
+			"position": 4000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Demonstrate proficient movement skills in aquatic, rhythms/dance, and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7814360DFE301318EED68A86D17958E": {
+			"id": "F7814360DFE301318EED68A86D17958E",
+			"asnIdentifier": "S2403033",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Combine and apply movement patterns, simple to complex, in aquatic, rhythms/dance, and individual and dual activities.",
+			"ancestorIds": [
+				"F780BAF0DFE301318EEC68A86D17958E",
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F780BAF0DFE301318EEC68A86D17958E": {
+			"id": "F780BAF0DFE301318EEC68A86D17958E",
+			"asnIdentifier": "S2403032",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate knowledge of and competency in motor skills, movement patterns, and strategies needed to perform a variety of physical activities.",
+			"ancestorIds": [
+				"F7805690DFE301318EEB68A86D17958E"
+			]
+		},
+		"F7805690DFE301318EEB68A86D17958E": {
+			"id": "F7805690DFE301318EEB68A86D17958E",
+			"asnIdentifier": "S2400216",
+			"position": 1000,
+			"depth": 0,
+			"description": "High School Course 1",
+			"ancestorIds": []
+		}
+	}
+}

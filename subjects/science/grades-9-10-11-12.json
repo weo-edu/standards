@@ -1,0 +1,1516 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2592575_grades-09-10-11-12",
+	"title": "Grades 9, 10, 11, 12",
+	"subject": "Science",
+	"educationLevels": [
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2592575",
+		"valid": "2013",
+		"title": "Next Generation Science Standards for California Public Schools, Kindergarten through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp",
+		"asnIdentifier": "D2592575",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"839008168336465BA2CCF320A72FB914": {
+			"id": "839008168336465BA2CCF320A72FB914",
+			"asnIdentifier": "S2598372",
+			"position": 83000,
+			"depth": 1,
+			"statementNotation": "HS-ETS1-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a computer simulation to model the impact of proposed solutions to a complex real-world problem with numerous criteria and constraints on interactions within and between systems relevant to the problem.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454609"
+			],
+			"ancestorIds": [
+				"3D22D698799E40A18D3BB58B945D7279"
+			]
+		},
+		"F090DF18E2C343D99466C4FFD7FEDFB3": {
+			"id": "F090DF18E2C343D99466C4FFD7FEDFB3",
+			"asnIdentifier": "S2598371",
+			"position": 82000,
+			"depth": 1,
+			"statementNotation": "HS-ETS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural, and environmental impacts.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454608"
+			],
+			"ancestorIds": [
+				"3D22D698799E40A18D3BB58B945D7279"
+			]
+		},
+		"694513598F4A421D8FB725114E58224C": {
+			"id": "694513598F4A421D8FB725114E58224C",
+			"asnIdentifier": "S2598370",
+			"position": 81000,
+			"depth": 1,
+			"statementNotation": "HS-ETS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454607"
+			],
+			"ancestorIds": [
+				"3D22D698799E40A18D3BB58B945D7279"
+			]
+		},
+		"3B887FE3254A41B2A47411E833D4037A": {
+			"id": "3B887FE3254A41B2A47411E833D4037A",
+			"asnIdentifier": "S2598369",
+			"position": 80000,
+			"depth": 1,
+			"statementNotation": "HS-ETS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454606"
+			],
+			"ancestorIds": [
+				"3D22D698799E40A18D3BB58B945D7279"
+			]
+		},
+		"3D22D698799E40A18D3BB58B945D7279": {
+			"id": "3D22D698799E40A18D3BB58B945D7279",
+			"asnIdentifier": "S2598368",
+			"position": 79000,
+			"depth": 0,
+			"statementNotation": "HS-ETS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Engineering Design",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467911"
+			],
+			"ancestorIds": [
+				"4A8EE021B2B542F0984C93DF576DB1A7"
+			]
+		},
+		"3F556E0EC08A4D8A997C9241CD901092": {
+			"id": "3F556E0EC08A4D8A997C9241CD901092",
+			"asnIdentifier": "S2598317",
+			"position": 78000,
+			"depth": 1,
+			"statementNotation": "HS-PS4-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy.",
+			"comments": [
+				"Clarification Statement: Examples could include solar cells capturing light and converting it to electricity; medical imaging; and communications technology.",
+				"Assessment Boundary: Assesments are limited to qualitative information. Assessments do not include band theory."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454560"
+			],
+			"ancestorIds": [
+				"4A8EE021B2B542F0984C93DF576DB1A7"
+			]
+		},
+		"A7735DDE8C5C47D9B61547D9A3C2A1A2": {
+			"id": "A7735DDE8C5C47D9B61547D9A3C2A1A2",
+			"asnIdentifier": "S2598316",
+			"position": 77000,
+			"depth": 1,
+			"statementNotation": "HS-PS4-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate the validity and reliability of claims in published materials of the effects that different frequencies of electromagnetic radiation have when absorbed by matter.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the idea that different frequencies of light have different energies, and the damage to living tissue from electromagnetic radiation depends on the energy of the radiation. Examples of published materials could include trade books, magazines, web resources, videos, and other passages that may reflect bias.",
+				"Assessment Boundary: Assessment is limited to qualitative descriptions."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454559"
+			],
+			"ancestorIds": [
+				"4A8EE021B2B542F0984C93DF576DB1A7"
+			]
+		},
+		"A60D6835BFCF45C28ABF50D71334FC02": {
+			"id": "A60D6835BFCF45C28ABF50D71334FC02",
+			"asnIdentifier": "S2598315",
+			"position": 76000,
+			"depth": 1,
+			"statementNotation": "HS-PS4-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described either by a wave model or a particle model, and that for some situations one model is more useful than the other.",
+			"comments": [
+				"Clarification Statement: Emphasis is on how the experimental evidence supports the claim and how a theory is generally modified in light of new evidence. Examples of a phenomenon could include resonance, interference, diffraction, and photoelectric effect.",
+				"Assessment Boundary: Assessment does not include using quantum theory."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454558"
+			],
+			"ancestorIds": [
+				"4A8EE021B2B542F0984C93DF576DB1A7"
+			]
+		},
+		"B7709CC7885A454CBB867D8DA69859BC": {
+			"id": "B7709CC7885A454CBB867D8DA69859BC",
+			"asnIdentifier": "S2598314",
+			"position": 75000,
+			"depth": 1,
+			"statementNotation": "HS-PS4-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate questions about the advantages of using a digital transmission and storage of information.",
+			"comments": [
+				"Clarification Statement: Examples of advantages could include that digital information is stable because it can be stored reliably in computer memory, transferred easily, and copied and shared rapidly. Disadvantages could include issues of easy deletion, security, and theft."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454557"
+			],
+			"ancestorIds": [
+				"4A8EE021B2B542F0984C93DF576DB1A7"
+			]
+		},
+		"B699DF2F98524A47AD938669D9BF36D6": {
+			"id": "B699DF2F98524A47AD938669D9BF36D6",
+			"asnIdentifier": "S2598313",
+			"position": 74000,
+			"depth": 1,
+			"statementNotation": "HS-PS4-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Use mathematical representations to support a claim regarding relationships among the frequency, wavelength, and speed of waves traveling in various media.",
+			"comments": [
+				"Clarification Statement: Examples of data could include electromagnetic radiation traveling in a vacuum and glass, sound waves traveling through air and water, and seismic waves traveling through the Earth.",
+				"Assessment Boundary: Assessment is limited to algebraic relationships and describing those relationships qualitatively."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454556"
+			],
+			"ancestorIds": [
+				"4A8EE021B2B542F0984C93DF576DB1A7"
+			]
+		},
+		"4A8EE021B2B542F0984C93DF576DB1A7": {
+			"id": "4A8EE021B2B542F0984C93DF576DB1A7",
+			"asnIdentifier": "S2598312",
+			"position": 73000,
+			"depth": 0,
+			"statementNotation": "HS-PS4",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Waves and Their Applications in Technologies for Information Transfer",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467903"
+			],
+			"ancestorIds": [
+				"483B19A7C4B348D684788F9E939A5E3B"
+			]
+		},
+		"8BC8F32A251A4AB2B07E7BF4107331F3": {
+			"id": "8BC8F32A251A4AB2B07E7BF4107331F3",
+			"asnIdentifier": "S2598311",
+			"position": 72000,
+			"depth": 1,
+			"statementNotation": "HS-PS3-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.",
+			"comments": [
+				"Clarification Statement: Examples of models could include drawings, diagrams, and texts, such as drawings of what happens when two charges of opposite polarity are near each other, including an explanation of how the change in energy of the objects is related to the change in energy of the field.",
+				"Assessment Boundary: Assessment is limited to systems containing two objects."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454555"
+			],
+			"ancestorIds": [
+				"483B19A7C4B348D684788F9E939A5E3B"
+			]
+		},
+		"3B6BCFB295D246F586F9FEB7FCD09269": {
+			"id": "3B6BCFB295D246F586F9FEB7FCD09269",
+			"asnIdentifier": "S2598310",
+			"position": 71000,
+			"depth": 1,
+			"statementNotation": "HS-PS3-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system (second law of thermodynamics).",
+			"comments": [
+				"Clarification Statement: Emphasis is on analyzing data from student investigations and using mathematical thinking to describe the energy changes both quantitatively and conceptually. Examples of investigations could include mixing liquids at different initial temperatures or adding objects at different temperatures to water.",
+				"Assessment Boundary: Assessment is limited to investigations based on materials and tools provided to students"
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454554"
+			],
+			"ancestorIds": [
+				"483B19A7C4B348D684788F9E939A5E3B"
+			]
+		},
+		"D2D95E5A5FEC47E886BCDF55C782CA33": {
+			"id": "D2D95E5A5FEC47E886BCDF55C782CA33",
+			"asnIdentifier": "S2598309",
+			"position": 70000,
+			"depth": 1,
+			"statementNotation": "HS-PS3-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy.",
+			"comments": [
+				"Clarification Statement: Emphasis is on both qualitative and quantitative evaluations of devices. Examples of devices could include Rube Goldberg devices, wind turbines, solar cells, solar ovens, and generators. Examples of constraints could include use of renewable energy forms and efficiency.",
+				"Assessment Boundary: Assessment for quantitative evaluations is limited to total output for a given input. Assessment is limited to devices constructed with materials provided to students."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454553"
+			],
+			"ancestorIds": [
+				"483B19A7C4B348D684788F9E939A5E3B"
+			]
+		},
+		"97F2CB8825F04B998DC259E554B3D5C9": {
+			"id": "97F2CB8825F04B998DC259E554B3D5C9",
+			"asnIdentifier": "S2598308",
+			"position": 69000,
+			"depth": 1,
+			"statementNotation": "HS-PS3-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as either motions of particles or energy stored in fields.",
+			"comments": [
+				"Clarification Statement: Examples of phenomena at the macroscopic scale could include the conversion of kinetic energy to thermal energy, the energy stored due to position of an object above the earth, and the energy stored between two electrically-charged plates. Examples of models could include diagrams, drawings, descriptions, and computer simulations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454552"
+			],
+			"ancestorIds": [
+				"483B19A7C4B348D684788F9E939A5E3B"
+			]
+		},
+		"EDD60575777B4ADA969928139CF813DA": {
+			"id": "EDD60575777B4ADA969928139CF813DA",
+			"asnIdentifier": "S2598307",
+			"position": 68000,
+			"depth": 1,
+			"statementNotation": "HS-PS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Create a computational model to calculate the change in the energy of one component in a system when the change in energy of the other component(s) and energy flows in and out of the system are known.",
+			"comments": [
+				"Clarification Statement: Emphasis is on explaining the meaning of mathematical expressions used in the model.",
+				"Assessment Boundary: Assessment is limited to basic algebraic expressions or computations; to systems of two or three components; and to thermal energy, kinetic energy, and/or the energies in gravitational, magnetic, or electric fields."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454551"
+			],
+			"ancestorIds": [
+				"483B19A7C4B348D684788F9E939A5E3B"
+			]
+		},
+		"483B19A7C4B348D684788F9E939A5E3B": {
+			"id": "483B19A7C4B348D684788F9E939A5E3B",
+			"asnIdentifier": "S2598306",
+			"position": 67000,
+			"depth": 0,
+			"statementNotation": "HS-PS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Energy",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467902"
+			],
+			"ancestorIds": [
+				"D7E988F8316A4C169E46EE6A67B688BB"
+			]
+		},
+		"B6393E6D0EEA429499A7058268FA7179": {
+			"id": "B6393E6D0EEA429499A7058268FA7179",
+			"asnIdentifier": "S2598305",
+			"position": 66000,
+			"depth": 1,
+			"statementNotation": "HS-PS2-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Communicate scientific and technical information about why the molecular-level structure is important in the functioning of designed materials.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the attractive and repulsive forces that determine the functioning of the material. Examples could include why electrically conductive materials are often made of metal, flexible but durable materials are made up of long chained molecules, and pharmaceuticals are designed to interact with specific receptors.",
+				"Assessment Boundary: Assessment is limited to provided molecular structures of specific designed materials."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454540"
+			],
+			"ancestorIds": [
+				"D7E988F8316A4C169E46EE6A67B688BB"
+			]
+		},
+		"9D0FD8110D314823ADAB0C494C2ADB11": {
+			"id": "9D0FD8110D314823ADAB0C494C2ADB11",
+			"asnIdentifier": "S2598304",
+			"position": 65000,
+			"depth": 1,
+			"statementNotation": "HS-PS2-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct an investigation to provide evidence that an electric current can produce a magnetic field and that a changing magnetic field can produce an electric current.",
+			"comments": [
+				"Assessment Boundary: Assessment is limited to designing and conducting investigations with provided materials and tools."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454550"
+			],
+			"ancestorIds": [
+				"D7E988F8316A4C169E46EE6A67B688BB"
+			]
+		},
+		"9799318CF09242C5921F9B77F5D729F1": {
+			"id": "9799318CF09242C5921F9B77F5D729F1",
+			"asnIdentifier": "S2598303",
+			"position": 64000,
+			"depth": 1,
+			"statementNotation": "HS-PS2-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Use mathematical representations of Newton's Law of Gravitation and Coulomb's Law to describe and predict the gravitational and electrostatic forces between objects.",
+			"comments": [
+				"Clarification Statement: Emphasis is on both quantitative and conceptual descriptions of gravitational and electric fields.",
+				"Assessment Boundary: Assessment is limited to systems with two objects."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454549"
+			],
+			"ancestorIds": [
+				"D7E988F8316A4C169E46EE6A67B688BB"
+			]
+		},
+		"D3C32CF57AF54226A839DC363A139FC1": {
+			"id": "D3C32CF57AF54226A839DC363A139FC1",
+			"asnIdentifier": "S2598302",
+			"position": 63000,
+			"depth": 1,
+			"statementNotation": "HS-PS2-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes the force on a macroscopic object during a collision.",
+			"comments": [
+				"Clarification Statement: Examples of evaluation and refinement could include determining the success of a device at protecting an object from damage and modifying the design to improve it. Examples of a device could include a football helmet or a parachute.",
+				"Assessment Boundary: Assessment is limited to qualitative evaluations and/or algebraic manipulations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454548"
+			],
+			"ancestorIds": [
+				"D7E988F8316A4C169E46EE6A67B688BB"
+			]
+		},
+		"003BAB9FC1AB4808B15DA8CD6D5B4F07": {
+			"id": "003BAB9FC1AB4808B15DA8CD6D5B4F07",
+			"asnIdentifier": "S2598301",
+			"position": 62000,
+			"depth": 1,
+			"statementNotation": "HS-PS2-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Use mathematical representations to support the claim that the total momentum of a system of objects is conserved when there is no net force on the system.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the quantitative conservation of momentum in interactions and the qualitative meaning of this principle.",
+				"Assessment Boundary: Assessment is limited to systems of two macroscopic bodies moving in one dimension."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454547"
+			],
+			"ancestorIds": [
+				"D7E988F8316A4C169E46EE6A67B688BB"
+			]
+		},
+		"81E4E9BE89674BA090472303E4ED8D05": {
+			"id": "81E4E9BE89674BA090472303E4ED8D05",
+			"asnIdentifier": "S2598300",
+			"position": 61000,
+			"depth": 1,
+			"statementNotation": "HS-PS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze data to support the claim that Newton's second law of motion describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration.",
+			"comments": [
+				"Clarification Statement: Examples of data could include tables or graphs of position or velocity as a function of time for objects subject to a net unbalanced force, such as a falling object, an object rolling down a ramp, or a moving object being pulled by a constant force.",
+				"Assessment Boundary: Assessment is limited to one-dimensional motion and to macroscopic objects moving at non-relativistic speeds."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454546"
+			],
+			"ancestorIds": [
+				"D7E988F8316A4C169E46EE6A67B688BB"
+			]
+		},
+		"D7E988F8316A4C169E46EE6A67B688BB": {
+			"id": "D7E988F8316A4C169E46EE6A67B688BB",
+			"asnIdentifier": "S2598299",
+			"position": 60000,
+			"depth": 0,
+			"statementNotation": "HS-PS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Motion and Stability: Forces and Interactions",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467901"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"F9476C4BF90544B582618586A057F6B7": {
+			"id": "F9476C4BF90544B582618586A057F6B7",
+			"asnIdentifier": "S2598298",
+			"position": 59000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-8",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop models to illustrate the changes in the composition of the nucleus of the atom and the energy released during the processes of fission, fusion, and radioactive decay.",
+			"comments": [
+				"Clarification Statement: Emphasis is on simple qualitative models, such as pictures or diagrams, and on the scale of energy released in nuclear processes relative to other kinds of transformations.",
+				"Assessment Boundary: Assessment does not include quantitative calculation of energy released. Assessment is limited to alpha, beta, and gamma radioactive decays."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454539"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"06501387508D496D88FED911D7E84E2E": {
+			"id": "06501387508D496D88FED911D7E84E2E",
+			"asnIdentifier": "S2598297",
+			"position": 58000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-7",
+			"statementLabel": "Performance Expectation",
+			"description": "Use mathematical representations to support the claim that atoms, and therefore mass, are conserved during a chemical reaction.",
+			"comments": [
+				"Clarification Statement: Emphasis is on using mathematical ideas to communicate the proportional relationships between masses of atoms in the reactants and the products, and the translation of these relationships to the macroscopic scale using the mole as the conversion from the atomic to the macroscopic scale. Emphasis is on assessing students' use of mathematical thinking and not on memorization and rote application of problem-solving techniques.",
+				"Assessment Boundary: Assessment does not include complex chemical reactions."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454545"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"AC5C6B1216B1447FBC4A535474F2296D": {
+			"id": "AC5C6B1216B1447FBC4A535474F2296D",
+			"asnIdentifier": "S2598296",
+			"position": 57000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Refine the design of a chemical system by specifying a change in conditions that would produce increased amounts of products at equilibrium.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the application of Le Chatlier's Principle and on refining designs of chemical reaction systems, including descriptions of the connection between changes made at the macroscopic level and what happens at the molecular level. Examples of designs could include different ways to increase product formation including adding reactants or removing products.",
+				"Assessment Boundary: Assessment is limited to specifying the change in only one variable at a time. Assessment does not include calculating equilibrium constants and concentrations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454544"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"3766044440C848A58AB329C11C10E44E": {
+			"id": "3766044440C848A58AB329C11C10E44E",
+			"asnIdentifier": "S2598295",
+			"position": 56000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Apply scientific principles and evidence to provide an explanation about the effects of changing the temperature or concentration of the reacting particles on the rate at which a reaction occurs.",
+			"comments": [
+				"Clarification Statement: Emphasis is on student reasoning that focuses on the number and energy of collisions between molecules.",
+				"Assessment Boundary: Assessment is limited to simple reactions in which there are only two reactants; evidence from temperature, concentration, and rate data; and qualitative relationships between rate and temperature."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454543"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"EA5058A0E3DD4F55A42D2D9E4575EA5C": {
+			"id": "EA5058A0E3DD4F55A42D2D9E4575EA5C",
+			"asnIdentifier": "S2598294",
+			"position": 55000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model to illustrate that the release or absorption of energy from a chemical reaction system depends upon the changes in total bond energy.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the idea that a chemical reaction is a system that affects the energy change. Examples of models could include molecular-level drawings and diagrams of reactions, graphs showing the relative energies of reactants and products, and representations showing energy is conserved.",
+				"Assessment Boundary: Assessment does not include calculating the total bond energy changes during a chemical reaction from the bond energies of reactants and products."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454542"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"93D31977A7024145991C8EB42CEA362F": {
+			"id": "93D31977A7024145991C8EB42CEA362F",
+			"asnIdentifier": "S2598293",
+			"position": 54000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct an investigation to gather evidence to compare the structure of substances at the bulk scale to infer the strength of electrical forces between particles.",
+			"comments": [
+				"Clarification Statement: Emphasis is on understanding the strengths of forces between particles, and not on naming specific intermolecular forces (such as dipole-dipole). Examples of particles could include ions, atoms, molecules, and networked materials (such as graphite). Examples of bulk properties of substances could include the melting point and boiling point, vapor pressure, and surface tension.",
+				"Assessment Boundary: Assessment does not include Raoult's law calculations of vapor pressure."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454538"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"7AC7E479D1A74F6EA0667FFFF6FA0F63": {
+			"id": "7AC7E479D1A74F6EA0667FFFF6FA0F63",
+			"asnIdentifier": "S2598292",
+			"position": 53000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct and revise an explanation for the outcome of a simple chemical reaction based on the outermost electron states of atoms, trends in the periodic table, and knowledge of the patterns of chemical properties.",
+			"comments": [
+				"Clarification Statement: Examples of chemical reactions could include the reaction of sodium and chlorine, of carbon and oxygen, or of carbon and hydrogen.",
+				"Assessment Boundary: Assessment is limited to chemical reactions involving main group elements and combustion reactions."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454541"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"4B0EA87E9AA64AB78E9AB6F1BC9F7325": {
+			"id": "4B0EA87E9AA64AB78E9AB6F1BC9F7325",
+			"asnIdentifier": "S2598291",
+			"position": 52000,
+			"depth": 1,
+			"statementNotation": "HS-PS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Use the periodic table as a model to predict the relative properties of elements based on the patterns of electrons in the outermost energy level of atoms.",
+			"comments": [
+				"Clarification Statement: Examples of properties that could be predicted from patterns could include reactivity of metals, types of bonds formed, numbers of bonds formed, and reactions with oxygen.",
+				"Assessment Boundary: Assessment is limited to main group elements. Assessment does not include quantitative understanding of ionization energy beyond relative trends."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454537"
+			],
+			"ancestorIds": [
+				"75256EC0DE6F4EBD80E5A5CB4E51A6B1"
+			]
+		},
+		"75256EC0DE6F4EBD80E5A5CB4E51A6B1": {
+			"id": "75256EC0DE6F4EBD80E5A5CB4E51A6B1",
+			"asnIdentifier": "S2598290",
+			"position": 51000,
+			"depth": 0,
+			"statementNotation": "HS-PS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Matter and Its Interactions",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467900"
+			],
+			"ancestorIds": [
+				"083946902E5E4B9B800260E243FCC2E6"
+			]
+		},
+		"5A4EA05D76AF4EC3A7342A7B6D5A782C": {
+			"id": "5A4EA05D76AF4EC3A7342A7B6D5A782C",
+			"asnIdentifier": "S2598367",
+			"position": 50000,
+			"depth": 1,
+			"statementNotation": "HS-ESS3-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.",
+			"comments": [
+				"Clarification Statement: Examples of Earth systems to be considered are the hydrosphere, atmosphere, cryosphere, geosphere, and/or biosphere. An example of the far-reaching impacts from a human activity is how an increase in atmospheric carbon dioxide results in an increase in photosynthetic biomass on land and an increase in ocean acidification, with resulting impacts on sea organism health and marine populations.",
+				"Assessment Boundary: Assessment does not include running computational representations but is limited to using the published results of scientific computational models."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454605"
+			],
+			"ancestorIds": [
+				"083946902E5E4B9B800260E243FCC2E6"
+			]
+		},
+		"D358D320256548C38AE65271F9FA3C24": {
+			"id": "D358D320256548C38AE65271F9FA3C24",
+			"asnIdentifier": "S2598366",
+			"position": 49000,
+			"depth": 1,
+			"statementNotation": "HS-ESS3-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze geoscience data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate change and associated future impacts to Earth systems.",
+			"comments": [
+				"Clarification Statement: Examples of evidence, for both data and climate model outputs, are for climate changes (such as precipitation and temperature) and their associated impacts (such as on sea level, glacial ice volumes, or atmosphere and ocean composition).",
+				"Assessment Boundary: Assessment is limited to one example of a climate change and its associated impacts."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454600"
+			],
+			"ancestorIds": [
+				"083946902E5E4B9B800260E243FCC2E6"
+			]
+		},
+		"075733770B644FCABB4777D70B78D100": {
+			"id": "075733770B644FCABB4777D70B78D100",
+			"asnIdentifier": "S2598365",
+			"position": 48000,
+			"depth": 1,
+			"statementNotation": "HS-ESS3-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.",
+			"comments": [
+				"Clarification Statement: Examples of data on the impacts of human activities could include the quantities and types of pollutants released, changes to biomass and species diversity, or areal changes in land surface use (such as for urban development, agriculture and livestock, or surface mining). Examples for limiting future impacts could range from local efforts (such as reducing, reusing, and recycling resources) to large-scale geoengineering design solutions (such as altering global temperatures by making large changes to the atmosphere or ocean)."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454604"
+			],
+			"ancestorIds": [
+				"083946902E5E4B9B800260E243FCC2E6"
+			]
+		},
+		"D07386D629B942D0858AB2EECF74D1AA": {
+			"id": "D07386D629B942D0858AB2EECF74D1AA",
+			"asnIdentifier": "S2598364",
+			"position": 47000,
+			"depth": 1,
+			"statementNotation": "HS-ESS3-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Create a computational simulation to illustrate the relationships among management of natural resources, the sustainability of human populations, and biodiversity.",
+			"comments": [
+				"Clarification Statement: Examples of factors that affect the management of natural resources include costs of resource extraction and waste management, per-capita consumption, and the development of new technologies. Examples of factors that affect human sustainability include agricultural efficiency, levels of conservation, and urban planning.",
+				"Assessment Boundary: Assessment for computational simulations is limited to using provided multi-parameter programs or constructing simplified spreadsheet calculations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454603"
+			],
+			"ancestorIds": [
+				"083946902E5E4B9B800260E243FCC2E6"
+			]
+		},
+		"97046C011D08455C96917FAA1F72922D": {
+			"id": "97046C011D08455C96917FAA1F72922D",
+			"asnIdentifier": "S2598363",
+			"position": 46000,
+			"depth": 1,
+			"statementNotation": "HS-ESS3-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the conservation, recycling, and reuse of resources (such as minerals and metals) where possible, and on minimizing impacts where it is not. Examples include developing best practices for agricultural soil use, mining (for coal, tar sands, and oil shales), and pumping (for petroleum and natural gas). Science knowledge indicates what can happen in natural systems—not what should happen."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454602"
+			],
+			"ancestorIds": [
+				"083946902E5E4B9B800260E243FCC2E6"
+			]
+		},
+		"A666A1CF4E714097B351EE462EFA217A": {
+			"id": "A666A1CF4E714097B351EE462EFA217A",
+			"asnIdentifier": "S2598362",
+			"position": 45000,
+			"depth": 1,
+			"statementNotation": "HS-ESS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity.",
+			"comments": [
+				"Clarification Statement: Examples of key natural resources include access to fresh water (such as rivers, lakes, and groundwater), regions of fertile soils such as river deltas, and high concentrations of minerals and fossil fuels. Examples of natural hazards can be from interior processes (such as volcanic eruptions and earthquakes), surface processes (such as tsunamis, mass wasting and soil erosion), and severe weather (such as hurricanes, floods, and droughts). Examples of the results of changes in climate that can affect populations or drive mass migrations include changes to sea level, regional patterns of temperature and precipitation, and the types of crops and livestock that can be raised."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454601"
+			],
+			"ancestorIds": [
+				"083946902E5E4B9B800260E243FCC2E6"
+			]
+		},
+		"083946902E5E4B9B800260E243FCC2E6": {
+			"id": "083946902E5E4B9B800260E243FCC2E6",
+			"asnIdentifier": "S2598361",
+			"position": 44000,
+			"depth": 0,
+			"statementNotation": "HS-ESS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth and Human Activity",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467910"
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"F08F274CE94A4BE89FC41F895BB9239D": {
+			"id": "F08F274CE94A4BE89FC41F895BB9239D",
+			"asnIdentifier": "S2598360",
+			"position": 43000,
+			"depth": 1,
+			"statementNotation": "HS-ESS2-7",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an argument based on evidence about the simultaneous coevolution of Earth systems and life on Earth.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the dynamic causes, effects, and feedbacks between the biosphere and Earth's other systems, whereby geoscience factors control the evolution of life, which in turn continuously alters Earth's surface. Examples of include how photosynthetic life altered the atmosphere through the production of oxygen, which in turn increased weathering rates and allowed for the evolution of animal life; how microbial life on land increased the formation of soil, which in turn allowed for the evolution of land plants; or how the evolution of corals created reefs that altered patterns of erosion and deposition along coastlines and provided habitats for the evolution of new life forms.",
+				"Assessment Boundary: Assessment does not include a comprehensive understanding of the mechanisms of how the biosphere interacts with all of Earth's other systems."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454598"
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"96FA52D67C7C4520BD2D1F9125551087": {
+			"id": "96FA52D67C7C4520BD2D1F9125551087",
+			"asnIdentifier": "S2598359",
+			"position": 42000,
+			"depth": 1,
+			"statementNotation": "HS-ESS2-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.",
+			"comments": [
+				"Clarification Statement: The carbon cycle is a property of the Earth system that arises from interactions among the hydrosphere, atmosphere, geosphere, and biosphere. Emphasis is on modeling biogeochemical cycles that include the cycling of carbon through the ocean, atmosphere, soil, and biosphere (including humans), providing the foundation for living organisms."
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"5A44A8218E86463886FBC3B4647101B0": {
+			"id": "5A44A8218E86463886FBC3B4647101B0",
+			"asnIdentifier": "S2598358",
+			"position": 41000,
+			"depth": 1,
+			"statementNotation": "HS-ESS2-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct an investigation of the properties of water and its effects on Earth materials and surface processes.",
+			"comments": [
+				"Clarification Statement: Emphasis is on mechanical and chemical investigations with water and a variety of solid materials to provide the evidence for connections between the hydrologic cycle and system interactions commonly known as the rock cycle. Examples of mechanical investigations include stream transportation and deposition using a stream table, erosion using variations in soil moisture content, or frost wedging by the expansion of water as it freezes. Examples of chemical investigations include chemical weathering and recrystallization (by testing the solubility of different materials) or melt generation (by examining how water lowers the melting temperature of most solids)."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454596"
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"9691C6E71F064A948BBA5B005A003189": {
+			"id": "9691C6E71F064A948BBA5B005A003189",
+			"asnIdentifier": "S2598357",
+			"position": 40000,
+			"depth": 1,
+			"statementNotation": "HS-ESS2-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a model to describe how variations in the flow of energy into and out of Earth systems result in changes in climate.",
+			"comments": [
+				"Clarification Statement: Examples of the causes of climate change differ by timescale, over 1-10 years: large volcanic eruption, ocean circulation; 10-100s of years: changes in human activity, ocean circulation, solar output; 10-100s of thousands of years: changes to Earth's orbit and the orientation of its axis; and 10-100s of millions of years: long-term changes in atmospheric composition.",
+				"Assessment Boundary: Assessment of the results of changes in climate is limited to changes in surface temperatures, precipitation patterns, glacial ice volumes, sea levels, and biosphere distribution."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454599"
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"BBAA22681DED48198BADAC286261A2BA": {
+			"id": "BBAA22681DED48198BADAC286261A2BA",
+			"asnIdentifier": "S2598356",
+			"position": 39000,
+			"depth": 1,
+			"statementNotation": "HS-ESS2-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model based on evidence of Earth's interior to describe the cycling of matter by thermal convection.",
+			"comments": [
+				"Clarification Statement: Emphasis is on both a one-dimensional model of Earth, with radial layers determined by density, and a three-dimensional model, which is controlled by mantle convection and the resulting plate tectonics. Examples of evidence include maps of Earth's three-dimensional structure obtained from seismic waves, records of the rate of change of Earth's magnetic field (as constraints on convection in the outer core), and identification of the composition of Earth's layers from high-pressure laboratory experiments."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454595"
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"339337D4DE804FC0A6103BB8C6BF46F7": {
+			"id": "339337D4DE804FC0A6103BB8C6BF46F7",
+			"asnIdentifier": "S2598355",
+			"position": 38000,
+			"depth": 1,
+			"statementNotation": "HS-ESS2-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze geoscience data to make the claim that one change to Earth's surface can create feedbacks that cause changes to other Earth systems.",
+			"comments": [
+				"Clarification Statement: Examples should include climate feedbacks, such as how an increase in greenhouse gases causes a rise in global temperatures that melts glacial ice, which reduces the amount of sunlight reflected from Earth's surface, increasing surface temperatures and further reducing the amount of ice. Examples could also be taken from other system interactions, such as how the loss of ground vegetation causes an increase in water runoff and soil erosion; how dammed rivers increase groundwater recharge, decrease sediment transport, and increase coastal erosion; or how the loss of wetlands causes a decrease in local humidity that further reduces the wetland extent."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454594"
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"8480E14C3D024F4AB193AB18620CEA0D": {
+			"id": "8480E14C3D024F4AB193AB18620CEA0D",
+			"asnIdentifier": "S2598354",
+			"position": 37000,
+			"depth": 1,
+			"statementNotation": "HS-ESS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model to illustrate how Earth's internal and surface processes operate at different spatial and temporal scales to form continental and ocean-floor features.",
+			"comments": [
+				"Clarification Statement: Emphasis is on how the appearance of land features (such as mountains, valleys, and plateaus) and sea-floor features (such as trenches, ridges, and seamounts) are a result of both constructive forces (such as volcanism, tectonic uplift, and orogeny) and destructive mechanisms (such as weathering, mass wasting, and coastal erosion).",
+				"Assessment Boundary: Assessment does not include memorization of the details of the formation of specific geographic features of Earth's surface."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454593"
+			],
+			"ancestorIds": [
+				"6DB297D75D0E46FE880A4F88A596CED3"
+			]
+		},
+		"6DB297D75D0E46FE880A4F88A596CED3": {
+			"id": "6DB297D75D0E46FE880A4F88A596CED3",
+			"asnIdentifier": "S2598353",
+			"position": 36000,
+			"depth": 0,
+			"statementNotation": "HS-ESS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Systems",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467909"
+			],
+			"ancestorIds": [
+				"8241434370734984B545936E871CE2E6"
+			]
+		},
+		"85AE2AB82C8F4740B109A87C91330DD9": {
+			"id": "85AE2AB82C8F4740B109A87C91330DD9",
+			"asnIdentifier": "S2598352",
+			"position": 35000,
+			"depth": 1,
+			"statementNotation": "HS-ESS1-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Apply scientific reasoning and evidence from ancient Earth materials, meteorites, and other planetary surfaces to construct an account of Earth's formation and early history.",
+			"comments": [
+				"Clarification Statement: Emphasis is on using available evidence within the solar system to reconstruct the early history of Earth, which formed along with the rest of the solar system 4.6 billion years ago. Examples of evidence include the absolute ages of ancient materials (obtained by radiometric dating of meteorites, moon rocks, and Earth's oldest minerals), the sizes and compositions of solar system objects, and the impact cratering record of planetary surfaces."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454592"
+			],
+			"ancestorIds": [
+				"8241434370734984B545936E871CE2E6"
+			]
+		},
+		"297398ADC3AD4BB1BCE4127A43A2D4F8": {
+			"id": "297398ADC3AD4BB1BCE4127A43A2D4F8",
+			"asnIdentifier": "S2598351",
+			"position": 34000,
+			"depth": 1,
+			"statementNotation": "HS-ESS1-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate evidence of the past and current movements of continental and oceanic crust and the theory of plate tectonics to explain the ages of crustal rocks.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the ability of plate tectonics to explain the ages of crustal rocks. Examples include evidence of the ages oceanic crust increasing with distance from mid-ocean ridges (a result of plate spreading) and the ages of North American continental crust increasing with distance away from a central ancient core (a result of past plate interactions)."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454591"
+			],
+			"ancestorIds": [
+				"8241434370734984B545936E871CE2E6"
+			]
+		},
+		"389B5FC5ACD34D6FA69F20C82269BA29": {
+			"id": "389B5FC5ACD34D6FA69F20C82269BA29",
+			"asnIdentifier": "S2598350",
+			"position": 33000,
+			"depth": 1,
+			"statementNotation": "HS-ESS1-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Use mathematical or computational representations to predict the motion of orbiting objects in the solar system.",
+			"comments": [
+				"Clarification Statement: Emphasis is on Newtonian gravitational laws governing orbital motions, which apply to human-made satellites as well as planets and moons.",
+				"Assessment Boundary: Mathematical representations for the gravitational attraction of bodies and Kepler's Laws of orbital motions should not deal with more than two bodies, nor involve calculus."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454590"
+			],
+			"ancestorIds": [
+				"8241434370734984B545936E871CE2E6"
+			]
+		},
+		"11C263F1CA9E41B698BA8B27661DBFED": {
+			"id": "11C263F1CA9E41B698BA8B27661DBFED",
+			"asnIdentifier": "S2598349",
+			"position": 32000,
+			"depth": 1,
+			"statementNotation": "HS-ESS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Communicate scientific ideas about the way stars, over their life cycle, produce elements.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the way nucleosynthesis, and therefore the different elements created, varies as a function of the mass of a star and the stage of its lifetime.",
+				"Assessment Boundary: Details of the many different nucleosynthesis pathways for stars of differing masses are not assessed."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454589"
+			],
+			"ancestorIds": [
+				"8241434370734984B545936E871CE2E6"
+			]
+		},
+		"9C473388854C44A8899ECF7135F108CF": {
+			"id": "9C473388854C44A8899ECF7135F108CF",
+			"asnIdentifier": "S2598348",
+			"position": 31000,
+			"depth": 1,
+			"statementNotation": "HS-ESS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an explanation of the Big Bang theory based on astronomical evidence of light spectra, motion of distant galaxies, and composition of matter in the universe.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the astronomical evidence of the red shift of light from galaxies as an indication that the universe is currently expanding, the cosmic microwave background as the remnant radiation from the Big Bang, and the observed composition of ordinary matter of the universe, primarily found in stars and interstellar gases (from the spectra of electromagnetic radiation from stars), which matches that predicted by the Big Bang theory (3/4 hydrogen and 1/4 helium)."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454588"
+			],
+			"ancestorIds": [
+				"8241434370734984B545936E871CE2E6"
+			]
+		},
+		"BD9A3B8BA23D4B479BF7B91029CBD96C": {
+			"id": "BD9A3B8BA23D4B479BF7B91029CBD96C",
+			"asnIdentifier": "S2598347",
+			"position": 30000,
+			"depth": 1,
+			"statementNotation": "HS-ESS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun's core to release energy that eventually reaches Earth in the form of radiation.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the energy transfer mechanisms that allow energy from nuclear fusion in the sun's core to reach Earth. Examples of evidence for the model include observations of the masses and lifetimes of other stars, as well as the ways that the sun's radiation varies due to sudden solar flares (\"space weather\"), the 11-year sunspot cycle, and non-cyclic variations over centuries.",
+				"Assessment Boundary: Assessment does not include details of the atomic and sub-atomic processes involved with the sun's nuclear fusion."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454587"
+			],
+			"ancestorIds": [
+				"8241434370734984B545936E871CE2E6"
+			]
+		},
+		"8241434370734984B545936E871CE2E6": {
+			"id": "8241434370734984B545936E871CE2E6",
+			"asnIdentifier": "S2598346",
+			"position": 29000,
+			"depth": 0,
+			"statementNotation": "HS-ESS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Place in the Universe",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467908"
+			],
+			"ancestorIds": [
+				"933EB667365D4C109B158384769E859A"
+			]
+		},
+		"A230B37646954F15AA9C5E859E1D1E5B": {
+			"id": "A230B37646954F15AA9C5E859E1D1E5B",
+			"asnIdentifier": "S2598345",
+			"position": 28000,
+			"depth": 1,
+			"statementNotation": "HS-LS4-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Create or revise a simulation to test a solution to mitigate adverse impacts of human activity on biodiversity.",
+			"comments": [
+				"Clarification Statement: Emphasis is on designing solutions for a proposed problem related to threatened or endangered species, or to genetic variation of organisms for multiple species."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454575"
+			],
+			"ancestorIds": [
+				"933EB667365D4C109B158384769E859A"
+			]
+		},
+		"DEAFD45A5A714C67BFF98EBB97FBC882": {
+			"id": "DEAFD45A5A714C67BFF98EBB97FBC882",
+			"asnIdentifier": "S2598344",
+			"position": 27000,
+			"depth": 1,
+			"statementNotation": "HS-LS4-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate the evidence supporting claims that changes in environmental conditions may result in: (1) increases in the number of individuals of some species, (2) the emergence of new species over time, and (3) the extinction of other species.",
+			"comments": [
+				"Clarification Statement: Emphasis is on determining cause and effect relationships for how changes to the environment such as deforestation, fishing, application of fertilizers, drought, flood, and the rate of change of the environment affect distribution or disappearance of traits in species."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454586"
+			],
+			"ancestorIds": [
+				"933EB667365D4C109B158384769E859A"
+			]
+		},
+		"CB49FEA9EA6745B0AEE5C6FBD2C94DE3": {
+			"id": "CB49FEA9EA6745B0AEE5C6FBD2C94DE3",
+			"asnIdentifier": "S2598343",
+			"position": 26000,
+			"depth": 1,
+			"statementNotation": "HS-LS4-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an explanation based on evidence for how natural selection leads to adaptation of populations.",
+			"comments": [
+				"Clarification Statement: Emphasis is on using data to provide evidence for how specific biotic and abiotic differences in ecosystems (such as ranges of seasonal temperature, long-term climate change, acidity, light, geographic barriers, or evolution of other organisms) contribute to a change in gene frequency over time, leading to adaptation of populations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454585"
+			],
+			"ancestorIds": [
+				"933EB667365D4C109B158384769E859A"
+			]
+		},
+		"779617B8A4AA466CACC5F63BAF61AC0F": {
+			"id": "779617B8A4AA466CACC5F63BAF61AC0F",
+			"asnIdentifier": "S2598342",
+			"position": 25000,
+			"depth": 1,
+			"statementNotation": "HS-LS4-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Apply concepts of statistics and probability to support explanations that organisms with an advantageous heritable trait tend to increase in proportion to organisms lacking this trait.",
+			"comments": [
+				"Clarification Statement: Emphasis is on analyzing shifts in numerical distribution of traits and using these shifts as evidence to support explanations.",
+				"Assessment Boundary: Assessment is limited to basic statistical and graphical analysis. Assessment does not include allele frequency calculations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454584"
+			],
+			"ancestorIds": [
+				"933EB667365D4C109B158384769E859A"
+			]
+		},
+		"69EB09E6E8AD4D2386DC0EB43EAB3735": {
+			"id": "69EB09E6E8AD4D2386DC0EB43EAB3735",
+			"asnIdentifier": "S2598341",
+			"position": 24000,
+			"depth": 1,
+			"statementNotation": "HS-LS4-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment.",
+			"comments": [
+				"Clarification Statement: Emphasis is on using evidence to explain the influence each of the four factors has on number of organisms, behaviors, morphology, or physiology in terms of ability to compete for limited resources and subsequent survival of individuals and adaptation of species. Examples of evidence could include mathematical models such as simple distribution graphs and proportional reasoning.",
+				"Assessment Boundary: Assessment does not include other mechanisms of evolution, such as genetic drift, gene flow through migration, and co-evolution."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454583"
+			],
+			"ancestorIds": [
+				"933EB667365D4C109B158384769E859A"
+			]
+		},
+		"A7F5A9D24F3C4697B5CEE009A5BC4715": {
+			"id": "A7F5A9D24F3C4697B5CEE009A5BC4715",
+			"asnIdentifier": "S2598340",
+			"position": 23000,
+			"depth": 1,
+			"statementNotation": "HS-LS4-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Communicate scientific information that common ancestry and biological evolution are supported by multiple lines of empirical evidence.",
+			"comments": [
+				"Clarification Statement: Emphasis is on a conceptual understanding of the role each line of evidence has relating to common ancestry and biological evolution. Examples of evidence could include similarities in DNA sequences, anatomical structures, and order of appearance of structures in embryological development."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454582"
+			],
+			"ancestorIds": [
+				"933EB667365D4C109B158384769E859A"
+			]
+		},
+		"933EB667365D4C109B158384769E859A": {
+			"id": "933EB667365D4C109B158384769E859A",
+			"asnIdentifier": "S2598339",
+			"position": 22000,
+			"depth": 0,
+			"statementNotation": "HS-LS4",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Biological Evolution: Unity and Diversity",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467907"
+			],
+			"ancestorIds": [
+				"B22AE5A29C334239BEC296CC60F3E29D"
+			]
+		},
+		"401866431A634B55B82AB92C7B0D7CD5": {
+			"id": "401866431A634B55B82AB92C7B0D7CD5",
+			"asnIdentifier": "S2598338",
+			"position": 21000,
+			"depth": 1,
+			"statementNotation": "HS-LS3-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Apply concepts of statistics and probability to explain the variation and distribution of expressed traits in a population.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the use of mathematics to describe the probability of traits as it relates to genetic and environmental factors in the expression of traits.",
+				"Assessment Boundary: Assessment does not include Hardy-Weinberg calculations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454580"
+			],
+			"ancestorIds": [
+				"B22AE5A29C334239BEC296CC60F3E29D"
+			]
+		},
+		"330C6ADE077E4567A3FBBA58EF1B15A8": {
+			"id": "330C6ADE077E4567A3FBBA58EF1B15A8",
+			"asnIdentifier": "S2598337",
+			"position": 20000,
+			"depth": 1,
+			"statementNotation": "HS-LS3-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by environmental factors.",
+			"comments": [
+				"Clarification Statement: Emphasis is on using data to support arguments for the way variation occurs.",
+				"Assessment Boundary: Assessment does not include the phases of meiosis or the biochemical mechanism of specific steps in the process."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454579"
+			],
+			"ancestorIds": [
+				"B22AE5A29C334239BEC296CC60F3E29D"
+			]
+		},
+		"559E7744A25D4C19941A6BAAF456C5D4": {
+			"id": "559E7744A25D4C19941A6BAAF456C5D4",
+			"asnIdentifier": "S2598336",
+			"position": 19000,
+			"depth": 1,
+			"statementNotation": "HS-LS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring.",
+			"comments": [
+				"Assessment Boundary: Assessment does not include the phases of meiosis or the biochemical mechanism of specific steps in the process."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454578"
+			],
+			"ancestorIds": [
+				"B22AE5A29C334239BEC296CC60F3E29D"
+			]
+		},
+		"B22AE5A29C334239BEC296CC60F3E29D": {
+			"id": "B22AE5A29C334239BEC296CC60F3E29D",
+			"asnIdentifier": "S2598335",
+			"position": 18000,
+			"depth": 0,
+			"statementNotation": "HS-LS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Heredity: Inheritance and Variation of Traits",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467906"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"D7C6733C9BE146F79FF4E2D91F2E5693": {
+			"id": "D7C6733C9BE146F79FF4E2D91F2E5693",
+			"asnIdentifier": "S2598334",
+			"position": 17000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-8",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate the evidence for the role of group behavior on individual and species' chances to survive and reproduce.",
+			"comments": [
+				"Clarification Statement: Emphasis is on: (1) distinguishing between group and individual behavior, (2) identifying evidence supporting the outcomes of group behavior, and (3) developing logical and reasonable arguments based on evidence. Examples of group behaviors could include flocking, schooling, herding, and cooperative behaviors such as hunting, migrating, and swarming."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454574"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"80235D3AE06C463AB5022C5CD4BF6363": {
+			"id": "80235D3AE06C463AB5022C5CD4BF6363",
+			"asnIdentifier": "S2598333",
+			"position": 16000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-7",
+			"statementLabel": "Performance Expectation",
+			"description": "Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity.",
+			"comments": [
+				"Clarification Statement: Examples of human activities can include urbanization, building dams, and dissemination of invasive species."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454573"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"7D7A153AD9CD4F6EAE37A0F0AC2B999C": {
+			"id": "7D7A153AD9CD4F6EAE37A0F0AC2B999C",
+			"asnIdentifier": "S2598332",
+			"position": 15000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem.",
+			"comments": [
+				"Clarification Statement: Examples of changes in ecosystem conditions could include modest biological or physical changes, such as moderate hunting or a seasonal flood; and extreme changes, such as volcanic eruption or sea level rise."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454572"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"D9ED5C762C6B4F938C73FB47C985D074": {
+			"id": "D9ED5C762C6B4F938C73FB47C985D074",
+			"asnIdentifier": "S2598331",
+			"position": 14000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere.",
+			"comments": [
+				"Clarification Statement: Examples of models could include simulations and mathematical models.",
+				"Assessment Boundary: Assessment does not include the specific chemical steps of photosynthesis and respiration."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454569"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"B843C54091B74C2FA147ECCD2AEB3AB9": {
+			"id": "B843C54091B74C2FA147ECCD2AEB3AB9",
+			"asnIdentifier": "S2598330",
+			"position": 13000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a mathematical representation to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.",
+			"comments": [
+				"Clarification Statement: Emphasis is on using a mathematical model of stored energy in biomass to describe the transfer of energy from one trophic level to another and that matter and energy are conserved as matter cycles and energy flows through ecosystems. Emphasis is on atoms and molecules such as carbon, oxygen, hydrogen and nitrogen being conserved as they move through an ecosystem.",
+				"Assessment Boundary: Assessment is limited to proportional reasoning to describe the cycling of matter and flow of energy."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454568"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"FF6BA5CEA1974344A200657D57D7BE0E": {
+			"id": "FF6BA5CEA1974344A200657D57D7BE0E",
+			"asnIdentifier": "S2598329",
+			"position": 12000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.",
+			"comments": [
+				"Clarification Statement: Emphasis is on conceptual understanding of the role of aerobic and anaerobic respiration in different environments.",
+				"Assessment Boundary: Assessment does not include the specific chemical processes of either aerobic or anaerobic respiration."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467924"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"75C0A6FF1159467F862BC33F6FCE50CD": {
+			"id": "75C0A6FF1159467F862BC33F6FCE50CD",
+			"asnIdentifier": "S2598328",
+			"position": 11000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Use mathematical representations to support and revise explanations based on evidence about factors affecting biodiversity and populations in ecosystems of different scales.",
+			"comments": [
+				"Clarification Statement: Examples of mathematical representations include finding the average, determining trends, and using graphical comparisons of multiple sets of data.",
+				"Assessment Boundary: Assessment is limited to provided data."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454571"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"FDED0446E3EA4FD585405591AB1781EA": {
+			"id": "FDED0446E3EA4FD585405591AB1781EA",
+			"asnIdentifier": "S2598327",
+			"position": 10000,
+			"depth": 1,
+			"statementNotation": "HS-LS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Use mathematical and/or computational representations to support explanations of factors that affect carrying capacity of ecosystems at different scales.",
+			"comments": [
+				"Clarification Statement: Emphasis is on quantitative analysis and comparison of the relationships among interdependent factors including boundaries, resources, climate and competition. Examples of mathematical comparisons could include graphs, charts, histograms, or population changes gathered from simulations or historical data sets.",
+				"Assessment Boundary: Assessment does not include deriving mathematical equations to make comparisons."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454570"
+			],
+			"ancestorIds": [
+				"DE2983EF45514A46B7C1092937D01CBB"
+			]
+		},
+		"DE2983EF45514A46B7C1092937D01CBB": {
+			"id": "DE2983EF45514A46B7C1092937D01CBB",
+			"asnIdentifier": "S2598326",
+			"position": 9000,
+			"depth": 0,
+			"statementNotation": "HS-LS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Ecosystems: Interactions, Energy, and Dynamics",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467905"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"E67A5AD3243B469DB484AE880716C53C": {
+			"id": "E67A5AD3243B469DB484AE880716C53C",
+			"asnIdentifier": "S2598325",
+			"position": 8000,
+			"depth": 1,
+			"statementNotation": "HS-LS1-7",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the conceptual understanding of the inputs and outputs of the process of cellular respiration.",
+				"Assessment Boundary: Assessment should not include identification of the steps or specific processes involved in cellular respiration."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454567"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"BBD65D76270C44EBA11F96C5DFCA9203": {
+			"id": "BBD65D76270C44EBA11F96C5DFCA9203",
+			"asnIdentifier": "S2598324",
+			"position": 7000,
+			"depth": 1,
+			"statementNotation": "HS-LS1-6",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.",
+			"comments": [
+				"Clarification Statement: Emphasis is on using evidence from models and simulations to support explanations.",
+				"Assessment Boundary: Assessment does not include the details of the specific chemical reactions or identification of macromolecules."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454566"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"927CEC887B2549AB8800FE8200386A4E": {
+			"id": "927CEC887B2549AB8800FE8200386A4E",
+			"asnIdentifier": "S2598323",
+			"position": 6000,
+			"depth": 1,
+			"statementNotation": "HS-LS1-5",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.",
+			"comments": [
+				"Clarification Statement: Emphasis is on illustrating inputs and outputs of matter and the transfer and transformation of energy in photosynthesis by plants and other photosynthesizing organisms. Examples of models could include diagrams, chemical equations, and conceptual models.",
+				"Assessment Boundary: Assessment does not include specific biochemical steps."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454565"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"DC5552166A7C4EF49692B1CE267FA035": {
+			"id": "DC5552166A7C4EF49692B1CE267FA035",
+			"asnIdentifier": "S2598322",
+			"position": 5000,
+			"depth": 1,
+			"statementNotation": "HS-LS1-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a model to illustrate the role of cellular division (mitosis) and differentiation in producing and maintaining complex organisms.",
+			"comments": [
+				"Assessment Boundary: Assessment does not include specific gene control mechanisms or rote memorization of the steps of mitosis."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454577"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"4A887138DD8B4111BECE645A5B2EF188": {
+			"id": "4A887138DD8B4111BECE645A5B2EF188",
+			"asnIdentifier": "S2598321",
+			"position": 4000,
+			"depth": 1,
+			"statementNotation": "HS-LS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis.",
+			"comments": [
+				"Clarification Statement: Examples of investigations could include heart rate response to exercise, stomate response to moisture and temperature, and root development in response to water levels.",
+				"Assessment Boundary: Assessment does not include the cellular processes involved in the feedback mechanism."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454564"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"DA0670516A334F2793A3FDAFDF740270": {
+			"id": "DA0670516A334F2793A3FDAFDF740270",
+			"asnIdentifier": "S2598320",
+			"position": 3000,
+			"depth": 1,
+			"statementNotation": "HS-LS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms.",
+			"comments": [
+				"Clarification Statement: Emphasis is on functions at the organism system level such as nutrient uptake, water delivery, and organism movement in response to neural stimuli. An example of an interacting system could be an artery depending on the proper function of elastic tissue and smooth muscle to regulate and deliver the proper amount of blood within the circulatory system.",
+				"Assessment Boundary: Assessment does not include interactions and functions at the molecular or chemical reaction level."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454563"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"7E91765DC049464DA76856A733FCB6C2": {
+			"id": "7E91765DC049464DA76856A733FCB6C2",
+			"asnIdentifier": "S2598319",
+			"position": 2000,
+			"depth": 1,
+			"statementNotation": "HS-LS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an explanation based on evidence for how the structure of DNA determines the structure of proteins which carry out the essential functions of life through systems of specialized cells.",
+			"comments": [
+				"Assessment Boundary: Assessment does not include identification of specific cell or tissue types, whole body systems, specific protein structures and functions, or the biochemistry of protein synthesis."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454562"
+			],
+			"ancestorIds": [
+				"FDA177E49B414B929F7281DF0A887600"
+			]
+		},
+		"FDA177E49B414B929F7281DF0A887600": {
+			"id": "FDA177E49B414B929F7281DF0A887600",
+			"asnIdentifier": "S2598318",
+			"position": 1000,
+			"depth": 0,
+			"statementNotation": "HS-LS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "From Molecules to Organisms: Structures and Processes",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467904"
+			],
+			"ancestorIds": []
+		}
+	}
+}

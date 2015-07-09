@@ -1,0 +1,3865 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2544413_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Marketing, Sales, and Service",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2544413",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Marketing, Sales, and Service",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/mktsalesservices.pdf",
+		"asnIdentifier": "D2544413",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"ECB3C3831FF3416F8CBF9E3D3D55D207": {
+			"id": "ECB3C3831FF3416F8CBF9E3D3D55D207",
+			"asnIdentifier": "S2544694",
+			"position": 281000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.6",
+			"description": "Plan compensation and benefit options.",
+			"ancestorIds": [
+				"7FD8E5C53A664B558D19B3A29C2DD9D1",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"82E678C49573405E9C41DCA581D4EC85": {
+			"id": "82E678C49573405E9C41DCA581D4EC85",
+			"asnIdentifier": "S2544693",
+			"position": 280000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.5",
+			"description": "Develop job descriptions.",
+			"ancestorIds": [
+				"7FD8E5C53A664B558D19B3A29C2DD9D1",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E733AA64E0CF4342B992F7C8BEBAA762": {
+			"id": "E733AA64E0CF4342B992F7C8BEBAA762",
+			"asnIdentifier": "S2544692",
+			"position": 279000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.4",
+			"description": "Understand policies and laws regarding harassment, nondiscrimination, and safety.",
+			"ancestorIds": [
+				"7FD8E5C53A664B558D19B3A29C2DD9D1",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"54CAB6BBFB5441CD9726D4C92A2F9025": {
+			"id": "54CAB6BBFB5441CD9726D4C92A2F9025",
+			"asnIdentifier": "S2544691",
+			"position": 278000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.3",
+			"description": "Recognize various types of taxes that affect a small business.",
+			"ancestorIds": [
+				"7FD8E5C53A664B558D19B3A29C2DD9D1",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"CC5FDA2447F24B988BC733EB45125F4E": {
+			"id": "CC5FDA2447F24B988BC733EB45125F4E",
+			"asnIdentifier": "S2544690",
+			"position": 277000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.2",
+			"description": "Identify government regulations (federal, state, and local) that affect small business.",
+			"ancestorIds": [
+				"7FD8E5C53A664B558D19B3A29C2DD9D1",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A355A8D457DE4A779C7510BE5B230520": {
+			"id": "A355A8D457DE4A779C7510BE5B230520",
+			"asnIdentifier": "S2544689",
+			"position": 276000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C11.1",
+			"description": "Identify the role of human resources in selection, training, and evaluation of employees.",
+			"ancestorIds": [
+				"7FD8E5C53A664B558D19B3A29C2DD9D1",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"7FD8E5C53A664B558D19B3A29C2DD9D1": {
+			"id": "7FD8E5C53A664B558D19B3A29C2DD9D1",
+			"asnIdentifier": "S2544688",
+			"position": 275000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C11.0",
+			"description": "Understand the role of human resources in a successful small business.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"EF815A709405448DB8292CB07592EE5D": {
+			"id": "EF815A709405448DB8292CB07592EE5D",
+			"asnIdentifier": "S2544687",
+			"position": 274000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.2",
+			"description": "Explore technology related to global commerce—cultural differences, foreign currencies, and logistics.",
+			"ancestorIds": [
+				"40EFFB143B934C1292BD4CF5196ECA3A",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"69B6C4953775415EAA42F8930D2E55E2": {
+			"id": "69B6C4953775415EAA42F8930D2E55E2",
+			"asnIdentifier": "S2544686",
+			"position": 273000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.1",
+			"description": "Examine the effect of technology in a small business for a multichannel approach.",
+			"ancestorIds": [
+				"40EFFB143B934C1292BD4CF5196ECA3A",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"40EFFB143B934C1292BD4CF5196ECA3A": {
+			"id": "40EFFB143B934C1292BD4CF5196ECA3A",
+			"asnIdentifier": "S2544685",
+			"position": 272000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C10.0",
+			"description": "Identify and evaluate technology used by entrepreneurs.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"01F8848FE2EB4CB3BD14F5D03BBEAE38": {
+			"id": "01F8848FE2EB4CB3BD14F5D03BBEAE38",
+			"asnIdentifier": "S2544684",
+			"position": 271000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.6",
+			"description": "Create an effective marketing plan including current social media, viral marketing, and other technologies.",
+			"ancestorIds": [
+				"F48C0A98EFA9499DA0E111862C842AEC",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B4A05D8A50214E7595E7812303B719CD": {
+			"id": "B4A05D8A50214E7595E7812303B719CD",
+			"asnIdentifier": "S2544683",
+			"position": 270000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.5",
+			"description": "Use market research to develop strategies for marketing products or services in a small business.",
+			"ancestorIds": [
+				"F48C0A98EFA9499DA0E111862C842AEC",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"63F6688B65214C789A1A66B281C75D49": {
+			"id": "63F6688B65214C789A1A66B281C75D49",
+			"asnIdentifier": "S2544682",
+			"position": 269000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.4",
+			"description": "Understand how products and services are conceived, developed, maintained, and improved.",
+			"ancestorIds": [
+				"F48C0A98EFA9499DA0E111862C842AEC",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"29350AFBFCF94C5FBED06353190C83C6": {
+			"id": "29350AFBFCF94C5FBED06353190C83C6",
+			"asnIdentifier": "S2544681",
+			"position": 268000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.3",
+			"description": "Identify the selling techniques used to aid customers and clients in making buying decisions.",
+			"ancestorIds": [
+				"F48C0A98EFA9499DA0E111862C842AEC",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"344742761183441FA58B4D16073112D5": {
+			"id": "344742761183441FA58B4D16073112D5",
+			"asnIdentifier": "S2544680",
+			"position": 267000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.2",
+			"description": "Know the components of a promotional plan (e.g., advertising, public relations, sales promotion) and how the plan is used to achieve a stated outcome.",
+			"ancestorIds": [
+				"F48C0A98EFA9499DA0E111862C842AEC",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"C2D6D5CA9BA04997BB02BD6D526661F8": {
+			"id": "C2D6D5CA9BA04997BB02BD6D526661F8",
+			"asnIdentifier": "S2544679",
+			"position": 266000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.1",
+			"description": "Identify target markets, competition, and customer profiles.",
+			"ancestorIds": [
+				"F48C0A98EFA9499DA0E111862C842AEC",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F48C0A98EFA9499DA0E111862C842AEC": {
+			"id": "F48C0A98EFA9499DA0E111862C842AEC",
+			"asnIdentifier": "S2544678",
+			"position": 265000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C9.0",
+			"description": "Understand effective marketing of a small business.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"853357385DCA4EEC830972E36C3A58F2": {
+			"id": "853357385DCA4EEC830972E36C3A58F2",
+			"asnIdentifier": "S2544677",
+			"position": 264000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.6",
+			"description": "Construct a financial plan.",
+			"ancestorIds": [
+				"0D1B44E0F7C143CB97684A8F84154826",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"12041CCC254F4E66AD063E18AF96D7BB": {
+			"id": "12041CCC254F4E66AD063E18AF96D7BB",
+			"asnIdentifier": "S2544676",
+			"position": 263000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.6",
+			"description": "Calculate financial projection sales, income, expenses, and taxes.",
+			"ancestorIds": [
+				"0D1B44E0F7C143CB97684A8F84154826",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F9D7C810225444B7A8943553DE2082F6": {
+			"id": "F9D7C810225444B7A8943553DE2082F6",
+			"asnIdentifier": "S2544675",
+			"position": 262000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.5",
+			"description": "Project annual and monthly business income and expenses.",
+			"ancestorIds": [
+				"0D1B44E0F7C143CB97684A8F84154826",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"1391DFDF94DE4A9E9C44B13915519132": {
+			"id": "1391DFDF94DE4A9E9C44B13915519132",
+			"asnIdentifier": "S2544674",
+			"position": 261000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.4",
+			"description": "Formulate pricing strategies for goods and services for a small business.",
+			"ancestorIds": [
+				"0D1B44E0F7C143CB97684A8F84154826",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"4EDA08174DE84A0B90F3A875D1EDE920": {
+			"id": "4EDA08174DE84A0B90F3A875D1EDE920",
+			"asnIdentifier": "S2544673",
+			"position": 260000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.3",
+			"description": "Research sources of capital.",
+			"ancestorIds": [
+				"0D1B44E0F7C143CB97684A8F84154826",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9306F27A53D74D08AE5C3334B9735713": {
+			"id": "9306F27A53D74D08AE5C3334B9735713",
+			"asnIdentifier": "S2544672",
+			"position": 259000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.2",
+			"description": "Understand the relationship between supply and demand and pricing and production.",
+			"ancestorIds": [
+				"0D1B44E0F7C143CB97684A8F84154826",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0BC07FCDF6324ED8BAB5F18AD3AA5C3F": {
+			"id": "0BC07FCDF6324ED8BAB5F18AD3AA5C3F",
+			"asnIdentifier": "S2544671",
+			"position": 258000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.1",
+			"description": "Identify startup costs.",
+			"ancestorIds": [
+				"0D1B44E0F7C143CB97684A8F84154826",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0D1B44E0F7C143CB97684A8F84154826": {
+			"id": "0D1B44E0F7C143CB97684A8F84154826",
+			"asnIdentifier": "S2544670",
+			"position": 257000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C8.0",
+			"description": "Understand financial planning, reports, and projections.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"DCD4A56763EE42E68785D1025DC9575D": {
+			"id": "DCD4A56763EE42E68785D1025DC9575D",
+			"asnIdentifier": "S2544669",
+			"position": 256000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.7",
+			"description": "Create an exit strategy.",
+			"ancestorIds": [
+				"D64BCCF374CE42ED998FBCC748EE9343",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"EC658953B1304F5AB1041EAE192974DC": {
+			"id": "EC658953B1304F5AB1041EAE192974DC",
+			"asnIdentifier": "S2544668",
+			"position": 255000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.6",
+			"description": "Assess barriers to startup.",
+			"ancestorIds": [
+				"D64BCCF374CE42ED998FBCC748EE9343",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"47EF5488E8F7415F94CAF0BCC6380850": {
+			"id": "47EF5488E8F7415F94CAF0BCC6380850",
+			"asnIdentifier": "S2544667",
+			"position": 254000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Evaluate advantages and disadvantages of business locations.",
+			"ancestorIds": [
+				"D64BCCF374CE42ED998FBCC748EE9343",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"4400CBE20BA14525BB32037E66DA53A3": {
+			"id": "4400CBE20BA14525BB32037E66DA53A3",
+			"asnIdentifier": "S2544666",
+			"position": 253000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Develop a vision statement.",
+			"ancestorIds": [
+				"D64BCCF374CE42ED998FBCC748EE9343",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"97610960C937452F8723DFE32AABBC7A": {
+			"id": "97610960C937452F8723DFE32AABBC7A",
+			"asnIdentifier": "S2544665",
+			"position": 252000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Develop core values.",
+			"ancestorIds": [
+				"D64BCCF374CE42ED998FBCC748EE9343",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"13DC68EDF6C746F3902E231AB8A23DDE": {
+			"id": "13DC68EDF6C746F3902E231AB8A23DDE",
+			"asnIdentifier": "S2544664",
+			"position": 251000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Identify factors for business expansion.",
+			"ancestorIds": [
+				"D64BCCF374CE42ED998FBCC748EE9343",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"33942E63695541188C006BC6E00F2C23": {
+			"id": "33942E63695541188C006BC6E00F2C23",
+			"asnIdentifier": "S2544663",
+			"position": 250000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Identify mission and purpose.",
+			"ancestorIds": [
+				"D64BCCF374CE42ED998FBCC748EE9343",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"D64BCCF374CE42ED998FBCC748EE9343": {
+			"id": "D64BCCF374CE42ED998FBCC748EE9343",
+			"asnIdentifier": "S2544662",
+			"position": 249000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Identify strategies for business startup and growth.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B7CF285A7E0C414D9A3AB829DF4998B2": {
+			"id": "B7CF285A7E0C414D9A3AB829DF4998B2",
+			"asnIdentifier": "S2544661",
+			"position": 248000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.5",
+			"description": "Synthesize all elements into an original business plan.",
+			"ancestorIds": [
+				"828E89F9098B4AD6A833627636D2B7FB",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9664F6FADDB645699C553028C130C422": {
+			"id": "9664F6FADDB645699C553028C130C422",
+			"asnIdentifier": "S2544660",
+			"position": 247000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Compare and contrast sample business plans, identifying strengths and weaknesses.",
+			"ancestorIds": [
+				"828E89F9098B4AD6A833627636D2B7FB",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"60987717E09349F8B4D74201E454F8CA": {
+			"id": "60987717E09349F8B4D74201E454F8CA",
+			"asnIdentifier": "S2544659",
+			"position": 246000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Conduct market research by using a variety of methods.",
+			"ancestorIds": [
+				"828E89F9098B4AD6A833627636D2B7FB",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9A1C25FDDA07430FBE01F34F49AB1CB6": {
+			"id": "9A1C25FDDA07430FBE01F34F49AB1CB6",
+			"asnIdentifier": "S2544658",
+			"position": 245000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Define terms necessary for creating a business plan such as return on investment, target markets, and demographics.",
+			"ancestorIds": [
+				"828E89F9098B4AD6A833627636D2B7FB",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"790DC183C17A4BF4AE447BE3E125208F": {
+			"id": "790DC183C17A4BF4AE447BE3E125208F",
+			"asnIdentifier": "S2544657",
+			"position": 244000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "Identify and explain the components of a business plan.",
+			"ancestorIds": [
+				"828E89F9098B4AD6A833627636D2B7FB",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"828E89F9098B4AD6A833627636D2B7FB": {
+			"id": "828E89F9098B4AD6A833627636D2B7FB",
+			"asnIdentifier": "S2544656",
+			"position": 243000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Demonstrate an understanding of the elements and purpose of business and strategic planning in entrepreneurship.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"48600E89E9654763AEE5FB87C2FC18E1": {
+			"id": "48600E89E9654763AEE5FB87C2FC18E1",
+			"asnIdentifier": "S2544655",
+			"position": 242000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.4",
+			"description": "Distinguish the roles of support staff, supervisors, and managers in achieving financial goals.",
+			"ancestorIds": [
+				"362952976F1D40D491557FF42F01E8F7",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B7EBF3C8F6E44CE1BEF2820815115435": {
+			"id": "B7EBF3C8F6E44CE1BEF2820815115435",
+			"asnIdentifier": "S2544654",
+			"position": 241000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.3",
+			"description": "Compare and contrast leadership styles and characteristics.",
+			"ancestorIds": [
+				"362952976F1D40D491557FF42F01E8F7",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9B89BD7A8DCE45A4A28037A9A0D3F808": {
+			"id": "9B89BD7A8DCE45A4A28037A9A0D3F808",
+			"asnIdentifier": "S2544653",
+			"position": 240000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Define the four management functions: planning, organizing, staffing, and controlling.",
+			"ancestorIds": [
+				"362952976F1D40D491557FF42F01E8F7",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B91830A98A3B444FB9F92CCD0A8607DB": {
+			"id": "B91830A98A3B444FB9F92CCD0A8607DB",
+			"asnIdentifier": "S2544652",
+			"position": 239000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Describe how cultural/ethnic/generational differences affect interpersonal interactions/communications within a business structure.",
+			"ancestorIds": [
+				"362952976F1D40D491557FF42F01E8F7",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"362952976F1D40D491557FF42F01E8F7": {
+			"id": "362952976F1D40D491557FF42F01E8F7",
+			"asnIdentifier": "S2544651",
+			"position": 238000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Evaluate leadership styles and management functions for the small business.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"70E96B42E81044A2847F595C6C38540E": {
+			"id": "70E96B42E81044A2847F595C6C38540E",
+			"asnIdentifier": "S2544650",
+			"position": 237000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.6",
+			"description": "Create and design potential innovative twenty-first-century products and services.",
+			"ancestorIds": [
+				"40F49A4494DB4780856BF804B7087D59",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"1725E5C42FA64C9F96D1B98CD0C1EECA": {
+			"id": "1725E5C42FA64C9F96D1B98CD0C1EECA",
+			"asnIdentifier": "S2544649",
+			"position": 236000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.5",
+			"description": "Defend why competitiveness depends on innovation.",
+			"ancestorIds": [
+				"40F49A4494DB4780856BF804B7087D59",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"08008AE25C714CA29C389595017B851E": {
+			"id": "08008AE25C714CA29C389595017B851E",
+			"asnIdentifier": "S2544648",
+			"position": 235000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Explore recognized creative-minded individuals and their products and services.",
+			"ancestorIds": [
+				"40F49A4494DB4780856BF804B7087D59",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A4E436DB1BA744CE84AAAC85977F1C26": {
+			"id": "A4E436DB1BA744CE84AAAC85977F1C26",
+			"asnIdentifier": "S2544647",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Defend why failure is an opportunity to learn and to understand that creativity and innovation are a long-term and cyclical process of successes and mistakes.",
+			"ancestorIds": [
+				"40F49A4494DB4780856BF804B7087D59",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"7267EFF6F5CE4AA1AA9CB03C6524EB89": {
+			"id": "7267EFF6F5CE4AA1AA9CB03C6524EB89",
+			"asnIdentifier": "S2544646",
+			"position": 233000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Develop creative thinking in order to stimulate curiosity and promote divergence.",
+			"ancestorIds": [
+				"40F49A4494DB4780856BF804B7087D59",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"ECC71ACF7D6740B2A3DB170E2856BED8": {
+			"id": "ECC71ACF7D6740B2A3DB170E2856BED8",
+			"asnIdentifier": "S2544645",
+			"position": 232000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Define terms to develop the creative process such as originality, flexibility, brain storming, modification, associative and metaphorical thinking.",
+			"ancestorIds": [
+				"40F49A4494DB4780856BF804B7087D59",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"40F49A4494DB4780856BF804B7087D59": {
+			"id": "40F49A4494DB4780856BF804B7087D59",
+			"asnIdentifier": "S2544644",
+			"position": 231000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Develop creative and innovative thinking skills that apply to entrepreneurship and the products/services created.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"59E721BDCE6D42B09ACFCF603D95A275": {
+			"id": "59E721BDCE6D42B09ACFCF603D95A275",
+			"asnIdentifier": "S2544643",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.7",
+			"description": "Compare and contrast starting a new business versus buying an existing business.",
+			"ancestorIds": [
+				"F814968389FF41A5A2D63D0D4294D1EE",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0B855C8FFB22474894564DFFF74B8DAF": {
+			"id": "0B855C8FFB22474894564DFFF74B8DAF",
+			"asnIdentifier": "S2544642",
+			"position": 229000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.6",
+			"description": "Analyze a proposed business situation and its potential market.",
+			"ancestorIds": [
+				"F814968389FF41A5A2D63D0D4294D1EE",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"6783F5B7E79343AC81FD030BE016CFE2": {
+			"id": "6783F5B7E79343AC81FD030BE016CFE2",
+			"asnIdentifier": "S2544641",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.5",
+			"description": "Identify and analyze ethical and social responsibilities of a successful small business.",
+			"ancestorIds": [
+				"F814968389FF41A5A2D63D0D4294D1EE",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"53D7BD37474046ECB3C0CF4654F52AC4": {
+			"id": "53D7BD37474046ECB3C0CF4654F52AC4",
+			"asnIdentifier": "S2544640",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.4",
+			"description": "Examine current trends that provide both domestic and global opportunities for entrepreneurs.",
+			"ancestorIds": [
+				"F814968389FF41A5A2D63D0D4294D1EE",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"EDC19711D75640E39F757D34FE661764": {
+			"id": "EDC19711D75640E39F757D34FE661764",
+			"asnIdentifier": "S2544639",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.3",
+			"description": "Understand differentiation and creating a unique product/service.",
+			"ancestorIds": [
+				"F814968389FF41A5A2D63D0D4294D1EE",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0A02AF65CFA14F4A964718DAB9BE059D": {
+			"id": "0A02AF65CFA14F4A964718DAB9BE059D",
+			"asnIdentifier": "S2544638",
+			"position": 225000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.2",
+			"description": "Compare the different types of business ownership and the advantages and disadvantages of owning and managing a small business.",
+			"ancestorIds": [
+				"F814968389FF41A5A2D63D0D4294D1EE",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"78C21C36B3DF4792BDED03D1AFBC1238": {
+			"id": "78C21C36B3DF4792BDED03D1AFBC1238",
+			"asnIdentifier": "S2544637",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Know the risk management principles associated with small-business ownership.",
+			"ancestorIds": [
+				"F814968389FF41A5A2D63D0D4294D1EE",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F814968389FF41A5A2D63D0D4294D1EE": {
+			"id": "F814968389FF41A5A2D63D0D4294D1EE",
+			"asnIdentifier": "S2544636",
+			"position": 223000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "Understand the basic aspects of entrepreneurship.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"CF194B4FA9EA4265A1082A5E71B3103A": {
+			"id": "CF194B4FA9EA4265A1082A5E71B3103A",
+			"asnIdentifier": "S2544635",
+			"position": 222000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.4",
+			"description": "Explore the rationale of why, historically, the United States and California have been leaders in innovation and small-business ventures.",
+			"ancestorIds": [
+				"A6D973FFA4894BD79BB90F1B210AAAC8",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"CEBDA1DBC76045EBBDEA670FF60FE101": {
+			"id": "CEBDA1DBC76045EBBDEA670FF60FE101",
+			"asnIdentifier": "S2544634",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Deconstruct the reasons for success of key entrepreneurs.",
+			"ancestorIds": [
+				"A6D973FFA4894BD79BB90F1B210AAAC8",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"465FE1DCCCB2454EA60BD292F304C519": {
+			"id": "465FE1DCCCB2454EA60BD292F304C519",
+			"asnIdentifier": "S2544633",
+			"position": 220000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "Analyze strengths and weaknesses of self in terms of entrepreneurial success.",
+			"ancestorIds": [
+				"A6D973FFA4894BD79BB90F1B210AAAC8",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"1E7F1936BFBD4C1799DD234A4B869A39": {
+			"id": "1E7F1936BFBD4C1799DD234A4B869A39",
+			"asnIdentifier": "S2544632",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "Define and identify the following entrepreneurial characteristics: adaptability, competitiveness, confidence, discipline, perseverance, vision and risk taking.",
+			"ancestorIds": [
+				"A6D973FFA4894BD79BB90F1B210AAAC8",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A6D973FFA4894BD79BB90F1B210AAAC8": {
+			"id": "A6D973FFA4894BD79BB90F1B210AAAC8",
+			"asnIdentifier": "S2544631",
+			"position": 218000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Analyze the development of successful personal entrepreneurial traits.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"5D10AC6CD8C2499885D3DF8ED9F58518": {
+			"id": "5D10AC6CD8C2499885D3DF8ED9F58518",
+			"asnIdentifier": "S2544630",
+			"position": 217000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.6",
+			"description": "Explore the impact of cultural and social environments on global trade.",
+			"ancestorIds": [
+				"3A816BE2D3E6477CB2D56AEFEB7BA5FF",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F7E66C40D1A347C990AE1128D78C86B3": {
+			"id": "F7E66C40D1A347C990AE1128D78C86B3",
+			"asnIdentifier": "S2544629",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.5",
+			"description": "Evaluate the importance of economic measurements and the factors used to calculate it.",
+			"ancestorIds": [
+				"3A816BE2D3E6477CB2D56AEFEB7BA5FF",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B255126360A04236BEA47C2F01C97ED3": {
+			"id": "B255126360A04236BEA47C2F01C97ED3",
+			"asnIdentifier": "S2544628",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "Demonstrate the relationship between supply and demand and pricing and production.",
+			"ancestorIds": [
+				"3A816BE2D3E6477CB2D56AEFEB7BA5FF",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"264F22C043AB42578237FBB76A4F421E": {
+			"id": "264F22C043AB42578237FBB76A4F421E",
+			"asnIdentifier": "S2544627",
+			"position": 214000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Know how scarcity and allocation affect small businesses.",
+			"ancestorIds": [
+				"3A816BE2D3E6477CB2D56AEFEB7BA5FF",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"4DE344A22AB144558BCD64315D5F6B11": {
+			"id": "4DE344A22AB144558BCD64315D5F6B11",
+			"asnIdentifier": "S2544626",
+			"position": 213000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "Understand the part government plays in the free-enterprise system and its impact on small businesses.",
+			"ancestorIds": [
+				"3A816BE2D3E6477CB2D56AEFEB7BA5FF",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"FCB984A84D8F4997A6C7F93D2D4FC5D3": {
+			"id": "FCB984A84D8F4997A6C7F93D2D4FC5D3",
+			"asnIdentifier": "S2544625",
+			"position": 212000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Understand the role and importance of entrepreneurship and small business in the economy.",
+			"ancestorIds": [
+				"3A816BE2D3E6477CB2D56AEFEB7BA5FF",
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"3A816BE2D3E6477CB2D56AEFEB7BA5FF": {
+			"id": "3A816BE2D3E6477CB2D56AEFEB7BA5FF",
+			"asnIdentifier": "S2544624",
+			"position": 211000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Define the role the entrepreneur plays in the free-enterprise system.",
+			"ancestorIds": [
+				"F6DF7188B8124676ACA15866615D7453",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F6DF7188B8124676ACA15866615D7453": {
+			"id": "F6DF7188B8124676ACA15866615D7453",
+			"asnIdentifier": "S2544623",
+			"position": 210000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Entrepreneurship/Self-Employment",
+			"comments": [
+				"Develop knowledge and skills common to entrepreneurs and entrepreneurship, including the human characteristics vital for entrepreneurial thinking in a twenty-first-century global world. Entrepreneurial thinking may be applied to all industry sectors. The performance indicators provide business knowledge and skills required for entrepreneurs, as well as intangible skills and knowledge such as creativity and innovation skills."
+			],
+			"ancestorIds": [
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"D934D707937D478C99B89624C67A0D4D": {
+			"id": "D934D707937D478C99B89624C67A0D4D",
+			"asnIdentifier": "S2544622",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.5",
+			"description": "Research consumers' needs and wants to identify product/service gaps and to develop, maintain, and improve, products and services.",
+			"ancestorIds": [
+				"C09F710381B74D80806FD13095E5D853",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"611E07F2CD5C4FAB82D948696F347F8E": {
+			"id": "611E07F2CD5C4FAB82D948696F347F8E",
+			"asnIdentifier": "S2544621",
+			"position": 208000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.4",
+			"description": "Track consumer spending trends, and analyze data to forecast sales, predict economic conditions, and guide business activities.",
+			"ancestorIds": [
+				"C09F710381B74D80806FD13095E5D853",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"AB856D306C4049FDBBD0DFD710A1516E": {
+			"id": "AB856D306C4049FDBBD0DFD710A1516E",
+			"asnIdentifier": "S2544620",
+			"position": 207000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.3",
+			"description": "Analyze and use data to identify potential customers and locations for business expansion.",
+			"ancestorIds": [
+				"C09F710381B74D80806FD13095E5D853",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"5F3F3DFC98E24CF9A06DC8BE88E1F399": {
+			"id": "5F3F3DFC98E24CF9A06DC8BE88E1F399",
+			"asnIdentifier": "S2544619",
+			"position": 206000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.2",
+			"description": "Use personal sales information to guide business activities.",
+			"ancestorIds": [
+				"C09F710381B74D80806FD13095E5D853",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"1C834D5B7CC44CBE8A5C58D7B3AFAB7D": {
+			"id": "1C834D5B7CC44CBE8A5C58D7B3AFAB7D",
+			"asnIdentifier": "S2544618",
+			"position": 205000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.1",
+			"description": "Identify sources of demographic data for sales and business planning.",
+			"ancestorIds": [
+				"C09F710381B74D80806FD13095E5D853",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"C09F710381B74D80806FD13095E5D853": {
+			"id": "C09F710381B74D80806FD13095E5D853",
+			"asnIdentifier": "S2544617",
+			"position": 204000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B8.0",
+			"description": "Access and use marketing information to enhance sales opportunities and activities.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E535EC5E7DCE4E55A908E2529C4E3FF6": {
+			"id": "E535EC5E7DCE4E55A908E2529C4E3FF6",
+			"asnIdentifier": "S2544616",
+			"position": 203000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Track sales figures, and prepare sales reports to analyze sales in relation to a sales plan.",
+			"ancestorIds": [
+				"E1AA6910D37C40AEBBB1E62361BCB914",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"DDD2AEE74BAA4689BF41EDF31CCFEF01": {
+			"id": "DDD2AEE74BAA4689BF41EDF31CCFEF01",
+			"asnIdentifier": "S2544615",
+			"position": 202000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Practice various approaches for organizing a sales staff and leading a sales force to maximize effectiveness.",
+			"ancestorIds": [
+				"E1AA6910D37C40AEBBB1E62361BCB914",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"93F9BDAE96224C09A94FCDC7CE6EC0DF": {
+			"id": "93F9BDAE96224C09A94FCDC7CE6EC0DF",
+			"asnIdentifier": "S2544614",
+			"position": 201000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Apply methods for motivating and evaluating sales staff.",
+			"ancestorIds": [
+				"E1AA6910D37C40AEBBB1E62361BCB914",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E1AA6910D37C40AEBBB1E62361BCB914": {
+			"id": "E1AA6910D37C40AEBBB1E62361BCB914",
+			"asnIdentifier": "S2544613",
+			"position": 200000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B7.0",
+			"description": "Complete a strategic plan that includes establishing individual and company sales goals to guide the activities of the sales staff.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"D982CEEB9530468D987BA0C9E04FC339": {
+			"id": "D982CEEB9530468D987BA0C9E04FC339",
+			"asnIdentifier": "S2544612",
+			"position": 199000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Examine methods of compensation for a sales staff.",
+			"ancestorIds": [
+				"8DAF21C9FE844B378F83798DF928AF51",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"891294913DE942499E644DF544D7E6C2": {
+			"id": "891294913DE942499E644DF544D7E6C2",
+			"asnIdentifier": "S2544611",
+			"position": 198000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Assess the responsibilities of building, training, and evaluating a sales staff.",
+			"ancestorIds": [
+				"8DAF21C9FE844B378F83798DF928AF51",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"8DAF21C9FE844B378F83798DF928AF51": {
+			"id": "8DAF21C9FE844B378F83798DF928AF51",
+			"asnIdentifier": "S2544610",
+			"position": 197000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Analyze the support activities of sales staff and management.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"AC9DD003A7A3487294A9195CC9CE1CC8": {
+			"id": "AC9DD003A7A3487294A9195CC9CE1CC8",
+			"asnIdentifier": "S2544609",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.3",
+			"description": "Examine Internet sales.",
+			"ancestorIds": [
+				"8477D92CF74643409FFEF60A1952D953",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"69062F7679CC47C2BA0507B7EA48AE7A": {
+			"id": "69062F7679CC47C2BA0507B7EA48AE7A",
+			"asnIdentifier": "S2544608",
+			"position": 195000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Discuss telemarketing sales techniques.",
+			"ancestorIds": [
+				"8477D92CF74643409FFEF60A1952D953",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A1596BBC14AC473E93E9F8E1C1A16F73": {
+			"id": "A1596BBC14AC473E93E9F8E1C1A16F73",
+			"asnIdentifier": "S2544607",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Compare retail and wholesale sales methods.",
+			"ancestorIds": [
+				"8477D92CF74643409FFEF60A1952D953",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"8477D92CF74643409FFEF60A1952D953": {
+			"id": "8477D92CF74643409FFEF60A1952D953",
+			"asnIdentifier": "S2544606",
+			"position": 193000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Examine different types of sales pathways.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"89BF1A267E7F4A24AC5F95315C870CCE": {
+			"id": "89BF1A267E7F4A24AC5F95315C870CCE",
+			"asnIdentifier": "S2544605",
+			"position": 192000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.6",
+			"description": "Obtain and analyze product and service information to facilitate the selling process.",
+			"ancestorIds": [
+				"3EE79E81D88F435AA3036B99298EE33E",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"34A310FDB5CA4525A60FB47CCA976183": {
+			"id": "34A310FDB5CA4525A60FB47CCA976183",
+			"asnIdentifier": "S2544604",
+			"position": 191000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Differentiate between each stage of the customer buying process.",
+			"ancestorIds": [
+				"3EE79E81D88F435AA3036B99298EE33E",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"676E4AECC98C40CB84D22104388C3936": {
+			"id": "676E4AECC98C40CB84D22104388C3936",
+			"asnIdentifier": "S2544603",
+			"position": 190000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Compare and contrast selling strategies for wholesale and retail environments.",
+			"ancestorIds": [
+				"3EE79E81D88F435AA3036B99298EE33E",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"31BF80076DA14485BF3A44903FD4CE50": {
+			"id": "31BF80076DA14485BF3A44903FD4CE50",
+			"asnIdentifier": "S2544602",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Apply techniques used by salespeople to enhance selling potential and customer satisfaction.",
+			"ancestorIds": [
+				"3EE79E81D88F435AA3036B99298EE33E",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E71A27F59FCA4C4C91FFEC9C32C0F2F7": {
+			"id": "E71A27F59FCA4C4C91FFEC9C32C0F2F7",
+			"asnIdentifier": "S2544601",
+			"position": 188000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Demonstrate steps of sales and techniques used in the selling process.",
+			"ancestorIds": [
+				"3EE79E81D88F435AA3036B99298EE33E",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0C6B406F2C8F4DB680D8718E7821E242": {
+			"id": "0C6B406F2C8F4DB680D8718E7821E242",
+			"asnIdentifier": "S2544600",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Explain the main characteristics of a successful salesperson including; listening, verbal and written communication skills, product knowledge, customer connection, trust worthiness, and power of persuasion.",
+			"ancestorIds": [
+				"3EE79E81D88F435AA3036B99298EE33E",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"3EE79E81D88F435AA3036B99298EE33E": {
+			"id": "3EE79E81D88F435AA3036B99298EE33E",
+			"asnIdentifier": "S2544599",
+			"position": 186000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B4.0",
+			"description": "Understand the nature and scope of the functions associated with personal and business sales strategies, product knowledge, support activities, and management of selling techniques.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E1A7F65908A1495283DC505E08E190C7": {
+			"id": "E1A7F65908A1495283DC505E08E190C7",
+			"asnIdentifier": "S2544598",
+			"position": 185000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.7",
+			"description": "Defend why quality customer service translates into a competitive edge in marketing efforts.",
+			"ancestorIds": [
+				"12EAE9DE6E3943CCA9DE821C9AEA86BC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E20AD8E542E644DE8C6BE77E37DDB68B": {
+			"id": "E20AD8E542E644DE8C6BE77E37DDB68B",
+			"asnIdentifier": "S2544597",
+			"position": 184000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.6",
+			"description": "Determine what additional information and/or research is required to deepen the investigation or complete the task.",
+			"ancestorIds": [
+				"12EAE9DE6E3943CCA9DE821C9AEA86BC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"074416BAC0F2428CB4C3E49584EBDEA0": {
+			"id": "074416BAC0F2428CB4C3E49584EBDEA0",
+			"asnIdentifier": "S2544596",
+			"position": 183000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.5",
+			"description": "Resolve contradictions when possible.",
+			"ancestorIds": [
+				"12EAE9DE6E3943CCA9DE821C9AEA86BC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"949FDC04FBB44F8E9D254B9EF7249AE4": {
+			"id": "949FDC04FBB44F8E9D254B9EF7249AE4",
+			"asnIdentifier": "S2544595",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.4",
+			"description": "Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue.",
+			"ancestorIds": [
+				"12EAE9DE6E3943CCA9DE821C9AEA86BC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"82A591B2B4074E7E9BD0F0682C8E4D5E": {
+			"id": "82A591B2B4074E7E9BD0F0682C8E4D5E",
+			"asnIdentifier": "S2544594",
+			"position": 181000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Explain the importance of customer service and explain communication techniques.",
+			"ancestorIds": [
+				"12EAE9DE6E3943CCA9DE821C9AEA86BC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"86928A5B483448D1B871F0F5E46A2359": {
+			"id": "86928A5B483448D1B871F0F5E46A2359",
+			"asnIdentifier": "S2544593",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Differentiate between each stage of the customer buying process.",
+			"ancestorIds": [
+				"12EAE9DE6E3943CCA9DE821C9AEA86BC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"1F41E3D04E0C4691828547678C28D9E7": {
+			"id": "1F41E3D04E0C4691828547678C28D9E7",
+			"asnIdentifier": "S2544592",
+			"position": 179000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Define and predict buying motives in the customer's decision-making process.",
+			"ancestorIds": [
+				"12EAE9DE6E3943CCA9DE821C9AEA86BC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"12EAE9DE6E3943CCA9DE821C9AEA86BC": {
+			"id": "12EAE9DE6E3943CCA9DE821C9AEA86BC",
+			"asnIdentifier": "S2544591",
+			"position": 178000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B3.0",
+			"description": "Analyze customer/client behavior in the selling process.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9B2E20D67C36482ABB5284BD2351A3D7": {
+			"id": "9B2E20D67C36482ABB5284BD2351A3D7",
+			"asnIdentifier": "S2544590",
+			"position": 177000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.4",
+			"description": "Analyze ethical responsibilities in relationships with sales personnel, customer/clients, competitors, and vendors.",
+			"ancestorIds": [
+				"E173F01799ED48FBBFF657D98D8FE198",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"8E0294DEDF414C33962529AD0E27605E": {
+			"id": "8E0294DEDF414C33962529AD0E27605E",
+			"asnIdentifier": "S2544589",
+			"position": 176000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.3",
+			"description": "Understand legal aspects pertaining to advertising and pricing.",
+			"ancestorIds": [
+				"E173F01799ED48FBBFF657D98D8FE198",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"2906F63C28F64C37A6EB4D91006CEFCE": {
+			"id": "2906F63C28F64C37A6EB4D91006CEFCE",
+			"asnIdentifier": "S2544588",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Recognize legal aspects of standardization, grading, and labeling options.",
+			"ancestorIds": [
+				"E173F01799ED48FBBFF657D98D8FE198",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"56860111A6D343FB8D43D699FDF7FB68": {
+			"id": "56860111A6D343FB8D43D699FDF7FB68",
+			"asnIdentifier": "S2544587",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Identify legal aspects of sales contracts and warranties.",
+			"ancestorIds": [
+				"E173F01799ED48FBBFF657D98D8FE198",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E173F01799ED48FBBFF657D98D8FE198": {
+			"id": "E173F01799ED48FBBFF657D98D8FE198",
+			"asnIdentifier": "S2544586",
+			"position": 173000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Analyze and evaluate legal, moral, and ethical issues affecting selling and sales management.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F6DEA013BAFE4C3C816E0FE97EA1ED89": {
+			"id": "F6DEA013BAFE4C3C816E0FE97EA1ED89",
+			"asnIdentifier": "S2544585",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Evaluate the impact of the international economic climate and international trade on selling.",
+			"ancestorIds": [
+				"3B6F50DC55184F47A9229708EDC34ABC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"C565B9BB3A0A4E2194F2B304EC4F99EC": {
+			"id": "C565B9BB3A0A4E2194F2B304EC4F99EC",
+			"asnIdentifier": "S2544584",
+			"position": 171000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "Determine economic indicators that affect selling.",
+			"ancestorIds": [
+				"3B6F50DC55184F47A9229708EDC34ABC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"92E40E9681374710A2800D4C7C1BC6A9": {
+			"id": "92E40E9681374710A2800D4C7C1BC6A9",
+			"asnIdentifier": "S2544583",
+			"position": 170000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Define the role of selling in the national economy.",
+			"ancestorIds": [
+				"3B6F50DC55184F47A9229708EDC34ABC",
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"3B6F50DC55184F47A9229708EDC34ABC": {
+			"id": "3B6F50DC55184F47A9229708EDC34ABC",
+			"asnIdentifier": "S2544582",
+			"position": 169000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Understand the interrelationships between economic and marketing concepts and selling.",
+			"ancestorIds": [
+				"865D71A087C84DF5A25BD4A079C0116E",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"865D71A087C84DF5A25BD4A079C0116E": {
+			"id": "865D71A087C84DF5A25BD4A079C0116E",
+			"asnIdentifier": "S2544581",
+			"position": 168000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Professional Sales",
+			"comments": [
+				"Develop knowledge and skills in the theory and practice of sales designed to provide a professional foundation to those involved in personal selling careers, including the fundamentals of personal selling with an emphasis on customer behavior, persuasive presentation of ideas, products and services, and developing sales goals."
+			],
+			"ancestorIds": [
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"2D82908C41F345FCAA21457C318FA1D2": {
+			"id": "2D82908C41F345FCAA21457C318FA1D2",
+			"asnIdentifier": "S2544580",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.5",
+			"description": "Employ pricing strategies to determine prices.",
+			"ancestorIds": [
+				"4E70943CD67F45A3AF6B1645EB6CD92B",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"DCBA68EF6E104836A0F97E389CD2FE55": {
+			"id": "DCBA68EF6E104836A0F97E389CD2FE55",
+			"asnIdentifier": "S2544579",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.4",
+			"description": "Connect the use of technology in the pricing function.",
+			"ancestorIds": [
+				"4E70943CD67F45A3AF6B1645EB6CD92B",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"210CF73A5F0C407EA0092163DF559093": {
+			"id": "210CF73A5F0C407EA0092163DF559093",
+			"asnIdentifier": "S2544578",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.3",
+			"description": "Explain the role of business ethics and legal considerations in pricing as well as the importance of a reputation for honesty in communication and for quality products.",
+			"ancestorIds": [
+				"4E70943CD67F45A3AF6B1645EB6CD92B",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"626125B3E204451F998C069B3704EAF8": {
+			"id": "626125B3E204451F998C069B3704EAF8",
+			"asnIdentifier": "S2544577",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.2",
+			"description": "Develop a foundational knowledge of pricing to understand its role in the marketing.",
+			"ancestorIds": [
+				"4E70943CD67F45A3AF6B1645EB6CD92B",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"4B08465C29F2464BA9579642FDBB3CBB": {
+			"id": "4B08465C29F2464BA9579642FDBB3CBB",
+			"asnIdentifier": "S2544576",
+			"position": 163000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.1",
+			"description": "Understand the nature, scope and factors affecting the pricing function.",
+			"ancestorIds": [
+				"4E70943CD67F45A3AF6B1645EB6CD92B",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"4E70943CD67F45A3AF6B1645EB6CD92B": {
+			"id": "4E70943CD67F45A3AF6B1645EB6CD92B",
+			"asnIdentifier": "S2544575",
+			"position": 162000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "8.0",
+			"description": "Demonstrate an understanding of the process of establishing and communicating the value or cost of goods and services, the nature and scope of pricing concepts, and the strategies and outcomes of pricing.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F61F9EC8398A4BC7B4E3320CA2CE5B38": {
+			"id": "F61F9EC8398A4BC7B4E3320CA2CE5B38",
+			"asnIdentifier": "S2544574",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.10",
+			"description": "Assess the importance of and differences between the creative processes and the management processes involved in marketing.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"2B5D65C875864512A7CD254187774816": {
+			"id": "2B5D65C875864512A7CD254187774816",
+			"asnIdentifier": "S2544573",
+			"position": 160000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.9",
+			"description": "Discern between the major types of sales promotion.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9DD1535523954E5FB04AD3BF0DEBC49A": {
+			"id": "9DD1535523954E5FB04AD3BF0DEBC49A",
+			"asnIdentifier": "S2544572",
+			"position": 159000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.8",
+			"description": "Differentiate between publicity, public relations and advertising.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"51CC1228A8624CC397765966BA5D1504": {
+			"id": "51CC1228A8624CC397765966BA5D1504",
+			"asnIdentifier": "S2544571",
+			"position": 158000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.7",
+			"description": "Coordinate activities in the promotional plan.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"C513E70F7FB94ACA84A19E7E0672B119": {
+			"id": "C513E70F7FB94ACA84A19E7E0672B119",
+			"asnIdentifier": "S2544570",
+			"position": 157000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.6",
+			"description": "Summarize the effectiveness of different types of advertising media.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A53F956B2C304DF4BDF027C763C512CD": {
+			"id": "A53F956B2C304DF4BDF027C763C512CD",
+			"asnIdentifier": "S2544569",
+			"position": 156000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.5",
+			"description": "Explain the importance of public relations.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"CA053C0C4517457B91E224DC22EAC4A5": {
+			"id": "CA053C0C4517457B91E224DC22EAC4A5",
+			"asnIdentifier": "S2544568",
+			"position": 155000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.4",
+			"description": "Explain the role of promotion.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"D35450CE7A8548228E9F5C11E44DDC8A": {
+			"id": "D35450CE7A8548228E9F5C11E44DDC8A",
+			"asnIdentifier": "S2544567",
+			"position": 154000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Understand important promotional strategies for communicating information about products, services, images, and ideas in an e-commerce environment.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"718D6FB7B1F148E6A47013BA8944AB28": {
+			"id": "718D6FB7B1F148E6A47013BA8944AB28",
+			"asnIdentifier": "S2544566",
+			"position": 153000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Recognize legal and ethical considerations in promotion.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"ED5DD5E65D6D4FDABCC8F832F439B58D": {
+			"id": "ED5DD5E65D6D4FDABCC8F832F439B58D",
+			"asnIdentifier": "S2544565",
+			"position": 152000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Describe the types of promotion.",
+			"ancestorIds": [
+				"58FBA3FE46D9413AA986A224B1F9402F",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"58FBA3FE46D9413AA986A224B1F9402F": {
+			"id": "58FBA3FE46D9413AA986A224B1F9402F",
+			"asnIdentifier": "S2544564",
+			"position": 151000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Demonstrate an understanding of product and institutional promotion through advertising, publicity/public relations, promotional sales, and e-commerce, using product, services, images, and ideas to achieve a desired outcome.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"DE3D95B47C754179B928BD89F1AE6DC1": {
+			"id": "DE3D95B47C754179B928BD89F1AE6DC1",
+			"asnIdentifier": "S2544563",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.8",
+			"description": "Predict how customer service relationships can affect the distribution process.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"082DA3D9948B4791AA1A298821030990": {
+			"id": "082DA3D9948B4791AA1A298821030990",
+			"asnIdentifier": "S2544562",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.7",
+			"description": "Evaluate the types of inventory controls.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"AC5041D12AB447289A059CBC43F78D50": {
+			"id": "AC5041D12AB447289A059CBC43F78D50",
+			"asnIdentifier": "S2544561",
+			"position": 148000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.6",
+			"description": "Evaluate legal and ethical considerations in the distribution process.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0B44C72464E8464BBF257CD01F38A4FC": {
+			"id": "0B44C72464E8464BBF257CD01F38A4FC",
+			"asnIdentifier": "S2544560",
+			"position": 147000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.5",
+			"description": "Explain the nature of channel member relationships.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9723D3FB635D4E228C89297BD59D8CE4": {
+			"id": "9723D3FB635D4E228C89297BD59D8CE4",
+			"asnIdentifier": "S2544559",
+			"position": 146000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.4",
+			"description": "Explore the functions of the shipping and receiving process in the success of the distribution function.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"6AF78A4356204084BFABA8F42679CCB7": {
+			"id": "6AF78A4356204084BFABA8F42679CCB7",
+			"asnIdentifier": "S2544558",
+			"position": 145000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Determine the effects of government regulations on stock handling techniques and warehousing.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"22C2B9874C044661888F898C33FBD9C7": {
+			"id": "22C2B9874C044661888F898C33FBD9C7",
+			"asnIdentifier": "S2544557",
+			"position": 144000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Determine the uses of information systems in the order fulfillment process.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B3E1088404554105A5C8643747E2715F": {
+			"id": "B3E1088404554105A5C8643747E2715F",
+			"asnIdentifier": "S2544556",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Recognize the logistics of product delivery and importing and exporting products and services.",
+			"ancestorIds": [
+				"3AA5305B959B480D8D9E47B672779B48",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"3AA5305B959B480D8D9E47B672779B48": {
+			"id": "3AA5305B959B480D8D9E47B672779B48",
+			"asnIdentifier": "S2544555",
+			"position": 142000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Demonstrate an understanding of the concepts and processes needed to move, store, locate, and/or transfer ownership of goods and services.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F2A309874A804527A35E4029BEDC535E": {
+			"id": "F2A309874A804527A35E4029BEDC535E",
+			"asnIdentifier": "S2544554",
+			"position": 141000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.7",
+			"description": "Analyze how creativity, compelling communication and design, positioning, and target marketing effectively reach customers.",
+			"ancestorIds": [
+				"61C761314CD6499C9F1BE44A096DC634",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E1752F78E56F42E985982CB993592EA2": {
+			"id": "E1752F78E56F42E985982CB993592EA2",
+			"asnIdentifier": "S2544553",
+			"position": 140000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.6",
+			"description": "Analyze factors marketers use to position products and businesses such as branding, packaging, labeling, legal considerations, product life cycle and management techniques for each level of the life cycle, purchasing functions.",
+			"ancestorIds": [
+				"61C761314CD6499C9F1BE44A096DC634",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"6C14910B8B94464D80551A440C0A26D0": {
+			"id": "6C14910B8B94464D80551A440C0A26D0",
+			"asnIdentifier": "S2544552",
+			"position": 139000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.5",
+			"description": "Evaluate the importance of the product mix.",
+			"ancestorIds": [
+				"61C761314CD6499C9F1BE44A096DC634",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"9E4C147FD8CE49A28AB3DE6C901BD154": {
+			"id": "9E4C147FD8CE49A28AB3DE6C901BD154",
+			"asnIdentifier": "S2544551",
+			"position": 138000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.4",
+			"description": "Evaluate the types of product/service management.",
+			"ancestorIds": [
+				"61C761314CD6499C9F1BE44A096DC634",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"5D77F5DC6B5F40C0B1353D9BCC40364E": {
+			"id": "5D77F5DC6B5F40C0B1353D9BCC40364E",
+			"asnIdentifier": "S2544550",
+			"position": 137000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Assess the needs of product/service management.",
+			"ancestorIds": [
+				"61C761314CD6499C9F1BE44A096DC634",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"1F58A1727BBD42B98927FF081465FB8B": {
+			"id": "1F58A1727BBD42B98927FF081465FB8B",
+			"asnIdentifier": "S2544549",
+			"position": 136000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Demonstrate an understanding of the importance of ensuring quality of products and services.",
+			"ancestorIds": [
+				"61C761314CD6499C9F1BE44A096DC634",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"7459222E7B0E4B8CA605E92BDDFC17D1": {
+			"id": "7459222E7B0E4B8CA605E92BDDFC17D1",
+			"asnIdentifier": "S2544548",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "Explain the nature and scope of product/service management.",
+			"ancestorIds": [
+				"61C761314CD6499C9F1BE44A096DC634",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"61C761314CD6499C9F1BE44A096DC634": {
+			"id": "61C761314CD6499C9F1BE44A096DC634",
+			"asnIdentifier": "S2544547",
+			"position": 134000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Demonstrate an understanding of the nature and scope of the product/service management function, quality assurance, product mix, positioning, and other market product considerations.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"EB9894530076426392FF0CE4F81C7DAD": {
+			"id": "EB9894530076426392FF0CE4F81C7DAD",
+			"asnIdentifier": "S2544546",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.11",
+			"description": "Develop a marketing campaign and write a marketing plan.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"CB429B27FB0B47729837FE66627310FF": {
+			"id": "CB429B27FB0B47729837FE66627310FF",
+			"asnIdentifier": "S2544545",
+			"position": 132000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.10",
+			"description": "Set a marketing budget.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"8B46C3CD471A41E5B7F10430B888BC67": {
+			"id": "8B46C3CD471A41E5B7F10430B888BC67",
+			"asnIdentifier": "S2544544",
+			"position": 131000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.9",
+			"description": "Conduct competitive analysis.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E40B5A43647F472F97DE392E86A50C0B": {
+			"id": "E40B5A43647F472F97DE392E86A50C0B",
+			"asnIdentifier": "S2544543",
+			"position": 130000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.8",
+			"description": "Assess global trends and opportunities.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"513FB075954D4317822FB3B6C4E1D8EE": {
+			"id": "513FB075954D4317822FB3B6C4E1D8EE",
+			"asnIdentifier": "S2544542",
+			"position": 129000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.7",
+			"description": "Analyze the role of ethics as it relates to marketing information management.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E4E029747ACE4E08A38AC26342779502": {
+			"id": "E4E029747ACE4E08A38AC26342779502",
+			"asnIdentifier": "S2544541",
+			"position": 128000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.6",
+			"description": "Compare and contrast tools for conducting and analyzing marketing research.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"83C8CC5FB1CE495790794C43877FBDAC": {
+			"id": "83C8CC5FB1CE495790794C43877FBDAC",
+			"asnIdentifier": "S2544540",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.5",
+			"description": "Assess marketing information needs.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"543993A8632A4176B32931BB7BA34941": {
+			"id": "543993A8632A4176B32931BB7BA34941",
+			"asnIdentifier": "S2544539",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.4",
+			"description": "Explain why beginning with quality market research is more likely to ensure success.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"96430792AD524BCD9624BF26C8FAA86F": {
+			"id": "96430792AD524BCD9624BF26C8FAA86F",
+			"asnIdentifier": "S2544538",
+			"position": 125000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Explain the nature of sales forecasting.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"364C4CCEC1FC478F9157560365B6E1CF": {
+			"id": "364C4CCEC1FC478F9157560365B6E1CF",
+			"asnIdentifier": "S2544537",
+			"position": 124000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Demonstrate the role of technology in marketing information systems.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A3CFE484D80D488BBDED0C13B5EE8449": {
+			"id": "A3CFE484D80D488BBDED0C13B5EE8449",
+			"asnIdentifier": "S2544536",
+			"position": 123000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Identify considerations in planning and implementing marketing strategies.",
+			"ancestorIds": [
+				"90CBFC7B39DA4ACCA2160AF70B40E289",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"90CBFC7B39DA4ACCA2160AF70B40E289": {
+			"id": "90CBFC7B39DA4ACCA2160AF70B40E289",
+			"asnIdentifier": "S2544535",
+			"position": 122000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Implement the concepts, systems, and tools needed to gather, access, synthesize, evaluate, and disseminate information for use in making business marketing decisions.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"6C32DF8C992A4E199F34039C24B87D73": {
+			"id": "6C32DF8C992A4E199F34039C24B87D73",
+			"asnIdentifier": "S2544534",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.7",
+			"description": "Analyze the critical relationships between the banking and marketing industries.",
+			"ancestorIds": [
+				"BC12DC6C4FC841B98E6A544A44EFCC0A",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B08B9D1A31EA42FBBFB40263A00FC6A7": {
+			"id": "B08B9D1A31EA42FBBFB40263A00FC6A7",
+			"asnIdentifier": "S2544533",
+			"position": 120000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.6",
+			"description": "Examine legal issues affecting business such as trade, environmental, personnel, truth in advertising, and workplace regulations.",
+			"ancestorIds": [
+				"BC12DC6C4FC841B98E6A544A44EFCC0A",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A1FD3AFB64534806881851F393CBECB2": {
+			"id": "A1FD3AFB64534806881851F393CBECB2",
+			"asnIdentifier": "S2544532",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.5",
+			"description": "Identify and analyze the risks associated with obtaining business credit.",
+			"ancestorIds": [
+				"BC12DC6C4FC841B98E6A544A44EFCC0A",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"C00AB7B189B14CC1B5A80D8D995EC65B": {
+			"id": "C00AB7B189B14CC1B5A80D8D995EC65B",
+			"asnIdentifier": "S2544531",
+			"position": 118000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.4",
+			"description": "Explain the nature and scope of financing.",
+			"ancestorIds": [
+				"BC12DC6C4FC841B98E6A544A44EFCC0A",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"66D7F4C1ACC848F793BB5C56F442333C": {
+			"id": "66D7F4C1ACC848F793BB5C56F442333C",
+			"asnIdentifier": "S2544530",
+			"position": 117000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Define the significance of ethical behavior in the workplace.",
+			"ancestorIds": [
+				"BC12DC6C4FC841B98E6A544A44EFCC0A",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"43808C4A40CF47AF9BD0F6AA8FA0CA17": {
+			"id": "43808C4A40CF47AF9BD0F6AA8FA0CA17",
+			"asnIdentifier": "S2544529",
+			"position": 116000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Describe the use of technology in the financing function.",
+			"ancestorIds": [
+				"BC12DC6C4FC841B98E6A544A44EFCC0A",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"A1E0460065714C3EAC604EEB84AFC56C": {
+			"id": "A1E0460065714C3EAC604EEB84AFC56C",
+			"asnIdentifier": "S2544528",
+			"position": 115000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Describe sources for financing businesses.",
+			"ancestorIds": [
+				"BC12DC6C4FC841B98E6A544A44EFCC0A",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"BC12DC6C4FC841B98E6A544A44EFCC0A": {
+			"id": "BC12DC6C4FC841B98E6A544A44EFCC0A",
+			"asnIdentifier": "S2544527",
+			"position": 114000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Demonstrate the importance of legal, ethical and financial issues in business marketing decisions.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"200364EA3C11494C8933D739EE486DA1": {
+			"id": "200364EA3C11494C8933D739EE486DA1",
+			"asnIdentifier": "S2544526",
+			"position": 113000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.13",
+			"description": "Assess the impact of cultural and social environments on world trade and marketing.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"DF73FA62A749497686D32A8A74F56930": {
+			"id": "DF73FA62A749497686D32A8A74F56930",
+			"asnIdentifier": "S2544525",
+			"position": 112000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.12",
+			"description": "Measure current economic conditions.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"7A07FE06F9E941FF8872BBF08A2EDD6F": {
+			"id": "7A07FE06F9E941FF8872BBF08A2EDD6F",
+			"asnIdentifier": "S2544524",
+			"position": 111000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.11",
+			"description": "Analyze the impact of organized labor and/or divisions of labor on productivity.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0C20332743EF4DF19E90BCE460E8E4C3": {
+			"id": "0C20332743EF4DF19E90BCE460E8E4C3",
+			"asnIdentifier": "S2544523",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.10",
+			"description": "Compare and contrast various economic systems.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"47B078E333A1491A820D8E5E758DD69F": {
+			"id": "47B078E333A1491A820D8E5E758DD69F",
+			"asnIdentifier": "S2544522",
+			"position": 109000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.9",
+			"description": "Explore the relationship of government and business.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"819D8674CECB4005A5DA193C5F9E4975": {
+			"id": "819D8674CECB4005A5DA193C5F9E4975",
+			"asnIdentifier": "S2544521",
+			"position": 108000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.8",
+			"description": "Distinguish between economic goods and services.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0836B118DA5B4EEE8259EE0B447F9175": {
+			"id": "0836B118DA5B4EEE8259EE0B447F9175",
+			"asnIdentifier": "S2544520",
+			"position": 107000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.7",
+			"description": "Examine the causal relationship between scarcity and choices.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"105573F13BC342CD86E74C2D36D0C210": {
+			"id": "105573F13BC342CD86E74C2D36D0C210",
+			"asnIdentifier": "S2544519",
+			"position": 106000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.6",
+			"description": "Determine factors affecting business risk.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"F9702370BAE44059A06C2532D937F397": {
+			"id": "F9702370BAE44059A06C2532D937F397",
+			"asnIdentifier": "S2544518",
+			"position": 105000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.5",
+			"description": "Determine forms of economic utility created by marketing activities.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"ABD22470E8AD4F7EAB54E172A5F89581": {
+			"id": "ABD22470E8AD4F7EAB54E172A5F89581",
+			"asnIdentifier": "S2544517",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Explain the role of profit as an incentive in a market economy.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"B8CE1E9D0C514974BDB73344A774F196": {
+			"id": "B8CE1E9D0C514974BDB73344A774F196",
+			"asnIdentifier": "S2544516",
+			"position": 103000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Explain the principles of supply and demand.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"3F4AC08C62F940CBB44AFAF36DC658AE": {
+			"id": "3F4AC08C62F940CBB44AFAF36DC658AE",
+			"asnIdentifier": "S2544515",
+			"position": 102000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Explain the concept of economic resources.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"D87FE675D1D644B1A0BE203B08EAE59B": {
+			"id": "D87FE675D1D644B1A0BE203B08EAE59B",
+			"asnIdentifier": "S2544514",
+			"position": 101000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Describe the nature of current economic problems and challenges.",
+			"ancestorIds": [
+				"46F1006C06BC4802AACA4A1AB99A0F02",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"46F1006C06BC4802AACA4A1AB99A0F02": {
+			"id": "46F1006C06BC4802AACA4A1AB99A0F02",
+			"asnIdentifier": "S2544513",
+			"position": 100000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Demonstrate an understanding of basic economic concepts, economic systems, cost-profit relationships, economic indicators and trends, as well as international concepts.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"4ACA98312DAF49E1B174062261634EA5": {
+			"id": "4ACA98312DAF49E1B174062261634EA5",
+			"asnIdentifier": "S2544512",
+			"position": 99000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.9",
+			"description": "Use digital and graphic design in creation of advertising.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"79C11E958581435FA36A48178BE374A5": {
+			"id": "79C11E958581435FA36A48178BE374A5",
+			"asnIdentifier": "S2544511",
+			"position": 98000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.8",
+			"description": "Assess the importance of leadership and management in the multicultural environment.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"0AE2BC96FCE44B329B8BCD399D62AB7D": {
+			"id": "0AE2BC96FCE44B329B8BCD399D62AB7D",
+			"asnIdentifier": "S2544510",
+			"position": 97000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.7",
+			"description": "Examine management styles and the role of management in marketing.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"2ABE006ED29642FD92C031863FB07A4E": {
+			"id": "2ABE006ED29642FD92C031863FB07A4E",
+			"asnIdentifier": "S2544509",
+			"position": 96000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.6",
+			"description": "Explore ways technology impacts business competitiveness.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"DE2D1E65D950440F91B8AFA41709FA20": {
+			"id": "DE2D1E65D950440F91B8AFA41709FA20",
+			"asnIdentifier": "S2544508",
+			"position": 95000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.5",
+			"description": "Evaluate governmental and trade regulations affecting business and marketing efforts.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"C50403E40FE04EA4850A8B0F01141502": {
+			"id": "C50403E40FE04EA4850A8B0F01141502",
+			"asnIdentifier": "S2544507",
+			"position": 94000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "Compare and contrast advantages and disadvantages of business ownership.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"48097A96B32F423896D151C7A26BA73A": {
+			"id": "48097A96B32F423896D151C7A26BA73A",
+			"asnIdentifier": "S2544506",
+			"position": 93000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Explain the role of business and society.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"71E2379BF3624700ABD32F88CA7BFCC1": {
+			"id": "71E2379BF3624700ABD32F88CA7BFCC1",
+			"asnIdentifier": "S2544505",
+			"position": 92000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Describe tools, techniques, systems used to plan, staff, lead and organize in human resources.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"FA2C024FB0FA4011B5A6E86651696675": {
+			"id": "FA2C024FB0FA4011B5A6E86651696675",
+			"asnIdentifier": "S2544504",
+			"position": 91000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "Describe current business and marketing trends.",
+			"ancestorIds": [
+				"BC9C30E3C40D4FC3B26B1B52746F6737",
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"BC9C30E3C40D4FC3B26B1B52746F6737": {
+			"id": "BC9C30E3C40D4FC3B26B1B52746F6737",
+			"asnIdentifier": "S2544503",
+			"position": 90000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Demonstrate an understanding of business fundamentals, uses and application of technologies, communications, and basic management functions.",
+			"ancestorIds": [
+				"E9D83933CA384732AFF9700CFCE413A6",
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"E9D83933CA384732AFF9700CFCE413A6": {
+			"id": "E9D83933CA384732AFF9700CFCE413A6",
+			"asnIdentifier": "S2544502",
+			"position": 89000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Marketing",
+			"comments": [
+				"Using both creative and systems processes, develop marketing concepts and principles and their practical application in marketing and management. Subject matter includes market research, economics, marketing budgets, creative development and design, and marketing foundations/ functions with emphasis on public relations, advertising, branding, promotion, product/service management, pricing and distribution. Specialized programs of study in this field may include sports marketing, hospitality marketing, advertising or market research."
+			],
+			"ancestorIds": [
+				"FDC311772E92473D85EE0C5A14AE2C7C"
+			]
+		},
+		"FDC311772E92473D85EE0C5A14AE2C7C": {
+			"id": "FDC311772E92473D85EE0C5A14AE2C7C",
+			"asnIdentifier": "S2544501",
+			"position": 88000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"B02AB4ABFCA042E8A5A3C57E9C0B3EA1": {
+			"id": "B02AB4ABFCA042E8A5A3C57E9C0B3EA1",
+			"asnIdentifier": "S2544500",
+			"position": 87000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"052FE4F84D8E46799A781B53EEF7D72C",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"745AF778B5DB413EBA648BD41F9B38D8": {
+			"id": "745AF778B5DB413EBA648BD41F9B38D8",
+			"asnIdentifier": "S2544499",
+			"position": 86000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors appropriate to Marketing, Sales, and Services sector opportunities.",
+			"ancestorIds": [
+				"052FE4F84D8E46799A781B53EEF7D72C",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"3740E2C1203145C3A8D617653C51AB6A": {
+			"id": "3740E2C1203145C3A8D617653C51AB6A",
+			"asnIdentifier": "S2544498",
+			"position": 85000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"052FE4F84D8E46799A781B53EEF7D72C",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"1954E481271548A0A4FA847E1B968D2A": {
+			"id": "1954E481271548A0A4FA847E1B968D2A",
+			"asnIdentifier": "S2544497",
+			"position": 84000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"052FE4F84D8E46799A781B53EEF7D72C",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"C486E313610149629E23973BDC18349B": {
+			"id": "C486E313610149629E23973BDC18349B",
+			"asnIdentifier": "S2544496",
+			"position": 83000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Marketing, Sales, and Services sector program of study.",
+			"ancestorIds": [
+				"052FE4F84D8E46799A781B53EEF7D72C",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"052FE4F84D8E46799A781B53EEF7D72C": {
+			"id": "052FE4F84D8E46799A781B53EEF7D72C",
+			"asnIdentifier": "S2544495",
+			"position": 82000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Marketing, Sales, and Services anchor standards, pathway standards, and performance indicators in classroom, laboratory and workplace settings, and through the DECA career technical student organization."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"4001F7B3B2BE47A0B1B440C9E747F7FD": {
+			"id": "4001F7B3B2BE47A0B1B440C9E747F7FD",
+			"asnIdentifier": "S2544494",
+			"position": 81000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.15",
+			"description": "Communicate the economic principles and concepts fundamental to business operations and the importance of marketing in a global economy. (Economics)",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"BEBDFF3014964E9191E3D6C14D9DB76D": {
+			"id": "BEBDFF3014964E9191E3D6C14D9DB76D",
+			"asnIdentifier": "S2544493",
+			"position": 80000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.14",
+			"description": "Employ the concepts, processes, and skills associated with identifying new ideas, opportunities, and methods and with creating or starting a new project or venture.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"E9F67B366905401D83C9E00C0630E081": {
+			"id": "E9F67B366905401D83C9E00C0630E081",
+			"asnIdentifier": "S2544492",
+			"position": 79000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.13",
+			"description": "Identify the techniques and strategies used to foster positive, ongoing relationships with customers and the importance of customer service to the business' bottom line.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"506A4CB519D9401D9D5EBE84953B5D69": {
+			"id": "506A4CB519D9401D9D5EBE84953B5D69",
+			"asnIdentifier": "S2544491",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.12",
+			"description": "Identify city, county, and state certificates and licensures required to conduct business.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"A1B76A426AB241198ACD884093E71D8C": {
+			"id": "A1B76A426AB241198ACD884093E71D8C",
+			"asnIdentifier": "S2544490",
+			"position": 77000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.11",
+			"description": "Apply the pricing concepts and strategies used to maximize return and meet customers' perceptions of value.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"3A78721DC68B455D99C2EC99A5A64698": {
+			"id": "3A78721DC68B455D99C2EC99A5A64698",
+			"asnIdentifier": "S2544489",
+			"position": 76000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.10",
+			"description": "Compare the distribution concepts and processes needed to move, store, locate, and transfer ownership of goods or services.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"EA95A73971174676BB2DAFFA23572AB9": {
+			"id": "EA95A73971174676BB2DAFFA23572AB9",
+			"asnIdentifier": "S2544488",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.9",
+			"description": "Illustrate the methods used to determine client needs and desires and respond with selling concepts including planned, personalized communication that influences purchase decisions and enhances future business opportunities.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"457648F8F7C44ED38860EC3AFCC82249": {
+			"id": "457648F8F7C44ED38860EC3AFCC82249",
+			"asnIdentifier": "S2544487",
+			"position": 74000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.8",
+			"description": "Understand how promotion concepts and strategies including advertising, sales promotion, public relations, and personal selling, are used to communicate information about products, services, images, and ideas to achieve a desired outcome.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"583AD83011D04FA1880110FEF74DA5F1": {
+			"id": "583AD83011D04FA1880110FEF74DA5F1",
+			"asnIdentifier": "S2544486",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.7",
+			"description": "Assess the product and service management concepts and processes needed to obtain, develop, maintain, and improve a product or service mix in response to market opportunities.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"7D4D588E277246679FE820C872CC35AA": {
+			"id": "7D4D588E277246679FE820C872CC35AA",
+			"asnIdentifier": "S2544485",
+			"position": 72000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.6",
+			"description": "Employ the financial concepts used in making marketing decisions.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"E856B163AB0F44158DB63AC9AEB26279": {
+			"id": "E856B163AB0F44158DB63AC9AEB26279",
+			"asnIdentifier": "S2544484",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.5",
+			"description": "Integrate the marketing information management concepts, systems, and tools needed to obtain, evaluate, and disseminate information for use in making marketing decisions.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"1DF2E3C19C294878B0D20583AACC6B5C": {
+			"id": "1DF2E3C19C294878B0D20583AACC6B5C",
+			"asnIdentifier": "S2544483",
+			"position": 70000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Collaborate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"87ED278CF9E046D1A53A2CB33496F53F": {
+			"id": "87ED278CF9E046D1A53A2CB33496F53F",
+			"asnIdentifier": "S2544482",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Marketing, Sales, and Services sector requirements and expectations.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"E1F5561CE83F47F19183CE9CAECA9904": {
+			"id": "E1F5561CE83F47F19183CE9CAECA9904",
+			"asnIdentifier": "S2544481",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Marketing, Sales, and Services sector.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"1EA990B2AF2A4480B066B6AEDD01CEF6": {
+			"id": "1EA990B2AF2A4480B066B6AEDD01CEF6",
+			"asnIdentifier": "S2544480",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Marketing, Sales, and Services sector.",
+			"ancestorIds": [
+				"7499514049384E85A856F98942628E77",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"7499514049384E85A856F98942628E77": {
+			"id": "7499514049384E85A856F98942628E77",
+			"asnIdentifier": "S2544479",
+			"position": 66000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Marketing, Sales, and Services sector, following procedures when carrying out experiments or performing technical tasks."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"74360BF2069947DC8C64F3E13BB564CF": {
+			"id": "74360BF2069947DC8C64F3E13BB564CF",
+			"asnIdentifier": "S2544478",
+			"position": 65000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Marketing, Sales, and Services sector issues and problems.",
+			"ancestorIds": [
+				"7DAD331B63254CC2950DAE67F12BF1D2",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"3F1E42693D5D4E9A80D3F5DB4856B606": {
+			"id": "3F1E42693D5D4E9A80D3F5DB4856B606",
+			"asnIdentifier": "S2544477",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"7DAD331B63254CC2950DAE67F12BF1D2",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"0633F74567C84679A2572DE4398FA2AC": {
+			"id": "0633F74567C84679A2572DE4398FA2AC",
+			"asnIdentifier": "S2544476",
+			"position": 63000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"7DAD331B63254CC2950DAE67F12BF1D2",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"5A12E1DAA59B44E8900F5A6AA4B2D8DD": {
+			"id": "5A12E1DAA59B44E8900F5A6AA4B2D8DD",
+			"asnIdentifier": "S2544475",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"7DAD331B63254CC2950DAE67F12BF1D2",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"95B5CFB21CCF4A05ACB7B7C56783DBDB": {
+			"id": "95B5CFB21CCF4A05ACB7B7C56783DBDB",
+			"asnIdentifier": "S2544474",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"7DAD331B63254CC2950DAE67F12BF1D2",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"36B6F9D594054591B0B8BC717118EF5E": {
+			"id": "36B6F9D594054591B0B8BC717118EF5E",
+			"asnIdentifier": "S2544473",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"7DAD331B63254CC2950DAE67F12BF1D2",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"1CD978ADBD8C4BDDB0C679C67CE3B592": {
+			"id": "1CD978ADBD8C4BDDB0C679C67CE3B592",
+			"asnIdentifier": "S2544472",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"7DAD331B63254CC2950DAE67F12BF1D2",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"7DAD331B63254CC2950DAE67F12BF1D2": {
+			"id": "7DAD331B63254CC2950DAE67F12BF1D2",
+			"asnIdentifier": "S2544471",
+			"position": 58000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution as practiced in the DECA career technical student organization."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"B58020F4A1234F6182397060C4A94E4B": {
+			"id": "B58020F4A1234F6182397060C4A94E4B",
+			"asnIdentifier": "S2544470",
+			"position": 57000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.8",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Marketing, Sales, and Services sector laws and practices.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"3EA936B9759C4671B7423FC58D7A6531": {
+			"id": "3EA936B9759C4671B7423FC58D7A6531",
+			"asnIdentifier": "S2544469",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"15AC58FF43C14CCDB03011600F664F7B": {
+			"id": "15AC58FF43C14CCDB03011600F664F7B",
+			"asnIdentifier": "S2544468",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"699A28DB87F343AF815CDD954F9A14FD": {
+			"id": "699A28DB87F343AF815CDD954F9A14FD",
+			"asnIdentifier": "S2544467",
+			"position": 54000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"35BBC93A9D3443D0905AB94ECA225553": {
+			"id": "35BBC93A9D3443D0905AB94ECA225553",
+			"asnIdentifier": "S2544466",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Demonstrate the importance of truthfulness, honesty, and quality in the Marketing, Sales, and Services sector.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"6414AA81277B4D7E9A425C2D79A683C2": {
+			"id": "6414AA81277B4D7E9A425C2D79A683C2",
+			"asnIdentifier": "S2544465",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Marketing, Sales, and Services sector workplace standards.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"A8BAACAFD7284CE49006630286575BE9": {
+			"id": "A8BAACAFD7284CE49006630286575BE9",
+			"asnIdentifier": "S2544464",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, and federal regulatory agencies, entities, laws, and regulations related to the Marketing, Sales, and Services industry sector.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"F8AE4809D6E94A1DA8F421439C8C2DB0": {
+			"id": "F8AE4809D6E94A1DA8F421439C8C2DB0",
+			"asnIdentifier": "S2544463",
+			"position": 50000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"6F919CF5F4E049C597C192769B9E1B25",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"6F919CF5F4E049C597C192769B9E1B25": {
+			"id": "6F919CF5F4E049C597C192769B9E1B25",
+			"asnIdentifier": "S2544462",
+			"position": 49000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "8.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"6ECD69540FB9425D97C4509BA5935486": {
+			"id": "6ECD69540FB9425D97C4509BA5935486",
+			"asnIdentifier": "S2544461",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Marketing, Sales, and Services sector.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"2098BF2E708A4312B8C70B1AA6A9236D": {
+			"id": "2098BF2E708A4312B8C70B1AA6A9236D",
+			"asnIdentifier": "S2544460",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"6001E133DCCC4FB780367BF4916B93BA": {
+			"id": "6001E133DCCC4FB780367BF4916B93BA",
+			"asnIdentifier": "S2544459",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"38BD12CDAB324A2EB30DB257F5BE9A17": {
+			"id": "38BD12CDAB324A2EB30DB257F5BE9A17",
+			"asnIdentifier": "S2544458",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"8DE4A58A6264454C99218C121235DDF1": {
+			"id": "8DE4A58A6264454C99218C121235DDF1",
+			"asnIdentifier": "S2544457",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"8CA4838D3A4842FDAD6625AF0FFDE05C": {
+			"id": "8CA4838D3A4842FDAD6625AF0FFDE05C",
+			"asnIdentifier": "S2544456",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"D82438A77B3F4C17801E4C8E1278166C": {
+			"id": "D82438A77B3F4C17801E4C8E1278166C",
+			"asnIdentifier": "S2544455",
+			"position": 42000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"2E16CF921C3D4F9580ECEBE31FA01B04": {
+			"id": "2E16CF921C3D4F9580ECEBE31FA01B04",
+			"asnIdentifier": "S2544454",
+			"position": 41000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"B4BAC0B368964BC7B8E82BA5F0E60B9F",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"B4BAC0B368964BC7B8E82BA5F0E60B9F": {
+			"id": "B4BAC0B368964BC7B8E82BA5F0E60B9F",
+			"asnIdentifier": "S2544453",
+			"position": 40000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate and participate in a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Marketing, Sales, and Services sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"F94C4D97698D4D1A9E8EC1794C89CA77": {
+			"id": "F94C4D97698D4D1A9E8EC1794C89CA77",
+			"asnIdentifier": "S2544452",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Be informed of laws/acts pertaining to the Occupational Safety and Health Administration (OSHA).",
+			"ancestorIds": [
+				"FB8064BC2B634E5DAA049320BDF45B67",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"BB52BC1C55394EBD818154210AE44204": {
+			"id": "BB52BC1C55394EBD818154210AE44204",
+			"asnIdentifier": "S2544451",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment and practice risk management to ensure security and to prevent loss of property.",
+			"ancestorIds": [
+				"FB8064BC2B634E5DAA049320BDF45B67",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"DA520533C6DE47D88ECA534E54FCD460": {
+			"id": "DA520533C6DE47D88ECA534E54FCD460",
+			"asnIdentifier": "S2544450",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.5",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"FB8064BC2B634E5DAA049320BDF45B67",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"AFC130E69A694EA9858B9A03BC6926C9": {
+			"id": "AFC130E69A694EA9858B9A03BC6926C9",
+			"asnIdentifier": "S2544449",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"FB8064BC2B634E5DAA049320BDF45B67",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"D7BE70CFB1404591A385D5A285D04BFA": {
+			"id": "D7BE70CFB1404591A385D5A285D04BFA",
+			"asnIdentifier": "S2544448",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"FB8064BC2B634E5DAA049320BDF45B67",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"4C96693521AA4CCFA70A961B67EA4F3D": {
+			"id": "4C96693521AA4CCFA70A961B67EA4F3D",
+			"asnIdentifier": "S2544447",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"FB8064BC2B634E5DAA049320BDF45B67",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"976B21C71F14405AA89E072C558D2D75": {
+			"id": "976B21C71F14405AA89E072C558D2D75",
+			"asnIdentifier": "S2544446",
+			"position": 33000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate and adhere to Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"FB8064BC2B634E5DAA049320BDF45B67",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"FB8064BC2B634E5DAA049320BDF45B67": {
+			"id": "FB8064BC2B634E5DAA049320BDF45B67",
+			"asnIdentifier": "S2544445",
+			"position": 32000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Marketing, Sales, and Services sector workplace environment."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"B0141DF503DC4F858A1F05B1DCAED2CC": {
+			"id": "B0141DF503DC4F858A1F05B1DCAED2CC",
+			"asnIdentifier": "S2544444",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"07D5D009A81F4D2DBBF75E1FDD25947B",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"F956FCAB773D41958C42FDDB6950758D": {
+			"id": "F956FCAB773D41958C42FDDB6950758D",
+			"asnIdentifier": "S2544443",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"07D5D009A81F4D2DBBF75E1FDD25947B",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"E2552A14B8A74B5899779B45F2440967": {
+			"id": "E2552A14B8A74B5899779B45F2440967",
+			"asnIdentifier": "S2544442",
+			"position": 29000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"07D5D009A81F4D2DBBF75E1FDD25947B",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"48801CABB3124BDA869739749D630E30": {
+			"id": "48801CABB3124BDA869739749D630E30",
+			"asnIdentifier": "S2544441",
+			"position": 28000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"07D5D009A81F4D2DBBF75E1FDD25947B",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"07D5D009A81F4D2DBBF75E1FDD25947B": {
+			"id": "07D5D009A81F4D2DBBF75E1FDD25947B",
+			"asnIdentifier": "S2544440",
+			"position": 27000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short, as well as more sustained, research to create alternative solutions to answer a question or solve a problem unique to the Marketing, Sales, and Services sector using critical and creative thinking, logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"BD98F18C70974FB3AE206E39A453479C": {
+			"id": "BD98F18C70974FB3AE206E39A453479C",
+			"asnIdentifier": "S2544439",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"EE6F3332C1044F49B6F204EA52B87854",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"2ABD0390A6E04E4BBD2211C2A9C05E30": {
+			"id": "2ABD0390A6E04E4BBD2211C2A9C05E30",
+			"asnIdentifier": "S2544438",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"EE6F3332C1044F49B6F204EA52B87854",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"422EA1D9496441F5ADC86B47546572F7": {
+			"id": "422EA1D9496441F5ADC86B47546572F7",
+			"asnIdentifier": "S2544437",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"EE6F3332C1044F49B6F204EA52B87854",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"9D89296D489749C5BE915AFF0ED311BE": {
+			"id": "9D89296D489749C5BE915AFF0ED311BE",
+			"asnIdentifier": "S2544436",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"EE6F3332C1044F49B6F204EA52B87854",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"CD3F3B85709B479D8D58E198CCDCCC7F": {
+			"id": "CD3F3B85709B479D8D58E198CCDCCC7F",
+			"asnIdentifier": "S2544435",
+			"position": 22000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ Web-based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"EE6F3332C1044F49B6F204EA52B87854",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"73A9FE36CAEE4CD5A77659BA39FF0FD3": {
+			"id": "73A9FE36CAEE4CD5A77659BA39FF0FD3",
+			"asnIdentifier": "S2544434",
+			"position": 21000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"EE6F3332C1044F49B6F204EA52B87854",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"EE6F3332C1044F49B6F204EA52B87854": {
+			"id": "EE6F3332C1044F49B6F204EA52B87854",
+			"asnIdentifier": "S2544433",
+			"position": 20000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology to investigate, research, and produce products and services, including new information, as required in the Marketing, Sales, and Services sector workplace environment."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"962E67924926476EA48F944DE9B72BFD": {
+			"id": "962E67924926476EA48F944DE9B72BFD",
+			"asnIdentifier": "S2544432",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"59DF93AD8ACC41719FAACECBEE41BE95": {
+			"id": "59DF93AD8ACC41719FAACECBEE41BE95",
+			"asnIdentifier": "S2544431",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"181183C354184031A43D3EE6B93BED27": {
+			"id": "181183C354184031A43D3EE6B93BED27",
+			"asnIdentifier": "S2544430",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"EBBFBD11CDDD4F9889E5371153F32DBF": {
+			"id": "EBBFBD11CDDD4F9889E5371153F32DBF",
+			"asnIdentifier": "S2544429",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"6168BC04126D4D459C95108A8258602B": {
+			"id": "6168BC04126D4D459C95108A8258602B",
+			"asnIdentifier": "S2544428",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"CAF96555114C4E32835B0817C1777CBF": {
+			"id": "CAF96555114C4E32835B0817C1777CBF",
+			"asnIdentifier": "S2544427",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"68F01457E11B41DD96AC2138955A9FCF": {
+			"id": "68F01457E11B41DD96AC2138955A9FCF",
+			"asnIdentifier": "S2544426",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"E8CDCF2ED2B64D678DAE35094E258A5B": {
+			"id": "E8CDCF2ED2B64D678DAE35094E258A5B",
+			"asnIdentifier": "S2544425",
+			"position": 12000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits such as trust, respect, and responsibility and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"0F5E092A654C4609827533E14B97D6BD": {
+			"id": "0F5E092A654C4609827533E14B97D6BD",
+			"asnIdentifier": "S2544424",
+			"position": 11000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"988251208743433492594DACAE480975",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"988251208743433492594DACAE480975": {
+			"id": "988251208743433492594DACAE480975",
+			"asnIdentifier": "S2544423",
+			"position": 10000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"F6AA5AE9328B4F33AE56AF816001D27A": {
+			"id": "F6AA5AE9328B4F33AE56AF816001D27A",
+			"asnIdentifier": "S2544422",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"35B403FD2A234417B9001FB95B63A7BA",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"2CD8EAC567AE4CE496C920CF84918FD5": {
+			"id": "2CD8EAC567AE4CE496C920CF84918FD5",
+			"asnIdentifier": "S2544421",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"35B403FD2A234417B9001FB95B63A7BA",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"E6121CD3A9A440A8B8DF8EC179711BC0": {
+			"id": "E6121CD3A9A440A8B8DF8EC179711BC0",
+			"asnIdentifier": "S2544420",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Demonstrate elements of written and electronic communication such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"35B403FD2A234417B9001FB95B63A7BA",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"63E9FA9305B84F3FBC75704E25786255": {
+			"id": "63E9FA9305B84F3FBC75704E25786255",
+			"asnIdentifier": "S2544419",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"35B403FD2A234417B9001FB95B63A7BA",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"0A2D6A039AD24498B129BDF5CA3B3906": {
+			"id": "0A2D6A039AD24498B129BDF5CA3B3906",
+			"asnIdentifier": "S2544418",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"35B403FD2A234417B9001FB95B63A7BA",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"2CB11E5A11FF4723988E1597E22AC62F": {
+			"id": "2CB11E5A11FF4723988E1597E22AC62F",
+			"asnIdentifier": "S2544417",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"35B403FD2A234417B9001FB95B63A7BA",
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"35B403FD2A234417B9001FB95B63A7BA": {
+			"id": "35B403FD2A234417B9001FB95B63A7BA",
+			"asnIdentifier": "S2544416",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire and accurately use Marketing, Sales, and Services sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"67D24976B5874648B91F71BD95FAEBE3": {
+			"id": "67D24976B5874648B91F71BD95FAEBE3",
+			"asnIdentifier": "S2544415",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Marketing, Sales, and Services academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"01678496F8CA4D6FA40B9C92FEF9D581"
+			]
+		},
+		"01678496F8CA4D6FA40B9C92FEF9D581": {
+			"id": "01678496F8CA4D6FA40B9C92FEF9D581",
+			"asnIdentifier": "S2544414",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}

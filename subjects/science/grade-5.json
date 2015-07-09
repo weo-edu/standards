@@ -1,0 +1,436 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2592575_grade-05",
+	"title": "Grade 5",
+	"subject": "Science",
+	"educationLevels": [
+		"05"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2592575",
+		"valid": "2013",
+		"title": "Next Generation Science Standards for California Public Schools, Kindergarten through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp",
+		"asnIdentifier": "D2592575",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"0774FF6DB5EC4F1E814E281B6FC2280E": {
+			"id": "0774FF6DB5EC4F1E814E281B6FC2280E",
+			"asnIdentifier": "S2598202",
+			"position": 25000,
+			"depth": 1,
+			"statementNotation": "5-PS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Use models to describe that energy in animals' food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.",
+			"comments": [
+				"Clarification Statement: Examples of models could include diagrams, and flow charts."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454457"
+			],
+			"ancestorIds": [
+				"35D82F5B09BB419EAE726ED3E558AD6B"
+			]
+		},
+		"35D82F5B09BB419EAE726ED3E558AD6B": {
+			"id": "35D82F5B09BB419EAE726ED3E558AD6B",
+			"asnIdentifier": "S2598201",
+			"position": 24000,
+			"depth": 0,
+			"statementNotation": "5-PS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Energy",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467840"
+			],
+			"ancestorIds": [
+				"BBE919EFED684A0380E8576EECD312F2"
+			]
+		},
+		"986BF77CAF694202BE26F6D55030DE44": {
+			"id": "986BF77CAF694202BE26F6D55030DE44",
+			"asnIdentifier": "S2598200",
+			"position": 23000,
+			"depth": 1,
+			"statementNotation": "5-PS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Support an argument that the gravitational force exerted by Earth on objects is directed down.",
+			"comments": [
+				"Clarification Statement: \"Down\" is a local description of the direction that points toward the center of the spherical Earth.",
+				"Assessment Boundary: Assessment does not include mathematical representation of gravitational force."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454465"
+			],
+			"ancestorIds": [
+				"BBE919EFED684A0380E8576EECD312F2"
+			]
+		},
+		"BBE919EFED684A0380E8576EECD312F2": {
+			"id": "BBE919EFED684A0380E8576EECD312F2",
+			"asnIdentifier": "S2598199",
+			"position": 22000,
+			"depth": 0,
+			"statementNotation": "5-PS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Motion and Stability: Forces and Interactions",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467839"
+			],
+			"ancestorIds": [
+				"6981BDC4F8E04542A2AD90333D6B2FFA"
+			]
+		},
+		"8F6BB7CF45DC46FAA152F13A014A2B41": {
+			"id": "8F6BB7CF45DC46FAA152F13A014A2B41",
+			"asnIdentifier": "S2598198",
+			"position": 21000,
+			"depth": 1,
+			"statementNotation": "5-PS1-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Conduct an investigation to determine whether the mixing of two or more substances results in new substances.",
+			"comments": [
+				"Clarification Statement: Examples of combinations that do not produce new substances could include sand and water. Examples of combinations that do produce new substances could include baking soda and vinegar or milk and vinegar."
+			],
+			"ancestorIds": [
+				"6981BDC4F8E04542A2AD90333D6B2FFA"
+			]
+		},
+		"1317FBBC1B4940A99172AF55D4201E19": {
+			"id": "1317FBBC1B4940A99172AF55D4201E19",
+			"asnIdentifier": "S2598197",
+			"position": 20000,
+			"depth": 1,
+			"statementNotation": "5-PS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Make observations and measurements to identify materials based on their properties.",
+			"comments": [
+				"Clarification Statement: Examples of materials to be identified could include baking soda and other powders, metals, minerals, and liquids. Examples of properties could include color, hardness, reflectivity, electrical conductivity, thermal conductivity, response to magnetic forces, and solubility; density is not intended as an identifiable property.",
+				"Assessment Boundary: Assessment does not include density or distinguishing mass and weight."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454454"
+			],
+			"ancestorIds": [
+				"6981BDC4F8E04542A2AD90333D6B2FFA"
+			]
+		},
+		"1324E15EC1C14BAB8407C0822990A570": {
+			"id": "1324E15EC1C14BAB8407C0822990A570",
+			"asnIdentifier": "S2598196",
+			"position": 19000,
+			"depth": 1,
+			"statementNotation": "5-PS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Measure and graph quantities to provide evidence that regardless of the type of change that occurs when heating, cooling, or mixing substances, the total weight of matter is conserved.",
+			"comments": [
+				"Clarification Statement: Examples of reactions or changes could include phase changes, dissolving, and mixing that form new substances.",
+				"Assessment Boundary: Assessment does not include distinguishing mass and weight."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454453"
+			],
+			"ancestorIds": [
+				"6981BDC4F8E04542A2AD90333D6B2FFA"
+			]
+		},
+		"BC91726420584D43BCD91B9D141B982E": {
+			"id": "BC91726420584D43BCD91B9D141B982E",
+			"asnIdentifier": "S2598195",
+			"position": 18000,
+			"depth": 1,
+			"statementNotation": "5-PS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model to describe that matter is made of particles too small to be seen.",
+			"comments": [
+				"Clarification Statement: Examples of evidence could include adding air to expand a basketball, compressing air in a syringe, dissolving sugar in water, and evaporating salt water.",
+				"Assessment Boundary: Assessment does not include the atomic-scale mechanism of evaporation and condensation or defining the unseen particles."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454452"
+			],
+			"ancestorIds": [
+				"6981BDC4F8E04542A2AD90333D6B2FFA"
+			]
+		},
+		"6981BDC4F8E04542A2AD90333D6B2FFA": {
+			"id": "6981BDC4F8E04542A2AD90333D6B2FFA",
+			"asnIdentifier": "S2598194",
+			"position": 17000,
+			"depth": 0,
+			"statementNotation": "5-PS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Matter and Its Interactions",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467837"
+			],
+			"ancestorIds": [
+				"392E78738B7F4099B3224F4B5C18A5EE"
+			]
+		},
+		"B9BE316AF84340B782D48288A4A26C88": {
+			"id": "B9BE316AF84340B782D48288A4A26C88",
+			"asnIdentifier": "S2598214",
+			"position": 16000,
+			"depth": 1,
+			"statementNotation": "5-ESS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Obtain and combine information about ways individual communities use science ideas to protect the Earth's resources and environment.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454463"
+			],
+			"ancestorIds": [
+				"392E78738B7F4099B3224F4B5C18A5EE"
+			]
+		},
+		"392E78738B7F4099B3224F4B5C18A5EE": {
+			"id": "392E78738B7F4099B3224F4B5C18A5EE",
+			"asnIdentifier": "S2598213",
+			"position": 15000,
+			"depth": 0,
+			"statementNotation": "5-ESS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth and Human Activity",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467846"
+			],
+			"ancestorIds": [
+				"DFF8F937065A493EA333358531DEC0C2"
+			]
+		},
+		"39C9ED5ABDF146A19A0FC2B992AC2812": {
+			"id": "39C9ED5ABDF146A19A0FC2B992AC2812",
+			"asnIdentifier": "S2598212",
+			"position": 14000,
+			"depth": 1,
+			"statementNotation": "5-ESS2-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Describe and graph the amounts and percentages of water and fresh water in various reservoirs to provide evidence about the distribution of water on Earth.",
+			"comments": [
+				"Assessment Boundary: Assessment is limited to oceans, lakes, rivers, glaciers, ground water, and polar ice caps, and does not include the atmosphere."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454462"
+			],
+			"ancestorIds": [
+				"DFF8F937065A493EA333358531DEC0C2"
+			]
+		},
+		"843FB6DFAC98420DA2110A36D3EC2ED3": {
+			"id": "843FB6DFAC98420DA2110A36D3EC2ED3",
+			"asnIdentifier": "S2598211",
+			"position": 13000,
+			"depth": 1,
+			"statementNotation": "5-ESS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and/or atmosphere interact.",
+			"comments": [
+				"Clarification Statement: The geosphere, hydrosphere (including ice), atmosphere, and biosphere are each a system and each system is a part of the whole Earth System. Examples could include the influence of the ocean on ecosystems, landform shape, and climate; the influence of the atmosphere on landforms and ecosystems through weather and climate; and the influence of mountain ranges on winds and clouds in the atmosphere. The geosphere, hydrosphere, atmosphere, and biosphere are each a system.",
+				"Assessment Boundary: Assessment is limited to the interactions of two systems at a time."
+			],
+			"ancestorIds": [
+				"DFF8F937065A493EA333358531DEC0C2"
+			]
+		},
+		"DFF8F937065A493EA333358531DEC0C2": {
+			"id": "DFF8F937065A493EA333358531DEC0C2",
+			"asnIdentifier": "S2598210",
+			"position": 12000,
+			"depth": 0,
+			"statementNotation": "5-ESS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Systems",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467845"
+			],
+			"ancestorIds": [
+				"79E1639E78604EB195511EE565FD12FF"
+			]
+		},
+		"EC131E2087AF40BD97A670100AC3441A": {
+			"id": "EC131E2087AF40BD97A670100AC3441A",
+			"asnIdentifier": "S2598209",
+			"position": 11000,
+			"depth": 1,
+			"statementNotation": "5-ESS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Represent data in graphical displays to reveal patterns of daily changes in length and direction of shadows, day and night, and the seasonal appearance of some stars in the night sky.",
+			"comments": [
+				"Clarification Statement: Examples of patterns could include the position and motion of Earth with respect to the sun and selected stars that are visible only in particular months.",
+				"Assessment Boundary: Assessment does not include causes of seasons."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454467"
+			],
+			"ancestorIds": [
+				"79E1639E78604EB195511EE565FD12FF"
+			]
+		},
+		"94D909B5C3684540AB961CBF978CAC04": {
+			"id": "94D909B5C3684540AB961CBF978CAC04",
+			"asnIdentifier": "S2598208",
+			"position": 10000,
+			"depth": 1,
+			"statementNotation": "5-ESS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Support an argument that differences in the apparent brightness of the sun compared to other stars is due to their relative distances from Earth.",
+			"comments": [
+				"Clarification Statement: Absolute brightness of stars is the result of a variety of factors. Relative distance from Earth is one factor that affects apparent brightness and is the one selected to be addressed by the performance expectation.",
+				"Assessment Boundary: Assessment is limited to relative distances, not sizes, of stars. Assessment does not include other factors that affect apparent brightness (such as stellar masses, age, stage)."
+			],
+			"ancestorIds": [
+				"79E1639E78604EB195511EE565FD12FF"
+			]
+		},
+		"79E1639E78604EB195511EE565FD12FF": {
+			"id": "79E1639E78604EB195511EE565FD12FF",
+			"asnIdentifier": "S2598207",
+			"position": 9000,
+			"depth": 0,
+			"statementNotation": "5-ESS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Place in the Universe",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467844"
+			],
+			"ancestorIds": [
+				"4266E9F14C154B579EE7E15C275E613A"
+			]
+		},
+		"6E743F7457894030A8A3B5828D7BB62D": {
+			"id": "6E743F7457894030A8A3B5828D7BB62D",
+			"asnIdentifier": "S2598206",
+			"position": 8000,
+			"depth": 1,
+			"statementNotation": "5-LS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment.",
+			"comments": [
+				"Clarifcation Statement: Emphasis is on the idea that matter that is not food (air, water, decomposed materials in soil) is changed by plants into matter that is food. Examples of systems could include organisms, ecosystems, and the Earth.",
+				"Assessment Boundary: Assessment does not include molecular explanations."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454459"
+			],
+			"ancestorIds": [
+				"4266E9F14C154B579EE7E15C275E613A"
+			]
+		},
+		"4266E9F14C154B579EE7E15C275E613A": {
+			"id": "4266E9F14C154B579EE7E15C275E613A",
+			"asnIdentifier": "S2598205",
+			"position": 7000,
+			"depth": 0,
+			"statementNotation": "5-LS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Ecosystems: Interactions, Energy, and Dynamics",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467842"
+			],
+			"ancestorIds": [
+				"A9DC547476304ADA9E3213CDEAFD6DD3"
+			]
+		},
+		"F86EA8094C214614980C7F1BDC825C46": {
+			"id": "F86EA8094C214614980C7F1BDC825C46",
+			"asnIdentifier": "S2598204",
+			"position": 6000,
+			"depth": 1,
+			"statementNotation": "5-LS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Support an argument that plants get the materials they need for growth chiefly from air and water.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the idea that plant matter comes mostly from air and water, not from the soil."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454458"
+			],
+			"ancestorIds": [
+				"A9DC547476304ADA9E3213CDEAFD6DD3"
+			]
+		},
+		"A9DC547476304ADA9E3213CDEAFD6DD3": {
+			"id": "A9DC547476304ADA9E3213CDEAFD6DD3",
+			"asnIdentifier": "S2598203",
+			"position": 5000,
+			"depth": 0,
+			"statementNotation": "5-LS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "From Molecules to Organisms: Structures and Processes",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467841"
+			],
+			"ancestorIds": [
+				"BB8CF391CF194BD9A5FEBADF2DCA12E6"
+			]
+		},
+		"2EF2229BD8B14A9EB80CD19592860465": {
+			"id": "2EF2229BD8B14A9EB80CD19592860465",
+			"asnIdentifier": "S2598218",
+			"position": 4000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454470"
+			],
+			"ancestorIds": [
+				"BB8CF391CF194BD9A5FEBADF2DCA12E6"
+			]
+		},
+		"93494F43030C4F7EAB4D6CD09E32F9A1": {
+			"id": "93494F43030C4F7EAB4D6CD09E32F9A1",
+			"asnIdentifier": "S2598217",
+			"position": 3000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454469"
+			],
+			"ancestorIds": [
+				"BB8CF391CF194BD9A5FEBADF2DCA12E6"
+			]
+		},
+		"97AECC3482BE4ED7860FB0BFB4A4CEBD": {
+			"id": "97AECC3482BE4ED7860FB0BFB4A4CEBD",
+			"asnIdentifier": "S2598216",
+			"position": 2000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454468"
+			],
+			"ancestorIds": [
+				"BB8CF391CF194BD9A5FEBADF2DCA12E6"
+			]
+		},
+		"BB8CF391CF194BD9A5FEBADF2DCA12E6": {
+			"id": "BB8CF391CF194BD9A5FEBADF2DCA12E6",
+			"asnIdentifier": "S2598215",
+			"position": 1000,
+			"depth": 0,
+			"statementNotation": "3-5-ETS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Engineering Design",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467848"
+			],
+			"ancestorIds": []
+		}
+	}
+}

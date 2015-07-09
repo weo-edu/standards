@@ -1,0 +1,25 @@
+{
+  "name": "@weo-edu/standards",
+  "description": "common core standards json",
+  "repository": "git://github.com/weo-edu/standards.git",
+  "version": "0.1.0",
+  "license": "MIT",
+  "files": "subjects",
+  "dependencies": {},
+  "devDependencies": {
+    "co": "^4.5.4",
+    "es6-promisify": "^2.0.0",
+    "isomorphic-fetch": "^2.1.0",
+    "mkdirp": "^0.5.1",
+    "mocha": "2.x",
+    "promisify": "0.0.3",
+    "ramda": "^0.15.1",
+    "slug": "^0.9.1",
+    "standard": "^4.0.0",
+    "whatwg-fetch": "^0.9.0"
+  },
+  "engines": {
+    "node": "~0.10.38",
+    "npm": "~2.9.0"
+  }
+}

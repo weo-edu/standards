@@ -1,0 +1,431 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2592575_grade-04",
+	"title": "Grade 4",
+	"subject": "Science",
+	"educationLevels": [
+		"04"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2592575",
+		"valid": "2013",
+		"title": "Next Generation Science Standards for California Public Schools, Kindergarten through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp",
+		"asnIdentifier": "D2592575",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"91C054D77C7F49ACB2980B02298CD9C2": {
+			"id": "91C054D77C7F49ACB2980B02298CD9C2",
+			"asnIdentifier": "S2598182",
+			"position": 24000,
+			"depth": 1,
+			"statementNotation": "4-PS4-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Generate and compare multiple solutions that use patterns to transfer information.",
+			"comments": [
+				"Clarification Statement: Examples of solutions could include drums sending coded information through sound waves, using a grid of 1's and 0's representing black and white to send information about a picture, and using Morse code to send text."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454444"
+			],
+			"ancestorIds": [
+				"C4E20D846BC44086B9038822D5BC9D57"
+			]
+		},
+		"3D52DC93AF59451BB8D4DCD2783BDE8E": {
+			"id": "3D52DC93AF59451BB8D4DCD2783BDE8E",
+			"asnIdentifier": "S2598181",
+			"position": 23000,
+			"depth": 1,
+			"statementNotation": "4-PS4-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model to describe that light reflecting from objects and entering the eye allows objects to be seen.",
+			"comments": [
+				"Assessment Boundary: Assessment does not include knowledge of specific colors reflected and seen, the cellular mechanisms of vision, or how the retina works."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454445"
+			],
+			"ancestorIds": [
+				"C4E20D846BC44086B9038822D5BC9D57"
+			]
+		},
+		"49B3150980B141CCBABE445E75A64565": {
+			"id": "49B3150980B141CCBABE445E75A64565",
+			"asnIdentifier": "S2598180",
+			"position": 22000,
+			"depth": 1,
+			"statementNotation": "4-PS4-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Develop a model of waves to describe patterns in terms of amplitude and wavelength and that waves can cause objects to move.",
+			"comments": [
+				"Clarification Statement: Examples of models could include diagrams, analogies, and physical models using wire to illustrate wavelength and amplitude of waves.",
+				"Assessment Boundary: Assessment does not include interference effects, electromagnetic waves, non-periodic waves, or quantitative models of amplitude and wavelength."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454443"
+			],
+			"ancestorIds": [
+				"C4E20D846BC44086B9038822D5BC9D57"
+			]
+		},
+		"C4E20D846BC44086B9038822D5BC9D57": {
+			"id": "C4E20D846BC44086B9038822D5BC9D57",
+			"asnIdentifier": "S2598179",
+			"position": 21000,
+			"depth": 0,
+			"statementNotation": "4-PS4",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Waves and their Applications in Technologies for Information Transfer",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454375"
+			],
+			"ancestorIds": [
+				"E98A28FCAE7141C588B680AB14C1854D"
+			]
+		},
+		"645249ADB3AD4E8ABDB68CBCD7C5CE5D": {
+			"id": "645249ADB3AD4E8ABDB68CBCD7C5CE5D",
+			"asnIdentifier": "S2598178",
+			"position": 20000,
+			"depth": 1,
+			"statementNotation": "4-PS3-4",
+			"statementLabel": "Performance Expectation",
+			"description": "Apply scientific ideas to design, test, and refine a device that converts energy from one form to another.",
+			"comments": [
+				"Clarification Statement: Examples of devices could include electric circuits that convert electrical energy into motion energy of a vehicle, light, or sound; and, a passive solar heater that converts light into heat. Examples of constraints could include the materials, cost, or time to design the device.",
+				"Assessment Boundary: Devices should be limited to those that convert motion energy to electric energy or use stored energy to cause motion or produce light or sound."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454440"
+			],
+			"ancestorIds": [
+				"E98A28FCAE7141C588B680AB14C1854D"
+			]
+		},
+		"75339CA1D630467A890646FA4F96C175": {
+			"id": "75339CA1D630467A890646FA4F96C175",
+			"asnIdentifier": "S2598177",
+			"position": 19000,
+			"depth": 1,
+			"statementNotation": "4-PS3-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Ask questions and predict outcomes about the changes in energy that occur when objects collide.",
+			"comments": [
+				"Clarification Statement: Emphasis is on the change in the energy due to the change in speed, not on the forces, as objects interact.",
+				"Assessment Boundary: Assessment does not include quantitative measurements of energy."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454439"
+			],
+			"ancestorIds": [
+				"E98A28FCAE7141C588B680AB14C1854D"
+			]
+		},
+		"8DF9F4DAD05542B1BA4B0E646119925D": {
+			"id": "8DF9F4DAD05542B1BA4B0E646119925D",
+			"asnIdentifier": "S2598176",
+			"position": 18000,
+			"depth": 1,
+			"statementNotation": "4-PS3-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Make observations to provide evidence that energy can be transferred from place to place by sound, light, heat, and electric currents.",
+			"comments": [
+				"Assessment Boundary: Assessment does not include quantitative measurements of energy."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454438"
+			],
+			"ancestorIds": [
+				"E98A28FCAE7141C588B680AB14C1854D"
+			]
+		},
+		"9EA438FB9B964AFB9B2900C96E1456B1": {
+			"id": "9EA438FB9B964AFB9B2900C96E1456B1",
+			"asnIdentifier": "S2598175",
+			"position": 17000,
+			"depth": 1,
+			"statementNotation": "4-PS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Use evidence to construct an explanation relating the speed of an object to the energy of that object.",
+			"comments": [
+				"Clarification Statement: Examples of evidence relating speed and energy could include change of shape on impact or other results of collisions.",
+				"Assessment Boundary: Assessment does not include quantitative measures of changes in the speed of an object or on any precise or quantitative definition of energy."
+			],
+			"ancestorIds": [
+				"E98A28FCAE7141C588B680AB14C1854D"
+			]
+		},
+		"E98A28FCAE7141C588B680AB14C1854D": {
+			"id": "E98A28FCAE7141C588B680AB14C1854D",
+			"asnIdentifier": "S2598174",
+			"position": 16000,
+			"depth": 0,
+			"statementNotation": "4-PS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Energy",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454374"
+			],
+			"ancestorIds": [
+				"2C01B6A4FF30466FA28E85A7384B94D1"
+			]
+		},
+		"662A023BC9BF45AF961A8923A92E6102": {
+			"id": "662A023BC9BF45AF961A8923A92E6102",
+			"asnIdentifier": "S2598193",
+			"position": 15000,
+			"depth": 1,
+			"statementNotation": "4-ESS3-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Generate and compare multiple solutions to reduce the impacts of natural Earth processes on humans.",
+			"comments": [
+				"Clarification Statement: Examples of solutions could include designing an earthquake resistant building and improving monitoring of volcanic activity.",
+				"Assessment Boundary: Assessment is limited to earthquakes, floods, tsunamis, and volcanic eruptions."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454451"
+			],
+			"ancestorIds": [
+				"2C01B6A4FF30466FA28E85A7384B94D1"
+			]
+		},
+		"FC6C89463E2442C7BBF02CF66E6BB961": {
+			"id": "FC6C89463E2442C7BBF02CF66E6BB961",
+			"asnIdentifier": "S2598192",
+			"position": 14000,
+			"depth": 1,
+			"statementNotation": "4-ESS3-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Obtain and combine information to describe that energy and fuels are derived from natural resources and their uses affect the environment.",
+			"comments": [
+				"Clarification Statement: Examples of renewable energy resources could include wind energy, water behind dams, and sunlight; non-renewable energy resources are fossil fuels and fissile materials. Examples of environmental effects could include loss of habitat due to dams, loss of habitat due to surface mining, and air pollution from burning of fossil fuels."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454441"
+			],
+			"ancestorIds": [
+				"2C01B6A4FF30466FA28E85A7384B94D1"
+			]
+		},
+		"2C01B6A4FF30466FA28E85A7384B94D1": {
+			"id": "2C01B6A4FF30466FA28E85A7384B94D1",
+			"asnIdentifier": "S2598191",
+			"position": 13000,
+			"depth": 0,
+			"statementNotation": "4-ESS3",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth and Human Activity",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467835"
+			],
+			"ancestorIds": [
+				"CA7843C255DF40DCBD773203D8F14581"
+			]
+		},
+		"FF30B2B6986940B9BAFC7697C4F06571": {
+			"id": "FF30B2B6986940B9BAFC7697C4F06571",
+			"asnIdentifier": "S2598190",
+			"position": 12000,
+			"depth": 1,
+			"statementNotation": "4-ESS2-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Analyze and interpret data from maps to describe patterns of Earth's features.",
+			"comments": [
+				"Clarification Statement: Maps can include topographic maps of Earth's land and ocean floor, as well as maps of the locations of mountains, continental boundaries, volcanoes, and earthquakes."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454450"
+			],
+			"ancestorIds": [
+				"CA7843C255DF40DCBD773203D8F14581"
+			]
+		},
+		"A5D85678446A40A5BBEFF3C334C3972A": {
+			"id": "A5D85678446A40A5BBEFF3C334C3972A",
+			"asnIdentifier": "S2598189",
+			"position": 11000,
+			"depth": 1,
+			"statementNotation": "4-ESS2-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Make observations and/or measurements to provide evidence of the effects of weathering or the rate of erosion by water, ice, wind, or vegetation.",
+			"comments": [
+				"Clarification Statement: Examples of variables to test could include angle of slope in the downhill movement of water, amount of vegetation, speed of wind, relative rate of deposition, cycles of freezing and thawing of water, cycles of heating and cooling, and volume of water flow.",
+				"Assessment Boundary: Assessment is limited to a single form of weathering or erosion."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454449"
+			],
+			"ancestorIds": [
+				"CA7843C255DF40DCBD773203D8F14581"
+			]
+		},
+		"CA7843C255DF40DCBD773203D8F14581": {
+			"id": "CA7843C255DF40DCBD773203D8F14581",
+			"asnIdentifier": "S2598188",
+			"position": 10000,
+			"depth": 0,
+			"statementNotation": "4-ESS2",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Systems",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454378"
+			],
+			"ancestorIds": [
+				"3BC5C9D5F2084961910400F7A9E161D3"
+			]
+		},
+		"7D2AD68CA9174C0A99543790EFB826B0": {
+			"id": "7D2AD68CA9174C0A99543790EFB826B0",
+			"asnIdentifier": "S2598187",
+			"position": 9000,
+			"depth": 1,
+			"statementNotation": "4-ESS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Identify evidence from patterns in rock formations and fossils in rock layers to support an explanation for changes in a landscape over time.",
+			"comments": [
+				"Clarification Statement: Examples of evidence from patterns could include rock layers with marine shell fossils above rock layers with plant fossils and no shells, indicating a change from land to water over time; and, a canyon with different rock layers in the walls and a river in the bottom, indicating that over time a river cut through the rock.",
+				"Assessment Boundary: Assessment does not include specific knowledge of the mechanism of rock formation or memorization of specific rock formations and layers. Assessment is limited to relative time."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454448"
+			],
+			"ancestorIds": [
+				"3BC5C9D5F2084961910400F7A9E161D3"
+			]
+		},
+		"3BC5C9D5F2084961910400F7A9E161D3": {
+			"id": "3BC5C9D5F2084961910400F7A9E161D3",
+			"asnIdentifier": "S2598186",
+			"position": 8000,
+			"depth": 0,
+			"statementNotation": "4-ESS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Earth's Place in the Universe",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454377"
+			],
+			"ancestorIds": [
+				"8336FAD504904C04B8E2359EA0CE82CD"
+			]
+		},
+		"1E97FCAF0E3245E2A9994175C35CA9E6": {
+			"id": "1E97FCAF0E3245E2A9994175C35CA9E6",
+			"asnIdentifier": "S2598185",
+			"position": 7000,
+			"depth": 1,
+			"statementNotation": "4-LS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Use a model to describe that animals' receive different types of information through their senses, process the information in their brain, and respond to the information in different ways.",
+			"comments": [
+				"Clarification Statement: Emphasis is on systems of information transfer.",
+				"Assessment Boundary: Assessment does not include the mechanisms by which the brain stores and recalls information or the mechanisms of how sensory receptors function."
+			],
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454447"
+			],
+			"ancestorIds": [
+				"8336FAD504904C04B8E2359EA0CE82CD"
+			]
+		},
+		"A1B962F97841455ABDB826A33A6124F1": {
+			"id": "A1B962F97841455ABDB826A33A6124F1",
+			"asnIdentifier": "S2598184",
+			"position": 6000,
+			"depth": 1,
+			"statementNotation": "4-LS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Construct an argument that plants and animals have internal and external structures that function to support survival, growth, behavior, and reproduction.",
+			"comments": [
+				"Clarification Statement: Examples of structures could include thorns, stems, roots, colored petals, heart, stomach, lung, brain, and skin. Each structure has specific functions within its associated system.",
+				"Assessment Boundary: Assessment is limited to macroscopic structures within plant and animal systems."
+			],
+			"ancestorIds": [
+				"8336FAD504904C04B8E2359EA0CE82CD"
+			]
+		},
+		"8336FAD504904C04B8E2359EA0CE82CD": {
+			"id": "8336FAD504904C04B8E2359EA0CE82CD",
+			"asnIdentifier": "S2598183",
+			"position": 5000,
+			"depth": 0,
+			"statementNotation": "4-LS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "From Molecules to Organisms: Structures and Processes",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454376"
+			],
+			"ancestorIds": [
+				"87A63BD7839E4D168B483FB34E8CF02E"
+			]
+		},
+		"628E331591C54860A92BBA562786A6FD": {
+			"id": "628E331591C54860A92BBA562786A6FD",
+			"asnIdentifier": "S2598218",
+			"position": 4000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-3",
+			"statementLabel": "Performance Expectation",
+			"description": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454470"
+			],
+			"ancestorIds": [
+				"87A63BD7839E4D168B483FB34E8CF02E"
+			]
+		},
+		"9A5987C57CC24EC29F7D976BA87252EE": {
+			"id": "9A5987C57CC24EC29F7D976BA87252EE",
+			"asnIdentifier": "S2598217",
+			"position": 3000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-2",
+			"statementLabel": "Performance Expectation",
+			"description": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454469"
+			],
+			"ancestorIds": [
+				"87A63BD7839E4D168B483FB34E8CF02E"
+			]
+		},
+		"E4E8EC675DCE4EB98EA0E826D6F45B24": {
+			"id": "E4E8EC675DCE4EB98EA0E826D6F45B24",
+			"asnIdentifier": "S2598216",
+			"position": 2000,
+			"depth": 1,
+			"statementNotation": "3-5-ETS1-1",
+			"statementLabel": "Performance Expectation",
+			"description": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2454468"
+			],
+			"ancestorIds": [
+				"87A63BD7839E4D168B483FB34E8CF02E"
+			]
+		},
+		"87A63BD7839E4D168B483FB34E8CF02E": {
+			"id": "87A63BD7839E4D168B483FB34E8CF02E",
+			"asnIdentifier": "S2598215",
+			"position": 1000,
+			"depth": 0,
+			"statementNotation": "3-5-ETS1",
+			"statementLabel": "Disciplinary Core Idea",
+			"description": "Engineering Design",
+			"exactMatch": [
+				"http://asn.jesandco.org/resources/S2467848"
+			],
+			"ancestorIds": []
+		}
+	}
+}

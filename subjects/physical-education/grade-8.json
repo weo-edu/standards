@@ -1,0 +1,516 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2400206_grade-08",
+	"title": "Grade 8",
+	"subject": "Physical Education",
+	"educationLevels": [
+		"08"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2400206",
+		"valid": "2005",
+		"title": "Physical Education Model Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/pestandards.pdf",
+		"asnIdentifier": "D2400206",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"F76E2E90DFE301318EE968A86D17958E": {
+			"id": "F76E2E90DFE301318EE968A86D17958E",
+			"asnIdentifier": "S2403031",
+			"position": 43000,
+			"depth": 2,
+			"listId": "5.7",
+			"description": "Model support toward individuals of all ability levels and encourage others to be supportive and inclusive of all individuals.",
+			"ancestorIds": [
+				"F76D5D60DFE301318EE668A86D17958E",
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76DEC10DFE301318EE868A86D17958E": {
+			"id": "F76DEC10DFE301318EE868A86D17958E",
+			"asnIdentifier": "S2403030",
+			"position": 42000,
+			"depth": 2,
+			"listId": "5.6",
+			"description": "Describe leadership roles and responsibilities in the context of team games and activities.",
+			"ancestorIds": [
+				"F76D5D60DFE301318EE668A86D17958E",
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76DA650DFE301318EE768A86D17958E": {
+			"id": "F76DA650DFE301318EE768A86D17958E",
+			"asnIdentifier": "S2403029",
+			"position": 41000,
+			"depth": 2,
+			"listId": "5.5",
+			"description": "Accept the roles of group members within the structure of a game or activity.",
+			"ancestorIds": [
+				"F76D5D60DFE301318EE668A86D17958E",
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76D5D60DFE301318EE668A86D17958E": {
+			"id": "F76D5D60DFE301318EE668A86D17958E",
+			"asnIdentifier": "S2400318",
+			"position": 40000,
+			"depth": 1,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76D1A70DFE301318EE568A86D17958E": {
+			"id": "F76D1A70DFE301318EE568A86D17958E",
+			"asnIdentifier": "S2403028",
+			"position": 39000,
+			"depth": 2,
+			"listId": "5.4",
+			"description": "Identify the contributions of members of a group or team and reward members for accomplishing a task or goal.",
+			"ancestorIds": [
+				"F76CD760DFE301318EE468A86D17958E",
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76CD760DFE301318EE468A86D17958E": {
+			"id": "F76CD760DFE301318EE468A86D17958E",
+			"asnIdentifier": "S2400315",
+			"position": 38000,
+			"depth": 1,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76C90B0DFE301318EE368A86D17958E": {
+			"id": "F76C90B0DFE301318EE368A86D17958E",
+			"asnIdentifier": "S2403027",
+			"position": 37000,
+			"depth": 2,
+			"listId": "5.3",
+			"description": "Identify and evaluate three preferences for lifelong physical activity and determine one's responsibility for developing skills, acquiring knowledge of concepts, and achieving fitness.",
+			"ancestorIds": [
+				"F76BD160DFE301318EE068A86D17958E",
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76C5380DFE301318EE268A86D17958E": {
+			"id": "F76C5380DFE301318EE268A86D17958E",
+			"asnIdentifier": "S2403026",
+			"position": 36000,
+			"depth": 2,
+			"listId": "5.2",
+			"description": "Organize and work cooperatively with a group to achieve the goals of the group.",
+			"ancestorIds": [
+				"F76BD160DFE301318EE068A86D17958E",
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76C1270DFE301318EE168A86D17958E": {
+			"id": "F76C1270DFE301318EE168A86D17958E",
+			"asnIdentifier": "S2403025",
+			"position": 35000,
+			"depth": 2,
+			"listId": "5.1",
+			"description": "Abide by the decisions of the officials, accept the outcome of the game, and show appreciation toward participants.",
+			"ancestorIds": [
+				"F76BD160DFE301318EE068A86D17958E",
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76BD160DFE301318EE068A86D17958E": {
+			"id": "F76BD160DFE301318EE068A86D17958E",
+			"asnIdentifier": "S2400312",
+			"position": 34000,
+			"depth": 1,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F76B90D0DFE301318EDF68A86D17958E"
+			]
+		},
+		"F76B90D0DFE301318EDF68A86D17958E": {
+			"id": "F76B90D0DFE301318EDF68A86D17958E",
+			"asnIdentifier": "S2400311",
+			"position": 33000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Students demonstrate and utilize knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F7697670DFE301318ED868A86D17958E"
+			]
+		},
+		"F76B3FB0DFE301318EDE68A86D17958E": {
+			"id": "F76B3FB0DFE301318EDE68A86D17958E",
+			"asnIdentifier": "S2403024",
+			"position": 32000,
+			"depth": 1,
+			"listId": "4.6",
+			"description": "Explain the different types of conditioning for different physical activities.",
+			"ancestorIds": [
+				"F7697670DFE301318ED868A86D17958E"
+			]
+		},
+		"F76AEED0DFE301318EDD68A86D17958E": {
+			"id": "F76AEED0DFE301318EDD68A86D17958E",
+			"asnIdentifier": "S2403023",
+			"position": 31000,
+			"depth": 1,
+			"listId": "4.5",
+			"description": "Explain the effects of nutrition and participation in physical activity on weight control, self-concept, and physical performance.",
+			"ancestorIds": [
+				"F7697670DFE301318ED868A86D17958E"
+			]
+		},
+		"F76AAC00DFE301318EDC68A86D17958E": {
+			"id": "F76AAC00DFE301318EDC68A86D17958E",
+			"asnIdentifier": "S2403022",
+			"position": 30000,
+			"depth": 1,
+			"listId": "4.4",
+			"description": "Identify and apply basic principles in weight/resistance training and safety practices.",
+			"ancestorIds": [
+				"F7697670DFE301318ED868A86D17958E"
+			]
+		},
+		"F76A5A80DFE301318EDB68A86D17958E": {
+			"id": "F76A5A80DFE301318EDB68A86D17958E",
+			"asnIdentifier": "S2403021",
+			"position": 29000,
+			"depth": 1,
+			"listId": "4.3",
+			"description": "Identify ways of increasing physical activity in routine daily activities.",
+			"ancestorIds": [
+				"F7697670DFE301318ED868A86D17958E"
+			]
+		},
+		"F76A1300DFE301318EDA68A86D17958E": {
+			"id": "F76A1300DFE301318EDA68A86D17958E",
+			"asnIdentifier": "S2403020",
+			"position": 28000,
+			"depth": 1,
+			"listId": "4.2",
+			"description": "Identify appropriate physical activities that can be performed if one's physical fitness program is disrupted by inclement weather, travel from home or school, or a minor injury.",
+			"ancestorIds": [
+				"F7697670DFE301318ED868A86D17958E"
+			]
+		},
+		"F769CCF0DFE301318ED968A86D17958E": {
+			"id": "F769CCF0DFE301318ED968A86D17958E",
+			"asnIdentifier": "S2403019",
+			"position": 27000,
+			"depth": 1,
+			"listId": "4.1",
+			"description": "Develop a two-week personal physical fitness plan specifying the proper warm-up and cool-down activities and the principles of exercise for each of the five components of health-related physical fitness.",
+			"ancestorIds": [
+				"F7697670DFE301318ED868A86D17958E"
+			]
+		},
+		"F7697670DFE301318ED868A86D17958E": {
+			"id": "F7697670DFE301318ED868A86D17958E",
+			"asnIdentifier": "S2400295",
+			"position": 26000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Students demonstrate knowledge of physical fitness concepts, principles, and strategies to improve health and performance.",
+			"ancestorIds": [
+				"F7674A40DFE301318ED168A86D17958E"
+			]
+		},
+		"F7691EB0DFE301318ED768A86D17958E": {
+			"id": "F7691EB0DFE301318ED768A86D17958E",
+			"asnIdentifier": "S2403018",
+			"position": 25000,
+			"depth": 1,
+			"listId": "3.6",
+			"description": "Participate safely in moderate to vigorous physical activity when conditions are atypical (weather, travel, injury).",
+			"ancestorIds": [
+				"F7674A40DFE301318ED168A86D17958E"
+			]
+		},
+		"F768D480DFE301318ED668A86D17958E": {
+			"id": "F768D480DFE301318ED668A86D17958E",
+			"asnIdentifier": "S2403017",
+			"position": 24000,
+			"depth": 1,
+			"listId": "3.5",
+			"description": "Assess periodically the attainment of, or progress toward, personal physical fitness goals and make necessary adjustments to a personal physical fitness program.",
+			"ancestorIds": [
+				"F7674A40DFE301318ED168A86D17958E"
+			]
+		},
+		"F7689550DFE301318ED568A86D17958E": {
+			"id": "F7689550DFE301318ED568A86D17958E",
+			"asnIdentifier": "S2403016",
+			"position": 23000,
+			"depth": 1,
+			"listId": "3.4",
+			"description": "Participate in moderate to vigorous physical activity a minimum of four days each week.",
+			"ancestorIds": [
+				"F7674A40DFE301318ED168A86D17958E"
+			]
+		},
+		"F76853F0DFE301318ED468A86D17958E": {
+			"id": "F76853F0DFE301318ED468A86D17958E",
+			"asnIdentifier": "S2403015",
+			"position": 22000,
+			"depth": 1,
+			"listId": "3.3",
+			"description": "Plan and implement a two-week personal physical fitness plan in collaboration with the teacher.",
+			"ancestorIds": [
+				"F7674A40DFE301318ED168A86D17958E"
+			]
+		},
+		"F7680B60DFE301318ED368A86D17958E": {
+			"id": "F7680B60DFE301318ED368A86D17958E",
+			"asnIdentifier": "S2403014",
+			"position": 21000,
+			"depth": 1,
+			"listId": "3.2",
+			"description": "Refine individual personal physical fitness goals for each of the five components of health-related physical fitness, using research-based criteria.",
+			"ancestorIds": [
+				"F7674A40DFE301318ED168A86D17958E"
+			]
+		},
+		"F767A950DFE301318ED268A86D17958E": {
+			"id": "F767A950DFE301318ED268A86D17958E",
+			"asnIdentifier": "S2403013",
+			"position": 20000,
+			"depth": 1,
+			"listId": "3.1",
+			"description": "Assess the components of health-related physical fitness (muscle strength, muscle endurance, aerobic capacity, flexibility, and body composition) by using a scientifically based health-related physical fitness assessment.",
+			"ancestorIds": [
+				"F7674A40DFE301318ED168A86D17958E"
+			]
+		},
+		"F7674A40DFE301318ED168A86D17958E": {
+			"id": "F7674A40DFE301318ED168A86D17958E",
+			"asnIdentifier": "S2400281",
+			"position": 19000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students assess and maintain a level of physical fitness to improve health and performance.",
+			"ancestorIds": [
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F7670EF0DFE301318ED068A86D17958E": {
+			"id": "F7670EF0DFE301318ED068A86D17958E",
+			"asnIdentifier": "S2403012",
+			"position": 18000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Develop and teach a team game that uses elements of spin or rebound, designated offensive and defensive space, a penalty system, and a scoring system.",
+			"ancestorIds": [
+				"F76658C0DFE301318ECD68A86D17958E",
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F766D350DFE301318ECF68A86D17958E": {
+			"id": "F766D350DFE301318ECF68A86D17958E",
+			"asnIdentifier": "S2403011",
+			"position": 17000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Diagram, explain, and justify offensive and defensive strategies in modified and team sports, games, and activities.",
+			"ancestorIds": [
+				"F76658C0DFE301318ECD68A86D17958E",
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F7669740DFE301318ECE68A86D17958E": {
+			"id": "F7669740DFE301318ECE68A86D17958E",
+			"asnIdentifier": "S2403010",
+			"position": 16000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Identify the characteristics of a highly skilled performance for the purpose of improving one's own performance.",
+			"ancestorIds": [
+				"F76658C0DFE301318ECD68A86D17958E",
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F76658C0DFE301318ECD68A86D17958E": {
+			"id": "F76658C0DFE301318ECD68A86D17958E",
+			"asnIdentifier": "S2402100",
+			"position": 15000,
+			"depth": 1,
+			"description": "Combination of Movement Patterns and Skills",
+			"ancestorIds": [
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F7661830DFE301318ECC68A86D17958E": {
+			"id": "F7661830DFE301318ECC68A86D17958E",
+			"asnIdentifier": "S2403009",
+			"position": 14000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Explain how growth in height and weight affects performance and influences the selection of developmentally appropriate physical activities.",
+			"ancestorIds": [
+				"F7654980DFE301318EC968A86D17958E",
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F765D420DFE301318ECB68A86D17958E": {
+			"id": "F765D420DFE301318ECB68A86D17958E",
+			"asnIdentifier": "S2403008",
+			"position": 13000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Explain the rotation principles used in performing various manipulative skills.",
+			"ancestorIds": [
+				"F7654980DFE301318EC968A86D17958E",
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F7658990DFE301318ECA68A86D17958E": {
+			"id": "F7658990DFE301318ECA68A86D17958E",
+			"asnIdentifier": "S2403007",
+			"position": 12000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Describe and demonstrate how movement skills learned in one physical activity can be transferred and used to help learn another physical activity.",
+			"ancestorIds": [
+				"F7654980DFE301318EC968A86D17958E",
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F7654980DFE301318EC968A86D17958E": {
+			"id": "F7654980DFE301318EC968A86D17958E",
+			"asnIdentifier": "S2400269",
+			"position": 11000,
+			"depth": 1,
+			"description": "Movement Concepts",
+			"ancestorIds": [
+				"F7650A20DFE301318EC868A86D17958E"
+			]
+		},
+		"F7650A20DFE301318EC868A86D17958E": {
+			"id": "F7650A20DFE301318EC868A86D17958E",
+			"asnIdentifier": "S2400268",
+			"position": 10000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students demonstrate knowledge of movement concepts, principles, and strategies that apply to the learning and performance of physical activities.",
+			"ancestorIds": [
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F764CAA0DFE301318EC768A86D17958E": {
+			"id": "F764CAA0DFE301318EC768A86D17958E",
+			"asnIdentifier": "S2403006",
+			"position": 9000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Create and perform a routine using fundamental gymnastic/tumbling skills, locomotor and nonlocomotor movement patterns, and the elements of speed, direction, and level.",
+			"ancestorIds": [
+				"F7637790DFE301318EC368A86D17958E",
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F7647A30DFE301318EC668A86D17958E": {
+			"id": "F7647A30DFE301318EC668A86D17958E",
+			"asnIdentifier": "S2403005",
+			"position": 8000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "Demonstrate fundamental gymnastic/tumbling skills.",
+			"ancestorIds": [
+				"F7637790DFE301318EC368A86D17958E",
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F7640EA0DFE301318EC568A86D17958E": {
+			"id": "F7640EA0DFE301318EC568A86D17958E",
+			"asnIdentifier": "S2403004",
+			"position": 7000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Apply locomotor, nonlocomotor, and manipulative skills to team physical activities.",
+			"ancestorIds": [
+				"F7637790DFE301318EC368A86D17958E",
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F763BFD0DFE301318EC468A86D17958E": {
+			"id": "F763BFD0DFE301318EC468A86D17958E",
+			"asnIdentifier": "S2403003",
+			"position": 6000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Demonstrate basic offensive and defensive skills and strategies in team physical activities.",
+			"ancestorIds": [
+				"F7637790DFE301318EC368A86D17958E",
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F7637790DFE301318EC368A86D17958E": {
+			"id": "F7637790DFE301318EC368A86D17958E",
+			"asnIdentifier": "S2402085",
+			"position": 5000,
+			"depth": 1,
+			"description": "Combinations of Movement Patterns and Skills",
+			"ancestorIds": [
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F7632A50DFE301318EC268A86D17958E": {
+			"id": "F7632A50DFE301318EC268A86D17958E",
+			"asnIdentifier": "S2402154",
+			"position": 4000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Create and perform a square dance.",
+			"ancestorIds": [
+				"F7629370DFE301318EC068A86D17958E",
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F762DEC0DFE301318EC168A86D17958E": {
+			"id": "F762DEC0DFE301318EC168A86D17958E",
+			"asnIdentifier": "S2402152",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Identify and demonstrate square dance steps, positions, and patterns set to music.",
+			"ancestorIds": [
+				"F7629370DFE301318EC068A86D17958E",
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F7629370DFE301318EC068A86D17958E": {
+			"id": "F7629370DFE301318EC068A86D17958E",
+			"asnIdentifier": "S2400265",
+			"position": 2000,
+			"depth": 1,
+			"description": "Rhythmic Skills",
+			"ancestorIds": [
+				"F76239F0DFE301318EBF68A86D17958E"
+			]
+		},
+		"F76239F0DFE301318EBF68A86D17958E": {
+			"id": "F76239F0DFE301318EBF68A86D17958E",
+			"asnIdentifier": "S2400211",
+			"position": 1000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate the motor skills and movement patterns needed to perform a variety of physical activities.",
+			"ancestorIds": []
+		}
+	}
+}

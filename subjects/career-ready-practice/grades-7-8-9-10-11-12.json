@@ -1,0 +1,211 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2535156_grades-07-08-09-10-11-12",
+	"title": "Grades 7, 8, 9, 10, 11, 12",
+	"subject": "Career Ready Practice",
+	"educationLevels": [
+		"07",
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "JES & Co."
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2535156",
+		"valid": "2013",
+		"title": "California Standards for Career Ready Practice",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/ctestdfrontpages.pdf",
+		"asnIdentifier": "D2535156",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"4F546495AD854ECC923AA45136FD4D32": {
+			"id": "4F546495AD854ECC923AA45136FD4D32",
+			"asnIdentifier": "S2535168",
+			"position": 12000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "12.",
+			"description": "Understand the environmental, social, and economic impacts of decisions.",
+			"comments": [
+				"Career-ready individuals understand the interrelated nature of their actions and regularly make decisions that positively impact other people, organizations, the workplace, and the environment. They are aware of and utilize new technologies, understandings, procedures, and materials and adhere to regulations affecting the nature of their work. They are cognizant of impacts on the social condition, environment, workplace, and profitability of the organization."
+			],
+			"ancestorIds": [
+				"948AB0BF500F49DA95053605367B8543"
+			]
+		},
+		"948AB0BF500F49DA95053605367B8543": {
+			"id": "948AB0BF500F49DA95053605367B8543",
+			"asnIdentifier": "S2535167",
+			"position": 11000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "11.",
+			"description": "Employ valid and reliable research strategies.",
+			"comments": [
+				"Career-ready individuals employ research practices to plan and carry out investigations, create solutions, and keep abreast of the most current findings related to workplace environments and practices. They use a reliable research process to search for new information and confirm the validity of sources when considering the use and adoption of external information or practices."
+			],
+			"ancestorIds": [
+				"9598B40213AB49919786FED70494396A"
+			]
+		},
+		"9598B40213AB49919786FED70494396A": {
+			"id": "9598B40213AB49919786FED70494396A",
+			"asnIdentifier": "S2535166",
+			"position": 10000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "10.",
+			"description": "Demonstrate creativity and innovation.",
+			"comments": [
+				"Career-ready individuals recommend ideas that solve problems in new and different ways and contribute to the improvement of the organization. They consider unconventional ideas and suggestions by others as solutions to issues, tasks, or problems. They discern which ideas and suggestions may have the greatest value. They seek new methods, practices, and ideas from a variety of sources and apply those ideas to their own workplace practices."
+			],
+			"ancestorIds": [
+				"F603B17D90984C94B71EBD0C10FD2B6B"
+			]
+		},
+		"F603B17D90984C94B71EBD0C10FD2B6B": {
+			"id": "F603B17D90984C94B71EBD0C10FD2B6B",
+			"asnIdentifier": "S2535165",
+			"position": 9000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "9.",
+			"description": "Work productively in teams while integrating cultural and global competence.",
+			"comments": [
+				"Career-ready individuals contribute positively to every team, as both team leaders and team members. To avoid barriers to productive and positive interaction, they apply an awareness of cultural differences. They interact effectively and sensitively with all members of the team and find ways to increase the engagement and contribution of other members."
+			],
+			"ancestorIds": [
+				"05313564F23B4D38872FE1396A070718"
+			]
+		},
+		"05313564F23B4D38872FE1396A070718": {
+			"id": "05313564F23B4D38872FE1396A070718",
+			"asnIdentifier": "S2535164",
+			"position": 8000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "8.",
+			"description": "Model integrity, ethical leadership, and effective management.",
+			"comments": [
+				"Career-ready individuals consistently act in ways that align with personal and community-held ideals and principles. They employ ethical behaviors and actions that positively influence others. They have a clear understanding of integrity and act on this understanding in every decision. They use a variety of means to positively impact the direction and actions of a team or organization, and they recognize the short-term and long-term effects that management's actions and attitudes can have on productivity, morale, and organizational culture."
+			],
+			"ancestorIds": [
+				"B2E86A694BC04F10A403C7F324A36968"
+			]
+		},
+		"B2E86A694BC04F10A403C7F324A36968": {
+			"id": "B2E86A694BC04F10A403C7F324A36968",
+			"asnIdentifier": "S2535163",
+			"position": 7000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "7.",
+			"description": "Act as a responsible citizen in the workplace and the community.",
+			"comments": [
+				"Career-ready individuals understand the obligations and responsibilities of being a member of a community and demonstrate this understanding every day through their interactions with others. They are aware of the impacts of their decisions on others and the environment around them, and they think about the short-term and long-term consequences of their actions. They are reliable and consistent in going beyond minimum expectations and in participating in activities that serve the greater good."
+			],
+			"ancestorIds": [
+				"BCA829EB214440D5A4D5F9FD2D78330D"
+			]
+		},
+		"BCA829EB214440D5A4D5F9FD2D78330D": {
+			"id": "BCA829EB214440D5A4D5F9FD2D78330D",
+			"asnIdentifier": "S2535162",
+			"position": 6000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "6.",
+			"description": "Practice personal health and understand financial literacy.",
+			"comments": [
+				"Career-ready individuals understand the relationship between personal health and workplace performance. They contribute to their personal well-being through a healthy diet, regular exercise, and mental health activities. Career-ready individuals also understand that financial literacy leads to a secure future that enables career success."
+			],
+			"ancestorIds": [
+				"9D369ED732E44D69BF176C7B1A1F0F78"
+			]
+		},
+		"9D369ED732E44D69BF176C7B1A1F0F78": {
+			"id": "9D369ED732E44D69BF176C7B1A1F0F78",
+			"asnIdentifier": "S2535161",
+			"position": 5000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "5.",
+			"description": "Utilize critical thinking to make sense of problems and persevere in solving them.",
+			"comments": [
+				"Career-ready individuals recognize problems in the workplace, understand the nature of the problems, and devise effective plans to solve the problems. They thoughtfully investigate the root cause of a problem prior to introducing solutions. They carefully consider options to solve a problem and, once agreed upon, follow through to ensure the problem is resolved."
+			],
+			"ancestorIds": [
+				"75E65EFE8EFB43A58B1B50B99282CDC2"
+			]
+		},
+		"75E65EFE8EFB43A58B1B50B99282CDC2": {
+			"id": "75E65EFE8EFB43A58B1B50B99282CDC2",
+			"asnIdentifier": "S2535160",
+			"position": 4000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Apply technology to enhance productivity.",
+			"comments": [
+				"Career-ready individuals find and maximize the productive value of existing and new technology to accomplish workplace tasks and solve workplace problems. They are flexible and adaptive in acquiring and using new technology. They understand the inherent risks—personal and organizational—of technology applications, and they take actions to prevent or mitigate these risks."
+			],
+			"ancestorIds": [
+				"9C666BDA7FFD4A52973E014407BE6604"
+			]
+		},
+		"9C666BDA7FFD4A52973E014407BE6604": {
+			"id": "9C666BDA7FFD4A52973E014407BE6604",
+			"asnIdentifier": "S2535159",
+			"position": 3000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Develop an education and career plan aligned with personal goals.",
+			"comments": [
+				"Career-ready individuals take personal ownership of their educational and career goals and manage their individual plan to attain these goals. They recognize the value of each step in the educational and experiential process, and they understand that nearly all career paths require ongoing education and experience to adapt to practices, procedures, and expectations of an ever-changing work environment. They seek counselors, mentors, and other experts to assist in the planning and execution of education and career plans."
+			],
+			"ancestorIds": [
+				"F8864DA903B24E81995F32651D5E502D"
+			]
+		},
+		"F8864DA903B24E81995F32651D5E502D": {
+			"id": "F8864DA903B24E81995F32651D5E502D",
+			"asnIdentifier": "S2535158",
+			"position": 2000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Communicate clearly, effectively, and with reason.",
+			"comments": [
+				"Career-ready individuals communicate thoughts, ideas, and action plans with clarity, using written, verbal, electronic, and/or visual methods. They are skilled at interacting with others: they are active listeners who speak clearly and with purpose, and they are comfortable with terminology that is common to workplace environments. Career-ready individuals consider the audience for their communication and prepare accordingly to ensure the desired outcome."
+			],
+			"ancestorIds": [
+				"685611448402446983741EA0B5A5A8ED"
+			]
+		},
+		"685611448402446983741EA0B5A5A8ED": {
+			"id": "685611448402446983741EA0B5A5A8ED",
+			"asnIdentifier": "S2535157",
+			"position": 1000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Apply appropriate technical skills and academic knowledge.",
+			"comments": [
+				"Career-ready individuals readily access and use the knowledge and skills acquired through experience and education. They make connections between abstract concepts with real-world applications and recognize the value of academic preparation for solving problems, communicating with others, calculating measures, and performing other work-related practices."
+			],
+			"ancestorIds": []
+		}
+	}
+}

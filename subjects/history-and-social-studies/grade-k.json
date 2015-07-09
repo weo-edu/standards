@@ -1,0 +1,418 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-k",
+	"title": "Grade K",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"K"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BD324C50DFE40131FFF068A86D17958E": {
+			"id": "BD324C50DFE40131FFF068A86D17958E",
+			"asnIdentifier": "S10431CB",
+			"position": 34000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand how people lived in earlier times and how their lives would be different today (e.g., getting water from a well, growing food, making clothing, having fun, forming organizations, living by rules and laws).",
+			"ancestorIds": [
+				"BD3177A0DFE40131FFED68A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD320860DFE40131FFEF68A86D17958E": {
+			"id": "BD320860DFE40131FFEF68A86D17958E",
+			"asnIdentifier": "S10431CA",
+			"position": 33000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Know the triumphs in American legends and historical accounts through the stories of such people as Pocahontas, George Washing-ton, Booker T. Washington, Daniel Boone, and Benjamin Franklin.",
+			"ancestorIds": [
+				"BD3177A0DFE40131FFED68A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD31C020DFE40131FFEE68A86D17958E": {
+			"id": "BD31C020DFE40131FFEE68A86D17958E",
+			"asnIdentifier": "S10431C9",
+			"position": 32000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Identify the purposes of, and the people and events honored in, commemorative holidays, including the human struggles that were the basis for the events (e.g., Thanksgiving, Independence Day, Washington's and Lincoln's Birthdays, Martin Luther King Jr. Day, Memorial Day, Labor Day, Columbus Day, Veterans Day).",
+			"ancestorIds": [
+				"BD3177A0DFE40131FFED68A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD3177A0DFE40131FFED68A86D17958E": {
+			"id": "BD3177A0DFE40131FFED68A86D17958E",
+			"asnIdentifier": "S1042BE7",
+			"position": 31000,
+			"depth": 1,
+			"listId": "K.6",
+			"description": "Students understand that history relates to events, people, and places of other times.",
+			"ancestorIds": [
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD3135D0DFE40131FFEC68A86D17958E": {
+			"id": "BD3135D0DFE40131FFEC68A86D17958E",
+			"asnIdentifier": "S1042BE6",
+			"position": 30000,
+			"depth": 1,
+			"listId": "K.5",
+			"description": "Students put events in temporal order using a calendar, placing days, weeks, and months in proper order.",
+			"ancestorIds": [
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD30E9F0DFE40131FFEB68A86D17958E": {
+			"id": "BD30E9F0DFE40131FFEB68A86D17958E",
+			"asnIdentifier": "S10431C8",
+			"position": 29000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Demonstrate familiarity with the school's layout, environs, and the jobs people do there.",
+			"ancestorIds": [
+				"BD2F8780DFE40131FFE668A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD30A080DFE40131FFEA68A86D17958E": {
+			"id": "BD30A080DFE40131FFEA68A86D17958E",
+			"asnIdentifier": "S10431C7",
+			"position": 28000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Construct maps and models of neighborhoods, incorporating such structures as police and fire stations, airports, banks, hospitals, supermarkets, harbors, schools, homes, places of worship, and transportation lines.",
+			"ancestorIds": [
+				"BD2F8780DFE40131FFE668A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD3054C0DFE40131FFE968A86D17958E": {
+			"id": "BD3054C0DFE40131FFE968A86D17958E",
+			"asnIdentifier": "S10431C6",
+			"position": 27000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Identify traffic symbols and map symbols (e.g., those for land, water, roads, cities).",
+			"ancestorIds": [
+				"BD2F8780DFE40131FFE668A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD3011E0DFE40131FFE868A86D17958E": {
+			"id": "BD3011E0DFE40131FFE868A86D17958E",
+			"asnIdentifier": "S10431C5",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Distinguish between land and water on maps and globes and locate general areas referenced in historical legends and stories.",
+			"ancestorIds": [
+				"BD2F8780DFE40131FFE668A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2FC6B0DFE40131FFE768A86D17958E": {
+			"id": "BD2FC6B0DFE40131FFE768A86D17958E",
+			"asnIdentifier": "S10431C4",
+			"position": 25000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Determine the relative locations of objects using the terms near/far, left/right, and behind/in front.",
+			"ancestorIds": [
+				"BD2F8780DFE40131FFE668A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2F8780DFE40131FFE668A86D17958E": {
+			"id": "BD2F8780DFE40131FFE668A86D17958E",
+			"asnIdentifier": "S1042BE5",
+			"position": 24000,
+			"depth": 1,
+			"listId": "K.4",
+			"description": "Students compare and contrast the locations of people, places, and environments and describe their characteristics.",
+			"ancestorIds": [
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2F48D0DFE40131FFE568A86D17958E": {
+			"id": "BD2F48D0DFE40131FFE568A86D17958E",
+			"asnIdentifier": "S1042BE4",
+			"position": 23000,
+			"depth": 1,
+			"listId": "K.3",
+			"description": "Students match simple descriptions of work that people do and the names of related jobs at the school, in the local community, and from historical accounts.",
+			"ancestorIds": [
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2F08B0DFE40131FFE468A86D17958E": {
+			"id": "BD2F08B0DFE40131FFE468A86D17958E",
+			"asnIdentifier": "S1042BE3",
+			"position": 22000,
+			"depth": 1,
+			"listId": "K.2",
+			"description": "Students recognize national and state symbols and icons such as the national and state flags, the bald eagle, and the Statue of Liberty.",
+			"ancestorIds": [
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2EC690DFE40131FFE368A86D17958E": {
+			"id": "BD2EC690DFE40131FFE368A86D17958E",
+			"asnIdentifier": "S10431C3",
+			"position": 21000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Know beliefs and related behaviors of characters in stories from times past and understand the consequences of the characters' actions.",
+			"ancestorIds": [
+				"BD2DCBD0DFE40131FFE068A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2E7D70DFE40131FFE268A86D17958E": {
+			"id": "BD2E7D70DFE40131FFE268A86D17958E",
+			"asnIdentifier": "S1042C07",
+			"position": 20000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Learn examples of honesty, courage, determination, individual responsibility, and patriotism in American and world history from stories and folklore.",
+			"ancestorIds": [
+				"BD2DCBD0DFE40131FFE068A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2E1D50DFE40131FFE168A86D17958E": {
+			"id": "BD2E1D50DFE40131FFE168A86D17958E",
+			"asnIdentifier": "S1042C06",
+			"position": 19000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Follow rules, such as sharing and taking turns, and know the consequences of breaking them.",
+			"ancestorIds": [
+				"BD2DCBD0DFE40131FFE068A86D17958E",
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2DCBD0DFE40131FFE068A86D17958E": {
+			"id": "BD2DCBD0DFE40131FFE068A86D17958E",
+			"asnIdentifier": "S1042BE2",
+			"position": 18000,
+			"depth": 1,
+			"listId": "K.1",
+			"description": "Students understand that being a good citizen involves acting in certain ways.",
+			"ancestorIds": [
+				"BD2D8740DFE40131FFDF68A86D17958E"
+			]
+		},
+		"BD2D8740DFE40131FFDF68A86D17958E": {
+			"id": "BD2D8740DFE40131FFDF68A86D17958E",
+			"asnIdentifier": "S1042BB0",
+			"position": 17000,
+			"depth": 0,
+			"description": "Learning and Working Now and Long Ago",
+			"ancestorIds": [
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2D47D0DFE40131FFDE68A86D17958E": {
+			"id": "BD2D47D0DFE40131FFDE68A86D17958E",
+			"asnIdentifier": "S1042BC4",
+			"position": 16000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students conduct cost-benefit analyses of historical and current events.",
+			"ancestorIds": [
+				"BD2C32D0DFE40131FFDA68A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2D0750DFE40131FFDD68A86D17958E": {
+			"id": "BD2D0750DFE40131FFDD68A86D17958E",
+			"asnIdentifier": "S1042BC3",
+			"position": 15000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students identify and interpret the multiple causes and effects of historical events.",
+			"ancestorIds": [
+				"BD2C32D0DFE40131FFDA68A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2CC4C0DFE40131FFDC68A86D17958E": {
+			"id": "BD2CC4C0DFE40131FFDC68A86D17958E",
+			"asnIdentifier": "S1042BC2",
+			"position": 14000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students identify the human and physical characteristics of the places they are studying and explain how those features form the unique character of those places.",
+			"ancestorIds": [
+				"BD2C32D0DFE40131FFDA68A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2C71F0DFE40131FFDB68A86D17958E": {
+			"id": "BD2C71F0DFE40131FFDB68A86D17958E",
+			"asnIdentifier": "S1042BC1",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students summarize the key events of the era they are studying and explain the historical contexts of those events.",
+			"ancestorIds": [
+				"BD2C32D0DFE40131FFDA68A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2C32D0DFE40131FFDA68A86D17958E": {
+			"id": "BD2C32D0DFE40131FFDA68A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 12000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2BF300DFE40131FFD968A86D17958E": {
+			"id": "BD2BF300DFE40131FFD968A86D17958E",
+			"asnIdentifier": "S1042BC0",
+			"position": 11000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students distinguish fact from fiction by comparing documentary sources on historical figures and events with fictionalized characters and events.",
+			"ancestorIds": [
+				"BD2B1F20DFE40131FFD668A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2BA280DFE40131FFD868A86D17958E": {
+			"id": "BD2BA280DFE40131FFD868A86D17958E",
+			"asnIdentifier": "S1042BBF",
+			"position": 10000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students pose relevant questions about events they encounter in historical documents, eyewitness accounts, oral histories, letters, diaries, artifacts, photographs, maps, artworks, and architecture.",
+			"ancestorIds": [
+				"BD2B1F20DFE40131FFD668A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2B60E0DFE40131FFD768A86D17958E": {
+			"id": "BD2B60E0DFE40131FFD768A86D17958E",
+			"asnIdentifier": "S1042BBE",
+			"position": 9000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students differentiate between primary and secondary sources.",
+			"ancestorIds": [
+				"BD2B1F20DFE40131FFD668A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2B1F20DFE40131FFD668A86D17958E": {
+			"id": "BD2B1F20DFE40131FFD668A86D17958E",
+			"asnIdentifier": "S1042BB7",
+			"position": 8000,
+			"depth": 1,
+			"description": "Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2AD3D0DFE40131FFD568A86D17958E": {
+			"id": "BD2AD3D0DFE40131FFD568A86D17958E",
+			"asnIdentifier": "S1042BBD",
+			"position": 7000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students judge the significance of the relative location of a place (e.g., proximity to a harbor, on trade routes) and analyze how relative advantages or disadvantages can change over time.",
+			"ancestorIds": [
+				"BD2933A0DFE40131FFD068A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2A62B0DFE40131FFD468A86D17958E": {
+			"id": "BD2A62B0DFE40131FFD468A86D17958E",
+			"asnIdentifier": "S1042BBC",
+			"position": 6000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students use map and globe skills to determine the absolute locations of places and interpret information available through a map's or globe's legend, scale, and symbolic representations.",
+			"ancestorIds": [
+				"BD2933A0DFE40131FFD068A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2A0450DFE40131FFD368A86D17958E": {
+			"id": "BD2A0450DFE40131FFD368A86D17958E",
+			"asnIdentifier": "S1042BBB",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students explain how the present is connected to the past, identifying both similarities and differences between the two, and how some things change over time and some things stay the same.",
+			"ancestorIds": [
+				"BD2933A0DFE40131FFD068A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD29BAE0DFE40131FFD268A86D17958E": {
+			"id": "BD29BAE0DFE40131FFD268A86D17958E",
+			"asnIdentifier": "S1042BBA",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students correctly apply terms related to time, including past, present, future, decade, century, and generation.",
+			"ancestorIds": [
+				"BD2933A0DFE40131FFD068A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2976D0DFE40131FFD168A86D17958E": {
+			"id": "BD2976D0DFE40131FFD168A86D17958E",
+			"asnIdentifier": "S1042BB9",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students place key events and people of the historical era they are studying in a chronological sequence and within a spatial context; they interpret time lines.",
+			"ancestorIds": [
+				"BD2933A0DFE40131FFD068A86D17958E",
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD2933A0DFE40131FFD068A86D17958E": {
+			"id": "BD2933A0DFE40131FFD068A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BD28E780DFE40131FFCF68A86D17958E"
+			]
+		},
+		"BD28E780DFE40131FFCF68A86D17958E": {
+			"id": "BD28E780DFE40131FFCF68A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

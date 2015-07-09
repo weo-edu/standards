@@ -1,0 +1,835 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-05",
+	"title": "Grade 5",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"05"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BDA7B9E0DFE4013100E368A86D17958E": {
+			"id": "BDA7B9E0DFE4013100E368A86D17958E",
+			"asnIdentifier": "S1042C05",
+			"position": 69000,
+			"depth": 1,
+			"listId": "5.9",
+			"description": "Students know the location of the current 50 states and the names of their capitals.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA77940DFE4013100E268A86D17958E": {
+			"id": "BDA77940DFE4013100E268A86D17958E",
+			"asnIdentifier": "S1043246",
+			"position": 68000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Relate how and when California, Texas, Oregon, and other western lands became part of the United States, including the significance of the Texas War for Independence and the Mexican-American War.",
+			"ancestorIds": [
+				"BDA5B1D0DFE4013100DC68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA73020DFE4013100E168A86D17958E": {
+			"id": "BDA73020DFE4013100E168A86D17958E",
+			"asnIdentifier": "S1043245",
+			"position": 67000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the continued migration of Mexican settlers into Mexican territories of the West and Southwest.",
+			"ancestorIds": [
+				"BDA5B1D0DFE4013100DC68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA6F0D0DFE4013100E068A86D17958E": {
+			"id": "BDA6F0D0DFE4013100E068A86D17958E",
+			"asnIdentifier": "S1043244",
+			"position": 66000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Discuss the experiences of settlers on the overland trails to the West (e.g., location of the routes; purpose of the journeys; the influence of the terrain, rivers, vegetation, and climate; life in the territories at the end of these trails).",
+			"ancestorIds": [
+				"BDA5B1D0DFE4013100DC68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA6AE30DFE4013100DF68A86D17958E": {
+			"id": "BDA6AE30DFE4013100DF68A86D17958E",
+			"asnIdentifier": "S1043243",
+			"position": 65000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Demonstrate knowledge of the explorations of the trans-Mississippi West following the Louisiana Purchase (e.g., Meriwether Lewis and William Clark, Zebulon Pike, John Fremont).",
+			"ancestorIds": [
+				"BDA5B1D0DFE4013100DC68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA660B0DFE4013100DE68A86D17958E": {
+			"id": "BDA660B0DFE4013100DE68A86D17958E",
+			"asnIdentifier": "S1043242",
+			"position": 64000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Name the states and territories that existed in 1850 and identify their locations and major geographical features (e.g., mountain ranges, principal rivers, dominant plant regions).",
+			"ancestorIds": [
+				"BDA5B1D0DFE4013100DC68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA61720DFE4013100DD68A86D17958E": {
+			"id": "BDA61720DFE4013100DD68A86D17958E",
+			"asnIdentifier": "S1043241",
+			"position": 63000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss the waves of immigrants from Europe between 1789 and 1850 and their modes of transportation into the Ohio and Mississippi Valleys and through the Cumberland Gap (e.g., overland wagons, canals, flatboats, steamboats).",
+			"ancestorIds": [
+				"BDA5B1D0DFE4013100DC68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA5B1D0DFE4013100DC68A86D17958E": {
+			"id": "BDA5B1D0DFE4013100DC68A86D17958E",
+			"asnIdentifier": "S1042C04",
+			"position": 62000,
+			"depth": 1,
+			"listId": "5.8",
+			"description": "Students trace the colonization, immigration, and settlement patterns of the American people from 1789 to the mid-1800s, with emphasis on the role of economic incentives, effects of the physical and political geography, and transportation systems.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA56030DFE4013100DB68A86D17958E": {
+			"id": "BDA56030DFE4013100DB68A86D17958E",
+			"asnIdentifier": "S1043240",
+			"position": 61000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Know the songs that express American ideals (e.g., \"America the Beautiful,\" \"The Star Spangled Banner\").",
+			"ancestorIds": [
+				"BDA39EA0DFE4013100D568A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA51FF0DFE4013100DA68A86D17958E": {
+			"id": "BDA51FF0DFE4013100DA68A86D17958E",
+			"asnIdentifier": "S104323F",
+			"position": 60000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss the meaning of the American creed that calls on citizens to safeguard the liberty of individual Americans within a unified nation, to respect the rule of law, and to preserve the Constitution.",
+			"ancestorIds": [
+				"BDA39EA0DFE4013100D568A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA4DEB0DFE4013100D968A86D17958E": {
+			"id": "BDA4DEB0DFE4013100D968A86D17958E",
+			"asnIdentifier": "S104323E",
+			"position": 59000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Understand how the Constitution is designed to secure our liberty by both empowering and limiting central government and compare the powers granted to citizens, Congress, the president, and the Supreme Court with those reserved to the states.",
+			"ancestorIds": [
+				"BDA39EA0DFE4013100D568A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA49B70DFE4013100D868A86D17958E": {
+			"id": "BDA49B70DFE4013100D868A86D17958E",
+			"asnIdentifier": "S104323D",
+			"position": 58000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the fundamental principles of American constitutional democracy, including how the government derives its power from the people and the primacy of individual liberty.",
+			"ancestorIds": [
+				"BDA39EA0DFE4013100D568A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA44920DFE4013100D768A86D17958E": {
+			"id": "BDA44920DFE4013100D768A86D17958E",
+			"asnIdentifier": "S104323C",
+			"position": 57000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Explain the significance of the new Constitution of 1787, including the struggles over its ratification and the reasons for the addition of the Bill of Rights.",
+			"ancestorIds": [
+				"BDA39EA0DFE4013100D568A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA3ED70DFE4013100D668A86D17958E": {
+			"id": "BDA3ED70DFE4013100D668A86D17958E",
+			"asnIdentifier": "S104323B",
+			"position": 56000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "List the shortcomings of the Articles of Confederation as set forth by their critics.",
+			"ancestorIds": [
+				"BDA39EA0DFE4013100D568A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA39EA0DFE4013100D568A86D17958E": {
+			"id": "BDA39EA0DFE4013100D568A86D17958E",
+			"asnIdentifier": "S1042C03",
+			"position": 55000,
+			"depth": 1,
+			"listId": "5.7",
+			"description": "Students describe the people and events associated with the development of the U.S. Constitution and analyze the Constitution's significance as the foundation of the American republic.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA35E30DFE4013100D468A86D17958E": {
+			"id": "BDA35E30DFE4013100D468A86D17958E",
+			"asnIdentifier": "S104323A",
+			"position": 54000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Understand how the ideals set forth in the Declaration of Independence changed the way people viewed slavery.",
+			"ancestorIds": [
+				"BDA183D0DFE4013100CD68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA31D40DFE4013100D368A86D17958E": {
+			"id": "BDA31D40DFE4013100D368A86D17958E",
+			"asnIdentifier": "S1043239",
+			"position": 53000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Demonstrate knowledge of the significance of land policies developed under the Continental Congress (e.g., sale of western lands, the North-west Ordinance of 1787) and those policies' impact on American Indians' land.",
+			"ancestorIds": [
+				"BDA183D0DFE4013100CD68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA2DE70DFE4013100D268A86D17958E": {
+			"id": "BDA2DE70DFE4013100D268A86D17958E",
+			"asnIdentifier": "S1043238",
+			"position": 52000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Explain how state constitutions that were established after 1776 embodied the ideals of the American Revolution and helped serve as models for the U.S. Constitution.",
+			"ancestorIds": [
+				"BDA183D0DFE4013100CD68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA29E70DFE4013100D168A86D17958E": {
+			"id": "BDA29E70DFE4013100D168A86D17958E",
+			"asnIdentifier": "S1043237",
+			"position": 51000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Understand the personal impact and economic hardship of the war on families, problems of financing the war, wartime inflation, and laws against hoarding goods and materials and profiteering.",
+			"ancestorIds": [
+				"BDA183D0DFE4013100CD68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA25CD0DFE4013100D068A86D17958E": {
+			"id": "BDA25CD0DFE4013100D068A86D17958E",
+			"asnIdentifier": "S1043236",
+			"position": 50000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Identify the different roles women played during the Revolution (e.g., Abigail Adams, Martha Washington, Molly Pitcher, Phillis Wheatley, Mercy Otis Warren).",
+			"ancestorIds": [
+				"BDA183D0DFE4013100CD68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA21790DFE4013100CF68A86D17958E": {
+			"id": "BDA21790DFE4013100CF68A86D17958E",
+			"asnIdentifier": "S1043235",
+			"position": 49000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the contributions of France and other nations and of individuals to the outcome of the Revolution (e.g., Benjamin Franklin's negotiations with the French, the French navy, the Treaty of Paris, The Netherlands, Russia, the Marquis Marie Joseph de Lafayette, Tadeusz Kósciuszko, Baron Friedrich Wilhelm von Steuben).",
+			"ancestorIds": [
+				"BDA183D0DFE4013100CD68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA1C7B0DFE4013100CE68A86D17958E": {
+			"id": "BDA1C7B0DFE4013100CE68A86D17958E",
+			"asnIdentifier": "S1043234",
+			"position": 48000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Identify and map the major military battles, campaigns, and turning points of the Revolutionary War, the roles of the American and British leaders, and the Indian leaders' alliances on both sides.",
+			"ancestorIds": [
+				"BDA183D0DFE4013100CD68A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA183D0DFE4013100CD68A86D17958E": {
+			"id": "BDA183D0DFE4013100CD68A86D17958E",
+			"asnIdentifier": "S1042C02",
+			"position": 47000,
+			"depth": 1,
+			"listId": "5.6",
+			"description": "Students understand the course and consequences of the American Revolution.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA13740DFE4013100CC68A86D17958E": {
+			"id": "BDA13740DFE4013100CC68A86D17958E",
+			"asnIdentifier": "S1043233",
+			"position": 46000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe the views, lives, and impact of key individuals during this period (e.g., King George III, Patrick Henry, Thomas Jefferson, George Washington, Benjamin Franklin, John Adams).",
+			"ancestorIds": [
+				"BD9FFC60DFE4013100C868A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA0EE00DFE4013100CB68A86D17958E": {
+			"id": "BDA0EE00DFE4013100CB68A86D17958E",
+			"asnIdentifier": "S1043232",
+			"position": 45000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the people and events associated with the drafting and signing of the Declaration of Independence and the document's significance, including the key political concepts it embodies, the origins of those concepts, and its role in severing ties with Great Britain.",
+			"ancestorIds": [
+				"BD9FFC60DFE4013100C868A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA09AE0DFE4013100CA68A86D17958E": {
+			"id": "BDA09AE0DFE4013100CA68A86D17958E",
+			"asnIdentifier": "S1043231",
+			"position": 44000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Know the significance of the first and second Continental Congresses and of the Committees of Correspondence.",
+			"ancestorIds": [
+				"BD9FFC60DFE4013100C868A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BDA04B60DFE4013100C968A86D17958E": {
+			"id": "BDA04B60DFE4013100C968A86D17958E",
+			"asnIdentifier": "S1043230",
+			"position": 43000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Understand how political, religious, and economic ideas and interests brought about the Revolution (e.g., resistance to imperial policy, the Stamp Act, the Townshend Acts, taxes on tea, Coercive Acts).",
+			"ancestorIds": [
+				"BD9FFC60DFE4013100C868A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9FFC60DFE4013100C868A86D17958E": {
+			"id": "BD9FFC60DFE4013100C868A86D17958E",
+			"asnIdentifier": "S1042C01",
+			"position": 42000,
+			"depth": 1,
+			"listId": "5.5",
+			"description": "Students explain the causes of the American Revolution.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9FB6D0DFE4013100C768A86D17958E": {
+			"id": "BD9FB6D0DFE4013100C768A86D17958E",
+			"asnIdentifier": "S104322F",
+			"position": 41000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Explain the early democratic ideas and practices that emerged during the colonial period, including the significance of representative assem°blies and town meetings.",
+			"ancestorIds": [
+				"BD9D93A0DFE4013100C068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9F7100DFE4013100C668A86D17958E": {
+			"id": "BD9F7100DFE4013100C668A86D17958E",
+			"asnIdentifier": "S104322E",
+			"position": 40000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Describe the introduction of slavery into America, the responses of slave families to their condition, the ongoing struggle between propo°nents and opponents of slavery, and the gradual institutionalization of slavery in the South.",
+			"ancestorIds": [
+				"BD9D93A0DFE4013100C068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9F2A50DFE4013100C568A86D17958E": {
+			"id": "BD9F2A50DFE4013100C568A86D17958E",
+			"asnIdentifier": "S104322D",
+			"position": 39000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Understand how the British colonial period created the basis for the development of political self-government and a free-market economic system and the differences between the British, Spanish, and French colonial systems.",
+			"ancestorIds": [
+				"BD9D93A0DFE4013100C068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9EE150DFE4013100C468A86D17958E": {
+			"id": "BD9EE150DFE4013100C468A86D17958E",
+			"asnIdentifier": "S104322C",
+			"position": 38000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Identify the significance and leaders of the First Great Awakening, which marked a shift in religious ideas, practices, and allegiances in the colonial period, the growth of religious toleration, and free exercise of religion.",
+			"ancestorIds": [
+				"BD9D93A0DFE4013100C068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9E8000DFE4013100C368A86D17958E": {
+			"id": "BD9E8000DFE4013100C368A86D17958E",
+			"asnIdentifier": "S104322B",
+			"position": 37000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the religious aspects of the earliest colonies (e.g., Puritanism in Massachusetts, Anglicanism in Virginia, Catholicism in Maryland, Quakerism in Pennsylvania).",
+			"ancestorIds": [
+				"BD9D93A0DFE4013100C068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9E2270DFE4013100C268A86D17958E": {
+			"id": "BD9E2270DFE4013100C268A86D17958E",
+			"asnIdentifier": "S104322A",
+			"position": 36000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Identify the major individuals and groups responsible for the founding of the various colonies and the reasons for their founding (e.g., John Smith, Virginia; Roger Williams, Rhode Island; William Penn, Pennsylvania; Lord Baltimore, Maryland; William Bradford, Plymouth; John Winthrop, Massachusetts).",
+			"ancestorIds": [
+				"BD9D93A0DFE4013100C068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9DD470DFE4013100C168A86D17958E": {
+			"id": "BD9DD470DFE4013100C168A86D17958E",
+			"asnIdentifier": "S1043229",
+			"position": 35000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Understand the influence of location and physical setting on the founding of the original 13 colonies, and identify on a map the locations of the colonies and of the American Indian nations already inhabiting these areas.",
+			"ancestorIds": [
+				"BD9D93A0DFE4013100C068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9D93A0DFE4013100C068A86D17958E": {
+			"id": "BD9D93A0DFE4013100C068A86D17958E",
+			"asnIdentifier": "S1042C00",
+			"position": 34000,
+			"depth": 1,
+			"listId": "5.4",
+			"description": "Students understand the political, religious, social, and economic institutions that evolved in the colonial era.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9D5430DFE4013100BF68A86D17958E": {
+			"id": "BD9D5430DFE4013100BF68A86D17958E",
+			"asnIdentifier": "S1043228",
+			"position": 33000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Explain the influence and achievements of significant leaders of the time (e.g., John Marshall, Andrew Jackson, Chief Tecumseh, Chief Logan, Chief John Ross, Sequoyah).",
+			"ancestorIds": [
+				"BD9BB940DFE4013100B968A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9D11D0DFE4013100BE68A86D17958E": {
+			"id": "BD9D11D0DFE4013100BE68A86D17958E",
+			"asnIdentifier": "S1043227",
+			"position": 32000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the internecine Indian conflicts, including the competing claims for control of lands (e.g., actions of the Iroquois, Huron, Lakota [Sioux]).",
+			"ancestorIds": [
+				"BD9BB940DFE4013100B968A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9CCB50DFE4013100BD68A86D17958E": {
+			"id": "BD9CCB50DFE4013100BD68A86D17958E",
+			"asnIdentifier": "S1043226",
+			"position": 31000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Discuss the role of broken treaties and massacres and the factors that led to the Indians' defeat, including the resistance of Indian nations to encroachments and assimilation (e.g., the story of the Trail of Tears).",
+			"ancestorIds": [
+				"BD9BB940DFE4013100B968A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9C7EC0DFE4013100BC68A86D17958E": {
+			"id": "BD9C7EC0DFE4013100BC68A86D17958E",
+			"asnIdentifier": "S1043225",
+			"position": 30000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Examine the conflicts before the Revolutionary War (e.g., the Pequot and King Philip's Wars in New England, the Powhatan Wars in Virginia, the French and Indian War).",
+			"ancestorIds": [
+				"BD9BB940DFE4013100B968A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9C3D00DFE4013100BB68A86D17958E": {
+			"id": "BD9C3D00DFE4013100BB68A86D17958E",
+			"asnIdentifier": "S1043224",
+			"position": 29000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the cooperation that existed between the colonists and Indians during the 1600s and 1700s (e.g., in agriculture, the fur trade, military alliances, treaties, cultural interchanges).",
+			"ancestorIds": [
+				"BD9BB940DFE4013100B968A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9BFB80DFE4013100BA68A86D17958E": {
+			"id": "BD9BFB80DFE4013100BA68A86D17958E",
+			"asnIdentifier": "S1043223",
+			"position": 28000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the competition among the English, French, Spanish, Dutch, and Indian nations for control of North America.",
+			"ancestorIds": [
+				"BD9BB940DFE4013100B968A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9BB940DFE4013100B968A86D17958E": {
+			"id": "BD9BB940DFE4013100B968A86D17958E",
+			"asnIdentifier": "S1042BFF",
+			"position": 27000,
+			"depth": 1,
+			"listId": "5.3",
+			"description": "Students describe the cooperation and conflict that existed among the American Indians and between the Indian nations and the new settlers.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9B7700DFE4013100B868A86D17958E": {
+			"id": "BD9B7700DFE4013100B868A86D17958E",
+			"asnIdentifier": "S1043222",
+			"position": 26000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Locate on maps of North and South America land claimed by Spain, France, England, Portugal, the Netherlands, Sweden, and Russia.",
+			"ancestorIds": [
+				"BD9A5260DFE4013100B468A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9B34E0DFE4013100B768A86D17958E": {
+			"id": "BD9B34E0DFE4013100B768A86D17958E",
+			"asnIdentifier": "S1043221",
+			"position": 25000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Trace the routes of the major land explorers of the United States, the distances traveled by explorers, and the Atlantic trade routes that linked Africa, the West Indies, the British colonies, and Europe.",
+			"ancestorIds": [
+				"BD9A5260DFE4013100B468A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9AEE90DFE4013100B668A86D17958E": {
+			"id": "BD9AEE90DFE4013100B668A86D17958E",
+			"asnIdentifier": "S1043220",
+			"position": 24000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Explain the aims, obstacles, and accomplishments of the explorers, sponsors, and leaders of key European expeditions and the reasons Europeans chose to explore and colonize the world (e.g., the Spanish Reconquista, the Protestant Reformation, the Counter Reformation).",
+			"ancestorIds": [
+				"BD9A5260DFE4013100B468A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9A9910DFE4013100B568A86D17958E": {
+			"id": "BD9A9910DFE4013100B568A86D17958E",
+			"asnIdentifier": "S104321F",
+			"position": 23000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the entrepreneurial characteristics of early explorers (e.g., Christopher Columbus, Francisco Vásquez de Coronado) and the technological developments that made sea exploration by latitude and longitude possible (e.g., compass, sextant, astrolabe, seaworthy ships, chronometers, gunpowder).",
+			"ancestorIds": [
+				"BD9A5260DFE4013100B468A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9A5260DFE4013100B468A86D17958E": {
+			"id": "BD9A5260DFE4013100B468A86D17958E",
+			"asnIdentifier": "S1042BFE",
+			"position": 22000,
+			"depth": 1,
+			"listId": "5.2",
+			"description": "Students trace the routes of early explorers and describe the early explorations of the Americas.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9A0C10DFE4013100B368A86D17958E": {
+			"id": "BD9A0C10DFE4013100B368A86D17958E",
+			"asnIdentifier": "S104321E",
+			"position": 21000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain their varied economies and systems of government.",
+			"ancestorIds": [
+				"BD992260DFE4013100B068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD99C490DFE4013100B268A86D17958E": {
+			"id": "BD99C490DFE4013100B268A86D17958E",
+			"asnIdentifier": "S104321D",
+			"position": 20000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe their varied customs and folklore traditions.",
+			"ancestorIds": [
+				"BD992260DFE4013100B068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD9974A0DFE4013100B168A86D17958E": {
+			"id": "BD9974A0DFE4013100B168A86D17958E",
+			"asnIdentifier": "S104321C",
+			"position": 19000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe how geography and climate influenced the way various nations lived and adjusted to the natural environment, including locations of villages, the distinct structures that they built, and how they obtained food, clothing, tools, and utensils.",
+			"ancestorIds": [
+				"BD992260DFE4013100B068A86D17958E",
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD992260DFE4013100B068A86D17958E": {
+			"id": "BD992260DFE4013100B068A86D17958E",
+			"asnIdentifier": "S1042BFD",
+			"position": 18000,
+			"depth": 1,
+			"listId": "5.1",
+			"description": "Students describe the major pre-Columbian settlements, including the cliff dwellers and pueblo people of the desert Southwest, the American Indians of the Pacific Northwest, the nomadic nations of the Great Plains, and the woodland peoples east of the Mississippi River.",
+			"ancestorIds": [
+				"BD98A870DFE4013100AF68A86D17958E"
+			]
+		},
+		"BD98A870DFE4013100AF68A86D17958E": {
+			"id": "BD98A870DFE4013100AF68A86D17958E",
+			"asnIdentifier": "S1042BB5",
+			"position": 17000,
+			"depth": 0,
+			"description": "United States History and Geography: Making a New Nation",
+			"ancestorIds": [
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD983E80DFE4013100AE68A86D17958E": {
+			"id": "BD983E80DFE4013100AE68A86D17958E",
+			"asnIdentifier": "S1042BC4",
+			"position": 16000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students conduct cost-benefit analyses of historical and current events.",
+			"ancestorIds": [
+				"BD972880DFE4013100AA68A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD97F2A0DFE4013100AD68A86D17958E": {
+			"id": "BD97F2A0DFE4013100AD68A86D17958E",
+			"asnIdentifier": "S1042BC3",
+			"position": 15000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students identify and interpret the multiple causes and effects of historical events.",
+			"ancestorIds": [
+				"BD972880DFE4013100AA68A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD97B1F0DFE4013100AC68A86D17958E": {
+			"id": "BD97B1F0DFE4013100AC68A86D17958E",
+			"asnIdentifier": "S1042BC2",
+			"position": 14000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students identify the human and physical characteristics of the places they are studying and explain how those features form the unique character of those places.",
+			"ancestorIds": [
+				"BD972880DFE4013100AA68A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD976F50DFE4013100AB68A86D17958E": {
+			"id": "BD976F50DFE4013100AB68A86D17958E",
+			"asnIdentifier": "S1042BC1",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students summarize the key events of the era they are studying and explain the historical contexts of those events.",
+			"ancestorIds": [
+				"BD972880DFE4013100AA68A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD972880DFE4013100AA68A86D17958E": {
+			"id": "BD972880DFE4013100AA68A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 12000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD96D770DFE4013100A968A86D17958E": {
+			"id": "BD96D770DFE4013100A968A86D17958E",
+			"asnIdentifier": "S1042BC0",
+			"position": 11000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students distinguish fact from fiction by comparing documentary sources on historical figures and events with fictionalized characters and events.",
+			"ancestorIds": [
+				"BD95F850DFE4013100A668A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD968290DFE4013100A868A86D17958E": {
+			"id": "BD968290DFE4013100A868A86D17958E",
+			"asnIdentifier": "S1042BBF",
+			"position": 10000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students pose relevant questions about events they encounter in historical documents, eyewitness accounts, oral histories, letters, diaries, artifacts, photographs, maps, artworks, and architecture.",
+			"ancestorIds": [
+				"BD95F850DFE4013100A668A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD963810DFE4013100A768A86D17958E": {
+			"id": "BD963810DFE4013100A768A86D17958E",
+			"asnIdentifier": "S1042BBE",
+			"position": 9000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students differentiate between primary and secondary sources.",
+			"ancestorIds": [
+				"BD95F850DFE4013100A668A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD95F850DFE4013100A668A86D17958E": {
+			"id": "BD95F850DFE4013100A668A86D17958E",
+			"asnIdentifier": "S1042BB7",
+			"position": 8000,
+			"depth": 1,
+			"description": "Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD95B670DFE4013100A568A86D17958E": {
+			"id": "BD95B670DFE4013100A568A86D17958E",
+			"asnIdentifier": "S1042BBD",
+			"position": 7000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students judge the significance of the relative location of a place (e.g., proximity to a harbor, on trade routes) and analyze how relative advantages or disadvantages can change over time.",
+			"ancestorIds": [
+				"BD9446D0DFE4013100A068A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD956D40DFE4013100A468A86D17958E": {
+			"id": "BD956D40DFE4013100A468A86D17958E",
+			"asnIdentifier": "S1042BBC",
+			"position": 6000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students use map and globe skills to determine the absolute locations of places and interpret information available through a map's or globe's legend, scale, and symbolic representations.",
+			"ancestorIds": [
+				"BD9446D0DFE4013100A068A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD952440DFE4013100A368A86D17958E": {
+			"id": "BD952440DFE4013100A368A86D17958E",
+			"asnIdentifier": "S1042BBB",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students explain how the present is connected to the past, identifying both similarities and differences between the two, and how some things change over time and some things stay the same.",
+			"ancestorIds": [
+				"BD9446D0DFE4013100A068A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD94DF90DFE4013100A268A86D17958E": {
+			"id": "BD94DF90DFE4013100A268A86D17958E",
+			"asnIdentifier": "S1042BBA",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students correctly apply terms related to time, including past, present, future, decade, century, and generation.",
+			"ancestorIds": [
+				"BD9446D0DFE4013100A068A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD9497F0DFE4013100A168A86D17958E": {
+			"id": "BD9497F0DFE4013100A168A86D17958E",
+			"asnIdentifier": "S1042BB9",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students place key events and people of the historical era they are studying in a chronological sequence and within a spatial context; they interpret time lines.",
+			"ancestorIds": [
+				"BD9446D0DFE4013100A068A86D17958E",
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD9446D0DFE4013100A068A86D17958E": {
+			"id": "BD9446D0DFE4013100A068A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BD93CDD0DFE40131009F68A86D17958E"
+			]
+		},
+		"BD93CDD0DFE40131009F68A86D17958E": {
+			"id": "BD93CDD0DFE40131009F68A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

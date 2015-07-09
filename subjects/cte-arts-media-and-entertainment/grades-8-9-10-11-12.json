@@ -1,0 +1,4388 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2537293_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Arts, Media, and Entertainment",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "JES & Co."
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2537293",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Arts, Media, and Entertainment",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/artsmedia.pdf",
+		"asnIdentifier": "D2537293",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"9760173EEF984CECBDC0C5C8110EE961": {
+			"id": "9760173EEF984CECBDC0C5C8110EE961",
+			"asnIdentifier": "S2537868",
+			"position": 318000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.8",
+			"description": "Demonstrate a professional level of written and oral communication as necessary in the game industry.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4D7A6DF168E94189B9F5C285B676AD1C": {
+			"id": "4D7A6DF168E94189B9F5C285B676AD1C",
+			"asnIdentifier": "S2537867",
+			"position": 317000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.7",
+			"description": "Apply listening, speaking, and collaborative communication skills to effectively convey information.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5CB59C4962D442D9B58287BF049B5BD6": {
+			"id": "5CB59C4962D442D9B58287BF049B5BD6",
+			"asnIdentifier": "S2537866",
+			"position": 316000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.6",
+			"description": "Test and debug the completed game.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"48917F1B15A1411A9B0DF3C5147579B3": {
+			"id": "48917F1B15A1411A9B0DF3C5147579B3",
+			"asnIdentifier": "S2537865",
+			"position": 315000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.5",
+			"description": "Create sound and music to enhance the game experience.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"8E1A9EA5A0C54331AB2DCD8FCF883AAC": {
+			"id": "8E1A9EA5A0C54331AB2DCD8FCF883AAC",
+			"asnIdentifier": "S2537864",
+			"position": 314000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.4",
+			"description": "Create and use animated objects in a game.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B93385106FB144659D3A536DAC012EB7": {
+			"id": "B93385106FB144659D3A536DAC012EB7",
+			"asnIdentifier": "S2537863",
+			"position": 313000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.3",
+			"description": "Use computer tools to create game programming, art, and audio.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A1BB92D24DB44A30AE738745FAB1CE63": {
+			"id": "A1BB92D24DB44A30AE738745FAB1CE63",
+			"asnIdentifier": "S2537862",
+			"position": 312000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.2",
+			"description": "Solicit and accept constructive criticism.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6D87CCCBFEB844AC8CB8318BFBADD9C8": {
+			"id": "6D87CCCBFEB844AC8CB8318BFBADD9C8",
+			"asnIdentifier": "S2537861",
+			"position": 311000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D10.1",
+			"description": "Use design documents to create a game design production plan.",
+			"ancestorIds": [
+				"65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"65EFFA54D19C4E6F870CBB4EBFA2B3E3": {
+			"id": "65EFFA54D19C4E6F870CBB4EBFA2B3E3",
+			"asnIdentifier": "S2537860",
+			"position": 310000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D10.0",
+			"description": "Students will build a game that demonstrates teamwork and project management by creating a game design production plan that describes the game play, outcomes, controls, rewards, interface, and artistic style of a video game.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"7E75C45DB9334F88907D430E5A457F68": {
+			"id": "7E75C45DB9334F88907D430E5A457F68",
+			"asnIdentifier": "S2537859",
+			"position": 309000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.6",
+			"description": "Create a resume and use it during a mock interview. At the end of the interview process, apply negotiation skills as they relate to salary and benefits packages.",
+			"ancestorIds": [
+				"A2586BB81B944E2AB74C7A6D96CA4065",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"EF86E7F4A9F14FA3B4AD4A7A3BD7F457": {
+			"id": "EF86E7F4A9F14FA3B4AD4A7A3BD7F457",
+			"asnIdentifier": "S2537858",
+			"position": 308000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.5",
+			"description": "Investigate the common employment contracts in the game industry, such as Nondisclosure Agreements, \"Work for Hire\" agreements, and \"Noncompete\" clauses.",
+			"ancestorIds": [
+				"A2586BB81B944E2AB74C7A6D96CA4065",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"21FB2A57C2B24F479F21FBA6FD6E08BB": {
+			"id": "21FB2A57C2B24F479F21FBA6FD6E08BB",
+			"asnIdentifier": "S2537857",
+			"position": 307000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.4",
+			"description": "Analyze job and career requirements as related to career interests and opportunities in the game industry.",
+			"ancestorIds": [
+				"A2586BB81B944E2AB74C7A6D96CA4065",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0786AAB057F0452EB7A89B21468641C7": {
+			"id": "0786AAB057F0452EB7A89B21468641C7",
+			"asnIdentifier": "S2537856",
+			"position": 306000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.3",
+			"description": "Use personal assessment tools to identify personal and professional strengths and weaknesses.",
+			"ancestorIds": [
+				"A2586BB81B944E2AB74C7A6D96CA4065",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A19B3F73F3404F929E3ADFD4A891CE36": {
+			"id": "A19B3F73F3404F929E3ADFD4A891CE36",
+			"asnIdentifier": "S2537855",
+			"position": 305000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.2",
+			"description": "Investigate how the skills acquired in game design/development can be applied to other industries.",
+			"ancestorIds": [
+				"A2586BB81B944E2AB74C7A6D96CA4065",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F42FDE76522E4E1F8757957B4C5EAAF4": {
+			"id": "F42FDE76522E4E1F8757957B4C5EAAF4",
+			"asnIdentifier": "S2537854",
+			"position": 304000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D9.1",
+			"description": "Demonstrate personal and interpersonal skills appropriate for the workplace, such as responsibility, dependability, punctuality, positive attitude, initiative, respect for self and others, and professional dress.",
+			"ancestorIds": [
+				"A2586BB81B944E2AB74C7A6D96CA4065",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A2586BB81B944E2AB74C7A6D96CA4065": {
+			"id": "A2586BB81B944E2AB74C7A6D96CA4065",
+			"asnIdentifier": "S2537853",
+			"position": 303000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D9.0",
+			"description": "Identify career goals and develop a career plan that explores employment opportunities in the video game industry.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"DDA0D6664B5640A292D0E189771FBFEE": {
+			"id": "DDA0D6664B5640A292D0E189771FBFEE",
+			"asnIdentifier": "S2537852",
+			"position": 302000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.7",
+			"description": "Design a game you believe will have positive impact on the world.",
+			"ancestorIds": [
+				"6C4881CFEDB9429980AF9FBD04A6BF4F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5E83848CF3414F7287750EF4737FA845": {
+			"id": "5E83848CF3414F7287750EF4737FA845",
+			"asnIdentifier": "S2537851",
+			"position": 301000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.6",
+			"description": "Explore and discuss the impact of video games on the economy.",
+			"ancestorIds": [
+				"6C4881CFEDB9429980AF9FBD04A6BF4F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6A05669451764C28A7C529246739542D": {
+			"id": "6A05669451764C28A7C529246739542D",
+			"asnIdentifier": "S2537850",
+			"position": 300000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.5",
+			"description": "Describe how frequent exposure and/or access to video games has reshaped the level of technical proficiency of our workforce.",
+			"ancestorIds": [
+				"6C4881CFEDB9429980AF9FBD04A6BF4F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"629B3D4B1AEB41B69ED4151D6AAE484C": {
+			"id": "629B3D4B1AEB41B69ED4151D6AAE484C",
+			"asnIdentifier": "S2537849",
+			"position": 299000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.4",
+			"description": "Compare and contrast the different opinions on the effects of games on behavior, cognitive development, and motor skills.",
+			"ancestorIds": [
+				"6C4881CFEDB9429980AF9FBD04A6BF4F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0E3CD8D4A9F341DCA734D4C65D5DC9FD": {
+			"id": "0E3CD8D4A9F341DCA734D4C65D5DC9FD",
+			"asnIdentifier": "S2537848",
+			"position": 298000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.3",
+			"description": "Describe the benefits of games and simulations, including online economies and community building.",
+			"ancestorIds": [
+				"6C4881CFEDB9429980AF9FBD04A6BF4F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"010488C4FECA4C09A11D28BC1F492398": {
+			"id": "010488C4FECA4C09A11D28BC1F492398",
+			"asnIdentifier": "S2537847",
+			"position": 297000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.2",
+			"description": "Investigate and discuss how play can help humans acquire knowledge and social skills.",
+			"ancestorIds": [
+				"6C4881CFEDB9429980AF9FBD04A6BF4F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"244E8803492849779840E8E4E43F4799": {
+			"id": "244E8803492849779840E8E4E43F4799",
+			"asnIdentifier": "S2537846",
+			"position": 296000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.1",
+			"description": "Discuss the word \"play\" and its many definitions.",
+			"ancestorIds": [
+				"6C4881CFEDB9429980AF9FBD04A6BF4F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6C4881CFEDB9429980AF9FBD04A6BF4F": {
+			"id": "6C4881CFEDB9429980AF9FBD04A6BF4F",
+			"asnIdentifier": "S2537845",
+			"position": 295000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D8.0",
+			"description": "Understand the impact of games and the role of play in human culture. Analyze the ethics and global impact of the game industry.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9DADC12F3C764ADC8700ADAE5100A6F2": {
+			"id": "9DADC12F3C764ADC8700ADAE5100A6F2",
+			"asnIdentifier": "S2537844",
+			"position": 294000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.10",
+			"description": "Create a plan for a game to target a specific audience within three different countries while adhering to their governments' rating systems.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"19E0AAFBD9E04BE7A0270B56733D06BB": {
+			"id": "19E0AAFBD9E04BE7A0270B56733D06BB",
+			"asnIdentifier": "S2537843",
+			"position": 293000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.9",
+			"description": "Evaluate how video games adhere to government rating systems.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B44EED2260E14A71929B783F9613705A": {
+			"id": "B44EED2260E14A71929B783F9613705A",
+			"asnIdentifier": "S2537842",
+			"position": 292000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.8",
+			"description": "Explore and describe the effects of globalization on the design and production of video games.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1BE69DFA3B73430FA43C0C19627665DF": {
+			"id": "1BE69DFA3B73430FA43C0C19627665DF",
+			"asnIdentifier": "S2537841",
+			"position": 291000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.7",
+			"description": "Evaluate game journalism and professional reviews in terms of bias.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"17CE0D0EEDD44D00B68A6FE19C0129BD": {
+			"id": "17CE0D0EEDD44D00B68A6FE19C0129BD",
+			"asnIdentifier": "S2537840",
+			"position": 290000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.6",
+			"description": "Discuss the relationships between publishers, developers, distributors, marketers, and retailers.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6DAA3414B7774FF8A162477EE8A30B83": {
+			"id": "6DAA3414B7774FF8A162477EE8A30B83",
+			"asnIdentifier": "S2537839",
+			"position": 289000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.5",
+			"description": "Understand the role community management plays in marketing and business models.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D00607F908CE42C6A4A5A554E31E8E9F": {
+			"id": "D00607F908CE42C6A4A5A554E31E8E9F",
+			"asnIdentifier": "S2537838",
+			"position": 288000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.4",
+			"description": "Understand the components of marketing campaigns for games, including advertising in traditional and social media.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"50EE0D9FB7274F89B7007C63F8BE900E": {
+			"id": "50EE0D9FB7274F89B7007C63F8BE900E",
+			"asnIdentifier": "S2537837",
+			"position": 287000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.3",
+			"description": "Identify successful business models and analyze various facets of those models, such as market analysis, marketing strategy, and product value.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F719E1A29B614B3293587275313885A0": {
+			"id": "F719E1A29B614B3293587275313885A0",
+			"asnIdentifier": "S2537836",
+			"position": 286000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.2",
+			"description": "Identify and describe licensing management for different game platforms, tools, and intellectual properties.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"00005CC3E51448ADB3CFBC29771AF97A": {
+			"id": "00005CC3E51448ADB3CFBC29771AF97A",
+			"asnIdentifier": "S2537835",
+			"position": 285000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.1",
+			"description": "Identify, define, and discuss the different ways games are funded, distributed, marketed, and sold.",
+			"ancestorIds": [
+				"9C5FF8AB57FE49748D45C265FF59F47B",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9C5FF8AB57FE49748D45C265FF59F47B": {
+			"id": "9C5FF8AB57FE49748D45C265FF59F47B",
+			"asnIdentifier": "S2537834",
+			"position": 284000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D7.0",
+			"description": "Understand the fundamentals of business and marketing, including entrepreneurship, global marketing, and localization.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"725DD4FABF1B40F1BC693A1A5F214B7F": {
+			"id": "725DD4FABF1B40F1BC693A1A5F214B7F",
+			"asnIdentifier": "S2537833",
+			"position": 283000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.7",
+			"description": "Create a set of original design documents and build a small game.",
+			"ancestorIds": [
+				"65E9058B4EB74D0EA3B0C8993064CC9C",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"BC0E176FBEC643028D809D7B6C317C7E": {
+			"id": "BC0E176FBEC643028D809D7B6C317C7E",
+			"asnIdentifier": "S2537832",
+			"position": 282000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.6",
+			"description": "Compare and contrast common uses of different game development tools.",
+			"ancestorIds": [
+				"65E9058B4EB74D0EA3B0C8993064CC9C",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"23E522B381FE492581CCCFFC2E630C6D": {
+			"id": "23E522B381FE492581CCCFFC2E630C6D",
+			"asnIdentifier": "S2537831",
+			"position": 281000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.5",
+			"description": "Describe the importance and interrelationship between development schedule and budget constraints in a video game design project.",
+			"ancestorIds": [
+				"65E9058B4EB74D0EA3B0C8993064CC9C",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"BCCC13E776DA4EB6A0F9104A517C398A": {
+			"id": "BCCC13E776DA4EB6A0F9104A517C398A",
+			"asnIdentifier": "S2537830",
+			"position": 280000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.4",
+			"description": "Enumerate individual tasks of a project using basic time management skills to complete each task and track its completion.",
+			"ancestorIds": [
+				"65E9058B4EB74D0EA3B0C8993064CC9C",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"18815825CBBD476C97A8A0B5859F5867": {
+			"id": "18815825CBBD476C97A8A0B5859F5867",
+			"asnIdentifier": "S2537829",
+			"position": 279000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.3",
+			"description": "Develop design plans, character sketches, documentation, and storyboards for proposed games.",
+			"ancestorIds": [
+				"65E9058B4EB74D0EA3B0C8993064CC9C",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5C9B1C1AA3D64E2EBBB3A4AA4A466E56": {
+			"id": "5C9B1C1AA3D64E2EBBB3A4AA4A466E56",
+			"asnIdentifier": "S2537828",
+			"position": 278000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.2",
+			"description": "Discuss the iterative nature of game and simulation design.",
+			"ancestorIds": [
+				"65E9058B4EB74D0EA3B0C8993064CC9C",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"FE678961394942B596B6D4F69050BEEB": {
+			"id": "FE678961394942B596B6D4F69050BEEB",
+			"asnIdentifier": "S2537827",
+			"position": 277000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.1",
+			"description": "Identify processes of design and development from concept to production, including content creation, filling team roles, design documentation, communication, and scheduling for video game design teams.",
+			"ancestorIds": [
+				"65E9058B4EB74D0EA3B0C8993064CC9C",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"65E9058B4EB74D0EA3B0C8993064CC9C": {
+			"id": "65E9058B4EB74D0EA3B0C8993064CC9C",
+			"asnIdentifier": "S2537826",
+			"position": 276000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D6.0",
+			"description": "Understand the general procedures, documentation, and requirements of large scale game design projects. Examine and categorize the significant processes in the production of games.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"91A3C7BE570D4C66866D8E883E8A28AE": {
+			"id": "91A3C7BE570D4C66866D8E883E8A28AE",
+			"asnIdentifier": "S2537825",
+			"position": 275000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.6",
+			"description": "Test a classmate's game project and create a bug report for the game. For each error submitted, write steps in sufficient detail so it is identifiable and reproducible to the developer. Use a metric to identify how critical the error is based on its negative impact on game play.",
+			"ancestorIds": [
+				"1A797BCA53DD44749D10624DD8037CE8",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"7A2590B9468245FCAE714F50BD4E41EC": {
+			"id": "7A2590B9468245FCAE714F50BD4E41EC",
+			"asnIdentifier": "S2537824",
+			"position": 274000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.5",
+			"description": "Demonstrate technical reading and writing skills.",
+			"ancestorIds": [
+				"1A797BCA53DD44749D10624DD8037CE8",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"FB2D4DE11D814AF899E2823E6073E9B0": {
+			"id": "FB2D4DE11D814AF899E2823E6073E9B0",
+			"asnIdentifier": "S2537823",
+			"position": 273000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.4",
+			"description": "Evaluate games in terms of accessibility issues.",
+			"ancestorIds": [
+				"1A797BCA53DD44749D10624DD8037CE8",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B0C55BF61B4B4E9BBBE16C23B877A902": {
+			"id": "B0C55BF61B4B4E9BBBE16C23B877A902",
+			"asnIdentifier": "S2537822",
+			"position": 272000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.3",
+			"description": "Compare and contrast the differences between functionality and usability of software.",
+			"ancestorIds": [
+				"1A797BCA53DD44749D10624DD8037CE8",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F122F3F8186340E6BADA6DFE737599F5": {
+			"id": "F122F3F8186340E6BADA6DFE737599F5",
+			"asnIdentifier": "S2537821",
+			"position": 271000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.2",
+			"description": "Identify the key elements in a game and make intelligent judgments about whether the game succeeded or failed in its objectives.",
+			"ancestorIds": [
+				"1A797BCA53DD44749D10624DD8037CE8",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4E3BB8D00F3B40A6AA85BA1DD7C37CAC": {
+			"id": "4E3BB8D00F3B40A6AA85BA1DD7C37CAC",
+			"asnIdentifier": "S2537820",
+			"position": 270000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.1",
+			"description": "Test and analyze games to determine the quality of rules, interfaces, navigation, performance, and game play.",
+			"ancestorIds": [
+				"1A797BCA53DD44749D10624DD8037CE8",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1A797BCA53DD44749D10624DD8037CE8": {
+			"id": "1A797BCA53DD44749D10624DD8037CE8",
+			"asnIdentifier": "S2537819",
+			"position": 269000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D5.0",
+			"description": "Demonstrate an understanding of testing techniques used to evaluate, assess, rate, and review quality assurance of video games.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E7E3A21A1B0F4997A2F7E2A7DA2CB34E": {
+			"id": "E7E3A21A1B0F4997A2F7E2A7DA2CB34E",
+			"asnIdentifier": "S2537818",
+			"position": 268000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.10",
+			"description": "Create a storyboard for a game cut-scene applying the basic principles of design and concepts of cinematography.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"37D70E543A8640A687305B1E3021F050": {
+			"id": "37D70E543A8640A687305B1E3021F050",
+			"asnIdentifier": "S2537817",
+			"position": 267000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.9",
+			"description": "Understand the basics of character design and development, world design, and level design.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"969D66B7EB2B45CABBFB95D799226DE8": {
+			"id": "969D66B7EB2B45CABBFB95D799226DE8",
+			"asnIdentifier": "S2537816",
+			"position": 266000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.8",
+			"description": "Define and discuss intellectual property, copyrights, trademarks, and piracy as they relate to art and multimedia assets in a game.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"C5BBB02A1A33413495B32DD4FEFD2B90": {
+			"id": "C5BBB02A1A33413495B32DD4FEFD2B90",
+			"asnIdentifier": "S2537815",
+			"position": 265000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.7",
+			"description": "Create, record, and edit audio for a game.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D30EEF4F2B8B42E99B59D22E28C748B7": {
+			"id": "D30EEF4F2B8B42E99B59D22E28C748B7",
+			"asnIdentifier": "S2537814",
+			"position": 264000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.6",
+			"description": "Design a game environment using lines, fills, and color to set a specific mood and feel of a scene.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F415D417F2D14259957C6374243E378F": {
+			"id": "F415D417F2D14259957C6374243E378F",
+			"asnIdentifier": "S2537813",
+			"position": 263000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.5",
+			"description": "Create an animation sequence.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"836D483AC43F4EC29BDB36C4E6B38E23": {
+			"id": "836D483AC43F4EC29BDB36C4E6B38E23",
+			"asnIdentifier": "S2537812",
+			"position": 262000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.4",
+			"description": "Create 2-D art and 3-D models.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"495B82F7097349D99FEACD242A728F40": {
+			"id": "495B82F7097349D99FEACD242A728F40",
+			"asnIdentifier": "S2537811",
+			"position": 261000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.3",
+			"description": "Explain how to create the illusion of 3-D in a 2-D environment.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A00794C8C7C24A72A863734A45D47626": {
+			"id": "A00794C8C7C24A72A863734A45D47626",
+			"asnIdentifier": "S2537810",
+			"position": 260000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.2",
+			"description": "Research and describe the different perspectives used in video games, including first person, second person, and third person perspectives.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1B33E54E0C824AF1B2893797733E692E": {
+			"id": "1B33E54E0C824AF1B2893797733E692E",
+			"asnIdentifier": "S2537809",
+			"position": 259000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.1",
+			"description": "Demonstrate understanding of the elements of art, including line, shape, color, value, texture, space, and balance, to set the mood and feel of a scene.",
+			"ancestorIds": [
+				"E9052DFA2206432E8913D76072770336",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E9052DFA2206432E8913D76072770336": {
+			"id": "E9052DFA2206432E8913D76072770336",
+			"asnIdentifier": "S2537808",
+			"position": 258000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D4.0",
+			"description": "Students will demonstrate mastery of game art and multimedia, including music, sound, art, and animation.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"311497E4501446DFA0B146AB6D5BF8EE": {
+			"id": "311497E4501446DFA0B146AB6D5BF8EE",
+			"asnIdentifier": "S2537807",
+			"position": 257000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.5",
+			"description": "Implement a small video game utilizing mathematics and physics that features at least one moving object (such as a spaceship) which rotates along an axis and moves in whichever direction it is facing after rotation. The game must include collision physics.",
+			"ancestorIds": [
+				"E3C13C91CC554A0A894514BAF4EAED5F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9C8F44D07E294536B7EAC568362D0982": {
+			"id": "9C8F44D07E294536B7EAC568362D0982",
+			"asnIdentifier": "S2537806",
+			"position": 256000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.4",
+			"description": "Explore the basics of random number generation.",
+			"ancestorIds": [
+				"E3C13C91CC554A0A894514BAF4EAED5F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9B2053C262ED486E94B74A510EEAAD21": {
+			"id": "9B2053C262ED486E94B74A510EEAAD21",
+			"asnIdentifier": "S2537805",
+			"position": 255000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.3",
+			"description": "Examine the use of math and physics (such as gravity and friction) in game development.",
+			"ancestorIds": [
+				"E3C13C91CC554A0A894514BAF4EAED5F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"8A5DA9A2A19C4CB596A7B265407B48B7": {
+			"id": "8A5DA9A2A19C4CB596A7B265407B48B7",
+			"asnIdentifier": "S2537804",
+			"position": 254000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.2",
+			"description": "Understand the basics of game physics, including collision and motion.",
+			"ancestorIds": [
+				"E3C13C91CC554A0A894514BAF4EAED5F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"DE0C36C5950540FDBB691AA41FA9F0C0": {
+			"id": "DE0C36C5950540FDBB691AA41FA9F0C0",
+			"asnIdentifier": "S2537803",
+			"position": 253000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.1",
+			"description": "Implement common programming concepts, including logic operators, conditional statements, loops, variables, events, actions, and handling user input.",
+			"ancestorIds": [
+				"E3C13C91CC554A0A894514BAF4EAED5F",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E3C13C91CC554A0A894514BAF4EAED5F": {
+			"id": "E3C13C91CC554A0A894514BAF4EAED5F",
+			"asnIdentifier": "S2537802",
+			"position": 252000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D3.0",
+			"description": "Acquire and apply appropriate game programming concepts and skills to develop a playable video game.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"03A73BEF0C3F441997CE79443D56B91A": {
+			"id": "03A73BEF0C3F441997CE79443D56B91A",
+			"asnIdentifier": "S2537801",
+			"position": 251000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.8",
+			"description": "Prototype a small game using real-world objects, such as dice, cards, balls, pen and paper, etc.",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"51B5FC52B85C44B7A8AD04EA865A7695": {
+			"id": "51B5FC52B85C44B7A8AD04EA865A7695",
+			"asnIdentifier": "S2537800",
+			"position": 250000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.7",
+			"description": "Describe a designer-centric game to highlighting features other than game play and entertainment value.",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A1666B50246F4EB7A5BC03B30D78064E": {
+			"id": "A1666B50246F4EB7A5BC03B30D78064E",
+			"asnIdentifier": "S2537799",
+			"position": 249000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.6",
+			"description": "Compare and contrast player-centric design and designer-centric design in video games.",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"90B7C2F101F44946AD3C21F4801F0709": {
+			"id": "90B7C2F101F44946AD3C21F4801F0709",
+			"asnIdentifier": "S2537798",
+			"position": 248000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.5",
+			"description": "Explore and explain the factors that create player immersion in a game.",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A8661E559C4A42DB820E9711589EA1CC": {
+			"id": "A8661E559C4A42DB820E9711589EA1CC",
+			"asnIdentifier": "S2537797",
+			"position": 247000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.4",
+			"description": "Research and define the term \"player immersion.\"",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"2C4EA427A42047BEA0DD4F1DA178C2D4": {
+			"id": "2C4EA427A42047BEA0DD4F1DA178C2D4",
+			"asnIdentifier": "S2537796",
+			"position": 246000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.3",
+			"description": "Research various input controls and display types then identify how these impact game play.",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5FC625998D5C40CD8FD0642A7DBCABAA": {
+			"id": "5FC625998D5C40CD8FD0642A7DBCABAA",
+			"asnIdentifier": "S2537795",
+			"position": 245000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.2",
+			"description": "Break down and identify the fundamental building blocks of game play: player goals, player actions, rewards, and challenges.",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0C1332C168C34FD1894CE4C3FEFCE99B": {
+			"id": "0C1332C168C34FD1894CE4C3FEFCE99B",
+			"asnIdentifier": "S2537794",
+			"position": 244000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.1",
+			"description": "Identify and define the roles and responsibilities of each member of a video game design team.",
+			"ancestorIds": [
+				"0BC450D17E6443969E15C45FBC02AF8E",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0BC450D17E6443969E15C45FBC02AF8E": {
+			"id": "0BC450D17E6443969E15C45FBC02AF8E",
+			"asnIdentifier": "S2537793",
+			"position": 243000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D2.0",
+			"description": "Analyze the core tasks and challenges of video game design and explore the methods used to create and sustain player immersion.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5739836AA2EC4044A47653BF30F0ED87": {
+			"id": "5739836AA2EC4044A47653BF30F0ED87",
+			"asnIdentifier": "S2537792",
+			"position": 242000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.5",
+			"description": "Present a mock-up of a future generation game platform and hardware system based on research of current and emerging technologies and future predictions.",
+			"ancestorIds": [
+				"D473FBD8127740A6908ECE3690248A15",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0E08339CABBC49D5932BD77A5A4C8BA2": {
+			"id": "0E08339CABBC49D5932BD77A5A4C8BA2",
+			"asnIdentifier": "S2537791",
+			"position": 241000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.4",
+			"description": "Analyze the technology transfer from video games to other industries, such as education, medical, corporate training, and military simulation.",
+			"ancestorIds": [
+				"D473FBD8127740A6908ECE3690248A15",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"FBBD35BEC41F4393A9CA81BFF53E09C0": {
+			"id": "FBBD35BEC41F4393A9CA81BFF53E09C0",
+			"asnIdentifier": "S2537790",
+			"position": 240000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.3",
+			"description": "Research, compare, and categorize different game platforms and game hardware.",
+			"ancestorIds": [
+				"D473FBD8127740A6908ECE3690248A15",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"8D1AAB326F0641FFA278CE22EF41C0AB": {
+			"id": "8D1AAB326F0641FFA278CE22EF41C0AB",
+			"asnIdentifier": "S2537789",
+			"position": 239000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.2",
+			"description": "Define and use necessary vocabulary related to games, their genres, game platforms, and game hardware.",
+			"ancestorIds": [
+				"D473FBD8127740A6908ECE3690248A15",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"68E895714895458AAAA2096834DFB243": {
+			"id": "68E895714895458AAAA2096834DFB243",
+			"asnIdentifier": "S2537788",
+			"position": 238000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.1",
+			"description": "Research and analyze different game genres, including multiplayer games.",
+			"ancestorIds": [
+				"D473FBD8127740A6908ECE3690248A15",
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D473FBD8127740A6908ECE3690248A15": {
+			"id": "D473FBD8127740A6908ECE3690248A15",
+			"asnIdentifier": "S2537787",
+			"position": 237000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D1.0",
+			"description": "Demonstrate understanding of current trends and the historical significance of both electronic and non-electronic games. Students will analyze different game systems and identify how these systems have influenced consumer technology.",
+			"ancestorIds": [
+				"2017255414DE475E94112E190549B02B",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"2017255414DE475E94112E190549B02B": {
+			"id": "2017255414DE475E94112E190549B02B",
+			"asnIdentifier": "S2537786",
+			"position": 236000,
+			"depth": 1,
+			"listId": "D.",
+			"description": "Game Design and Integration Pathway",
+			"comments": [
+				"Students who follow the Game Design and Integration pathway prepare for careers within the game design industry and in related technical fields. Students will develop foundational knowledge in game design, animation, graphics, and computer software and hardware. They will apply skills in Mathematics, Physics, English Language Arts, Social Science, and Entrepreneurship. Most importantly, students will learn the twenty-first century skills of creativity, critical thinking, communication, collaboration, and technical expertise, which will increase employment capacity across the job market. In the Game Design and Integration Pathway students prepare for both entry-level employment and additional postsecondary training needed for advancement in the highly competitive game design industry. They prepare for occupations such as Game Tester/Analyst, 2-D and 3-D Animator, Storyboard, Level Artist, Texture Artist, Cinematic Artist, Game Designer, Game Programmer, and Production Team Manager. Students completing this pathway develop the skills and knowledge to be creative partners in video game design while building capacity for employment in all areas of the creative workforce."
+			],
+			"ancestorIds": [
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0569A74BF5E741D5A7C374A131749761": {
+			"id": "0569A74BF5E741D5A7C374A131749761",
+			"asnIdentifier": "S2537785",
+			"position": 235000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.6",
+			"description": "Demonstrate understanding of the distribution component of both live and media based production including Web, print, radio, television, and communication based options.",
+			"ancestorIds": [
+				"4273FB7DBDB74426A41039CD8821BF21",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"2B92B604C15548F0BD441E8D5B59956A": {
+			"id": "2B92B604C15548F0BD441E8D5B59956A",
+			"asnIdentifier": "S2537784",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Understand the components of marketing campaigns for live and media based productions, including advertising in both traditional and social media.",
+			"ancestorIds": [
+				"4273FB7DBDB74426A41039CD8821BF21",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"EA772E21B1F44856B122069BCF0A5AF6": {
+			"id": "EA772E21B1F44856B122069BCF0A5AF6",
+			"asnIdentifier": "S2537783",
+			"position": 233000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Understand the role of audience and market research in promotional planning",
+			"ancestorIds": [
+				"4273FB7DBDB74426A41039CD8821BF21",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F5D888FC9C6C4AFFAED00FC269BB7B2E": {
+			"id": "F5D888FC9C6C4AFFAED00FC269BB7B2E",
+			"asnIdentifier": "S2537782",
+			"position": 232000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Discuss the relationships between publishers, developers, distributors, marketers, and retailers.",
+			"ancestorIds": [
+				"4273FB7DBDB74426A41039CD8821BF21",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B0203469863B4D92A8F80E99D5456B07": {
+			"id": "B0203469863B4D92A8F80E99D5456B07",
+			"asnIdentifier": "S2537781",
+			"position": 231000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Identify successful business models and analyze various facets of those models, such as market analysis, marketing strategy, and product value.",
+			"ancestorIds": [
+				"4273FB7DBDB74426A41039CD8821BF21",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A5AD132C45814DEDAFFFB03357D0C174": {
+			"id": "A5AD132C45814DEDAFFFB03357D0C174",
+			"asnIdentifier": "S2537780",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Identify and describe licensing management for live and media based productions and intellectual properties.",
+			"ancestorIds": [
+				"4273FB7DBDB74426A41039CD8821BF21",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4273FB7DBDB74426A41039CD8821BF21": {
+			"id": "4273FB7DBDB74426A41039CD8821BF21",
+			"asnIdentifier": "S2537779",
+			"position": 229000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Know various media production, communication, and dissemination techniques and methods, including written, oral, visual, and electronic media.",
+			"ancestorIds": [
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"18AF7C6A3F534F32B904E3F2801129FA": {
+			"id": "18AF7C6A3F534F32B904E3F2801129FA",
+			"asnIdentifier": "S2537778",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.5",
+			"description": "Create a public service announcement using two or more production methods materials, such as standard public service announcements",
+			"ancestorIds": [
+				"C8AC396D463C4AA783C246C4E58913AE",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"31274CD2842F4C8DA21FA5218F778F96": {
+			"id": "31274CD2842F4C8DA21FA5218F778F96",
+			"asnIdentifier": "S2537777",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Create a promotional example using electronic media.",
+			"ancestorIds": [
+				"C8AC396D463C4AA783C246C4E58913AE",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"88637885CB4640D29F39304D60EBFC08": {
+			"id": "88637885CB4640D29F39304D60EBFC08",
+			"asnIdentifier": "S2537776",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Design a promotional packet demonstrating knowledge of promotional",
+			"ancestorIds": [
+				"C8AC396D463C4AA783C246C4E58913AE",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"766D5DCF76144123B8CDCC3F65DB4C57": {
+			"id": "766D5DCF76144123B8CDCC3F65DB4C57",
+			"asnIdentifier": "S2537775",
+			"position": 225000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Create a budget for an aspect of an arts, media, and entertainment production of the arts, media, and entertainment industry.",
+			"ancestorIds": [
+				"C8AC396D463C4AA783C246C4E58913AE",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"386F461DAAD1460EA8543C1F4B4D8BB5": {
+			"id": "386F461DAAD1460EA8543C1F4B4D8BB5",
+			"asnIdentifier": "S2537774",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "Design a production flow chart identifying chain of responsibility for a specific type of arts, media, and entertainment production.",
+			"ancestorIds": [
+				"C8AC396D463C4AA783C246C4E58913AE",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"C8AC396D463C4AA783C246C4E58913AE": {
+			"id": "C8AC396D463C4AA783C246C4E58913AE",
+			"asnIdentifier": "S2537773",
+			"position": 223000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Understand the key elements of developing and promoting a production from creation to distribution.",
+			"ancestorIds": [
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"50067E0DE1254E8CA64F3C235B7DF6D7": {
+			"id": "50067E0DE1254E8CA64F3C235B7DF6D7",
+			"asnIdentifier": "S2537772",
+			"position": 222000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Plan the general coordination of various elements in a project or production.",
+			"ancestorIds": [
+				"0B8941AF07104788973A10A00A05733C",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A795B89FCA86418A875906187B2FBE25": {
+			"id": "A795B89FCA86418A875906187B2FBE25",
+			"asnIdentifier": "S2537771",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Identify essential qualifications and technological competencies for each team member, including artists, designers, performers, composers, writers, and technicians.",
+			"ancestorIds": [
+				"0B8941AF07104788973A10A00A05733C",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0B8941AF07104788973A10A00A05733C": {
+			"id": "0B8941AF07104788973A10A00A05733C",
+			"asnIdentifier": "S2537770",
+			"position": 220000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Apply knowledge of services, equipment capabilities, the workflow process, data acquisition, and technology to a timely completion of projects.",
+			"ancestorIds": [
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"8C8465303BE44F078286CDF6B50C2AE0": {
+			"id": "8C8465303BE44F078286CDF6B50C2AE0",
+			"asnIdentifier": "S2537769",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.5",
+			"description": "Create a call sheet for equipment, crew, technical support, and cast requirements for an arts, media, and entertainment production.",
+			"ancestorIds": [
+				"1C9D1490543F4850B41CE894F187A817",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F316205108E342A5A464051A96C81373": {
+			"id": "F316205108E342A5A464051A96C81373",
+			"asnIdentifier": "S2537768",
+			"position": 218000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Demonstrate understanding of the appropriate use of technology in each phase of the production planning.",
+			"ancestorIds": [
+				"1C9D1490543F4850B41CE894F187A817",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"053E6EE36B4E4C33828095CD0C02DC23": {
+			"id": "053E6EE36B4E4C33828095CD0C02DC23",
+			"asnIdentifier": "S2537767",
+			"position": 217000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Identify the responsibilities and activities associated with the preproduction, production, and post-production of a creative project.",
+			"ancestorIds": [
+				"1C9D1490543F4850B41CE894F187A817",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F984B73341E449D6B0DBB213B871EB6A": {
+			"id": "F984B73341E449D6B0DBB213B871EB6A",
+			"asnIdentifier": "S2537766",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Know how artistic processes, organizational structure, and business principles, including funding and budgeting, are interrelated in both live and media production.",
+			"ancestorIds": [
+				"1C9D1490543F4850B41CE894F187A817",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"FD1054DA0FBD430D862F15672715E644": {
+			"id": "FD1054DA0FBD430D862F15672715E644",
+			"asnIdentifier": "S2537765",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Know the main elements and functional responsibilities involved in the production and presentation of the performing, visual, and media arts.",
+			"ancestorIds": [
+				"1C9D1490543F4850B41CE894F187A817",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1C9D1490543F4850B41CE894F187A817": {
+			"id": "1C9D1490543F4850B41CE894F187A817",
+			"asnIdentifier": "S2537764",
+			"position": 214000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Demonstrate key skills and an understanding of the complexities of production planning.",
+			"ancestorIds": [
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"CC1D63ACCDC04E159AECFC80E4B72B0F": {
+			"id": "CC1D63ACCDC04E159AECFC80E4B72B0F",
+			"asnIdentifier": "S2537763",
+			"position": 213000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Identify the skills and competencies of the various members of a production team including producer, production manager, director, assistant director, stage manager, production designer(s), post production, etc.",
+			"ancestorIds": [
+				"027DE8D75D6B4B01B5A79A706950D1A6",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"027DE8D75D6B4B01B5A79A706950D1A6": {
+			"id": "027DE8D75D6B4B01B5A79A706950D1A6",
+			"asnIdentifier": "S2537762",
+			"position": 212000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "Analyze and differentiate the function of the various members of a production team.",
+			"ancestorIds": [
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"32F3C5D0F7684DC5B9EE7D3FEA0E5928": {
+			"id": "32F3C5D0F7684DC5B9EE7D3FEA0E5928",
+			"asnIdentifier": "S2537761",
+			"position": 211000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Plan one technical component of a production from design to performance.",
+			"ancestorIds": [
+				"BEF83589FF2C4BCF84B4A4A7DD815036",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"C383714F856A41A1A1D7BEE7EAEC4D3F": {
+			"id": "C383714F856A41A1A1D7BEE7EAEC4D3F",
+			"asnIdentifier": "S2537760",
+			"position": 210000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "Produce a production flow chart for a live theatrical or media based production.",
+			"ancestorIds": [
+				"BEF83589FF2C4BCF84B4A4A7DD815036",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"03E6F834A63C4780BD7239BA97F31CA7": {
+			"id": "03E6F834A63C4780BD7239BA97F31CA7",
+			"asnIdentifier": "S2537759",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "Analyze the production sequence involved in creating a media based or live performance production.",
+			"ancestorIds": [
+				"BEF83589FF2C4BCF84B4A4A7DD815036",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"BEF83589FF2C4BCF84B4A4A7DD815036": {
+			"id": "BEF83589FF2C4BCF84B4A4A7DD815036",
+			"asnIdentifier": "S2537758",
+			"position": 208000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Understand the technical support functions and artistic competencies in film, video, and live production.",
+			"ancestorIds": [
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A994BE010F0748E982292EB41E42A7A2": {
+			"id": "A994BE010F0748E982292EB41E42A7A2",
+			"asnIdentifier": "S2537757",
+			"position": 207000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "Apply safety related decision making and problem-solving techniques to live, recorded, or multimedia generated production.",
+			"ancestorIds": [
+				"AC623C677AE1418D80A675D843AAE851",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9977548ABE7C4097AB86B4490EC2C10C": {
+			"id": "9977548ABE7C4097AB86B4490EC2C10C",
+			"asnIdentifier": "S2537756",
+			"position": 206000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Demonstrate understanding of safe workplace practices, including tool safety, rigging, electrical, and construction safety and awareness of hazardous materials in the workplace.",
+			"ancestorIds": [
+				"AC623C677AE1418D80A675D843AAE851",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"38CF8F87DE694719B3EC25D3D851CD90": {
+			"id": "38CF8F87DE694719B3EC25D3D851CD90",
+			"asnIdentifier": "S2537755",
+			"position": 205000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "Demonstrate knowledge of basic electrical safety.",
+			"ancestorIds": [
+				"AC623C677AE1418D80A675D843AAE851",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9C0488EA1AFC41EF8254D8796148D643": {
+			"id": "9C0488EA1AFC41EF8254D8796148D643",
+			"asnIdentifier": "S2537754",
+			"position": 204000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Demonstrate understanding of various power tools used in construction and rigging.",
+			"ancestorIds": [
+				"AC623C677AE1418D80A675D843AAE851",
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"AC623C677AE1418D80A675D843AAE851": {
+			"id": "AC623C677AE1418D80A675D843AAE851",
+			"asnIdentifier": "S2537753",
+			"position": 203000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Demonstrate knowledge of industry safety standards and practices in all areas of technical production.",
+			"ancestorIds": [
+				"985306AD47A24060B27466E7C5771E29",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"985306AD47A24060B27466E7C5771E29": {
+			"id": "985306AD47A24060B27466E7C5771E29",
+			"asnIdentifier": "S2537752",
+			"position": 202000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Production and Managerial Arts Pathway",
+			"comments": [
+				"Whatever the form or medium of creative expression, all careers in the Arts, Media, and Entertainment sector require \"publication\" or a public presentation in one way or another. Consequently, the Production and Managerial Arts pathway focuses on both the technical skills and the organizational and managerial knowledge necessary to bring arts, media, and entertainment to the public."
+			],
+			"ancestorIds": [
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5E4AC773AD46493BA74A9B2D63C0F858": {
+			"id": "5E4AC773AD46493BA74A9B2D63C0F858",
+			"asnIdentifier": "S2537751",
+			"position": 201000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.6",
+			"description": "Create a career plan leading to professional performance in one of the performance disciplines.",
+			"ancestorIds": [
+				"CC71AC3C16A44848BCCEDE119D4E0061",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5349591E18554FAD81B2C36877BE18EB": {
+			"id": "5349591E18554FAD81B2C36877BE18EB",
+			"asnIdentifier": "S2537750",
+			"position": 200000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.5",
+			"description": "Contrast differing roles in professional skill sets of creators, performers, and others involved in the production and presentation of the performing arts.",
+			"ancestorIds": [
+				"CC71AC3C16A44848BCCEDE119D4E0061",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B9090D747131427F8FED01E0638C6494": {
+			"id": "B9090D747131427F8FED01E0638C6494",
+			"asnIdentifier": "S2537749",
+			"position": 199000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.4",
+			"description": "Understand the technical aspects of lights, sound, properties, costumes, and makeup from the perspective of the professional performer.",
+			"ancestorIds": [
+				"CC71AC3C16A44848BCCEDE119D4E0061",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"47B2B387291942BC8C1C462005B4903A": {
+			"id": "47B2B387291942BC8C1C462005B4903A",
+			"asnIdentifier": "S2537748",
+			"position": 198000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.3",
+			"description": "Demonstrate entry-level competencies for a career in an artistic or technical field in the theatrical arts.",
+			"ancestorIds": [
+				"CC71AC3C16A44848BCCEDE119D4E0061",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E45A3898765C4E9AA8599A34F9FA4420": {
+			"id": "E45A3898765C4E9AA8599A34F9FA4420",
+			"asnIdentifier": "S2537747",
+			"position": 197000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.2",
+			"description": "Demonstrate effective knowledge and skills with the audiovisual equipment and technology used in professional performance.",
+			"ancestorIds": [
+				"CC71AC3C16A44848BCCEDE119D4E0061",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"43A558A639B0420F96DCAFD4192EF2FD": {
+			"id": "43A558A639B0420F96DCAFD4192EF2FD",
+			"asnIdentifier": "S2537746",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.1",
+			"description": "Examine the training, education, and experience needed to pursue discipline-specific performance options.",
+			"ancestorIds": [
+				"CC71AC3C16A44848BCCEDE119D4E0061",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"CC71AC3C16A44848BCCEDE119D4E0061": {
+			"id": "CC71AC3C16A44848BCCEDE119D4E0061",
+			"asnIdentifier": "S2537745",
+			"position": 195000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B9.0",
+			"description": "Explore the connection between artistic preparation and professional standards and practices.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"40051D2B9E174B979048CEE42A28773E": {
+			"id": "40051D2B9E174B979048CEE42A28773E",
+			"asnIdentifier": "S2537744",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.4",
+			"description": "Use complex evaluation criteria and terminology to compare and contrast a variety of genres of professional performance products.",
+			"ancestorIds": [
+				"FFF0D95F06164DEB98265A10BF600A4B",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"ECBC70D4AA8F4107A53F5D5C29D54F0F": {
+			"id": "ECBC70D4AA8F4107A53F5D5C29D54F0F",
+			"asnIdentifier": "S2537743",
+			"position": 193000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.3",
+			"description": "Analyze the aesthetic principles that apply in a professional work designed for live performance, film, video, or live broadcast.",
+			"ancestorIds": [
+				"FFF0D95F06164DEB98265A10BF600A4B",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6219E1EA4FE24BDE9B6F010BEEB25E68": {
+			"id": "6219E1EA4FE24BDE9B6F010BEEB25E68",
+			"asnIdentifier": "S2537742",
+			"position": 192000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.2",
+			"description": "Use selected criteria to compare, contrast, and assess various professional performance forms.",
+			"ancestorIds": [
+				"FFF0D95F06164DEB98265A10BF600A4B",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E6FA24D276E44A46939CDC52B0F02836": {
+			"id": "E6FA24D276E44A46939CDC52B0F02836",
+			"asnIdentifier": "S2537741",
+			"position": 191000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.1",
+			"description": "Critique discipline-specific professional works using the language and terminology specific to the discipline.",
+			"ancestorIds": [
+				"FFF0D95F06164DEB98265A10BF600A4B",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"FFF0D95F06164DEB98265A10BF600A4B": {
+			"id": "FFF0D95F06164DEB98265A10BF600A4B",
+			"asnIdentifier": "S2537740",
+			"position": 190000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B8.0",
+			"description": "Deconstruct the aesthetic values that drive professional performance and the artistic elements necessary for industry production.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"EC45D23C027B460D82228CE0813D1C7A": {
+			"id": "EC45D23C027B460D82228CE0813D1C7A",
+			"asnIdentifier": "S2537739",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.5",
+			"description": "Create a product comparing and contrasting universal themes and sociopolitical issues in a variety of music, dance, or theatrical products.",
+			"ancestorIds": [
+				"0EAFC4296E7849FDBEAB46E7F0BB1C76",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F445141C53BC4B60A749EFF3B5FB3C97": {
+			"id": "F445141C53BC4B60A749EFF3B5FB3C97",
+			"asnIdentifier": "S2537738",
+			"position": 188000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.4",
+			"description": "Analyze the historical and cultural perspective of the actor and performance artist in the professional setting.",
+			"ancestorIds": [
+				"0EAFC4296E7849FDBEAB46E7F0BB1C76",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"CD9693EF670E44FD8B5A3BF4F60C29AB": {
+			"id": "CD9693EF670E44FD8B5A3BF4F60C29AB",
+			"asnIdentifier": "S2537737",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Analyze the historical and cultural perspective of the musician in the professional setting.",
+			"ancestorIds": [
+				"0EAFC4296E7849FDBEAB46E7F0BB1C76",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"71BBD548AE374AFC8B82CF6DE917921B": {
+			"id": "71BBD548AE374AFC8B82CF6DE917921B",
+			"asnIdentifier": "S2537736",
+			"position": 186000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Analyze the historical and cultural perspective of the dancer in the professional setting.",
+			"ancestorIds": [
+				"0EAFC4296E7849FDBEAB46E7F0BB1C76",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0ADB2F54BFDF43BFA8BE99B744A7F404": {
+			"id": "0ADB2F54BFDF43BFA8BE99B744A7F404",
+			"asnIdentifier": "S2537735",
+			"position": 185000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Identify and compare how film, theater, television, and electronic media productions influence values and behaviors.",
+			"ancestorIds": [
+				"0EAFC4296E7849FDBEAB46E7F0BB1C76",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0EAFC4296E7849FDBEAB46E7F0BB1C76": {
+			"id": "0EAFC4296E7849FDBEAB46E7F0BB1C76",
+			"asnIdentifier": "S2537734",
+			"position": 184000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B7.0",
+			"description": "Analyze the historical and cultural perspective of multiple industry performance products from a discipline-specific perspective.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"8C62BA3D2CFF489991858F74BA97B091": {
+			"id": "8C62BA3D2CFF489991858F74BA97B091",
+			"asnIdentifier": "S2537733",
+			"position": 183000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.6",
+			"description": "Work collaboratively as designer, producer, or actor to meet directorial goals in scenes and plays from a variety of professional sources.",
+			"ancestorIds": [
+				"FCFEFEDD61E545B996CF44E58FBD385A",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"45226DD7C21C4677865D399B1F4B78C8": {
+			"id": "45226DD7C21C4677865D399B1F4B78C8",
+			"asnIdentifier": "S2537732",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.5",
+			"description": "Improvise or write dialogues and scenes applying basic dramatic structure (exposition, complication, crises, climax, and resolution) appropriate to a variety of industry settings.",
+			"ancestorIds": [
+				"FCFEFEDD61E545B996CF44E58FBD385A",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0DB9276AB15B4ADEB74C8B79AA3177D3": {
+			"id": "0DB9276AB15B4ADEB74C8B79AA3177D3",
+			"asnIdentifier": "S2537731",
+			"position": 181000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.4",
+			"description": "Design, produce, or perform scenes applicable to a variety of professional settings and media applications.",
+			"ancestorIds": [
+				"FCFEFEDD61E545B996CF44E58FBD385A",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"060A2E2883234C6C93FF6F7E04B01F44": {
+			"id": "060A2E2883234C6C93FF6F7E04B01F44",
+			"asnIdentifier": "S2537730",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.3",
+			"description": "Create performance products applying basic dramatic structure: exposition, complication, conflict, crises, climax, and resolution.",
+			"ancestorIds": [
+				"FCFEFEDD61E545B996CF44E58FBD385A",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"EB5712ED14914FA1B39CDBFA782410F2": {
+			"id": "EB5712ED14914FA1B39CDBFA782410F2",
+			"asnIdentifier": "S2537729",
+			"position": 179000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Use acting choices, such as script analysis, character research, reflection, and revision; and apply to a variety of professional settings.",
+			"ancestorIds": [
+				"FCFEFEDD61E545B996CF44E58FBD385A",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F395EE72D79D48578DEBC2CD8F90BB36": {
+			"id": "F395EE72D79D48578DEBC2CD8F90BB36",
+			"asnIdentifier": "S2537728",
+			"position": 178000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Demonstrate media appropriate acting choices using script analysis, character research, reflection, and revision in live and recorded performance applications.",
+			"ancestorIds": [
+				"FCFEFEDD61E545B996CF44E58FBD385A",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"FCFEFEDD61E545B996CF44E58FBD385A": {
+			"id": "FCFEFEDD61E545B996CF44E58FBD385A",
+			"asnIdentifier": "S2537727",
+			"position": 177000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Apply skill and knowledge in acting, directing, design, and composition to create formal and informal (improvised) theater, film, video, and electronic media performances.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A0482AB53F0F433CA3A820EB5C567493": {
+			"id": "A0482AB53F0F433CA3A820EB5C567493",
+			"asnIdentifier": "S2537726",
+			"position": 176000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.7",
+			"description": "Create melodic and rhythmic improvisations in a style or genre within a musical culture (gamelan, jazz, and mariachi).",
+			"ancestorIds": [
+				"9D375D99064A45DBB3C3493F696B0CD0",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E0D82E518A4D4E09BE844F89D2ED87F2": {
+			"id": "E0D82E518A4D4E09BE844F89D2ED87F2",
+			"asnIdentifier": "S2537725",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.6",
+			"description": "Compose and arrange music for various combinations of voice and acoustic and digital/electronic instruments using appropriate ranges and traditional and nontraditional sound sources.",
+			"ancestorIds": [
+				"9D375D99064A45DBB3C3493F696B0CD0",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"99F7178EEEDE477F8121C2DDE7789352": {
+			"id": "99F7178EEEDE477F8121C2DDE7789352",
+			"asnIdentifier": "S2537724",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.5",
+			"description": "Compose music in distinct styles.",
+			"ancestorIds": [
+				"9D375D99064A45DBB3C3493F696B0CD0",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A466C3167C904AA2A0F3E4E9C2A183DE": {
+			"id": "A466C3167C904AA2A0F3E4E9C2A183DE",
+			"asnIdentifier": "S2537723",
+			"position": 173000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.4",
+			"description": "Employ a variety of music technology to record, integrate, or modify a live or recorded performance to produce a new artistic product.",
+			"ancestorIds": [
+				"9D375D99064A45DBB3C3493F696B0CD0",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B040EDF236DC4EADB5073D2FF9072ED8": {
+			"id": "B040EDF236DC4EADB5073D2FF9072ED8",
+			"asnIdentifier": "S2537722",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.3",
+			"description": "Sight read and perform a brief musical composition from a professional resource.",
+			"ancestorIds": [
+				"9D375D99064A45DBB3C3493F696B0CD0",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"75E76F409A3D4BD9A20C0EF915FFB1AB": {
+			"id": "75E76F409A3D4BD9A20C0EF915FFB1AB",
+			"asnIdentifier": "S2537721",
+			"position": 171000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Sing or play music written in multiple parts, individually or with a group.",
+			"ancestorIds": [
+				"9D375D99064A45DBB3C3493F696B0CD0",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"91737E5AF8DC496DBC7BF87F29AC21CF": {
+			"id": "91737E5AF8DC496DBC7BF87F29AC21CF",
+			"asnIdentifier": "S2537720",
+			"position": 170000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Sing or play a repertoire of musical literature representing various genres, styles, and cultures with expression and technical accuracy.",
+			"ancestorIds": [
+				"9D375D99064A45DBB3C3493F696B0CD0",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9D375D99064A45DBB3C3493F696B0CD0": {
+			"id": "9D375D99064A45DBB3C3493F696B0CD0",
+			"asnIdentifier": "S2537719",
+			"position": 169000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Apply vocal and/or instrumental skill and knowledge to perform a varied repertoire of music appropriate to music industry application.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6A513F2C7C9D4D38A7C61E4443E0CE91": {
+			"id": "6A513F2C7C9D4D38A7C61E4443E0CE91",
+			"asnIdentifier": "S2537718",
+			"position": 168000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.9",
+			"description": "Perform original works that employ personal artistic intent and respond to industry-specific criteria.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D618AF3E54A3467F9DF9C68A51C43BD2": {
+			"id": "D618AF3E54A3467F9DF9C68A51C43BD2",
+			"asnIdentifier": "S2537717",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.8",
+			"description": "Create a performance piece using dance structures, musical forms, theatrical elements, and technology for a specific professional application.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9A81AC893AA6468099FB60C421D1BF34": {
+			"id": "9A81AC893AA6468099FB60C421D1BF34",
+			"asnIdentifier": "S2537716",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.7",
+			"description": "Create a diverse body of work in dance, which demonstrates originality, unity, clarity of intent, and a dynamic range of movement appropriate to a variety of professional applications.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4052C24295D147E6A54408AA0696CB63": {
+			"id": "4052C24295D147E6A54408AA0696CB63",
+			"asnIdentifier": "S2537715",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.6",
+			"description": "Perform combinations, in response to audition requirements, in a variety of professional dance genres that demonstrate proficiency relative to industry expectations.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4EFC78AB5E7E43E2ABCCECFD120B5056": {
+			"id": "4EFC78AB5E7E43E2ABCCECFD120B5056",
+			"asnIdentifier": "S2537714",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Perform works by various dance artists communicating the original intent of the work while employing personal artistic intent and interpretation.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E166F4D4AD0F4CBFA9B9EC7CCCC372EE": {
+			"id": "E166F4D4AD0F4CBFA9B9EC7CCCC372EE",
+			"asnIdentifier": "S2537713",
+			"position": 163000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Create a dance that utilizes an established dance style or genre in response to an industry-specific prompt.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"32D74205D6094771B996AB42F0231631": {
+			"id": "32D74205D6094771B996AB42F0231631",
+			"asnIdentifier": "S2537712",
+			"position": 162000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Apply basic music elements (rhythm, meter, tempo, timbre) to construct and perform dances for a variety of professional settings.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"976C25F1418D4244B1B71032F553F86D": {
+			"id": "976C25F1418D4244B1B71032F553F86D",
+			"asnIdentifier": "S2537711",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Notate dances using a variety of systems (Labanotation, motif writing, and personal systems).",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"CB088E45C30B4F5FA543E8BC4622E9B6": {
+			"id": "CB088E45C30B4F5FA543E8BC4622E9B6",
+			"asnIdentifier": "S2537710",
+			"position": 160000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Specify applications of VPA Creative Expression Standards for Dance at the proficient level.",
+			"ancestorIds": [
+				"E152B95921D84CBD88FDE1E5D20DB44E",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E152B95921D84CBD88FDE1E5D20DB44E": {
+			"id": "E152B95921D84CBD88FDE1E5D20DB44E",
+			"asnIdentifier": "S2537709",
+			"position": 159000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B4.0",
+			"description": "Apply choreographic principles, processes, and skills to create and communicate meaning through improvisation, composition, and performance of dance for a variety of professional applications.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D23DC8065EF24B13BCEC151CED757B40": {
+			"id": "D23DC8065EF24B13BCEC151CED757B40",
+			"asnIdentifier": "S2537708",
+			"position": 158000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Create a product which assesses professional theater, film, and video performance products using the vocabulary of theater, such as genre, style, acting values, theme, and design.",
+			"ancestorIds": [
+				"6E8A1CFD0D8343D9A7981491B5666698",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"8669E48232024FE88DA67FB2D9F1FF1A": {
+			"id": "8669E48232024FE88DA67FB2D9F1FF1A",
+			"asnIdentifier": "S2537707",
+			"position": 157000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Research, analyze, and plan a theatrical performance (live or recorded) with the director, designer, or playwright.",
+			"ancestorIds": [
+				"6E8A1CFD0D8343D9A7981491B5666698",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"2BF57FB448434D3AB352B4719BB815B4": {
+			"id": "2BF57FB448434D3AB352B4719BB815B4",
+			"asnIdentifier": "S2537706",
+			"position": 156000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Identify the use of metaphor, subtext, and symbolic elements in text and performance of professional theatrical work (live or recorded).",
+			"ancestorIds": [
+				"6E8A1CFD0D8343D9A7981491B5666698",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6E8A1CFD0D8343D9A7981491B5666698": {
+			"id": "6E8A1CFD0D8343D9A7981491B5666698",
+			"asnIdentifier": "S2537705",
+			"position": 155000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B3.0",
+			"description": "Observe, deconstruct, and analyze peer and professional theater, film, video, and electronic media and respond using the vocabulary of theater.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E3156F27848C4C7E8A175BDE59DD4B90": {
+			"id": "E3156F27848C4C7E8A175BDE59DD4B90",
+			"asnIdentifier": "S2537704",
+			"position": 154000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.7",
+			"description": "Demonstrate the different uses of form, both past and present, in a varied repertoire of music in commercial settings from diverse genres, styles, and professional applications.",
+			"ancestorIds": [
+				"350683252FE04289B154C36CD3269049",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"7A5BD4561BE243CAB90919F97F9D5B63": {
+			"id": "7A5BD4561BE243CAB90919F97F9D5B63",
+			"asnIdentifier": "S2537703",
+			"position": 153000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.6",
+			"description": "Analyze and describe the use of musical elements in a given professional work that makes it unique, interesting, and expressive.",
+			"ancestorIds": [
+				"350683252FE04289B154C36CD3269049",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"3E22199A94F34275A17DB648AADDBC90": {
+			"id": "3E22199A94F34275A17DB648AADDBC90",
+			"asnIdentifier": "S2537702",
+			"position": 152000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.5",
+			"description": "Analyze and describe significant musical events perceived and remembered in a given industry generated example.",
+			"ancestorIds": [
+				"350683252FE04289B154C36CD3269049",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"43FB714BA7DB476390586BA1A29E6F18": {
+			"id": "43FB714BA7DB476390586BA1A29E6F18",
+			"asnIdentifier": "S2537701",
+			"position": 151000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.4",
+			"description": "Sight-read music accurately and expressively.",
+			"ancestorIds": [
+				"350683252FE04289B154C36CD3269049",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B5F1387F29E34E5DADA2FBF40C15F535": {
+			"id": "B5F1387F29E34E5DADA2FBF40C15F535",
+			"asnIdentifier": "S2537700",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.3",
+			"description": "Transcribe simple songs into melodic and rhythmic notation when presented.",
+			"ancestorIds": [
+				"350683252FE04289B154C36CD3269049",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1FB0D6D45D1E461E9A1C737495EE357A": {
+			"id": "1FB0D6D45D1E461E9A1C737495EE357A",
+			"asnIdentifier": "S2537699",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Describe how the elements of music are used.",
+			"ancestorIds": [
+				"350683252FE04289B154C36CD3269049",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"75480249FB4340ED9346FA6F1CCFE4BF": {
+			"id": "75480249FB4340ED9346FA6F1CCFE4BF",
+			"asnIdentifier": "S2537698",
+			"position": 148000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Read a full instrument or vocal score with a direct industry connection (Film score, Philharmonic score, commercial underscore).",
+			"ancestorIds": [
+				"350683252FE04289B154C36CD3269049",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"350683252FE04289B154C36CD3269049": {
+			"id": "350683252FE04289B154C36CD3269049",
+			"asnIdentifier": "S2537697",
+			"position": 147000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Read, listen to, deconstruct, and analyze peer and professional music using the elements and terminology of music.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F2E5937214D54945BD8E24AFC7016B14": {
+			"id": "F2E5937214D54945BD8E24AFC7016B14",
+			"asnIdentifier": "S2537696",
+			"position": 146000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.7",
+			"description": "Deconstruct formal and informal (improvisational) performances of theater, dance, and music, both live and electronic, and evaluate using appropriate artistic vocabulary.",
+			"ancestorIds": [
+				"4F8E62F36FEC4C3A930A08C09CBBD222",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6C5F23B650634371A3DD3B5F23DF0950": {
+			"id": "6C5F23B650634371A3DD3B5F23DF0950",
+			"asnIdentifier": "S2537695",
+			"position": 145000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.6",
+			"description": "Perform in multiple professional dance genres integrating an advanced level of technical skill and clear intent.",
+			"ancestorIds": [
+				"4F8E62F36FEC4C3A930A08C09CBBD222",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"7E9ED19116B2415F9E12AF8AD8E7B30F": {
+			"id": "7E9ED19116B2415F9E12AF8AD8E7B30F",
+			"asnIdentifier": "S2537694",
+			"position": 144000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.5",
+			"description": "Create and perform complicated works of dance at a level of professionalism (i.e., a high level of refinement).",
+			"ancestorIds": [
+				"4F8E62F36FEC4C3A930A08C09CBBD222",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"2A5D8E578E1040E29EB856E383CED532": {
+			"id": "2A5D8E578E1040E29EB856E383CED532",
+			"asnIdentifier": "S2537693",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.4",
+			"description": "Differentiate dance vocabulary to describe movement and dance in a professional setting.",
+			"ancestorIds": [
+				"4F8E62F36FEC4C3A930A08C09CBBD222",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"980361179D804BCC8769082335336568": {
+			"id": "980361179D804BCC8769082335336568",
+			"asnIdentifier": "S2537692",
+			"position": 142000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Apply a wide range of kinesthetic communication demonstrating clarity of intent and stylistic nuance.",
+			"ancestorIds": [
+				"4F8E62F36FEC4C3A930A08C09CBBD222",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1E0A2E4609EB4B708B6218D3B9E5E4C1": {
+			"id": "1E0A2E4609EB4B708B6218D3B9E5E4C1",
+			"asnIdentifier": "S2537691",
+			"position": 141000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "Apply highly developed physical coordination and control when performing complex loco motor and axial movement phrases from a variety of genres (e.g., refined body articulation, agility, balance, strength).",
+			"ancestorIds": [
+				"4F8E62F36FEC4C3A930A08C09CBBD222",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"A23957D32E354A0F8F7316F869400536": {
+			"id": "A23957D32E354A0F8F7316F869400536",
+			"asnIdentifier": "S2537690",
+			"position": 140000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Demonstrate movement skills, process sensory information, and describe movement using the professional vocabulary of dance.",
+			"ancestorIds": [
+				"4F8E62F36FEC4C3A930A08C09CBBD222",
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4F8E62F36FEC4C3A930A08C09CBBD222": {
+			"id": "4F8E62F36FEC4C3A930A08C09CBBD222",
+			"asnIdentifier": "S2537689",
+			"position": 139000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Explore and formulate responses to peer and professional work using the fundamental elements of Theater, Dance, and Music.",
+			"ancestorIds": [
+				"78CB2AD6476B4A7194E631F58B594B7A",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"78CB2AD6476B4A7194E631F58B594B7A": {
+			"id": "78CB2AD6476B4A7194E631F58B594B7A",
+			"asnIdentifier": "S2537688",
+			"position": 138000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Performing Arts Pathway",
+			"comments": [
+				"The Performing Arts pathway focuses on the direct creation of art and entertainment by the individual artist instead of through a secondary physical medium. Performing artists are themselves the medium of creative expression."
+			],
+			"ancestorIds": [
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D2659E1CF4164B928481CB607E797446": {
+			"id": "D2659E1CF4164B928481CB607E797446",
+			"asnIdentifier": "S2537686",
+			"position": 137000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.7",
+			"description": "Evaluate how advanced and emerging technologies (e.g., virtual environment or voice recognition software) affect or improve media and design arts products or productions.",
+			"ancestorIds": [
+				"98CF2EE7B9E94FE5B867E524F4E73BDE",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"DB6B21A503CA41BBB8CB7F53DF31B4C1": {
+			"id": "DB6B21A503CA41BBB8CB7F53DF31B4C1",
+			"asnIdentifier": "S2537685",
+			"position": 136000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.6",
+			"description": "Analyze and assess technical support options related to various media and design arts.",
+			"ancestorIds": [
+				"98CF2EE7B9E94FE5B867E524F4E73BDE",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"27A7AA085D6E41CFBD768912C950A306": {
+			"id": "27A7AA085D6E41CFBD768912C950A306",
+			"asnIdentifier": "S2537684",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.5",
+			"description": "Differentiate writing processes, formats, and conventions used for various media.",
+			"ancestorIds": [
+				"98CF2EE7B9E94FE5B867E524F4E73BDE",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"92B1F0A7306B476EAF67339E49EA122E": {
+			"id": "92B1F0A7306B476EAF67339E49EA122E",
+			"asnIdentifier": "S2537683",
+			"position": 134000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.4",
+			"description": "Analyze the way in which technical design (e.g., color theory, lighting, graphics, typography, posters, sound, costumes, makeup) contributes to an artistic product, performance, or presentation.",
+			"ancestorIds": [
+				"98CF2EE7B9E94FE5B867E524F4E73BDE",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5C263FED72FF4DBD9C4106B5FD16EA62": {
+			"id": "5C263FED72FF4DBD9C4106B5FD16EA62",
+			"asnIdentifier": "S2537682",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.3",
+			"description": "Know the features and uses of current and emerging technology related to computing (e.g., optical character recognition, sound processing, cable TV, cellular phones).",
+			"ancestorIds": [
+				"98CF2EE7B9E94FE5B867E524F4E73BDE",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"2E3BB1ACBCFD4DB7AEA5C9FF78E9DE2A": {
+			"id": "2E3BB1ACBCFD4DB7AEA5C9FF78E9DE2A",
+			"asnIdentifier": "S2537681",
+			"position": 132000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.2",
+			"description": "Use technology to create a variety of audio, visual, written, and electronic products and presentations.",
+			"ancestorIds": [
+				"98CF2EE7B9E94FE5B867E524F4E73BDE",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5A9F95C818224E58B9DD0B32A5A9CF10": {
+			"id": "5A9F95C818224E58B9DD0B32A5A9CF10",
+			"asnIdentifier": "S2537680",
+			"position": 131000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.1",
+			"description": "Understand the component steps and skills required to design, edit, and produce a production for audio, video, electronic, or printed presentation.",
+			"ancestorIds": [
+				"98CF2EE7B9E94FE5B867E524F4E73BDE",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"98CF2EE7B9E94FE5B867E524F4E73BDE": {
+			"id": "98CF2EE7B9E94FE5B867E524F4E73BDE",
+			"asnIdentifier": "S2537679",
+			"position": 130000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A8.0",
+			"description": "Understand the key technical and technological requirements applicable to various segments of the Media and Design Arts Pathway.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"83C67C62007F437093D0CB3850A175AA": {
+			"id": "83C67C62007F437093D0CB3850A175AA",
+			"asnIdentifier": "S2537678",
+			"position": 129000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.5",
+			"description": "Revise text to highlight the individual voice, improve sentence variety and style, and enhance subtlety of meaning and tone in ways that are consistent with the purpose, audience, and genre.",
+			"ancestorIds": [
+				"CBE93E84B0F34929A11E93651031B5B4",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"50DD7DD1A18345E29BD0A62971D52447": {
+			"id": "50DD7DD1A18345E29BD0A62971D52447",
+			"asnIdentifier": "S2537677",
+			"position": 128000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.4",
+			"description": "Integrate databases, graphics, and spreadsheets into electronically processed documents.",
+			"ancestorIds": [
+				"CBE93E84B0F34929A11E93651031B5B4",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"724506BA0D414F2888C1430D41749796": {
+			"id": "724506BA0D414F2888C1430D41749796",
+			"asnIdentifier": "S2537676",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Enhance meaning by employing rhetorical devices, including extended use of parallelism, repetition, analogy; incorporation of visual aids (e.g., graphs, tables, pictures); and the issuance of a call for action.",
+			"ancestorIds": [
+				"CBE93E84B0F34929A11E93651031B5B4",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"2E6BAD0A339640C6A896F4CAFE44AAA4": {
+			"id": "2E6BAD0A339640C6A896F4CAFE44AAA4",
+			"asnIdentifier": "S2537675",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Use language in natural, fresh, and vivid ways to establish a specific tone.",
+			"ancestorIds": [
+				"CBE93E84B0F34929A11E93651031B5B4",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"EFEDB5A620904F38B51436D6FF42B52F": {
+			"id": "EFEDB5A620904F38B51436D6FF42B52F",
+			"asnIdentifier": "S2537674",
+			"position": 125000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Use point of view, characterization, style (e.g., use of irony), and related elements for specific rhetorical and aesthetic purposes.",
+			"ancestorIds": [
+				"CBE93E84B0F34929A11E93651031B5B4",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"CBE93E84B0F34929A11E93651031B5B4": {
+			"id": "CBE93E84B0F34929A11E93651031B5B4",
+			"asnIdentifier": "S2537673",
+			"position": 124000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Demonstrate an understanding of the elements of discourse (e.g., purpose, speaker, audience, form) when completing narrative, expository, persuasive, or descriptive writing assignments.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"96C3441A976E4ED8A4AC236C72022FCA": {
+			"id": "96C3441A976E4ED8A4AC236C72022FCA",
+			"asnIdentifier": "S2537672",
+			"position": 123000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Debate the philosophical arguments presented in literary works to determine whether the authors' positions have contributed to the quality of each work and the credibility of the characters (philosophical approach).",
+			"ancestorIds": [
+				"B562369E781F4450AD24490C120734E5",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"511DCC1CE57C47C08C727D0A6F46F148": {
+			"id": "511DCC1CE57C47C08C727D0A6F46F148",
+			"asnIdentifier": "S2537671",
+			"position": 122000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Analyze the way in which authors through the centuries have used archetypes drawn from myth and tradition in literature, film, political speeches, and religious writings.",
+			"ancestorIds": [
+				"B562369E781F4450AD24490C120734E5",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"89734BEA6D624E65BEAD34A5FF93AEB9": {
+			"id": "89734BEA6D624E65BEAD34A5FF93AEB9",
+			"asnIdentifier": "S2537670",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Evaluate the ways in which irony, tone, mood, the author's style, and the \"sound\" of language achieve specific rhetorical or aesthetic purposes or both.",
+			"ancestorIds": [
+				"B562369E781F4450AD24490C120734E5",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B562369E781F4450AD24490C120734E5": {
+			"id": "B562369E781F4450AD24490C120734E5",
+			"asnIdentifier": "S2537669",
+			"position": 120000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Analyze characteristics of subgenres (e.g., satire, parody, allegory, pastoral) that are used in poetry, prose, plays, novels, short stories, essays, and other basic genres.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"7298DFD18A584AA396752CE06A1396B3": {
+			"id": "7298DFD18A584AA396752CE06A1396B3",
+			"asnIdentifier": "S2537668",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.7",
+			"description": "Synthesize traditional art work and new technologies to design an artistic product to be used by a specific industry.",
+			"ancestorIds": [
+				"384AAFB1D0254C539DF047FD0FCC8AA8",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1838016E44DE430683671F124585B57C": {
+			"id": "1838016E44DE430683671F124585B57C",
+			"asnIdentifier": "S2537667",
+			"position": 118000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.6",
+			"description": "Prepare portfolios of original art created for a variety of purposes and commercial applications.",
+			"ancestorIds": [
+				"384AAFB1D0254C539DF047FD0FCC8AA8",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"E4B6B0B1C63E49D4BA960859C8B7789F": {
+			"id": "E4B6B0B1C63E49D4BA960859C8B7789F",
+			"asnIdentifier": "S2537666",
+			"position": 117000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.5",
+			"description": "Create a commercial artistic product that communicates a cross-cultural or universal theme.",
+			"ancestorIds": [
+				"384AAFB1D0254C539DF047FD0FCC8AA8",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"736128629AFD4FBC92652BAAF8C9F116": {
+			"id": "736128629AFD4FBC92652BAAF8C9F116",
+			"asnIdentifier": "S2537665",
+			"position": 116000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.4",
+			"description": "Predict how changes in technology might change the role and function of the visual arts in the workplace.",
+			"ancestorIds": [
+				"384AAFB1D0254C539DF047FD0FCC8AA8",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F98E7C58DAC1407C9B0563A979F4BA21": {
+			"id": "F98E7C58DAC1407C9B0563A979F4BA21",
+			"asnIdentifier": "S2537664",
+			"position": 115000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Deconstruct works of art, identifying psychological content found in the symbols and images and their relationship to industry and society.",
+			"ancestorIds": [
+				"384AAFB1D0254C539DF047FD0FCC8AA8",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B38634178E7842C2B3DDD3EAF7B3941F": {
+			"id": "B38634178E7842C2B3DDD3EAF7B3941F",
+			"asnIdentifier": "S2537663",
+			"position": 114000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Explore the role of art and design across various industry sectors and content areas.",
+			"ancestorIds": [
+				"384AAFB1D0254C539DF047FD0FCC8AA8",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"03953669A2984E01BC3B96264664555F": {
+			"id": "03953669A2984E01BC3B96264664555F",
+			"asnIdentifier": "S2537662",
+			"position": 113000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "Compare and contrast the ways in which different artistic media (television, newspapers, magazines, and electronic media) cover the same commercial content.",
+			"ancestorIds": [
+				"384AAFB1D0254C539DF047FD0FCC8AA8",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"384AAFB1D0254C539DF047FD0FCC8AA8": {
+			"id": "384AAFB1D0254C539DF047FD0FCC8AA8",
+			"asnIdentifier": "S2537661",
+			"position": 112000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Identify essential industry competencies, explore commercial applications and develop a career specific personal plan.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"51CE10CE4CC34009A593993CD8154735": {
+			"id": "51CE10CE4CC34009A593993CD8154735",
+			"asnIdentifier": "S2537660",
+			"position": 111000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.6",
+			"description": "Create an artistic product for a specific industry and modify that product to accommodate a different aesthetic perspective.",
+			"ancestorIds": [
+				"62E86B736AA545C5B8B504B01FE47861",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"76013F6380244FDA8396A9BB441C654D": {
+			"id": "76013F6380244FDA8396A9BB441C654D",
+			"asnIdentifier": "S2537659",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.5",
+			"description": "Analyze and articulate how society influences the interpretation and effectiveness of an artistic product.",
+			"ancestorIds": [
+				"62E86B736AA545C5B8B504B01FE47861",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B07A595EA9B74E259B9736EB31EBCBD3": {
+			"id": "B07A595EA9B74E259B9736EB31EBCBD3",
+			"asnIdentifier": "S2537658",
+			"position": 109000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.4",
+			"description": "Analyze the relationship between the artist, artistic product and audience in both an existing and self-generated project.",
+			"ancestorIds": [
+				"62E86B736AA545C5B8B504B01FE47861",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D44E037A8C754A9793DB3097E19E76A9": {
+			"id": "D44E037A8C754A9793DB3097E19E76A9",
+			"asnIdentifier": "S2537657",
+			"position": 108000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Analyze the aesthetic value of a specific commercial work of art and defend that analysis from an industry perspective.",
+			"ancestorIds": [
+				"62E86B736AA545C5B8B504B01FE47861",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"990E70BF28C14F318D34A5CC3DAFA809": {
+			"id": "990E70BF28C14F318D34A5CC3DAFA809",
+			"asnIdentifier": "S2537656",
+			"position": 107000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Deconstruct how beliefs, cultural traditions, and current social, economic, and political contexts influence commercial media (traditional and electronic).",
+			"ancestorIds": [
+				"62E86B736AA545C5B8B504B01FE47861",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"564E04B039BA48E583922B235B6C4CA5": {
+			"id": "564E04B039BA48E583922B235B6C4CA5",
+			"asnIdentifier": "S2537655",
+			"position": 106000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Develop written consumer assessment rubrics for separate, industry-specific art products.",
+			"ancestorIds": [
+				"62E86B736AA545C5B8B504B01FE47861",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"62E86B736AA545C5B8B504B01FE47861": {
+			"id": "62E86B736AA545C5B8B504B01FE47861",
+			"asnIdentifier": "S2537654",
+			"position": 105000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Analyze, assess, and identify effectiveness of artistic products based on elements of art, the principles of design, and professional industry standards.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6857DACE5F054C38A0EBD35DD1EC428F": {
+			"id": "6857DACE5F054C38A0EBD35DD1EC428F",
+			"asnIdentifier": "S2537653",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.6",
+			"description": "Investigate and discuss universal concepts expressed in visual media products from diverse cultures.",
+			"ancestorIds": [
+				"F025FD8DF0C54819B095E796E54487C0",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"662900DECF13414D93F315F597DA43CA": {
+			"id": "662900DECF13414D93F315F597DA43CA",
+			"asnIdentifier": "S2537652",
+			"position": 103000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.5",
+			"description": "Analyze similarities and differences of purpose in art created in culturally diverse industry applications.",
+			"ancestorIds": [
+				"F025FD8DF0C54819B095E796E54487C0",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"97382D16F1D84250B2B0FD843E52339E": {
+			"id": "97382D16F1D84250B2B0FD843E52339E",
+			"asnIdentifier": "S2537651",
+			"position": 102000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.4",
+			"description": "Identify art in international industry and discuss ways in which the work reflects cultural perspective.",
+			"ancestorIds": [
+				"F025FD8DF0C54819B095E796E54487C0",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"BFEE72E6055549248EB461959B3C5DDD": {
+			"id": "BFEE72E6055549248EB461959B3C5DDD",
+			"asnIdentifier": "S2537650",
+			"position": 101000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Identify contemporary styles and discuss the diverse social, economic, and political developments reflected in art work in an industry setting.",
+			"ancestorIds": [
+				"F025FD8DF0C54819B095E796E54487C0",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"61EA9C4F428544D396F8C455FE26123C": {
+			"id": "61EA9C4F428544D396F8C455FE26123C",
+			"asnIdentifier": "S2537649",
+			"position": 100000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Describe how the issues of time, place, and cultural influence and are reflected in a variety of artistic products.",
+			"ancestorIds": [
+				"F025FD8DF0C54819B095E796E54487C0",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"738D695B116E451B844020E37DE3721F": {
+			"id": "738D695B116E451B844020E37DE3721F",
+			"asnIdentifier": "S2537648",
+			"position": 99000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Identify and describe the role and influence of new technologies on contemporary arts industry.",
+			"ancestorIds": [
+				"F025FD8DF0C54819B095E796E54487C0",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"F025FD8DF0C54819B095E796E54487C0": {
+			"id": "F025FD8DF0C54819B095E796E54487C0",
+			"asnIdentifier": "S2537647",
+			"position": 98000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Analyze and assess the impact of history and culture on the development of professional arts and media products.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4288BF0C1BC3413EB66BB34A5AB0CB09": {
+			"id": "4288BF0C1BC3413EB66BB34A5AB0CB09",
+			"asnIdentifier": "S2537646",
+			"position": 97000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.9",
+			"description": "Create a multimedia work of art that demonstrates knowledge of media and technology skills.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"9C07D4BAFF3A455286F0A20E853A224D": {
+			"id": "9C07D4BAFF3A455286F0A20E853A224D",
+			"asnIdentifier": "S2537645",
+			"position": 96000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.8",
+			"description": "Plan and create artistic products that reflect complex ideas, such as distortion, color theory, arbitrary color, scale, expressive content, and real versus virtual.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6E47B3284BF64DAA850E3413A3B308C1": {
+			"id": "6E47B3284BF64DAA850E3413A3B308C1",
+			"asnIdentifier": "S2537644",
+			"position": 95000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.7",
+			"description": "Create original works of art of increasing complexity and skill in a variety of media that reflect their feelings and points of view.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"0AB4F6265B884AFFB8A23FD839F38A59": {
+			"id": "0AB4F6265B884AFFB8A23FD839F38A59",
+			"asnIdentifier": "S2537643",
+			"position": 94000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.6",
+			"description": "Create an artistic product that involves the effective use of the elements of art and the principles of design.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1EFDFB408A454D908EDB27A6A99B4D6B": {
+			"id": "1EFDFB408A454D908EDB27A6A99B4D6B",
+			"asnIdentifier": "S2537642",
+			"position": 93000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.5",
+			"description": "Compile a portfolio of multiple original two- and three-dimensional works of art that reflect technical skills in an industry-relevant application.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"62C1E2B8A1814FCDA400FD1A49408AD0": {
+			"id": "62C1E2B8A1814FCDA400FD1A49408AD0",
+			"asnIdentifier": "S2537641",
+			"position": 92000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Use visual metaphors in creating an artistic product.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"13BF4B039C7B43CB979D6DDE9B718E8C": {
+			"id": "13BF4B039C7B43CB979D6DDE9B718E8C",
+			"asnIdentifier": "S2537640",
+			"position": 91000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Apply refined observation and drawing skills to solve an industry-relevant problem.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1E4E8FFED9D4490EB9A1BFAC8012D3AC": {
+			"id": "1E4E8FFED9D4490EB9A1BFAC8012D3AC",
+			"asnIdentifier": "S2537639",
+			"position": 90000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Demonstrate personal style and advanced proficiency in communicating an idea, theme, or emotion in an industry-relevant artistic product.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D9D0A68DE0DF4A2A83DDCA42DDEFB816": {
+			"id": "D9D0A68DE0DF4A2A83DDCA42DDEFB816",
+			"asnIdentifier": "S2537638",
+			"position": 89000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Demonstrate skill in the manipulation of digital imagery (either still or video) in an industry-relevant application.",
+			"ancestorIds": [
+				"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9": {
+			"id": "FB2DB5AE38BF4ADEA0C2FF0BD71FB6B9",
+			"asnIdentifier": "S2537637",
+			"position": 88000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Apply artistic skills and processes to solve a variety of industry-relevant problems in a variety of traditional and electronic media.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"B1BE679660B24B5892634E8D2DA5A31A": {
+			"id": "B1BE679660B24B5892634E8D2DA5A31A",
+			"asnIdentifier": "S2537636",
+			"position": 87000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.9",
+			"description": "Analyze the material used by a given artist and describe how its use influences the meaning of the work.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"D32466EE90ED44A9B5F9E4673CAD9148": {
+			"id": "D32466EE90ED44A9B5F9E4673CAD9148",
+			"asnIdentifier": "S2537635",
+			"position": 86000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.8",
+			"description": "Compare how distortion is used in a variety of media to modify the message being communicated.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"71989C68BAC14EF59A0F74D942D4BFD5": {
+			"id": "71989C68BAC14EF59A0F74D942D4BFD5",
+			"asnIdentifier": "S2537634",
+			"position": 85000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.7",
+			"description": "Analyze and discuss complex ideas, such as distortion, color theory, arbitrary color, scale, expressive content, and real versus virtual in works of art.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"75B7F761A72B4F5EAC84A61305B5A03E": {
+			"id": "75B7F761A72B4F5EAC84A61305B5A03E",
+			"asnIdentifier": "S2537633",
+			"position": 84000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.6",
+			"description": "Compare and analyze art work done using electronic media with those done with materials traditionally used in the visual arts.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"4B23FF1DA9854B6E93A7D02955903B72": {
+			"id": "4B23FF1DA9854B6E93A7D02955903B72",
+			"asnIdentifier": "S2537632",
+			"position": 83000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.5",
+			"description": "Research and analyze the work of an artist or designer and how the artist's distinctive style contributes to their industry production.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"1575910DE6804A6B93CBF4F54C301C5A": {
+			"id": "1575910DE6804A6B93CBF4F54C301C5A",
+			"asnIdentifier": "S2537631",
+			"position": 82000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "Select industry-specific works and analyze the intent of the work and the appropriate use of media.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"84BD5BC0DCD3473EBC7BBFB0C53149DE": {
+			"id": "84BD5BC0DCD3473EBC7BBFB0C53149DE",
+			"asnIdentifier": "S2537630",
+			"position": 81000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Describe the use of the elements of art to express mood in digital or traditional art work found in the commercial environment.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"72A0567175AE451B82EF1079C67DC237": {
+			"id": "72A0567175AE451B82EF1079C67DC237",
+			"asnIdentifier": "S2537629",
+			"position": 80000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Identify and use the principles of design to discuss, analyze, and create projects and products across multiple industry applications.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"5D91D3AC932F41299155AE14FEBC748B": {
+			"id": "5D91D3AC932F41299155AE14FEBC748B",
+			"asnIdentifier": "S2537628",
+			"position": 79000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "View and respond to a variety of industry-related artistic products integrating industry appropriate vocabulary.",
+			"ancestorIds": [
+				"69B93DDB26D143F19F608782B7F8EB2B",
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"69B93DDB26D143F19F608782B7F8EB2B": {
+			"id": "69B93DDB26D143F19F608782B7F8EB2B",
+			"asnIdentifier": "S2537627",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Demonstrate ability to reorganize and integrate visual art elements across digital media and design applications.",
+			"ancestorIds": [
+				"16119B3816334DCE81B01DAC9BB6C23F",
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"16119B3816334DCE81B01DAC9BB6C23F": {
+			"id": "16119B3816334DCE81B01DAC9BB6C23F",
+			"asnIdentifier": "S2537626",
+			"position": 77000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Design, Visual, and Media Arts Pathway",
+			"comments": [
+				"The Design, Visual, and Media Arts pathway includes those occupations that use visual art, digital media, and Web-based tools and materials as the primary means of communication and expression. In addition to an understanding of current workplace practice, this career pathway requires the development of knowledge and skills in both visual art concepts as well as new and emerging digital processes by which individuals are able to create and communicate complex concepts in a broad range of occupations and professions."
+			],
+			"ancestorIds": [
+				"6514148794A641678A0C335F9A6DFD2C"
+			]
+		},
+		"6514148794A641678A0C335F9A6DFD2C": {
+			"id": "6514148794A641678A0C335F9A6DFD2C",
+			"asnIdentifier": "S2537687",
+			"position": 76000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"7F7B689486D34307A9469D1B17AE4A2F": {
+			"id": "7F7B689486D34307A9469D1B17AE4A2F",
+			"asnIdentifier": "S2537625",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"49F04E2FC53241C4A4B6DBC75267EA63",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"23C822EF7A7C45858AA2E4B2C7DE3D45": {
+			"id": "23C822EF7A7C45858AA2E4B2C7DE3D45",
+			"asnIdentifier": "S2537624",
+			"position": 74000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors appropriate to Arts, Media, and Entertainment sector opportunities.",
+			"ancestorIds": [
+				"49F04E2FC53241C4A4B6DBC75267EA63",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"D3D4A794728B47D1BB3D00D8C6226A1A": {
+			"id": "D3D4A794728B47D1BB3D00D8C6226A1A",
+			"asnIdentifier": "S2537623",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"49F04E2FC53241C4A4B6DBC75267EA63",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"0CB104147F87458B910AB9047778834F": {
+			"id": "0CB104147F87458B910AB9047778834F",
+			"asnIdentifier": "S2537622",
+			"position": 72000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"49F04E2FC53241C4A4B6DBC75267EA63",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"4E326277CEAA45F7A335AFE7CB819EF7": {
+			"id": "4E326277CEAA45F7A335AFE7CB819EF7",
+			"asnIdentifier": "S2537621",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Arts, Media, and Entertainment sector program of study.",
+			"ancestorIds": [
+				"49F04E2FC53241C4A4B6DBC75267EA63",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"49F04E2FC53241C4A4B6DBC75267EA63": {
+			"id": "49F04E2FC53241C4A4B6DBC75267EA63",
+			"asnIdentifier": "S2537620",
+			"position": 70000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Arts, Media, and Entertainment anchor standards, pathway standards, and performance indicators in classroom, laboratory, and workplace settings, and through the SkillsUSA career technical student organizations."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"D96DE350FDBB4471A62613CCF396A5CC": {
+			"id": "D96DE350FDBB4471A62613CCF396A5CC",
+			"asnIdentifier": "S2537619",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Collaborate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"0B5E3DBD1F1A48AFBEF2EE9232599F5F",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"5CE72E3C93544BA1A4597A781E277519": {
+			"id": "5CE72E3C93544BA1A4597A781E277519",
+			"asnIdentifier": "S2537618",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Arts, Media, and Entertainment sector requirements and expectations.",
+			"ancestorIds": [
+				"0B5E3DBD1F1A48AFBEF2EE9232599F5F",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"A108A62B35B942918549C356EE8D9125": {
+			"id": "A108A62B35B942918549C356EE8D9125",
+			"asnIdentifier": "S2537617",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Arts, Media, and Entertainment sector.",
+			"ancestorIds": [
+				"0B5E3DBD1F1A48AFBEF2EE9232599F5F",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"969DC4511E414DECA775D97FD73C7813": {
+			"id": "969DC4511E414DECA775D97FD73C7813",
+			"asnIdentifier": "S2537616",
+			"position": 66000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Arts, Media, and Entertainment sector.",
+			"ancestorIds": [
+				"0B5E3DBD1F1A48AFBEF2EE9232599F5F",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"0B5E3DBD1F1A48AFBEF2EE9232599F5F": {
+			"id": "0B5E3DBD1F1A48AFBEF2EE9232599F5F",
+			"asnIdentifier": "S2537615",
+			"position": 65000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Arts, Media, and Entertainment sector, following procedures when carrying out experiments or performing technical tasks."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"0BC1F8E9358F4F2FA5FDC8A75775E8CE": {
+			"id": "0BC1F8E9358F4F2FA5FDC8A75775E8CE",
+			"asnIdentifier": "S2537614",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Arts, Media, and Entertainment sector issues and problems.",
+			"ancestorIds": [
+				"3A9C6DA3009848ED8D25157DFCF232E8",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"24051560558F49399373B0A1E1D7F3CE": {
+			"id": "24051560558F49399373B0A1E1D7F3CE",
+			"asnIdentifier": "S2537613",
+			"position": 63000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"3A9C6DA3009848ED8D25157DFCF232E8",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"CD2F1CCB31024A2AB56BFAA891ED0C83": {
+			"id": "CD2F1CCB31024A2AB56BFAA891ED0C83",
+			"asnIdentifier": "S2537612",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"3A9C6DA3009848ED8D25157DFCF232E8",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"981FAE344C6C4ED7900FDF151555918E": {
+			"id": "981FAE344C6C4ED7900FDF151555918E",
+			"asnIdentifier": "S2537611",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"3A9C6DA3009848ED8D25157DFCF232E8",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"768E0956DAFA4E61B7096F66BE5C8794": {
+			"id": "768E0956DAFA4E61B7096F66BE5C8794",
+			"asnIdentifier": "S2537610",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"3A9C6DA3009848ED8D25157DFCF232E8",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"07DBA2728CD749EEAC1275BA2C668092": {
+			"id": "07DBA2728CD749EEAC1275BA2C668092",
+			"asnIdentifier": "S2537609",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"3A9C6DA3009848ED8D25157DFCF232E8",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"5FA2109EBB2A4B029108E7ED42EF51ED": {
+			"id": "5FA2109EBB2A4B029108E7ED42EF51ED",
+			"asnIdentifier": "S2537608",
+			"position": 58000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"3A9C6DA3009848ED8D25157DFCF232E8",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"3A9C6DA3009848ED8D25157DFCF232E8": {
+			"id": "3A9C6DA3009848ED8D25157DFCF232E8",
+			"asnIdentifier": "S2537607",
+			"position": 57000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution as practiced in the SkillsUSA career technical student organizations."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"FA54C5EF8F534659855B136D9655E3F1": {
+			"id": "FA54C5EF8F534659855B136D9655E3F1",
+			"asnIdentifier": "S2537606",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Arts, Media, and Entertainment sector laws and practices.",
+			"ancestorIds": [
+				"C712FFCDA3C04C918A3E3E68C84ED7F5",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"A9423EE451434563A613D3969AD9B203": {
+			"id": "A9423EE451434563A613D3969AD9B203",
+			"asnIdentifier": "S2537605",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"C712FFCDA3C04C918A3E3E68C84ED7F5",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"800CF50AD3854CD9BE586A5A760FA196": {
+			"id": "800CF50AD3854CD9BE586A5A760FA196",
+			"asnIdentifier": "S2537604",
+			"position": 54000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"C712FFCDA3C04C918A3E3E68C84ED7F5",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"275D23AE517A4041942C30C6E2003F33": {
+			"id": "275D23AE517A4041942C30C6E2003F33",
+			"asnIdentifier": "S2537603",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"C712FFCDA3C04C918A3E3E68C84ED7F5",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"6A528CE961E342C0806BD9D371D08EAB": {
+			"id": "6A528CE961E342C0806BD9D371D08EAB",
+			"asnIdentifier": "S2537602",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Arts, Media, and Entertainment sector workplace standards.",
+			"ancestorIds": [
+				"C712FFCDA3C04C918A3E3E68C84ED7F5",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"C5F87360B2A745A985D4EF02F74A9C74": {
+			"id": "C5F87360B2A745A985D4EF02F74A9C74",
+			"asnIdentifier": "S2537601",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, and federal regulatory agencies, entities, laws, and regulations related to the Arts, Media, and Entertainment industry sector.",
+			"ancestorIds": [
+				"C712FFCDA3C04C918A3E3E68C84ED7F5",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"514C3B0A364948A1BDF48D182B5C297D": {
+			"id": "514C3B0A364948A1BDF48D182B5C297D",
+			"asnIdentifier": "S2537600",
+			"position": 50000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"C712FFCDA3C04C918A3E3E68C84ED7F5",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"C712FFCDA3C04C918A3E3E68C84ED7F5": {
+			"id": "C712FFCDA3C04C918A3E3E68C84ED7F5",
+			"asnIdentifier": "S2537599",
+			"position": 49000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "8.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"8B845FACC657459A955951E8736DA3ED": {
+			"id": "8B845FACC657459A955951E8736DA3ED",
+			"asnIdentifier": "S2537598",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Arts, Media, and Entertainment sector.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"AC4D43FFF58E4A06AA4E4B8E417E86BD": {
+			"id": "AC4D43FFF58E4A06AA4E4B8E417E86BD",
+			"asnIdentifier": "S2537597",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"DC5F16261D0148E1A9E0C1D297AEBC8E": {
+			"id": "DC5F16261D0148E1A9E0C1D297AEBC8E",
+			"asnIdentifier": "S2537596",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"119C71462C4A4CDA95B208F208C51649": {
+			"id": "119C71462C4A4CDA95B208F208C51649",
+			"asnIdentifier": "S2537595",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"A0F13F8149CE41E88A2D45C637C1257A": {
+			"id": "A0F13F8149CE41E88A2D45C637C1257A",
+			"asnIdentifier": "S2537594",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"4A8ED54BE26A40D8B88D6591D81FE1C3": {
+			"id": "4A8ED54BE26A40D8B88D6591D81FE1C3",
+			"asnIdentifier": "S2537593",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"07A708C63D934072BA557CCA8EB36FCD": {
+			"id": "07A708C63D934072BA557CCA8EB36FCD",
+			"asnIdentifier": "S2537592",
+			"position": 42000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"76954BAE9ED2497B8695F5A1E03B28BE": {
+			"id": "76954BAE9ED2497B8695F5A1E03B28BE",
+			"asnIdentifier": "S2537591",
+			"position": 41000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"D496D20C547841DCB8EF1667CF11B78B",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"D496D20C547841DCB8EF1667CF11B78B": {
+			"id": "D496D20C547841DCB8EF1667CF11B78B",
+			"asnIdentifier": "S2537590",
+			"position": 40000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate, and participate in, a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Arts, Media, and Entertainment sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"A969F2005D5149CA9A3E7EE0775A4C64": {
+			"id": "A969F2005D5149CA9A3E7EE0775A4C64",
+			"asnIdentifier": "S2537589",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Be informed of laws/acts pertaining to the Occupational Safety and Health Administration (OSHA).",
+			"ancestorIds": [
+				"8749D272B8AB4DF89278ECFD31B0340A",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"AF97ACAAB666418C88EE39BAC7C6F740": {
+			"id": "AF97ACAAB666418C88EE39BAC7C6F740",
+			"asnIdentifier": "S2537588",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"8749D272B8AB4DF89278ECFD31B0340A",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"A318EFFD0F6D4B88AC5A9984E7F34861": {
+			"id": "A318EFFD0F6D4B88AC5A9984E7F34861",
+			"asnIdentifier": "S2537587",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.5",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"8749D272B8AB4DF89278ECFD31B0340A",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"186CB33BC6504D1FA0028787F06CB633": {
+			"id": "186CB33BC6504D1FA0028787F06CB633",
+			"asnIdentifier": "S2537586",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"8749D272B8AB4DF89278ECFD31B0340A",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"5F87CB6CA5554746B49BD7A8C37BCB01": {
+			"id": "5F87CB6CA5554746B49BD7A8C37BCB01",
+			"asnIdentifier": "S2537585",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"8749D272B8AB4DF89278ECFD31B0340A",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"E02260FC5FF74D1DBE4A60CB3B9CC811": {
+			"id": "E02260FC5FF74D1DBE4A60CB3B9CC811",
+			"asnIdentifier": "S2537584",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"8749D272B8AB4DF89278ECFD31B0340A",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"D6F9A2034CE949748FA2BAE595628E86": {
+			"id": "D6F9A2034CE949748FA2BAE595628E86",
+			"asnIdentifier": "S2537583",
+			"position": 33000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate, and adhere to, Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"8749D272B8AB4DF89278ECFD31B0340A",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"8749D272B8AB4DF89278ECFD31B0340A": {
+			"id": "8749D272B8AB4DF89278ECFD31B0340A",
+			"asnIdentifier": "S2537582",
+			"position": 32000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Arts, Media, and Entertainment sector workplace environment."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"CCD39BF19AA348E3A240280FAA82C3E3": {
+			"id": "CCD39BF19AA348E3A240280FAA82C3E3",
+			"asnIdentifier": "S2537581",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"C8A83B37747343B2A04A254F33B24E84",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"890205A88CEE4C83A6AF44AE3B7625A3": {
+			"id": "890205A88CEE4C83A6AF44AE3B7625A3",
+			"asnIdentifier": "S2537580",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"C8A83B37747343B2A04A254F33B24E84",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"C71F072E116E4F82BC0877AF6F6AFF1C": {
+			"id": "C71F072E116E4F82BC0877AF6F6AFF1C",
+			"asnIdentifier": "S2537579",
+			"position": 29000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"C8A83B37747343B2A04A254F33B24E84",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"6A368977E69C4C1D89E3F432193E4210": {
+			"id": "6A368977E69C4C1D89E3F432193E4210",
+			"asnIdentifier": "S2537578",
+			"position": 28000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"C8A83B37747343B2A04A254F33B24E84",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"C8A83B37747343B2A04A254F33B24E84": {
+			"id": "C8A83B37747343B2A04A254F33B24E84",
+			"asnIdentifier": "S2537577",
+			"position": 27000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short as well as more sustained research to create alternative solutions to answer a question or solve a problem unique to the Arts, Media, and Entertainment sector, using critical and creative thinking, logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"68FBF27AB8944C62BBE753CB50B58C83": {
+			"id": "68FBF27AB8944C62BBE753CB50B58C83",
+			"asnIdentifier": "S2537576",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"92AC471A2700465E91E9D317F4885C15",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"09F65A140934495FBD1BEE4230C08889": {
+			"id": "09F65A140934495FBD1BEE4230C08889",
+			"asnIdentifier": "S2537575",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"92AC471A2700465E91E9D317F4885C15",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"C130F71521E34D57A4E6A15B3B2982C6": {
+			"id": "C130F71521E34D57A4E6A15B3B2982C6",
+			"asnIdentifier": "S2537574",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"92AC471A2700465E91E9D317F4885C15",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"2964B1092BED4457AF8C9B793B504C57": {
+			"id": "2964B1092BED4457AF8C9B793B504C57",
+			"asnIdentifier": "S2537573",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"92AC471A2700465E91E9D317F4885C15",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"51F7BA76922848EEB9575E30CF704B5E": {
+			"id": "51F7BA76922848EEB9575E30CF704B5E",
+			"asnIdentifier": "S2537572",
+			"position": 22000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ Web-based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"92AC471A2700465E91E9D317F4885C15",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"9DE24F61502F47C5A7D915A38581002A": {
+			"id": "9DE24F61502F47C5A7D915A38581002A",
+			"asnIdentifier": "S2537571",
+			"position": 21000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"92AC471A2700465E91E9D317F4885C15",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"92AC471A2700465E91E9D317F4885C15": {
+			"id": "92AC471A2700465E91E9D317F4885C15",
+			"asnIdentifier": "S2537570",
+			"position": 20000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology to investigate, research, and produce products and services, including new information, as required in the Arts, Media, and Entertainment sector workplace environment."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"8B7E455F21424F8FB94D63519C56190F": {
+			"id": "8B7E455F21424F8FB94D63519C56190F",
+			"asnIdentifier": "S2537569",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"11C55AF0307B49B0ADB2473F29276D32": {
+			"id": "11C55AF0307B49B0ADB2473F29276D32",
+			"asnIdentifier": "S2537568",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"4155437079E149708462076E7E6BDDE1": {
+			"id": "4155437079E149708462076E7E6BDDE1",
+			"asnIdentifier": "S2537567",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"E78F0A99E7A74AABB2D700F0CD9F974E": {
+			"id": "E78F0A99E7A74AABB2D700F0CD9F974E",
+			"asnIdentifier": "S2537566",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"D722772DD5C14568B108F0AC4DD48662": {
+			"id": "D722772DD5C14568B108F0AC4DD48662",
+			"asnIdentifier": "S2537565",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"381ECA454B674F789A4357F165CFFB0B": {
+			"id": "381ECA454B674F789A4357F165CFFB0B",
+			"asnIdentifier": "S2537564",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"C3699F3488B348F0AB5D5B2ACFA8C9B9": {
+			"id": "C3699F3488B348F0AB5D5B2ACFA8C9B9",
+			"asnIdentifier": "S2537563",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"6C96C48875824C11A0FCAB8B712D5A02": {
+			"id": "6C96C48875824C11A0FCAB8B712D5A02",
+			"asnIdentifier": "S2537562",
+			"position": 12000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits such as trust, respect, and responsibility and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"A9F4465258A340E6A44F69C8CF89FFC0": {
+			"id": "A9F4465258A340E6A44F69C8CF89FFC0",
+			"asnIdentifier": "S2537561",
+			"position": 11000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"85C2F47611F147D18CFD1E4018DD13B0",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"85C2F47611F147D18CFD1E4018DD13B0": {
+			"id": "85C2F47611F147D18CFD1E4018DD13B0",
+			"asnIdentifier": "S2537560",
+			"position": 10000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"EBB618A3C0A84084A8A2CEF89BB06C3B": {
+			"id": "EBB618A3C0A84084A8A2CEF89BB06C3B",
+			"asnIdentifier": "S2537559",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"4447784A1C224B4086969357F6AAF548",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"80776859EC474E4B824E9EDAA5EA9354": {
+			"id": "80776859EC474E4B824E9EDAA5EA9354",
+			"asnIdentifier": "S2537558",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"4447784A1C224B4086969357F6AAF548",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"A3AC7F5695174FC381276E9DFEED6A7D": {
+			"id": "A3AC7F5695174FC381276E9DFEED6A7D",
+			"asnIdentifier": "S2537557",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Demonstrate elements of written and electronic communication such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"4447784A1C224B4086969357F6AAF548",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"4CF093F5DA784DF5BC67C22FE3D50A0C": {
+			"id": "4CF093F5DA784DF5BC67C22FE3D50A0C",
+			"asnIdentifier": "S2537556",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"4447784A1C224B4086969357F6AAF548",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"2FFB4B60A9134BDF9A4E5C2EC156ECA9": {
+			"id": "2FFB4B60A9134BDF9A4E5C2EC156ECA9",
+			"asnIdentifier": "S2537555",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"4447784A1C224B4086969357F6AAF548",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"26DC5BD728C04E0F94D243232815AC3B": {
+			"id": "26DC5BD728C04E0F94D243232815AC3B",
+			"asnIdentifier": "S2537554",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"4447784A1C224B4086969357F6AAF548",
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"4447784A1C224B4086969357F6AAF548": {
+			"id": "4447784A1C224B4086969357F6AAF548",
+			"asnIdentifier": "S2537553",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire and accurately use Arts, Media, and Entertainment sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"13213D4111FF40019F9C069BC195B35A": {
+			"id": "13213D4111FF40019F9C069BC195B35A",
+			"asnIdentifier": "S2537552",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Arts, Media, and Entertainment academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"2C92D6B1061F4E6F9D33570E6C220B94"
+			]
+		},
+		"2C92D6B1061F4E6F9D33570E6C220B94": {
+			"id": "2C92D6B1061F4E6F9D33570E6C220B94",
+			"asnIdentifier": "S2537551",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}

@@ -1,0 +1,490 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-01",
+	"title": "Grade 1",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"01"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BD477A80DFE40131001968A86D17958E": {
+			"id": "BD477A80DFE40131001968A86D17958E",
+			"asnIdentifier": "S10431DC",
+			"position": 40000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Identify the specialized work that people do to manufacture, transport, and market goods and services and the contributions of those who work in the home.",
+			"ancestorIds": [
+				"BD46F900DFE40131001768A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD473AE0DFE40131001868A86D17958E": {
+			"id": "BD473AE0DFE40131001868A86D17958E",
+			"asnIdentifier": "S10431DB",
+			"position": 39000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Understand the concept of exchange and the use of money to purchase goods and services.",
+			"ancestorIds": [
+				"BD46F900DFE40131001768A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD46F900DFE40131001768A86D17958E": {
+			"id": "BD46F900DFE40131001768A86D17958E",
+			"asnIdentifier": "S1042BED",
+			"position": 38000,
+			"depth": 1,
+			"listId": "1.6",
+			"description": "Students understand basic economic concepts and the role of individual choice in a free-market economy.",
+			"ancestorIds": [
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD46B950DFE40131001668A86D17958E": {
+			"id": "BD46B950DFE40131001668A86D17958E",
+			"asnIdentifier": "S10431DA",
+			"position": 37000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Compare the beliefs, customs, ceremonies, traditions, and social practices of the varied cultures, drawing from folklore.",
+			"ancestorIds": [
+				"BD45EC70DFE40131001368A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD4677B0DFE40131001568A86D17958E": {
+			"id": "BD4677B0DFE40131001568A86D17958E",
+			"asnIdentifier": "S10431D9",
+			"position": 36000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the ways in which American Indians and immigrants have helped define Californian and American culture.",
+			"ancestorIds": [
+				"BD45EC70DFE40131001368A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD462A00DFE40131001468A86D17958E": {
+			"id": "BD462A00DFE40131001468A86D17958E",
+			"asnIdentifier": "S10431D8",
+			"position": 35000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Recognize the ways in which they are all part of the same community, sharing principles, goals, and traditions despite their varied ancestry; the forms of diversity in their school and community; and the benefits and challenges of a diverse population.",
+			"ancestorIds": [
+				"BD45EC70DFE40131001368A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD45EC70DFE40131001368A86D17958E": {
+			"id": "BD45EC70DFE40131001368A86D17958E",
+			"asnIdentifier": "S1042BEC",
+			"position": 34000,
+			"depth": 1,
+			"listId": "1.5",
+			"description": "Students describe the human characteristics of familiar places and the varied backgrounds of American citizens and residents in those places.",
+			"ancestorIds": [
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD45AB10DFE40131001268A86D17958E": {
+			"id": "BD45AB10DFE40131001268A86D17958E",
+			"asnIdentifier": "S10431D7",
+			"position": 33000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Recognize similarities and differences of earlier generations in such areas as work (inside and outside the home), dress, manners, stories, games, and festivals, drawing from biographies, oral histories, and folklore.",
+			"ancestorIds": [
+				"BD44CBD0DFE40131000F68A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD455FC0DFE40131001168A86D17958E": {
+			"id": "BD455FC0DFE40131001168A86D17958E",
+			"asnIdentifier": "S10431D6",
+			"position": 32000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Study transportation methods of earlier days.",
+			"ancestorIds": [
+				"BD44CBD0DFE40131000F68A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD4518D0DFE40131001068A86D17958E": {
+			"id": "BD4518D0DFE40131001068A86D17958E",
+			"asnIdentifier": "S10431D5",
+			"position": 31000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Examine the structure of schools and communities in the past.",
+			"ancestorIds": [
+				"BD44CBD0DFE40131000F68A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD44CBD0DFE40131000F68A86D17958E": {
+			"id": "BD44CBD0DFE40131000F68A86D17958E",
+			"asnIdentifier": "S1042BEB",
+			"position": 30000,
+			"depth": 1,
+			"listId": "1.4",
+			"description": "Students compare and contrast everyday life in different times and places around the world and recognize that some aspects of people, places, and things change over time while others stay the same.",
+			"ancestorIds": [
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD448630DFE40131000E68A86D17958E": {
+			"id": "BD448630DFE40131000E68A86D17958E",
+			"asnIdentifier": "S10431D4",
+			"position": 29000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Identify American symbols, landmarks, and essential documents, such as the flag, bald eagle, Statue of Liberty, U.S. Constitution, and Declaration of Independence, and know the people and events associated with them.",
+			"ancestorIds": [
+				"BD43B400DFE40131000B68A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD443A00DFE40131000D68A86D17958E": {
+			"id": "BD443A00DFE40131000D68A86D17958E",
+			"asnIdentifier": "S10431D3",
+			"position": 28000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the significance of our national holidays and the heroism and achievements of the people associated with them.",
+			"ancestorIds": [
+				"BD43B400DFE40131000B68A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD43F840DFE40131000C68A86D17958E": {
+			"id": "BD43F840DFE40131000C68A86D17958E",
+			"asnIdentifier": "S10431D2",
+			"position": 27000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Recite the Pledge of Allegiance and sing songs that express American ideals (e.g., \"America\").",
+			"ancestorIds": [
+				"BD43B400DFE40131000B68A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD43B400DFE40131000B68A86D17958E": {
+			"id": "BD43B400DFE40131000B68A86D17958E",
+			"asnIdentifier": "S1042BEA",
+			"position": 26000,
+			"depth": 1,
+			"listId": "1.3",
+			"description": "Students know and understand the symbols, icons, and traditions of the United States that provide continuity and a sense of community across time.",
+			"ancestorIds": [
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD436EA0DFE40131000A68A86D17958E": {
+			"id": "BD436EA0DFE40131000A68A86D17958E",
+			"asnIdentifier": "S10431D1",
+			"position": 25000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe how location, weather, and physical environment affect the way people live, including the effects on their food, clothing, shelter, transportation, and recreation.",
+			"ancestorIds": [
+				"BD422BE0DFE40131000668A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD432AA0DFE40131000968A86D17958E": {
+			"id": "BD432AA0DFE40131000968A86D17958E",
+			"asnIdentifier": "S10431D0",
+			"position": 24000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Construct a simple map, using cardinal directions and map symbols.",
+			"ancestorIds": [
+				"BD422BE0DFE40131000668A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD42E6F0DFE40131000868A86D17958E": {
+			"id": "BD42E6F0DFE40131000868A86D17958E",
+			"asnIdentifier": "S10431CF",
+			"position": 23000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Compare the information that can be derived from a three-dimensional model to the information that can be derived from a picture of the same location.",
+			"ancestorIds": [
+				"BD422BE0DFE40131000668A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD429D70DFE40131000768A86D17958E": {
+			"id": "BD429D70DFE40131000768A86D17958E",
+			"asnIdentifier": "S10431CE",
+			"position": 22000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Locate on maps and globes their local community, California, the United States, the seven continents, and the four oceans.",
+			"ancestorIds": [
+				"BD422BE0DFE40131000668A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD422BE0DFE40131000668A86D17958E": {
+			"id": "BD422BE0DFE40131000668A86D17958E",
+			"asnIdentifier": "S1042BE9",
+			"position": 21000,
+			"depth": 1,
+			"listId": "1.2",
+			"description": "Students compare and contrast the absolute and relative locations of places and people and describe the physical and/ or human characteristics of places.",
+			"ancestorIds": [
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD41E260DFE40131000568A86D17958E": {
+			"id": "BD41E260DFE40131000568A86D17958E",
+			"asnIdentifier": "S10431CD",
+			"position": 20000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the elements of fair play and good sportsmanship, respect for the rights and opinions of others, and respect for rules by which we live, including the meaning of the \"Golden Rule.\"",
+			"ancestorIds": [
+				"BD4169C0DFE40131000368A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD41A5B0DFE40131000468A86D17958E": {
+			"id": "BD41A5B0DFE40131000468A86D17958E",
+			"asnIdentifier": "S10431CC",
+			"position": 19000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Understand the rule-making process in a direct democracy (everyone votes on the rules) and in a representative democracy (an elected group of people makes the rules), giving examples of both systems in their classroom, school, and community.",
+			"ancestorIds": [
+				"BD4169C0DFE40131000368A86D17958E",
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD4169C0DFE40131000368A86D17958E": {
+			"id": "BD4169C0DFE40131000368A86D17958E",
+			"asnIdentifier": "S1042BE8",
+			"position": 18000,
+			"depth": 1,
+			"listId": "1.1",
+			"description": "Students describe the rights and individual responsibilities of citizenship.",
+			"ancestorIds": [
+				"BD412CF0DFE40131000268A86D17958E"
+			]
+		},
+		"BD412CF0DFE40131000268A86D17958E": {
+			"id": "BD412CF0DFE40131000268A86D17958E",
+			"asnIdentifier": "S1042BB1",
+			"position": 17000,
+			"depth": 0,
+			"description": "A Child's Place in Time and Space",
+			"ancestorIds": [
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD40EDE0DFE40131000168A86D17958E": {
+			"id": "BD40EDE0DFE40131000168A86D17958E",
+			"asnIdentifier": "S1042BC4",
+			"position": 16000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students conduct cost-benefit analyses of historical and current events.",
+			"ancestorIds": [
+				"BD3FEDC0DFE40131FFFD68A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD40A340DFE40131000068A86D17958E": {
+			"id": "BD40A340DFE40131000068A86D17958E",
+			"asnIdentifier": "S1042BC3",
+			"position": 15000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students identify and interpret the multiple causes and effects of historical events.",
+			"ancestorIds": [
+				"BD3FEDC0DFE40131FFFD68A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD406750DFE40131FFFF68A86D17958E": {
+			"id": "BD406750DFE40131FFFF68A86D17958E",
+			"asnIdentifier": "S1042BC2",
+			"position": 14000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students identify the human and physical characteristics of the places they are studying and explain how those features form the unique character of those places.",
+			"ancestorIds": [
+				"BD3FEDC0DFE40131FFFD68A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD402AD0DFE40131FFFE68A86D17958E": {
+			"id": "BD402AD0DFE40131FFFE68A86D17958E",
+			"asnIdentifier": "S1042BC1",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students summarize the key events of the era they are studying and explain the historical contexts of those events.",
+			"ancestorIds": [
+				"BD3FEDC0DFE40131FFFD68A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3FEDC0DFE40131FFFD68A86D17958E": {
+			"id": "BD3FEDC0DFE40131FFFD68A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 12000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3FB140DFE40131FFFC68A86D17958E": {
+			"id": "BD3FB140DFE40131FFFC68A86D17958E",
+			"asnIdentifier": "S1042BC0",
+			"position": 11000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students distinguish fact from fiction by comparing documentary sources on historical figures and events with fictionalized characters and events.",
+			"ancestorIds": [
+				"BD3EF410DFE40131FFF968A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3F7330DFE40131FFFB68A86D17958E": {
+			"id": "BD3F7330DFE40131FFFB68A86D17958E",
+			"asnIdentifier": "S1042BBF",
+			"position": 10000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students pose relevant questions about events they encounter in historical documents, eyewitness accounts, oral histories, letters, diaries, artifacts, photographs, maps, artworks, and architecture.",
+			"ancestorIds": [
+				"BD3EF410DFE40131FFF968A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3F3570DFE40131FFFA68A86D17958E": {
+			"id": "BD3F3570DFE40131FFFA68A86D17958E",
+			"asnIdentifier": "S1042BBE",
+			"position": 9000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students differentiate between primary and secondary sources.",
+			"ancestorIds": [
+				"BD3EF410DFE40131FFF968A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3EF410DFE40131FFF968A86D17958E": {
+			"id": "BD3EF410DFE40131FFF968A86D17958E",
+			"asnIdentifier": "S1042BB7",
+			"position": 8000,
+			"depth": 1,
+			"description": "Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3E9EA0DFE40131FFF868A86D17958E": {
+			"id": "BD3E9EA0DFE40131FFF868A86D17958E",
+			"asnIdentifier": "S1042BBD",
+			"position": 7000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students judge the significance of the relative location of a place (e.g., proximity to a harbor, on trade routes) and analyze how relative advantages or disadvantages can change over time.",
+			"ancestorIds": [
+				"BD3D52A0DFE40131FFF368A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3E5C10DFE40131FFF768A86D17958E": {
+			"id": "BD3E5C10DFE40131FFF768A86D17958E",
+			"asnIdentifier": "S1042BBC",
+			"position": 6000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students use map and globe skills to determine the absolute locations of places and interpret information available through a map's or globe's legend, scale, and symbolic representations.",
+			"ancestorIds": [
+				"BD3D52A0DFE40131FFF368A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3E19F0DFE40131FFF668A86D17958E": {
+			"id": "BD3E19F0DFE40131FFF668A86D17958E",
+			"asnIdentifier": "S1042BBB",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students explain how the present is connected to the past, identifying both similarities and differences between the two, and how some things change over time and some things stay the same.",
+			"ancestorIds": [
+				"BD3D52A0DFE40131FFF368A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3DD8C0DFE40131FFF568A86D17958E": {
+			"id": "BD3DD8C0DFE40131FFF568A86D17958E",
+			"asnIdentifier": "S1042BBA",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students correctly apply terms related to time, including past, present, future, decade, century, and generation.",
+			"ancestorIds": [
+				"BD3D52A0DFE40131FFF368A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3D9690DFE40131FFF468A86D17958E": {
+			"id": "BD3D9690DFE40131FFF468A86D17958E",
+			"asnIdentifier": "S1042BB9",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students place key events and people of the historical era they are studying in a chronological sequence and within a spatial context; they interpret time lines.",
+			"ancestorIds": [
+				"BD3D52A0DFE40131FFF368A86D17958E",
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3D52A0DFE40131FFF368A86D17958E": {
+			"id": "BD3D52A0DFE40131FFF368A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BD3CFA60DFE40131FFF268A86D17958E"
+			]
+		},
+		"BD3CFA60DFE40131FFF268A86D17958E": {
+			"id": "BD3CFA60DFE40131FFF268A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

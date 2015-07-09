@@ -1,0 +1,941 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-10",
+	"title": "Grade 10",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"10"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BE2E7FC0DFE40131020C68A86D17958E": {
+			"id": "BE2E7FC0DFE40131020C68A86D17958E",
+			"asnIdentifier": "S1042C38",
+			"position": 78000,
+			"depth": 1,
+			"listId": "10.11",
+			"description": "Students analyze the integration of countries into the world economy and the information, technological, and communications revolutions (e.g., television, satellites, computers).",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2E3E00DFE40131020B68A86D17958E": {
+			"id": "BE2E3E00DFE40131020B68A86D17958E",
+			"asnIdentifier": "S104350E",
+			"position": 77000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Discuss the important trends in the regions today and whether they appear to serve the cause of individual freedom and democracy.",
+			"ancestorIds": [
+				"BE2D64C0DFE40131020868A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2DFB40DFE40131020A68A86D17958E": {
+			"id": "BE2DFB40DFE40131020A68A86D17958E",
+			"asnIdentifier": "S104350D",
+			"position": 76000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the recent history of the regions, including political divisions and systems, key leaders, religious issues, natural features, resources, and population patterns.",
+			"ancestorIds": [
+				"BE2D64C0DFE40131020868A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2DB610DFE40131020968A86D17958E": {
+			"id": "BE2DB610DFE40131020968A86D17958E",
+			"asnIdentifier": "S104350C",
+			"position": 75000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Understand the challenges in the regions, including their geopolitical, cultural, military, and economic significance and the international relationships in which they are involved.",
+			"ancestorIds": [
+				"BE2D64C0DFE40131020868A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2D64C0DFE40131020868A86D17958E": {
+			"id": "BE2D64C0DFE40131020868A86D17958E",
+			"asnIdentifier": "S1042C37",
+			"position": 74000,
+			"depth": 1,
+			"listId": "10.10",
+			"description": "Students analyze instances of nation-building in the contemporary world in at least two of the following regions or countries: the Middle East, Africa, Mexico and other parts of Latin America, and China.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3E3380DFE40131023E68A86D17958E": {
+			"id": "BE3E3380DFE40131023E68A86D17958E",
+			"asnIdentifier": "S104350B",
+			"position": 73000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Discuss the establishment and work of the United Nations and the purposes and functions of the Warsaw Pact, SEATO, NATO, and the Organization of American States.",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3DE410DFE40131023D68A86D17958E": {
+			"id": "BE3DE410DFE40131023D68A86D17958E",
+			"asnIdentifier": "S104350A",
+			"position": 72000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Analyze the reasons for the collapse of the Soviet Union, including the weakness of the command economy, burdens of military commitments, and growing resistance to Soviet rule by dissidents in satellite states and the non-Russian Soviet republics.",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3D9FD0DFE40131023C68A86D17958E": {
+			"id": "BE3D9FD0DFE40131023C68A86D17958E",
+			"asnIdentifier": "S1043509",
+			"position": 71000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Understand how the forces of nationalism developed in the Middle East, how the Holocaust affected world opinion regarding the need for a Jewish state, and the significance and effects of the location and establishment of Israel on world affairs.",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3D5A90DFE40131023B68A86D17958E": {
+			"id": "BE3D5A90DFE40131023B68A86D17958E",
+			"asnIdentifier": "S1043508",
+			"position": 70000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the uprisings in Poland (1952), Hungary (1956), and Czechoslovakia (1968) and those countries' resurgence in the 1970s and 1980s as people in Soviet satellites sought freedom from Soviet control.",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3D1490DFE40131023A68A86D17958E": {
+			"id": "BE3D1490DFE40131023A68A86D17958E",
+			"asnIdentifier": "S1043507",
+			"position": 69000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Analyze the Chinese Civil War, the rise of Mao Zedong, and the subsequent political and economic upheavals in China (e.g., the Great Leap Forward, the Cultural Revolution, and the Tiananmen Square uprising).",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3CCA70DFE40131023968A86D17958E": {
+			"id": "BE3CCA70DFE40131023968A86D17958E",
+			"asnIdentifier": "S1043506",
+			"position": 68000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the importance of the Truman Doctrine and the Marshall Plan, which established the pattern for America's postwar policy of supplying economic and military aid to prevent the spread of Communism and the resulting economic and political competition in arenas such as Southeast Asia (i.e., the Korean War, Vietnam War), Cuba, and Africa.",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3C6A20DFE40131023868A86D17958E": {
+			"id": "BE3C6A20DFE40131023868A86D17958E",
+			"asnIdentifier": "S1043505",
+			"position": 67000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Analyze the causes of the Cold War, with the free world on one side and Soviet client states on the other, including competition for influence in such places as Egypt, the Congo, Vietnam, and Chile.",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3C0110DFE40131023768A86D17958E": {
+			"id": "BE3C0110DFE40131023768A86D17958E",
+			"asnIdentifier": "S1043504",
+			"position": 66000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Compare the economic and military power shifts caused by the war, including the Yalta Pact, the development of nuclear weapons, Soviet control over Eastern European nations, and the economic recoveries of Germany and Japan.",
+			"ancestorIds": [
+				"BE3BC110DFE40131023668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3BC110DFE40131023668A86D17958E": {
+			"id": "BE3BC110DFE40131023668A86D17958E",
+			"asnIdentifier": "S1042C36",
+			"position": 65000,
+			"depth": 1,
+			"listId": "10.9",
+			"description": "Students analyze the international developments in the post-World World War II world.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3B8070DFE40131023568A86D17958E": {
+			"id": "BE3B8070DFE40131023568A86D17958E",
+			"asnIdentifier": "S1043503",
+			"position": 64000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Discuss the human costs of the war, with particular attention to the civilian and military losses in Russia, Germany, Britain, the United States, China, and Japan.",
+			"ancestorIds": [
+				"BE399F80DFE40131022F68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3B3DC0DFE40131023468A86D17958E": {
+			"id": "BE3B3DC0DFE40131023468A86D17958E",
+			"asnIdentifier": "S1043502",
+			"position": 63000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Analyze the Nazi policy of pursuing racial purity, especially against the European Jews; its transformation into the Final Solution; and the Holocaust that resulted in the murder of six million Jewish civilians.",
+			"ancestorIds": [
+				"BE399F80DFE40131022F68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3AFC10DFE40131023368A86D17958E": {
+			"id": "BE3AFC10DFE40131023368A86D17958E",
+			"asnIdentifier": "S1043501",
+			"position": 62000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe the political, diplomatic, and military leaders during the war (e.g., Winston Churchill, Franklin Delano Roosevelt, Emperor Hirohito, Adolf Hitler, Benito Mussolini, Joseph Stalin, Douglas MacArthur, Dwight Eisenhower).",
+			"ancestorIds": [
+				"BE399F80DFE40131022F68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3AB8F0DFE40131023268A86D17958E": {
+			"id": "BE3AB8F0DFE40131023268A86D17958E",
+			"asnIdentifier": "S1043500",
+			"position": 61000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Identify and locate the Allied and Axis powers on a map and discuss the major turning points of the war, the principal theaters of conflict, key strategic decisions, and the resulting war conferences and political resolutions, with emphasis on the importance of geographic factors.",
+			"ancestorIds": [
+				"BE399F80DFE40131022F68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3A72E0DFE40131023168A86D17958E": {
+			"id": "BE3A72E0DFE40131023168A86D17958E",
+			"asnIdentifier": "S10434FF",
+			"position": 60000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the role of appeasement, nonintervention (isolationism), and the domestic distractions in Europe and the United States prior to the outbreak of World War II.",
+			"ancestorIds": [
+				"BE399F80DFE40131022F68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3A0E50DFE40131023068A86D17958E": {
+			"id": "BE3A0E50DFE40131023068A86D17958E",
+			"asnIdentifier": "S10434FE",
+			"position": 59000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Compare the German, Italian, and Japanese drives for empire in the 1930s, including the 1937 Rape of Nanking, other atrocities in China, and the Stalin-Hitler Pact of 1939.",
+			"ancestorIds": [
+				"BE399F80DFE40131022F68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE399F80DFE40131022F68A86D17958E": {
+			"id": "BE399F80DFE40131022F68A86D17958E",
+			"asnIdentifier": "S1042C35",
+			"position": 58000,
+			"depth": 1,
+			"listId": "10.8",
+			"description": "Students analyze the causes and consequences of World War II.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE394D30DFE40131022E68A86D17958E": {
+			"id": "BE394D30DFE40131022E68A86D17958E",
+			"asnIdentifier": "S10434FD",
+			"position": 57000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Analyze the rise, aggression, and human costs of totalitarian regimes (Fascist and Communist) in Germany, Italy, and the Soviet Union, noting especially their common and dissimilar traits.",
+			"ancestorIds": [
+				"BE3884C0DFE40131022B68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE390C30DFE40131022D68A86D17958E": {
+			"id": "BE390C30DFE40131022D68A86D17958E",
+			"asnIdentifier": "S10434FC",
+			"position": 56000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Trace Stalin's rise to power in the Soviet Union and the connection between economic policies, political policies, the absence of a free press, and systematic violations of human rights (e.g., the Terror Famine in Ukraine).",
+			"ancestorIds": [
+				"BE3884C0DFE40131022B68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE38C9E0DFE40131022C68A86D17958E": {
+			"id": "BE38C9E0DFE40131022C68A86D17958E",
+			"asnIdentifier": "S10434FB",
+			"position": 55000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Understand the causes and consequences of the Russian Revolution, including Lenin's use of totalitarian means to seize and maintain control (e.g., the Gulag).",
+			"ancestorIds": [
+				"BE3884C0DFE40131022B68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3884C0DFE40131022B68A86D17958E": {
+			"id": "BE3884C0DFE40131022B68A86D17958E",
+			"asnIdentifier": "S1042C34",
+			"position": 54000,
+			"depth": 1,
+			"listId": "10.7",
+			"description": "Students analyze the rise of totalitarian governments after World War I.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3833C0DFE40131022A68A86D17958E": {
+			"id": "BE3833C0DFE40131022A68A86D17958E",
+			"asnIdentifier": "S10434F9",
+			"position": 53000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Discuss the influence of World War I on literature, art, and intellectual life in the West (e.g., Pablo Picasso, the \"lost generation\" of Gertrude Stein, Ernest Hemingway).",
+			"ancestorIds": [
+				"BE371C50DFE40131022668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE37F0B0DFE40131022968A86D17958E": {
+			"id": "BE37F0B0DFE40131022968A86D17958E",
+			"asnIdentifier": "S10434F8",
+			"position": 52000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the widespread disillusionment with prewar institutions, authorities, and values that resulted in a void that was later filled by totalitarians.",
+			"ancestorIds": [
+				"BE371C50DFE40131022668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE37AB80DFE40131022868A86D17958E": {
+			"id": "BE37AB80DFE40131022868A86D17958E",
+			"asnIdentifier": "S10434F7",
+			"position": 51000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the effects of the war and resulting peace treaties on population movement, the international economy, and shifts in the geographic and political borders of Europe and the Middle East.",
+			"ancestorIds": [
+				"BE371C50DFE40131022668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3765A0DFE40131022768A86D17958E": {
+			"id": "BE3765A0DFE40131022768A86D17958E",
+			"asnIdentifier": "S10434F2",
+			"position": 50000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Analyze the aims and negotiating roles of world leaders, the terms and influence of the Treaty of Versailles and Woodrow Wilson's Fourteen Points, and the causes and effects of the United States's rejection of the League of Nations on world politics.",
+			"ancestorIds": [
+				"BE371C50DFE40131022668A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE371C50DFE40131022668A86D17958E": {
+			"id": "BE371C50DFE40131022668A86D17958E",
+			"asnIdentifier": "S1042C33",
+			"position": 49000,
+			"depth": 1,
+			"listId": "10.6",
+			"description": "Students analyze the effects of the First World War.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE36BBD0DFE40131022568A86D17958E": {
+			"id": "BE36BBD0DFE40131022568A86D17958E",
+			"asnIdentifier": "S10434ED",
+			"position": 48000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss human rights violations and genocide, including the Ottoman government's actions against Armenian citizens.",
+			"ancestorIds": [
+				"BE352C00DFE40131022068A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE365150DFE40131022468A86D17958E": {
+			"id": "BE365150DFE40131022468A86D17958E",
+			"asnIdentifier": "S10434EC",
+			"position": 47000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Understand the nature of the war and its human costs (military and civilian) on all sides of the conflict, including how colonial peoples contributed to the war effort.",
+			"ancestorIds": [
+				"BE352C00DFE40131022068A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE360CA0DFE40131022368A86D17958E": {
+			"id": "BE360CA0DFE40131022368A86D17958E",
+			"asnIdentifier": "S10434EB",
+			"position": 46000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain how the Russian Revolution and the entry of the United States affected the course and outcome of the war.",
+			"ancestorIds": [
+				"BE352C00DFE40131022068A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE35C690DFE40131022268A86D17958E": {
+			"id": "BE35C690DFE40131022268A86D17958E",
+			"asnIdentifier": "S10434E9",
+			"position": 45000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Examine the principal theaters of battle, major turning points, and the importance of geographic factors in military decisions and outcomes (e.g., topography, waterways, distance, climate).",
+			"ancestorIds": [
+				"BE352C00DFE40131022068A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE357D80DFE40131022168A86D17958E": {
+			"id": "BE357D80DFE40131022168A86D17958E",
+			"asnIdentifier": "S10434E7",
+			"position": 44000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Analyze the arguments for entering into war presented by leaders from all sides of the Great War and the role of political and economic rivalries, ethnic and ideological conflicts, domestic discontent and disorder, and propaganda and nationalism in mobilizing the civilian population in support of \"total war.\"",
+			"ancestorIds": [
+				"BE352C00DFE40131022068A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE352C00DFE40131022068A86D17958E": {
+			"id": "BE352C00DFE40131022068A86D17958E",
+			"asnIdentifier": "S1042C32",
+			"position": 43000,
+			"depth": 1,
+			"listId": "10.5",
+			"description": "Students analyze the causes and course of the First World War.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE34D8D0DFE40131021F68A86D17958E": {
+			"id": "BE34D8D0DFE40131021F68A86D17958E",
+			"asnIdentifier": "S10434E6",
+			"position": 42000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe the independence struggles of the colonized regions of the world, including the roles of leaders, such as Sun Yat-sen in China, and the roles of ideology and religion.",
+			"ancestorIds": [
+				"BE33BD90DFE40131021B68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE348820DFE40131021E68A86D17958E": {
+			"id": "BE348820DFE40131021E68A86D17958E",
+			"asnIdentifier": "S10434E4",
+			"position": 41000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain imperialism from the perspective of the colonizers and the colonized and the varied immediate and long-term responses by the people under colonial rule.",
+			"ancestorIds": [
+				"BE33BD90DFE40131021B68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE344660DFE40131021D68A86D17958E": {
+			"id": "BE344660DFE40131021D68A86D17958E",
+			"asnIdentifier": "S10434E0",
+			"position": 40000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Discuss the locations of the colonial rule of such nations as England, France, Germany, Italy, Japan, the Netherlands, Russia, Spain, Portugal, and the United States.",
+			"ancestorIds": [
+				"BE33BD90DFE40131021B68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3402D0DFE40131021C68A86D17958E": {
+			"id": "BE3402D0DFE40131021C68A86D17958E",
+			"asnIdentifier": "S10434DC",
+			"position": 39000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the rise of industrial economies and their link to imperialism and colonialism (e.g., the role played by national security and strategic advantage; moral issues raised by the search for national hegemony, Social Darwinism, and the missionary impulse; material issues such as land, resources, and technology).",
+			"ancestorIds": [
+				"BE33BD90DFE40131021B68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE33BD90DFE40131021B68A86D17958E": {
+			"id": "BE33BD90DFE40131021B68A86D17958E",
+			"asnIdentifier": "S1042C31",
+			"position": 38000,
+			"depth": 1,
+			"listId": "10.4",
+			"description": "Students analyze patterns of global change in the era of New Imperialism in at least two of the following regions or countries: Africa, Southeast Asia, China, India, Latin America, and the Philippines.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE337420DFE40131021A68A86D17958E": {
+			"id": "BE337420DFE40131021A68A86D17958E",
+			"asnIdentifier": "S10434D8",
+			"position": 37000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Describe the emergence of Romanticism in art and literature (e.g., the poetry of William Blake and William Wordsworth), social criticism (e.g., the novels of Charles Dickens), and the move away from Classicism in Europe.",
+			"ancestorIds": [
+				"BE30A5E0DFE40131021368A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE32E690DFE40131021968A86D17958E": {
+			"id": "BE32E690DFE40131021968A86D17958E",
+			"asnIdentifier": "S10434D5",
+			"position": 36000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Analyze the emergence of capitalism as a dominant economic pattern and the responses to it, including Utopianism, Social Democracy, Socialism, and Communism.",
+			"ancestorIds": [
+				"BE30A5E0DFE40131021368A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE327430DFE40131021868A86D17958E": {
+			"id": "BE327430DFE40131021868A86D17958E",
+			"asnIdentifier": "S10434D4",
+			"position": 35000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Understand the connections among natural resources, entrepreneur-ship, labor, and capital in an industrial economy.",
+			"ancestorIds": [
+				"BE30A5E0DFE40131021368A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3204E0DFE40131021768A86D17958E": {
+			"id": "BE3204E0DFE40131021768A86D17958E",
+			"asnIdentifier": "S10434D2",
+			"position": 34000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Trace the evolution of work and labor, including the demise of the slave trade and the effects of immigration, mining and manufacturing, division of labor, and the union movement.",
+			"ancestorIds": [
+				"BE30A5E0DFE40131021368A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE31B080DFE40131021668A86D17958E": {
+			"id": "BE31B080DFE40131021668A86D17958E",
+			"asnIdentifier": "S10434CD",
+			"position": 33000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the growth of population, rural to urban migration, and growth of cities associated with the Industrial Revolution.",
+			"ancestorIds": [
+				"BE30A5E0DFE40131021368A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3164C0DFE40131021568A86D17958E": {
+			"id": "BE3164C0DFE40131021568A86D17958E",
+			"asnIdentifier": "S10434CA",
+			"position": 32000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Examine how scientific and technological changes and new forms of energy brought about massive social, economic, and cultural change (e.g., the inventions and discoveries of James Watt, Eli Whitney, Henry Bessemer, Louis Pasteur, Thomas Edison).",
+			"ancestorIds": [
+				"BE30A5E0DFE40131021368A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE310AC0DFE40131021468A86D17958E": {
+			"id": "BE310AC0DFE40131021468A86D17958E",
+			"asnIdentifier": "S10434C7",
+			"position": 31000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Analyze why England was the first country to industrialize.",
+			"ancestorIds": [
+				"BE30A5E0DFE40131021368A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE30A5E0DFE40131021368A86D17958E": {
+			"id": "BE30A5E0DFE40131021368A86D17958E",
+			"asnIdentifier": "S1042C30",
+			"position": 30000,
+			"depth": 1,
+			"listId": "10.3",
+			"description": "Students analyze the effects of the Industrial Revolution in England, France, Germany, Japan, and the United States.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE3064D0DFE40131021268A86D17958E": {
+			"id": "BE3064D0DFE40131021268A86D17958E",
+			"asnIdentifier": "S10434BC",
+			"position": 29000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss how nationalism spread across Europe with Napoleon but was repressed for a generation under the Congress of Vienna and Concert of Europe until the Revolutions of 1848.",
+			"ancestorIds": [
+				"BE2EC110DFE40131020D68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE302230DFE40131021168A86D17958E": {
+			"id": "BE302230DFE40131021168A86D17958E",
+			"asnIdentifier": "S10434B9",
+			"position": 28000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Explain how the ideology of the French Revolution led France to develop from constitutional monarchy to democratic despotism to the Napoleonic empire.",
+			"ancestorIds": [
+				"BE2EC110DFE40131020D68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2FDE40DFE40131021068A86D17958E": {
+			"id": "BE2FDE40DFE40131021068A86D17958E",
+			"asnIdentifier": "S10434B4",
+			"position": 27000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the unique character of the American Revolution, its spread to other parts of the world, and its continuing significance to other nations.",
+			"ancestorIds": [
+				"BE2EC110DFE40131020D68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2F9750DFE40131020F68A86D17958E": {
+			"id": "BE2F9750DFE40131020F68A86D17958E",
+			"asnIdentifier": "S10434B3",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "List the principles of the Magna Carta, the English Bill of Rights (1689), the American Declaration of Independence (1776), the French Declaration of the Rights of Man and the Citizen (1789), and the U.S. Bill of Rights (1791).",
+			"ancestorIds": [
+				"BE2EC110DFE40131020D68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2F3540DFE40131020E68A86D17958E": {
+			"id": "BE2F3540DFE40131020E68A86D17958E",
+			"asnIdentifier": "S10434B0",
+			"position": 25000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Compare the major ideas of philosophers and their effects on the democratic revolutions in England, the United States, France, and Latin America (e.g., John Locke, Charles-Louis Montesquieu, Jean-Jacques Rousseau, Simón Bolívar, Thomas Jefferson, James Madison).",
+			"ancestorIds": [
+				"BE2EC110DFE40131020D68A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2EC110DFE40131020D68A86D17958E": {
+			"id": "BE2EC110DFE40131020D68A86D17958E",
+			"asnIdentifier": "S1042C2F",
+			"position": 24000,
+			"depth": 1,
+			"listId": "10.2",
+			"description": "Students compare and contrast the Glorious Revolution of England, the American Revolution, and the French Revolution and their enduring effects worldwide on the political expectations for self-government and individual liberty.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2D0AB0DFE40131020768A86D17958E": {
+			"id": "BE2D0AB0DFE40131020768A86D17958E",
+			"asnIdentifier": "S10434AE",
+			"position": 23000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Consider the influence of the U.S. Constitution on political systems in the contemporary world.",
+			"ancestorIds": [
+				"BE2C2B90DFE40131020468A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2CBAD0DFE40131020668A86D17958E": {
+			"id": "BE2CBAD0DFE40131020668A86D17958E",
+			"asnIdentifier": "S10434AA",
+			"position": 22000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Trace the development of the Western political ideas of the rule of law and illegitimacy of tyranny, using selections from Plato's Republic and Aristotle's Politics.",
+			"ancestorIds": [
+				"BE2C2B90DFE40131020468A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2C70D0DFE40131020568A86D17958E": {
+			"id": "BE2C70D0DFE40131020568A86D17958E",
+			"asnIdentifier": "S10434A8",
+			"position": 21000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Analyze the similarities and differences in Judeo-Christian and Greco-Roman views of law, reason and faith, and duties of the individual.",
+			"ancestorIds": [
+				"BE2C2B90DFE40131020468A86D17958E",
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2C2B90DFE40131020468A86D17958E": {
+			"id": "BE2C2B90DFE40131020468A86D17958E",
+			"asnIdentifier": "S1042C2E",
+			"position": 20000,
+			"depth": 1,
+			"listId": "10.1",
+			"description": "Students relate the moral and ethical principles in ancient Greek and Roman philosophy, in Judaism, and in Christianity to the development of Western political thought.",
+			"ancestorIds": [
+				"BE2BE4F0DFE40131020368A86D17958E"
+			]
+		},
+		"BE2BE4F0DFE40131020368A86D17958E": {
+			"id": "BE2BE4F0DFE40131020368A86D17958E",
+			"asnIdentifier": "S1042C0B",
+			"position": 19000,
+			"depth": 0,
+			"description": "World History, Culture, and Geography: The Modern World",
+			"ancestorIds": [
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE2B9740DFE40131020268A86D17958E": {
+			"id": "BE2B9740DFE40131020268A86D17958E",
+			"asnIdentifier": "S1042BDB",
+			"position": 18000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students construct and test hypotheses; collect, evaluate, and employ information from multiple primary and secondary sources; and apply it in oral and written presentations.",
+			"ancestorIds": [
+				"BE2A4BA0DFE4013101FE68A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE2B2500DFE40131020168A86D17958E": {
+			"id": "BE2B2500DFE40131020168A86D17958E",
+			"asnIdentifier": "S1042BDA",
+			"position": 17000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students evaluate major debates among historians concerning alternative interpretations of the past, including an analysis of authors' use of evidence and the distinctions between sound generalizations and misleading oversimplifications.",
+			"ancestorIds": [
+				"BE2A4BA0DFE4013101FE68A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE2AD760DFE40131020068A86D17958E": {
+			"id": "BE2AD760DFE40131020068A86D17958E",
+			"asnIdentifier": "S1042BD9",
+			"position": 16000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students identify bias and prejudice in historical interpretations.",
+			"ancestorIds": [
+				"BE2A4BA0DFE4013101FE68A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE2A9370DFE4013101FF68A86D17958E": {
+			"id": "BE2A9370DFE4013101FF68A86D17958E",
+			"asnIdentifier": "S1042BD8",
+			"position": 15000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students distinguish valid arguments from fallacious arguments in historical interpretations.",
+			"ancestorIds": [
+				"BE2A4BA0DFE4013101FE68A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE2A4BA0DFE4013101FE68A86D17958E": {
+			"id": "BE2A4BA0DFE4013101FE68A86D17958E",
+			"asnIdentifier": "S1042BD3",
+			"position": 14000,
+			"depth": 1,
+			"description": "Historical Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE29EEE0DFE4013101FD68A86D17958E": {
+			"id": "BE29EEE0DFE4013101FD68A86D17958E",
+			"asnIdentifier": "S1042BE1",
+			"position": 13000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Students conduct cost-benefit analyses and apply basic economic indicators to analyze the aggregate economic behavior of the U.S. economy.",
+			"ancestorIds": [
+				"BE284C00DFE4013101F768A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE29A870DFE4013101FC68A86D17958E": {
+			"id": "BE29A870DFE4013101FC68A86D17958E",
+			"asnIdentifier": "S1042BE0",
+			"position": 12000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students analyze human modifications of landscapes and examine the resulting environmental policy issues.",
+			"ancestorIds": [
+				"BE284C00DFE4013101F768A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE2958F0DFE4013101FB68A86D17958E": {
+			"id": "BE2958F0DFE4013101FB68A86D17958E",
+			"asnIdentifier": "S1042BDF",
+			"position": 11000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students understand the meaning, implication, and impact of historical events and recognize that events could have taken other directions.",
+			"ancestorIds": [
+				"BE284C00DFE4013101F768A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE2914E0DFE4013101FA68A86D17958E": {
+			"id": "BE2914E0DFE4013101FA68A86D17958E",
+			"asnIdentifier": "S1042BDE",
+			"position": 10000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students interpret past events and issues within the context in which an event unfolded rather than solely in terms of present-day norms and values.",
+			"ancestorIds": [
+				"BE284C00DFE4013101F768A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE28D1C0DFE4013101F968A86D17958E": {
+			"id": "BE28D1C0DFE4013101F968A86D17958E",
+			"asnIdentifier": "S1042BDD",
+			"position": 9000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students recognize the complexity of historical causes and effects, including the limitations on determining cause and effect.",
+			"ancestorIds": [
+				"BE284C00DFE4013101F768A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE288FF0DFE4013101F868A86D17958E": {
+			"id": "BE288FF0DFE4013101F868A86D17958E",
+			"asnIdentifier": "S1042BDC",
+			"position": 8000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students show the connections, causal and otherwise, between particular historical events and larger social, economic, and political trends and developments.",
+			"ancestorIds": [
+				"BE284C00DFE4013101F768A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE284C00DFE4013101F768A86D17958E": {
+			"id": "BE284C00DFE4013101F768A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 7000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE280670DFE4013101F668A86D17958E": {
+			"id": "BE280670DFE4013101F668A86D17958E",
+			"asnIdentifier": "S1042BD7",
+			"position": 6000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students relate current events to the physical and human characteristics of places and regions.",
+			"ancestorIds": [
+				"BE268420DFE4013101F268A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE27B8C0DFE4013101F568A86D17958E": {
+			"id": "BE27B8C0DFE4013101F568A86D17958E",
+			"asnIdentifier": "S1042BD6",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students use a variety of maps and documents to interpret human movement, including major patterns of domestic and international migration, changing environmental preferences and settlement patterns, the frictions that develop between population groups, and the diffusion of ideas, technological innovations, and goods.",
+			"ancestorIds": [
+				"BE268420DFE4013101F268A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE274B70DFE4013101F468A86D17958E": {
+			"id": "BE274B70DFE4013101F468A86D17958E",
+			"asnIdentifier": "S1042BD5",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students analyze how change happens at different rates at different times; understand that some aspects can change while others remain the same; and understand that change is complicated and affects not only technology and politics but also values and beliefs.",
+			"ancestorIds": [
+				"BE268420DFE4013101F268A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE26E810DFE4013101F368A86D17958E": {
+			"id": "BE26E810DFE4013101F368A86D17958E",
+			"asnIdentifier": "S1042BD4",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students compare the present with the past, evaluating the consequences of past events and decisions and determining the lessons that were learned.",
+			"ancestorIds": [
+				"BE268420DFE4013101F268A86D17958E",
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE268420DFE4013101F268A86D17958E": {
+			"id": "BE268420DFE4013101F268A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BE261000DFE4013101F168A86D17958E"
+			]
+		},
+		"BE261000DFE4013101F168A86D17958E": {
+			"id": "BE261000DFE4013101F168A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

@@ -1,0 +1,1096 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-07",
+	"title": "Grade 7",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"07"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BDDB3A10DFE40131015168A86D17958E": {
+			"id": "BDDB3A10DFE40131015168A86D17958E",
+			"asnIdentifier": "S10433E3",
+			"position": 91000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Discuss how the principles in the Magna Carta were embodied in such documents as the English Bill of Rights and the American Declaration of Independence.",
+			"ancestorIds": [
+				"BDD986A0DFE40131014B68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDAEEC0DFE40131015068A86D17958E": {
+			"id": "BDDAEEC0DFE40131015068A86D17958E",
+			"asnIdentifier": "S10433E2",
+			"position": 90000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe how democratic thought and institutions were influenced by Enlightenment thinkers (e.g., John Locke, Charles-Louis Montesquieu, American founders).",
+			"ancestorIds": [
+				"BDD986A0DFE40131014B68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDAA840DFE40131014F68A86D17958E": {
+			"id": "BDDAA840DFE40131014F68A86D17958E",
+			"asnIdentifier": "S10433E0",
+			"position": 89000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Explain how the main ideas of the Enlightenment can be traced back to such movements as the Renaissance, the Reformation, and the Scientific Revolution and to the Greeks, Romans, and Christianity.",
+			"ancestorIds": [
+				"BDD986A0DFE40131014B68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDA5D90DFE40131014E68A86D17958E": {
+			"id": "BDDA5D90DFE40131014E68A86D17958E",
+			"asnIdentifier": "S10433DE",
+			"position": 88000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Examine the origins of modern capitalism; the influence of mercantil­ism and cottage industry; the elements and importance of a market economy in seventeenth-century Europe; the changing international trading and marketing patterns, including their locations on a world map; and the influence of explorers and map makers.",
+			"ancestorIds": [
+				"BDD986A0DFE40131014B68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDA11B0DFE40131014D68A86D17958E": {
+			"id": "BDDA11B0DFE40131014D68A86D17958E",
+			"asnIdentifier": "S10433DC",
+			"position": 87000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Discuss the exchanges of plants, animals, technology, culture, and ideas among Europe, Africa, Asia, and the Americas in the fifteenth and sixteenth centuries and the major economic and social effects on each continent.",
+			"ancestorIds": [
+				"BDD986A0DFE40131014B68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD9CF30DFE40131014C68A86D17958E": {
+			"id": "BDD9CF30DFE40131014C68A86D17958E",
+			"asnIdentifier": "S10433DB",
+			"position": 86000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Know the great voyages of discovery, the locations of the routes, and the influence of cartography in the development of a new European worldview.",
+			"ancestorIds": [
+				"BDD986A0DFE40131014B68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD986A0DFE40131014B68A86D17958E": {
+			"id": "BDD986A0DFE40131014B68A86D17958E",
+			"asnIdentifier": "S1042C4A",
+			"position": 85000,
+			"depth": 1,
+			"listId": "7.11",
+			"description": "Students analyze political and economic change in the sixteenth, seventeenth, and eighteenth centuries (the Age of Exploration, the Enlightenment, and the Age of Reason).",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD93520DFE40131014A68A86D17958E": {
+			"id": "BDD93520DFE40131014A68A86D17958E",
+			"asnIdentifier": "S10433DA",
+			"position": 84000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the scientific method advanced by Bacon and Descartes, the influence of new scientific rationalism on the growth of demo­cratic ideas, and the coexistence of science with traditional religious beliefs.",
+			"ancestorIds": [
+				"BDD84040DFE40131014768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD8E4E0DFE40131014968A86D17958E": {
+			"id": "BDD8E4E0DFE40131014968A86D17958E",
+			"asnIdentifier": "S10433D8",
+			"position": 83000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Understand the significance of the new scientific theories (e.g., those of Copernicus, Galileo, Kepler, Newton) and the significance of new inventions (e.g., the telescope, microscope, thermometer, barometer).",
+			"ancestorIds": [
+				"BDD84040DFE40131014768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD88830DFE40131014868A86D17958E": {
+			"id": "BDD88830DFE40131014868A86D17958E",
+			"asnIdentifier": "S10433D6",
+			"position": 82000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss the roots of the Scientific Revolution (e.g., Greek rationalism; Jewish, Christian, and Muslim science; Renaissance humanism; new knowledge from global exploration).",
+			"ancestorIds": [
+				"BDD84040DFE40131014768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD84040DFE40131014768A86D17958E": {
+			"id": "BDD84040DFE40131014768A86D17958E",
+			"asnIdentifier": "S1042C49",
+			"position": 81000,
+			"depth": 1,
+			"listId": "7.10",
+			"description": "Students analyze the historical developments of the Scientific Revolution and its lasting effect on religious, political, and cultural institutions.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDF1A5F0DFE40131018A68A86D17958E": {
+			"id": "BDF1A5F0DFE40131018A68A86D17958E",
+			"asnIdentifier": "S10433D4",
+			"position": 80000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Describe the Golden Age of cooperation between Jews and Muslims in medieval Spain that promoted creativity in art, literature, and science, including how that cooperation was terminated by the religious persecution of individuals and groups (e.g., the Spanish Inquisition and the expulsion of Jews and Muslims from Spain in 1492).",
+			"ancestorIds": [
+				"BDEFB0C0DFE40131018368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDF16450DFE40131018968A86D17958E": {
+			"id": "BDF16450DFE40131018968A86D17958E",
+			"asnIdentifier": "S10433D2",
+			"position": 79000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Understand the institution and impact of missionaries on Christianity and the diffusion of Christianity from Europe to other parts of the world in the medieval and early modern periods; locate missions on a world map.",
+			"ancestorIds": [
+				"BDEFB0C0DFE40131018368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDF11E00DFE40131018868A86D17958E": {
+			"id": "BDF11E00DFE40131018868A86D17958E",
+			"asnIdentifier": "S10433D0",
+			"position": 78000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Analyze how the Counter Reformation revitalized the Catholic church and the forces that fostered the movement (e.g., St. Ignatius of Loyola and the Jesuits, the Council of Trent).",
+			"ancestorIds": [
+				"BDEFB0C0DFE40131018368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDF0CFC0DFE40131018768A86D17958E": {
+			"id": "BDF0CFC0DFE40131018768A86D17958E",
+			"asnIdentifier": "S10433CE",
+			"position": 77000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Identify and locate the European regions that remained Catholic and those that became Protestant and explain how the division affected the distribution of religions in the New World.",
+			"ancestorIds": [
+				"BDEFB0C0DFE40131018368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDF08AE0DFE40131018668A86D17958E": {
+			"id": "BDF08AE0DFE40131018668A86D17958E",
+			"asnIdentifier": "S10433CC",
+			"position": 76000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain Protestants' new practices of church self-government and the influence of those practices on the development of democratic practices and ideas of federalism.",
+			"ancestorIds": [
+				"BDEFB0C0DFE40131018368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDF045C0DFE40131018568A86D17958E": {
+			"id": "BDF045C0DFE40131018568A86D17958E",
+			"asnIdentifier": "S10433CB",
+			"position": 75000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the theological, political, and economic ideas of the major figures during the Reformation (e.g., Desiderius Erasmus, Martin Luther, John Calvin, William Tyndale).",
+			"ancestorIds": [
+				"BDEFB0C0DFE40131018368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEFFF80DFE40131018468A86D17958E": {
+			"id": "BDEFFF80DFE40131018468A86D17958E",
+			"asnIdentifier": "S10433C9",
+			"position": 74000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "List the causes for the internal turmoil in and weakening of the Catholic church (e.g., tax policies, selling of indulgences).",
+			"ancestorIds": [
+				"BDEFB0C0DFE40131018368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEFB0C0DFE40131018368A86D17958E": {
+			"id": "BDEFB0C0DFE40131018368A86D17958E",
+			"asnIdentifier": "S1042C48",
+			"position": 73000,
+			"depth": 1,
+			"listId": "7.9",
+			"description": "Students analyze the historical developments of the Reformation.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEF4560DFE40131018268A86D17958E": {
+			"id": "BDEF4560DFE40131018268A86D17958E",
+			"asnIdentifier": "S10433C7",
+			"position": 72000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Detail advances made in literature, the arts, science, mathematics, cartography, engineering, and the understanding of human anatomy and astronomy (e.g., by Dante Alighieri, Leonardo da Vinci, Michelangelo di Buonarroti Simoni, Johann Gutenberg, William Shakespeare).",
+			"ancestorIds": [
+				"BDEDCD70DFE40131017D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEEED20DFE40131018168A86D17958E": {
+			"id": "BDEEED20DFE40131018168A86D17958E",
+			"asnIdentifier": "S10433C5",
+			"position": 71000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe the growth and effects of new ways of disseminating infor­mation (e.g., the ability to manufacture paper, translation of the Bible into the vernacular, printing).",
+			"ancestorIds": [
+				"BDEDCD70DFE40131017D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEEA8B0DFE40131018068A86D17958E": {
+			"id": "BDEEA8B0DFE40131018068A86D17958E",
+			"asnIdentifier": "S10433C3",
+			"position": 70000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the effects of the reopening of the ancient \"Silk Road\" between Europe and China, including Marco Polo's travels and the location of his routes.",
+			"ancestorIds": [
+				"BDEDCD70DFE40131017D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEE6140DFE40131017F68A86D17958E": {
+			"id": "BDEE6140DFE40131017F68A86D17958E",
+			"asnIdentifier": "S10433C1",
+			"position": 69000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Explain the importance of Florence in the early stages of the Renais­sance and the growth of independent trading cities (e.g., Venice), with emphasis on the cities' importance in the spread of Renaissance ideas.",
+			"ancestorIds": [
+				"BDEDCD70DFE40131017D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEE1570DFE40131017E68A86D17958E": {
+			"id": "BDEE1570DFE40131017E68A86D17958E",
+			"asnIdentifier": "S10433BF",
+			"position": 68000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the way in which the revival of classical learning and the arts fostered a new interest in humanism (i.e., a balance between intellect and religious faith).",
+			"ancestorIds": [
+				"BDEDCD70DFE40131017D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEDCD70DFE40131017D68A86D17958E": {
+			"id": "BDEDCD70DFE40131017D68A86D17958E",
+			"asnIdentifier": "S1042C47",
+			"position": 67000,
+			"depth": 1,
+			"listId": "7.8",
+			"description": "Students analyze the origins, accomplishments, and geographic diffusion of the Renaissance.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDED8360DFE40131017C68A86D17958E": {
+			"id": "BDED8360DFE40131017C68A86D17958E",
+			"asnIdentifier": "S10433BD",
+			"position": 66000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the Meso-American achievements in astronomy and mathematics, including the development of the calendar and the Meso-American knowledge of seasonal changes to the civilizations' agricultural systems.",
+			"ancestorIds": [
+				"BDEC2E00DFE40131017768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDED3BE0DFE40131017B68A86D17958E": {
+			"id": "BDED3BE0DFE40131017B68A86D17958E",
+			"asnIdentifier": "S10433BB",
+			"position": 65000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Describe the artistic and oral traditions and architecture in the three civilizations.",
+			"ancestorIds": [
+				"BDEC2E00DFE40131017768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDECF8A0DFE40131017A68A86D17958E": {
+			"id": "BDECF8A0DFE40131017A68A86D17958E",
+			"asnIdentifier": "S10433B9",
+			"position": 64000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain how and where each empire arose and how the Aztec and Incan empires were defeated by the Spanish.",
+			"ancestorIds": [
+				"BDEC2E00DFE40131017768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDECB600DFE40131017968A86D17958E": {
+			"id": "BDECB600DFE40131017968A86D17958E",
+			"asnIdentifier": "S10433B6",
+			"position": 63000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Study the roles of people in each society, including class structures, family life, warfare, religious beliefs and practices, and slavery.",
+			"ancestorIds": [
+				"BDEC2E00DFE40131017768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEC7280DFE40131017868A86D17958E": {
+			"id": "BDEC7280DFE40131017868A86D17958E",
+			"asnIdentifier": "S10433B4",
+			"position": 62000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Study the locations, landforms, and climates of Mexico, Central America, and South America and their effects on Mayan, Aztec, and Incan economies, trade, and development of urban societies.",
+			"ancestorIds": [
+				"BDEC2E00DFE40131017768A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEC2E00DFE40131017768A86D17958E": {
+			"id": "BDEC2E00DFE40131017768A86D17958E",
+			"asnIdentifier": "S1042C46",
+			"position": 61000,
+			"depth": 1,
+			"listId": "7.7",
+			"description": "Students compare and contrast the geographic, political, economic, religious, and social structures of the Meso-American and Andean civilizations.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEBE4C0DFE40131017668A86D17958E": {
+			"id": "BDEBE4C0DFE40131017668A86D17958E",
+			"asnIdentifier": "S10433B2",
+			"position": 60000,
+			"depth": 2,
+			"listId": "9.",
+			"description": "Know the history of the decline of Muslim rule in the Iberian Penin-Grade Seven sula that culminated in the Reconquista and the rise of Spanish Portuguese kingdoms.",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEB9630DFE40131017568A86D17958E": {
+			"id": "BDEB9630DFE40131017568A86D17958E",
+			"asnIdentifier": "S10433B0",
+			"position": 59000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Understand the importance of the Catholic church as a political, intellectual, and aesthetic institution (e.g., founding of universities, political and spiritual roles of the clergy, creation of monastic and mendicant religious orders, preservation of the Latin language and religious texts, St. Thomas Aquinas's synthesis of classical philosophy with Christian theology, and the concept of \"natural law\").",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEB52A0DFE40131017468A86D17958E": {
+			"id": "BDEB52A0DFE40131017468A86D17958E",
+			"asnIdentifier": "S10433AD",
+			"position": 58000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Map the spread of the bubonic plague from Central Asia to China, the Middle East, and Europe and describe its impact on global population.",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEB0E50DFE40131017368A86D17958E": {
+			"id": "BDEB0E50DFE40131017368A86D17958E",
+			"asnIdentifier": "S10433AB",
+			"position": 57000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Discuss the causes and course of the religious Crusades and their effects on the Christian, Muslim, and Jewish populations in Europe, with emphasis on the increasing contact by Europeans with cultures of the Eastern Mediterranean world.",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEAC810DFE40131017268A86D17958E": {
+			"id": "BDEAC810DFE40131017268A86D17958E",
+			"asnIdentifier": "S10433A6",
+			"position": 56000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Know the significance of developments in medieval English legal and constitutional practices and their importance in the rise of modern democratic thought and representative institutions (e.g., Magna Carta, parliament, development of habeas corpus, an independent judiciary in England).",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEA8050DFE40131017168A86D17958E": {
+			"id": "BDEA8050DFE40131017168A86D17958E",
+			"asnIdentifier": "S10433A7",
+			"position": 55000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Demonstrate an understanding of the conflict and cooperation between the Papacy and European monarchs (e.g., Charlemagne, Gregory VII, Emperor Henry IV).",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDEA1870DFE40131017068A86D17958E": {
+			"id": "BDEA1870DFE40131017068A86D17958E",
+			"asnIdentifier": "S10433A4",
+			"position": 54000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the development of feudalism, its role in the medieval European economy, the way in which it was influenced by physical geography (the role of the manor and the growth of towns), and how feudal relationships provided the foundation of political order.",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE45490DFE40131016F68A86D17958E": {
+			"id": "BDE45490DFE40131016F68A86D17958E",
+			"asnIdentifier": "S10433A3",
+			"position": 53000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the spread of Christianity north of the Alps and the roles played by the early church and by monasteries in its diffusion after the fall of the western half of the Roman Empire.",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE40530DFE40131016E68A86D17958E": {
+			"id": "BDE40530DFE40131016E68A86D17958E",
+			"asnIdentifier": "S10433A2",
+			"position": 52000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Study the geography of Europe and the Eurasian land mass, including their location, topography, waterways, vegetation, and climate and their relationship to ways of life in Medieval Europe.",
+			"ancestorIds": [
+				"BDE3BC70DFE40131016D68A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE3BC70DFE40131016D68A86D17958E": {
+			"id": "BDE3BC70DFE40131016D68A86D17958E",
+			"asnIdentifier": "S1042C45",
+			"position": 51000,
+			"depth": 1,
+			"listId": "7.6",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the civilizations of Medieval Europe.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE363F0DFE40131016C68A86D17958E": {
+			"id": "BDE363F0DFE40131016C68A86D17958E",
+			"asnIdentifier": "S10433A1",
+			"position": 50000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Analyze the rise of a military society in the late twelfth century and the role of the samurai in that society.",
+			"ancestorIds": [
+				"BDE17250DFE40131016668A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE30160DFE40131016B68A86D17958E": {
+			"id": "BDE30160DFE40131016B68A86D17958E",
+			"asnIdentifier": "S10433A0",
+			"position": 49000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Study the ninth and tenth centuries' golden age of literature, art, and drama and its lasting effects on culture today, including Murasaki Shikibu's Tale of Genji.",
+			"ancestorIds": [
+				"BDE17250DFE40131016668A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE2A140DFE40131016A68A86D17958E": {
+			"id": "BDE2A140DFE40131016A68A86D17958E",
+			"asnIdentifier": "S104339F",
+			"position": 48000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Trace the development of distinctive forms of Japanese Buddhism.",
+			"ancestorIds": [
+				"BDE17250DFE40131016668A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE25AB0DFE40131016968A86D17958E": {
+			"id": "BDE25AB0DFE40131016968A86D17958E",
+			"asnIdentifier": "S104339E",
+			"position": 47000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the values, social customs, and traditions prescribed by the Content lord-vassal system consisting of shogun, daimyo, and samurai and lasting influence of the warrior code throughout the twentieth century.",
+			"ancestorIds": [
+				"BDE17250DFE40131016668A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE20840DFE40131016868A86D17958E": {
+			"id": "BDE20840DFE40131016868A86D17958E",
+			"asnIdentifier": "S104339D",
+			"position": 46000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Discuss the reign of Prince Shotoku of Japan and the characteristics of Japanese society and family life during his reign.",
+			"ancestorIds": [
+				"BDE17250DFE40131016668A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE1BF50DFE40131016768A86D17958E": {
+			"id": "BDE1BF50DFE40131016768A86D17958E",
+			"asnIdentifier": "S104339C",
+			"position": 45000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the significance of Japan's proximity to China and Korea and the intellectual, linguistic, religious, and philosophical influence of those countries on Japan.",
+			"ancestorIds": [
+				"BDE17250DFE40131016668A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE17250DFE40131016668A86D17958E": {
+			"id": "BDE17250DFE40131016668A86D17958E",
+			"asnIdentifier": "S1042C44",
+			"position": 44000,
+			"depth": 1,
+			"listId": "7.5",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the civilizations of Medieval Japan.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE13080DFE40131016568A86D17958E": {
+			"id": "BDE13080DFE40131016568A86D17958E",
+			"asnIdentifier": "S104339B",
+			"position": 43000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the importance of written and oral traditions in the trans-mission of African history and culture.",
+			"ancestorIds": [
+				"BDDFCBF0DFE40131016068A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE0EE50DFE40131016468A86D17958E": {
+			"id": "BDE0EE50DFE40131016468A86D17958E",
+			"asnIdentifier": "S104339A",
+			"position": 42000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Trace the growth of the Arabic language in government, trade, and Islamic scholarship in West Africa.",
+			"ancestorIds": [
+				"BDDFCBF0DFE40131016068A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE0A9F0DFE40131016368A86D17958E": {
+			"id": "BDE0A9F0DFE40131016368A86D17958E",
+			"asnIdentifier": "S1043399",
+			"position": 41000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the role of the trans-Saharan caravan trade in the changing religious and cultural characteristics of West Africa and the influence of Islamic beliefs, ethics, and law.",
+			"ancestorIds": [
+				"BDDFCBF0DFE40131016068A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE06040DFE40131016268A86D17958E": {
+			"id": "BDE06040DFE40131016268A86D17958E",
+			"asnIdentifier": "S1043398",
+			"position": 40000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Analyze the importance of family, labor specialization, and regional commerce in the development of states and cities in West Africa.",
+			"ancestorIds": [
+				"BDDFCBF0DFE40131016068A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDE01530DFE40131016168A86D17958E": {
+			"id": "BDE01530DFE40131016168A86D17958E",
+			"asnIdentifier": "S1043397",
+			"position": 39000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Study the Niger River and the relationship of vegetation zones of forest, savannah, and desert to trade in gold, salt, food, and slaves; and the growth of the Ghana and Mali empires.",
+			"ancestorIds": [
+				"BDDFCBF0DFE40131016068A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDFCBF0DFE40131016068A86D17958E": {
+			"id": "BDDFCBF0DFE40131016068A86D17958E",
+			"asnIdentifier": "S1042C43",
+			"position": 38000,
+			"depth": 1,
+			"listId": "7.4",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the sub-Saharan civilizations of Ghana and Mali in Medieval Africa.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDF6EE0DFE40131015F68A86D17958E": {
+			"id": "BDDF6EE0DFE40131015F68A86D17958E",
+			"asnIdentifier": "S1043394",
+			"position": 37000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Describe the development of the imperial state and the scholar-official class.",
+			"ancestorIds": [
+				"BDDD92E0DFE40131015968A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDF2C50DFE40131015E68A86D17958E": {
+			"id": "BDDF2C50DFE40131015E68A86D17958E",
+			"asnIdentifier": "S1043392",
+			"position": 36000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Trace the historic influence of such discoveries as tea, the manufac­ture of paper, wood-block printing, the compass, and gunpowder.",
+			"ancestorIds": [
+				"BDDD92E0DFE40131015968A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDEE740DFE40131015D68A86D17958E": {
+			"id": "BDDEE740DFE40131015D68A86D17958E",
+			"asnIdentifier": "S104338F",
+			"position": 35000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Understand the importance of both overland trade and maritime expeditions between China and other civilizations in the Mongol Ascendancy and Ming Dynasty.",
+			"ancestorIds": [
+				"BDDD92E0DFE40131015968A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDE9C20DFE40131015C68A86D17958E": {
+			"id": "BDDE9C20DFE40131015C68A86D17958E",
+			"asnIdentifier": "S104338E",
+			"position": 34000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Analyze the influences of Confucianism and changes in Confucian thought during the Song and Mongol periods.",
+			"ancestorIds": [
+				"BDDD92E0DFE40131015968A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDE49B0DFE40131015B68A86D17958E": {
+			"id": "BDDE49B0DFE40131015B68A86D17958E",
+			"asnIdentifier": "S104338C",
+			"position": 33000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe agricultural, technological, and commercial developments during the Tang and Song periods.",
+			"ancestorIds": [
+				"BDDD92E0DFE40131015968A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDDF180DFE40131015A68A86D17958E": {
+			"id": "BDDDF180DFE40131015A68A86D17958E",
+			"asnIdentifier": "S104338B",
+			"position": 32000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the reunification of China under the Tang Dynasty and reasons for the spread of Buddhism in Tang China, Korea, and Japan.",
+			"ancestorIds": [
+				"BDDD92E0DFE40131015968A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDD92E0DFE40131015968A86D17958E": {
+			"id": "BDDD92E0DFE40131015968A86D17958E",
+			"asnIdentifier": "S1042C42",
+			"position": 31000,
+			"depth": 1,
+			"listId": "7.3",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the civilizations of China in the Middle Ages.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDD4ED0DFE40131015868A86D17958E": {
+			"id": "BDDD4ED0DFE40131015868A86D17958E",
+			"asnIdentifier": "S104338A",
+			"position": 30000,
+			"depth": 2,
+			"description": "Understand the intellectual exchanges among Muslim scholars of Eurasia and Africa and the contributions Muslim scholars made to later civilizations in the areas of science, geography, mathematics, philosophy, medicine, art, and literature.",
+			"ancestorIds": [
+				"BDDB83F0DFE40131015268A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDD0810DFE40131015768A86D17958E": {
+			"id": "BDDD0810DFE40131015768A86D17958E",
+			"asnIdentifier": "S1043388",
+			"position": 29000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Describe the growth of cities and the establishment of trade routes among Asia, Africa, and Europe, the products and inventions that traveled along these routes (e.g., spices, textiles, paper, steel, new crops), and the role of merchants in Arab society.",
+			"ancestorIds": [
+				"BDDB83F0DFE40131015268A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDCC060DFE40131015668A86D17958E": {
+			"id": "BDDCC060DFE40131015668A86D17958E",
+			"asnIdentifier": "S1043386",
+			"position": 28000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Discuss the expansion of Muslim rule through military conquests and treaties, emphasizing the cultural blending within Muslim civilization and the spread and acceptance of Islam and the Arabic language.",
+			"ancestorIds": [
+				"BDDB83F0DFE40131015268A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDC71E0DFE40131015568A86D17958E": {
+			"id": "BDDC71E0DFE40131015568A86D17958E",
+			"asnIdentifier": "S1043384",
+			"position": 27000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain the significance of the Qur'an and the Sunnah as the primary sources of Islamic beliefs, practice, and law, and their influence in Muslims' daily life.",
+			"ancestorIds": [
+				"BDDB83F0DFE40131015268A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDC2550DFE40131015468A86D17958E": {
+			"id": "BDDC2550DFE40131015468A86D17958E",
+			"asnIdentifier": "S1043383",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Trace the origins of Islam and the life and teachings of Muhammad, including Islamic teachings on the connection with Judaism and Christianity.",
+			"ancestorIds": [
+				"BDDB83F0DFE40131015268A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDBC710DFE40131015368A86D17958E": {
+			"id": "BDDBC710DFE40131015368A86D17958E",
+			"asnIdentifier": "S1043382",
+			"position": 25000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Identify the physical features and describe the climate of the Arabian peninsula, its relationship to surrounding bodies of land and water, and nomadic and sedentary ways of life.",
+			"ancestorIds": [
+				"BDDB83F0DFE40131015268A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDDB83F0DFE40131015268A86D17958E": {
+			"id": "BDDB83F0DFE40131015268A86D17958E",
+			"asnIdentifier": "S1042C41",
+			"position": 24000,
+			"depth": 1,
+			"listId": "7.2",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the civilizations of Islam in the Middle Ages.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD7FC70DFE40131014668A86D17958E": {
+			"id": "BDD7FC70DFE40131014668A86D17958E",
+			"asnIdentifier": "S1043381",
+			"position": 23000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Describe the establishment by Constantine of the new capital in Constantinople and the development of the Byzantine Empire, with an emphasis on the consequences of the development of two distinct European civilizations, Eastern Orthodox and Roman Catholic, and their two distinct views on church-state relations.",
+			"ancestorIds": [
+				"BDD72420DFE40131014368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD7B7C0DFE40131014568A86D17958E": {
+			"id": "BDD7B7C0DFE40131014568A86D17958E",
+			"asnIdentifier": "S104337F",
+			"position": 22000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Discuss the geographic borders of the empire at its height and the factors that threatened its territorial cohesion.",
+			"ancestorIds": [
+				"BDD72420DFE40131014368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD76E20DFE40131014468A86D17958E": {
+			"id": "BDD76E20DFE40131014468A86D17958E",
+			"asnIdentifier": "S104337E",
+			"position": 21000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Study the early strengths and lasting contributions of Rome (e.g., significance of Roman citizenship; rights under Roman law; Roman art, architecture, engineering, and philosophy; preservation and transmission of Christianity) and its ultimate internal weaknesses (e.g., rise of autonomous military powers within the empire, under-mining of citizenship by the growth of corruption and slavery, lack of education, and distribution of news).",
+			"ancestorIds": [
+				"BDD72420DFE40131014368A86D17958E",
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD72420DFE40131014368A86D17958E": {
+			"id": "BDD72420DFE40131014368A86D17958E",
+			"asnIdentifier": "S1042C40",
+			"position": 20000,
+			"depth": 1,
+			"listId": "7.1",
+			"description": "Students analyze the causes and effects of the vast expansion and ultimate disintegration of the Roman Empire.",
+			"ancestorIds": [
+				"BDD6D640DFE40131014268A86D17958E"
+			]
+		},
+		"BDD6D640DFE40131014268A86D17958E": {
+			"id": "BDD6D640DFE40131014268A86D17958E",
+			"asnIdentifier": "S1042C09",
+			"position": 19000,
+			"depth": 0,
+			"description": "World History and Geography: Medieval and Early Modern Times",
+			"ancestorIds": [
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD65DF0DFE40131014168A86D17958E": {
+			"id": "BDD65DF0DFE40131014168A86D17958E",
+			"asnIdentifier": "S1042BD2",
+			"position": 18000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Students interpret basic indicators of economic performance and conduct cost-benefit analyses of economic and political issues.",
+			"ancestorIds": [
+				"BDD4B4C0DFE40131013B68A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD60E10DFE40131014068A86D17958E": {
+			"id": "BDD60E10DFE40131014068A86D17958E",
+			"asnIdentifier": "S1042BD1",
+			"position": 17000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students recognize that interpretations of history are subject to change as new information is uncovered.",
+			"ancestorIds": [
+				"BDD4B4C0DFE40131013B68A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD5CD90DFE40131013F68A86D17958E": {
+			"id": "BDD5CD90DFE40131013F68A86D17958E",
+			"asnIdentifier": "S1042BD0",
+			"position": 16000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students recognize the role of chance, oversight, and error in history.",
+			"ancestorIds": [
+				"BDD4B4C0DFE40131013B68A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD58AC0DFE40131013E68A86D17958E": {
+			"id": "BDD58AC0DFE40131013E68A86D17958E",
+			"asnIdentifier": "S1042BCF",
+			"position": 15000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students explain the sources of historical continuity and how the combination of ideas and events explains the emergence of new patterns.",
+			"ancestorIds": [
+				"BDD4B4C0DFE40131013B68A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD54700DFE40131013D68A86D17958E": {
+			"id": "BDD54700DFE40131013D68A86D17958E",
+			"asnIdentifier": "S1042BCE",
+			"position": 14000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students understand and distinguish cause, effect, sequence, and correlation in historical events, including the long-and short-term causal relations.",
+			"ancestorIds": [
+				"BDD4B4C0DFE40131013B68A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD501E0DFE40131013C68A86D17958E": {
+			"id": "BDD501E0DFE40131013C68A86D17958E",
+			"asnIdentifier": "S1042BCD",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students explain the central issues and problems from the past, placing people and events in a matrix of time and place.",
+			"ancestorIds": [
+				"BDD4B4C0DFE40131013B68A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD4B4C0DFE40131013B68A86D17958E": {
+			"id": "BDD4B4C0DFE40131013B68A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 12000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD47060DFE40131013A68A86D17958E": {
+			"id": "BDD47060DFE40131013A68A86D17958E",
+			"asnIdentifier": "S1042BCC",
+			"position": 11000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students detect the different historical points of view on historical events and determine the context in which the historical statements were made (the questions asked, sources used, author's perspectives).",
+			"ancestorIds": [
+				"BDD2D4E0DFE40131013568A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD42CE0DFE40131013968A86D17958E": {
+			"id": "BDD42CE0DFE40131013968A86D17958E",
+			"asnIdentifier": "S1042BCB",
+			"position": 10000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students assess the credibility of primary and secondary sources and draw sound conclusions from them.",
+			"ancestorIds": [
+				"BDD2D4E0DFE40131013568A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD3E630DFE40131013868A86D17958E": {
+			"id": "BDD3E630DFE40131013868A86D17958E",
+			"asnIdentifier": "S1042BCA",
+			"position": 9000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students distinguish relevant from irrelevant information, essential from incidental information, and verifiable from unverifiable information in historical narratives and stories.",
+			"ancestorIds": [
+				"BDD2D4E0DFE40131013568A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD39EC0DFE40131013768A86D17958E": {
+			"id": "BDD39EC0DFE40131013768A86D17958E",
+			"asnIdentifier": "S1042BC9",
+			"position": 8000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students distinguish fact from opinion in historical narratives and stories.",
+			"ancestorIds": [
+				"BDD2D4E0DFE40131013568A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD34060DFE40131013668A86D17958E": {
+			"id": "BDD34060DFE40131013668A86D17958E",
+			"asnIdentifier": "S1042BC8",
+			"position": 7000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students frame questions that can be answered by historical study and research.",
+			"ancestorIds": [
+				"BDD2D4E0DFE40131013568A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD2D4E0DFE40131013568A86D17958E": {
+			"id": "BDD2D4E0DFE40131013568A86D17958E",
+			"asnIdentifier": "S1042BB7",
+			"position": 6000,
+			"depth": 1,
+			"description": "Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD283D0DFE40131013468A86D17958E": {
+			"id": "BDD283D0DFE40131013468A86D17958E",
+			"asnIdentifier": "S1042BC7",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students use a variety of maps and documents to identify physical and cultural features of neighborhoods, cities, states, and countries and to explain the historical migration of people, expansion and disintegration of empires, and the growth of economic systems.",
+			"ancestorIds": [
+				"BDD19130DFE40131013168A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD23470DFE40131013368A86D17958E": {
+			"id": "BDD23470DFE40131013368A86D17958E",
+			"asnIdentifier": "S1042BC6",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students construct various time lines of key events, people, and periods of the historical era they are studying.",
+			"ancestorIds": [
+				"BDD19130DFE40131013168A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD1E4A0DFE40131013268A86D17958E": {
+			"id": "BDD1E4A0DFE40131013268A86D17958E",
+			"asnIdentifier": "S1042BC5",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students explain how major events are related to one another in time.",
+			"ancestorIds": [
+				"BDD19130DFE40131013168A86D17958E",
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD19130DFE40131013168A86D17958E": {
+			"id": "BDD19130DFE40131013168A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BDD13390DFE40131013068A86D17958E"
+			]
+		},
+		"BDD13390DFE40131013068A86D17958E": {
+			"id": "BDD13390DFE40131013068A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

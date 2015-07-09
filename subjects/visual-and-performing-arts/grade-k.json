@@ -1,0 +1,1423 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D1000315_grade-k",
+	"title": "Grade K",
+	"subject": "Visual & Performing Arts",
+	"educationLevels": [
+		"K"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D1000315",
+		"valid": "2001",
+		"title": "Visual and Performing Arts Content Standards for California Public Schools, Prekindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/vpastandards.pdf",
+		"asnIdentifier": "D1000315",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"FB72B540DFE30131956D68A86D17958E": {
+			"id": "FB72B540DFE30131956D68A86D17958E",
+			"asnIdentifier": "S112EB41",
+			"position": 117000,
+			"depth": 3,
+			"listId": "5.4",
+			"description": "Discuss the various works of art (e.g., ceramics, paintings, sculpture) that artists create and the type of media used.",
+			"ancestorIds": [
+				"FB7260F0DFE30131956C68A86D17958E",
+				"FB705210DFE30131956668A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB7260F0DFE30131956C68A86D17958E": {
+			"id": "FB7260F0DFE30131956C68A86D17958E",
+			"asnIdentifier": "S112B933",
+			"position": 116000,
+			"depth": 2,
+			"description": "Careers and Career-Related Skills",
+			"ancestorIds": [
+				"FB705210DFE30131956668A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB71ECD0DFE30131956B68A86D17958E": {
+			"id": "FB71ECD0DFE30131956B68A86D17958E",
+			"asnIdentifier": "S112EB40",
+			"position": 115000,
+			"depth": 3,
+			"listId": "5.3",
+			"description": "Point out images (e.g., photographs, paintings, murals, ceramics, sculptures) and sym-bols found at home, in school, and in the community, including national and state symbols and icons.",
+			"ancestorIds": [
+				"FB719720DFE30131956A68A86D17958E",
+				"FB705210DFE30131956668A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB719720DFE30131956A68A86D17958E": {
+			"id": "FB719720DFE30131956A68A86D17958E",
+			"asnIdentifier": "S112B932",
+			"position": 114000,
+			"depth": 2,
+			"description": "Visual Literacy",
+			"ancestorIds": [
+				"FB705210DFE30131956668A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB712E60DFE30131956968A86D17958E": {
+			"id": "FB712E60DFE30131956968A86D17958E",
+			"asnIdentifier": "S112EB3F",
+			"position": 113000,
+			"depth": 3,
+			"listId": "5.2",
+			"description": "Look at and draw something used every day (e.g., scissors, toothbrush, fork) and de-scribe how the object is used.",
+			"ancestorIds": [
+				"FB709740DFE30131956768A86D17958E",
+				"FB705210DFE30131956668A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB70D970DFE30131956868A86D17958E": {
+			"id": "FB70D970DFE30131956868A86D17958E",
+			"asnIdentifier": "S112EB3E",
+			"position": 112000,
+			"depth": 3,
+			"listId": "5.1",
+			"description": "Draw geometric shapes/forms (e.g., circles, squares, triangles) and repeat them in dance/movement sequences.",
+			"ancestorIds": [
+				"FB709740DFE30131956768A86D17958E",
+				"FB705210DFE30131956668A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB709740DFE30131956768A86D17958E": {
+			"id": "FB709740DFE30131956768A86D17958E",
+			"asnIdentifier": "S112B931",
+			"position": 111000,
+			"depth": 2,
+			"description": "Connections and Applications",
+			"ancestorIds": [
+				"FB705210DFE30131956668A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB705210DFE30131956668A86D17958E": {
+			"id": "FB705210DFE30131956668A86D17958E",
+			"asnIdentifier": "S112B8F8",
+			"position": 110000,
+			"depth": 1,
+			"listId": "5.0",
+			"description": "Connections, Relationships, Applications - Connecting and Applying What Is Learned in the Visual Arts to Other Art Forms and Subject Areas and to Careers",
+			"ancestorIds": [
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB700730DFE30131956568A86D17958E": {
+			"id": "FB700730DFE30131956568A86D17958E",
+			"asnIdentifier": "S112EB3D",
+			"position": 109000,
+			"depth": 3,
+			"listId": "4.4",
+			"description": "Give reasons why they like a particular work of art they made, using appropriate art vocabulary.",
+			"ancestorIds": [
+				"FB6F7370DFE30131956368A86D17958E",
+				"FB6E52C0DFE30131955F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6FB770DFE30131956468A86D17958E": {
+			"id": "FB6FB770DFE30131956468A86D17958E",
+			"asnIdentifier": "S112EB3C",
+			"position": 108000,
+			"depth": 3,
+			"listId": "4.3",
+			"description": "Discuss how and why they made a specific work of art.",
+			"ancestorIds": [
+				"FB6F7370DFE30131956368A86D17958E",
+				"FB6E52C0DFE30131955F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6F7370DFE30131956368A86D17958E": {
+			"id": "FB6F7370DFE30131956368A86D17958E",
+			"asnIdentifier": "S112B930",
+			"position": 107000,
+			"depth": 2,
+			"description": "Make Informed Judgments",
+			"ancestorIds": [
+				"FB6E52C0DFE30131955F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6F2E90DFE30131956268A86D17958E": {
+			"id": "FB6F2E90DFE30131956268A86D17958E",
+			"asnIdentifier": "S112EB3B",
+			"position": 106000,
+			"depth": 3,
+			"listId": "4.2",
+			"description": "Describe what is seen (including both literal and expressive content) in selected works of art.",
+			"ancestorIds": [
+				"FB6E9D10DFE30131956068A86D17958E",
+				"FB6E52C0DFE30131955F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6EE670DFE30131956168A86D17958E": {
+			"id": "FB6EE670DFE30131956168A86D17958E",
+			"asnIdentifier": "S112EB3A",
+			"position": 105000,
+			"depth": 3,
+			"listId": "4.1",
+			"description": "Discuss their own works of art, using appropriate art vocabulary (e.g., color, shape/form, texture).",
+			"ancestorIds": [
+				"FB6E9D10DFE30131956068A86D17958E",
+				"FB6E52C0DFE30131955F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6E9D10DFE30131956068A86D17958E": {
+			"id": "FB6E9D10DFE30131956068A86D17958E",
+			"asnIdentifier": "S112B92F",
+			"position": 104000,
+			"depth": 2,
+			"description": "Derive Meaning",
+			"ancestorIds": [
+				"FB6E52C0DFE30131955F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6E52C0DFE30131955F68A86D17958E": {
+			"id": "FB6E52C0DFE30131955F68A86D17958E",
+			"asnIdentifier": "S112B8F5",
+			"position": 103000,
+			"depth": 1,
+			"listId": "4.0",
+			"description": "Aesthetic Valuing - Responding to, Analyzing, and Making Judgments About Works in the Visual Arts",
+			"ancestorIds": [
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6E0920DFE30131955E68A86D17958E": {
+			"id": "FB6E0920DFE30131955E68A86D17958E",
+			"asnIdentifier": "S112EB39",
+			"position": 102000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Look at and discuss works of art from a variety of times and places.",
+			"ancestorIds": [
+				"FB6DB420DFE30131955D68A86D17958E",
+				"FB6C59B0DFE30131955968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6DB420DFE30131955D68A86D17958E": {
+			"id": "FB6DB420DFE30131955D68A86D17958E",
+			"asnIdentifier": "S112B92E",
+			"position": 101000,
+			"depth": 2,
+			"description": "Diversity of the Visual Arts",
+			"ancestorIds": [
+				"FB6C59B0DFE30131955968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6D5890DFE30131955C68A86D17958E": {
+			"id": "FB6D5890DFE30131955C68A86D17958E",
+			"asnIdentifier": "S112EB38",
+			"position": 100000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Identify and describe works of art that show people doing things together.",
+			"ancestorIds": [
+				"FB6CB660DFE30131955A68A86D17958E",
+				"FB6C59B0DFE30131955968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6D0BD0DFE30131955B68A86D17958E": {
+			"id": "FB6D0BD0DFE30131955B68A86D17958E",
+			"asnIdentifier": "S112EB37",
+			"position": 99000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Describe functional and nonutilitarian art seen in daily life; that is, works of art that are used versus those that are only viewed.",
+			"ancestorIds": [
+				"FB6CB660DFE30131955A68A86D17958E",
+				"FB6C59B0DFE30131955968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6CB660DFE30131955A68A86D17958E": {
+			"id": "FB6CB660DFE30131955A68A86D17958E",
+			"asnIdentifier": "S112B92D",
+			"position": 98000,
+			"depth": 2,
+			"description": "Role and Development of the Visual Arts",
+			"ancestorIds": [
+				"FB6C59B0DFE30131955968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6C59B0DFE30131955968A86D17958E": {
+			"id": "FB6C59B0DFE30131955968A86D17958E",
+			"asnIdentifier": "S112B8F3",
+			"position": 97000,
+			"depth": 1,
+			"listId": "3.0",
+			"description": "Historical and Cultural Context - Understanding the Historical Contributions and Cultural Dimensions of the Visual Arts",
+			"ancestorIds": [
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6C1310DFE30131955868A86D17958E": {
+			"id": "FB6C1310DFE30131955868A86D17958E",
+			"asnIdentifier": "S112EB36",
+			"position": 96000,
+			"depth": 3,
+			"listId": "2.7",
+			"description": "Create a three-dimensional form, such as a real or imaginary animal.",
+			"ancestorIds": [
+				"FB6AC540DFE30131955468A86D17958E",
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6BC8D0DFE30131955768A86D17958E": {
+			"id": "FB6BC8D0DFE30131955768A86D17958E",
+			"asnIdentifier": "S112EB35",
+			"position": 95000,
+			"depth": 3,
+			"listId": "2.6",
+			"description": "Use geometric shapes/forms (circle, triangle, square) in a work of art.",
+			"ancestorIds": [
+				"FB6AC540DFE30131955468A86D17958E",
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6B6260DFE30131955668A86D17958E": {
+			"id": "FB6B6260DFE30131955668A86D17958E",
+			"asnIdentifier": "S112EB34",
+			"position": 94000,
+			"depth": 3,
+			"listId": "2.5",
+			"description": "Use lines in drawings and paintings to express feelings.",
+			"ancestorIds": [
+				"FB6AC540DFE30131955468A86D17958E",
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6B0E70DFE30131955568A86D17958E": {
+			"id": "FB6B0E70DFE30131955568A86D17958E",
+			"asnIdentifier": "S112EB33",
+			"position": 93000,
+			"depth": 3,
+			"listId": "2.4",
+			"description": "Paint pictures expressing ideas about family and neighborhood.",
+			"ancestorIds": [
+				"FB6AC540DFE30131955468A86D17958E",
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6AC540DFE30131955468A86D17958E": {
+			"id": "FB6AC540DFE30131955468A86D17958E",
+			"asnIdentifier": "S112B92C",
+			"position": 92000,
+			"depth": 2,
+			"description": "Communication and Expression Through Original Works of Art",
+			"ancestorIds": [
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6A79B0DFE30131955368A86D17958E": {
+			"id": "FB6A79B0DFE30131955368A86D17958E",
+			"asnIdentifier": "S112EB32",
+			"position": 91000,
+			"depth": 3,
+			"listId": "2.3",
+			"description": "Make a collage with cut or torn paper shapes/forms.",
+			"ancestorIds": [
+				"FB69B250DFE30131955068A86D17958E",
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6A37A0DFE30131955268A86D17958E": {
+			"id": "FB6A37A0DFE30131955268A86D17958E",
+			"asnIdentifier": "S112EB31",
+			"position": 90000,
+			"depth": 3,
+			"listId": "2.2",
+			"description": "Demonstrate beginning skill in the use of tools and processes, such as the use of scissors, glue, and paper in creating a three-dimensional construction.",
+			"ancestorIds": [
+				"FB69B250DFE30131955068A86D17958E",
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB69F5C0DFE30131955168A86D17958E": {
+			"id": "FB69F5C0DFE30131955168A86D17958E",
+			"asnIdentifier": "S112EB30",
+			"position": 89000,
+			"depth": 3,
+			"listId": "2.1",
+			"description": "Use lines, shapes/forms, and colors to make patterns.",
+			"ancestorIds": [
+				"FB69B250DFE30131955068A86D17958E",
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB69B250DFE30131955068A86D17958E": {
+			"id": "FB69B250DFE30131955068A86D17958E",
+			"asnIdentifier": "S112B92B",
+			"position": 88000,
+			"depth": 2,
+			"description": "Skills, Processes, Materials, and Tools",
+			"ancestorIds": [
+				"FB696E80DFE30131954F68A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB696E80DFE30131954F68A86D17958E": {
+			"id": "FB696E80DFE30131954F68A86D17958E",
+			"asnIdentifier": "S112B8F1",
+			"position": 87000,
+			"depth": 1,
+			"listId": "2.0",
+			"description": "Creative Expression - Creating, Performing, and Participating in the Visual Arts",
+			"ancestorIds": [
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB692860DFE30131954E68A86D17958E": {
+			"id": "FB692860DFE30131954E68A86D17958E",
+			"asnIdentifier": "S112EB2F",
+			"position": 86000,
+			"depth": 3,
+			"listId": "1.3",
+			"description": "Identify the elements of art (line, color, shape/form, texture, value, space) in the environ-ment and in works of art, emphasizing line, color, and shape/form.",
+			"ancestorIds": [
+				"FB68D3B0DFE30131954D68A86D17958E",
+				"FB679060DFE30131954968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB68D3B0DFE30131954D68A86D17958E": {
+			"id": "FB68D3B0DFE30131954D68A86D17958E",
+			"asnIdentifier": "S112B928",
+			"position": 85000,
+			"depth": 2,
+			"description": "Analyze Art Elements and Principles of Design",
+			"ancestorIds": [
+				"FB679060DFE30131954968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB687DA0DFE30131954C68A86D17958E": {
+			"id": "FB687DA0DFE30131954C68A86D17958E",
+			"asnIdentifier": "S112EB2E",
+			"position": 84000,
+			"depth": 3,
+			"listId": "1.2",
+			"description": "Name art materials (e.g., clay, paint, crayons) introduced in lessons.",
+			"ancestorIds": [
+				"FB67DE30DFE30131954A68A86D17958E",
+				"FB679060DFE30131954968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB683020DFE30131954B68A86D17958E": {
+			"id": "FB683020DFE30131954B68A86D17958E",
+			"asnIdentifier": "S112EB2D",
+			"position": 83000,
+			"depth": 3,
+			"listId": "1.1",
+			"description": "Recognize and describe simple patterns found in the environment and works of art.",
+			"ancestorIds": [
+				"FB67DE30DFE30131954A68A86D17958E",
+				"FB679060DFE30131954968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB67DE30DFE30131954A68A86D17958E": {
+			"id": "FB67DE30DFE30131954A68A86D17958E",
+			"asnIdentifier": "S112B927",
+			"position": 82000,
+			"depth": 2,
+			"description": "Develop Perceptual Skills and Visual Arts Vocabulary",
+			"ancestorIds": [
+				"FB679060DFE30131954968A86D17958E",
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB679060DFE30131954968A86D17958E": {
+			"id": "FB679060DFE30131954968A86D17958E",
+			"asnIdentifier": "S112B8F0",
+			"position": 81000,
+			"depth": 1,
+			"listId": "1.0",
+			"description": "Artistic Perception - Processing, Analyzing, and Responding to Sensory Information Through the Language and Skills Unique to the Visual Arts",
+			"ancestorIds": [
+				"FB6748C0DFE30131954868A86D17958E"
+			]
+		},
+		"FB6748C0DFE30131954868A86D17958E": {
+			"id": "FB6748C0DFE30131954868A86D17958E",
+			"asnIdentifier": "S112AE24",
+			"position": 80000,
+			"depth": 0,
+			"description": "Visual Arts",
+			"ancestorIds": [
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB66FB20DFE30131954768A86D17958E": {
+			"id": "FB66FB20DFE30131954768A86D17958E",
+			"asnIdentifier": "S112EA9B",
+			"position": 79000,
+			"depth": 3,
+			"listId": "5.2",
+			"description": "Demonstrate the ability to participate cooperatively in performing a pantomime or dramatizing a story.",
+			"ancestorIds": [
+				"FB66B1F0DFE30131954668A86D17958E",
+				"FB659D50DFE30131954368A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB66B1F0DFE30131954668A86D17958E": {
+			"id": "FB66B1F0DFE30131954668A86D17958E",
+			"asnIdentifier": "S112B926",
+			"position": 78000,
+			"depth": 2,
+			"description": "Careers and Career-Related Skills",
+			"ancestorIds": [
+				"FB659D50DFE30131954368A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB666840DFE30131954568A86D17958E": {
+			"id": "FB666840DFE30131954568A86D17958E",
+			"asnIdentifier": "S112EA9A",
+			"position": 77000,
+			"depth": 3,
+			"listId": "5.1",
+			"description": "Dramatize information from other content areas. Use movement and voice, for example, to reinforce vocabulary, such as fast, slow, in, on, through, over, under.",
+			"ancestorIds": [
+				"FB661B80DFE30131954468A86D17958E",
+				"FB659D50DFE30131954368A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB661B80DFE30131954468A86D17958E": {
+			"id": "FB661B80DFE30131954468A86D17958E",
+			"asnIdentifier": "S112B925",
+			"position": 76000,
+			"depth": 2,
+			"description": "Connections and Applications",
+			"ancestorIds": [
+				"FB659D50DFE30131954368A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB659D50DFE30131954368A86D17958E": {
+			"id": "FB659D50DFE30131954368A86D17958E",
+			"asnIdentifier": "S112B8EF",
+			"position": 75000,
+			"depth": 1,
+			"listId": "5.0",
+			"description": "Connections, Relationships, Applications - Connecting and Applying What Is Learned in Theatre, Film/Video, and Electronic Media to Other Art Forms and Subject Areas and to Careers",
+			"ancestorIds": [
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB653F80DFE30131954268A86D17958E": {
+			"id": "FB653F80DFE30131954268A86D17958E",
+			"asnIdentifier": "S112EA99",
+			"position": 74000,
+			"depth": 3,
+			"listId": "4.2",
+			"description": "Compare a real story with a fantasy story.",
+			"ancestorIds": [
+				"FB64FE60DFE30131954168A86D17958E",
+				"FB643740DFE30131953E68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB64FE60DFE30131954168A86D17958E": {
+			"id": "FB64FE60DFE30131954168A86D17958E",
+			"asnIdentifier": "S112B924",
+			"position": 73000,
+			"depth": 2,
+			"description": "Derivation of Meaning from Works of Theatre",
+			"ancestorIds": [
+				"FB643740DFE30131953E68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB64BC90DFE30131954068A86D17958E": {
+			"id": "FB64BC90DFE30131954068A86D17958E",
+			"asnIdentifier": "S112EA98",
+			"position": 72000,
+			"depth": 3,
+			"listId": "4.1",
+			"description": "Respond appropriately to a theatrical experience as an audience member.",
+			"ancestorIds": [
+				"FB647AB0DFE30131953F68A86D17958E",
+				"FB643740DFE30131953E68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB647AB0DFE30131953F68A86D17958E": {
+			"id": "FB647AB0DFE30131953F68A86D17958E",
+			"asnIdentifier": "S112B923",
+			"position": 71000,
+			"depth": 2,
+			"description": "Critical Assessment of Theatre",
+			"ancestorIds": [
+				"FB643740DFE30131953E68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB643740DFE30131953E68A86D17958E": {
+			"id": "FB643740DFE30131953E68A86D17958E",
+			"asnIdentifier": "S112B8EE",
+			"position": 70000,
+			"depth": 1,
+			"listId": "4.0",
+			"description": "Aesthetic Valuing - Responding to, Analyzing, and Critiquing Theatrical Experiences",
+			"ancestorIds": [
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB63F290DFE30131953D68A86D17958E": {
+			"id": "FB63F290DFE30131953D68A86D17958E",
+			"asnIdentifier": "S112EA97",
+			"position": 69000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Portray different community members, such as firefighters, family, teachers, and clerks, through role-playing activities.",
+			"ancestorIds": [
+				"FB6358E0DFE30131953B68A86D17958E",
+				"FB630AE0DFE30131953A68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB63AC60DFE30131953C68A86D17958E": {
+			"id": "FB63AC60DFE30131953C68A86D17958E",
+			"asnIdentifier": "S112EA96",
+			"position": 68000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Retell or dramatize stories, myths, fables, and fairy tales from various cultures and times.",
+			"ancestorIds": [
+				"FB6358E0DFE30131953B68A86D17958E",
+				"FB630AE0DFE30131953A68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB6358E0DFE30131953B68A86D17958E": {
+			"id": "FB6358E0DFE30131953B68A86D17958E",
+			"asnIdentifier": "S112B921",
+			"position": 67000,
+			"depth": 2,
+			"description": "Role and Cultural Significance of Theatre",
+			"ancestorIds": [
+				"FB630AE0DFE30131953A68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB630AE0DFE30131953A68A86D17958E": {
+			"id": "FB630AE0DFE30131953A68A86D17958E",
+			"asnIdentifier": "S112B8ED",
+			"position": 66000,
+			"depth": 1,
+			"listId": "3.0",
+			"description": "Historical and Cultural Context - Understanding the Historical Contributions and Cultural Dimensions of Theatre",
+			"ancestorIds": [
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB62B6F0DFE30131953968A86D17958E": {
+			"id": "FB62B6F0DFE30131953968A86D17958E",
+			"asnIdentifier": "S112EA95",
+			"position": 65000,
+			"depth": 3,
+			"listId": "2.3",
+			"description": "Use costumes and props in role playing.",
+			"ancestorIds": [
+				"FB621600DFE30131953768A86D17958E",
+				"FB6131F0DFE30131953468A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB626200DFE30131953868A86D17958E": {
+			"id": "FB626200DFE30131953868A86D17958E",
+			"asnIdentifier": "S112EA94",
+			"position": 64000,
+			"depth": 3,
+			"listId": "2.2",
+			"description": "Perform group pantomimes and improvisations to retell familiar stories.",
+			"ancestorIds": [
+				"FB621600DFE30131953768A86D17958E",
+				"FB6131F0DFE30131953468A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB621600DFE30131953768A86D17958E": {
+			"id": "FB621600DFE30131953768A86D17958E",
+			"asnIdentifier": "S112B920",
+			"position": 63000,
+			"depth": 2,
+			"description": "Creation/Invention in Theatre",
+			"ancestorIds": [
+				"FB6131F0DFE30131953468A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB61C5B0DFE30131953668A86D17958E": {
+			"id": "FB61C5B0DFE30131953668A86D17958E",
+			"asnIdentifier": "S112EA93",
+			"position": 62000,
+			"depth": 3,
+			"listId": "2.1",
+			"description": "Perform imitative movements, rhythmical activities, and theatre games (freeze, statues, and mirrors).",
+			"ancestorIds": [
+				"FB617640DFE30131953568A86D17958E",
+				"FB6131F0DFE30131953468A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB617640DFE30131953568A86D17958E": {
+			"id": "FB617640DFE30131953568A86D17958E",
+			"asnIdentifier": "S112B91F",
+			"position": 61000,
+			"depth": 2,
+			"description": "Development of Theatrical Skills",
+			"ancestorIds": [
+				"FB6131F0DFE30131953468A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB6131F0DFE30131953468A86D17958E": {
+			"id": "FB6131F0DFE30131953468A86D17958E",
+			"asnIdentifier": "S112B8EC",
+			"position": 60000,
+			"depth": 1,
+			"listId": "2.0",
+			"description": "Creative Expression - Creating, Performing, and Participating in Theatre",
+			"ancestorIds": [
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB60EBE0DFE30131953368A86D17958E": {
+			"id": "FB60EBE0DFE30131953368A86D17958E",
+			"asnIdentifier": "S112EA92",
+			"position": 59000,
+			"depth": 3,
+			"listId": "1.2",
+			"description": "Identify differences between real people and imaginary characters.",
+			"ancestorIds": [
+				"FB60A4D0DFE30131953268A86D17958E",
+				"FB5FA1A0DFE30131952F68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB60A4D0DFE30131953268A86D17958E": {
+			"id": "FB60A4D0DFE30131953268A86D17958E",
+			"asnIdentifier": "S112B91E",
+			"position": 58000,
+			"depth": 2,
+			"description": "Comprehension and Analysis of the Elements of Theatre",
+			"ancestorIds": [
+				"FB5FA1A0DFE30131952F68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB605C30DFE30131953168A86D17958E": {
+			"id": "FB605C30DFE30131953168A86D17958E",
+			"asnIdentifier": "S112EA91",
+			"position": 57000,
+			"depth": 3,
+			"listId": "1.1",
+			"description": "Use the vocabulary of theatre, such as actor, character, cooperation, setting, the five senses, and audience, to describe theatrical experiences.",
+			"ancestorIds": [
+				"FB5FFB50DFE30131953068A86D17958E",
+				"FB5FA1A0DFE30131952F68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB5FFB50DFE30131953068A86D17958E": {
+			"id": "FB5FFB50DFE30131953068A86D17958E",
+			"asnIdentifier": "S112B91D",
+			"position": 56000,
+			"depth": 2,
+			"description": "Development of the Vocabulary of Theatre",
+			"ancestorIds": [
+				"FB5FA1A0DFE30131952F68A86D17958E",
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB5FA1A0DFE30131952F68A86D17958E": {
+			"id": "FB5FA1A0DFE30131952F68A86D17958E",
+			"asnIdentifier": "S112B8EB",
+			"position": 55000,
+			"depth": 1,
+			"listId": "1.0",
+			"description": "Artistic Perception - Processing, Analyzing, and Responding to Sensory Information Through the Language and Skills Unique to Theatre",
+			"ancestorIds": [
+				"FB5F5DC0DFE30131952E68A86D17958E"
+			]
+		},
+		"FB5F5DC0DFE30131952E68A86D17958E": {
+			"id": "FB5F5DC0DFE30131952E68A86D17958E",
+			"asnIdentifier": "S112AE23",
+			"position": 54000,
+			"depth": 0,
+			"description": "Theatre",
+			"ancestorIds": [
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5F1810DFE30131952D68A86D17958E": {
+			"id": "FB5F1810DFE30131952D68A86D17958E",
+			"asnIdentifier": "S112E327",
+			"position": 53000,
+			"depth": 3,
+			"listId": "5.2",
+			"description": "Identify and talk about the reasons artists have for creating dances, music, theatre pieces, and works of visual art.",
+			"ancestorIds": [
+				"FB5ED5E0DFE30131952C68A86D17958E",
+				"FB5DEA50DFE30131952968A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5ED5E0DFE30131952C68A86D17958E": {
+			"id": "FB5ED5E0DFE30131952C68A86D17958E",
+			"asnIdentifier": "S112B91C",
+			"position": 52000,
+			"depth": 2,
+			"description": "Careers and Career-Related Skills",
+			"ancestorIds": [
+				"FB5DEA50DFE30131952968A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5E9100DFE30131952B68A86D17958E": {
+			"id": "FB5E9100DFE30131952B68A86D17958E",
+			"asnIdentifier": "S112E326",
+			"position": 51000,
+			"depth": 3,
+			"listId": "5.1",
+			"description": "Use music, together with dance, theatre, and the visual arts, for storytelling.",
+			"ancestorIds": [
+				"FB5E41E0DFE30131952A68A86D17958E",
+				"FB5DEA50DFE30131952968A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5E41E0DFE30131952A68A86D17958E": {
+			"id": "FB5E41E0DFE30131952A68A86D17958E",
+			"asnIdentifier": "S112B91B",
+			"position": 50000,
+			"depth": 2,
+			"description": "Connections and Applications",
+			"ancestorIds": [
+				"FB5DEA50DFE30131952968A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5DEA50DFE30131952968A86D17958E": {
+			"id": "FB5DEA50DFE30131952968A86D17958E",
+			"asnIdentifier": "S112B8EA",
+			"position": 49000,
+			"depth": 1,
+			"listId": "5.0",
+			"description": "Connections, Relationships, Applications - Connecting and Applying What Is Learned in Music to Learning in Other Art Forms and Subject Areas and to Careers",
+			"ancestorIds": [
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5DA3F0DFE30131952868A86D17958E": {
+			"id": "FB5DA3F0DFE30131952868A86D17958E",
+			"asnIdentifier": "S112E325",
+			"position": 48000,
+			"depth": 3,
+			"listId": "4.2",
+			"description": "Identify, talk about, sing, or play music written for specific purposes (e.g., work song, lullaby).",
+			"ancestorIds": [
+				"FB5D1780DFE30131952668A86D17958E",
+				"FB5CD060DFE30131952568A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5D5E60DFE30131952768A86D17958E": {
+			"id": "FB5D5E60DFE30131952768A86D17958E",
+			"asnIdentifier": "S112E324",
+			"position": 47000,
+			"depth": 3,
+			"listId": "4.1",
+			"description": "Create movements that correspond to specific music.",
+			"ancestorIds": [
+				"FB5D1780DFE30131952668A86D17958E",
+				"FB5CD060DFE30131952568A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5D1780DFE30131952668A86D17958E": {
+			"id": "FB5D1780DFE30131952668A86D17958E",
+			"asnIdentifier": "S112B919",
+			"position": 46000,
+			"depth": 2,
+			"description": "Derive Meaning",
+			"ancestorIds": [
+				"FB5CD060DFE30131952568A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5CD060DFE30131952568A86D17958E": {
+			"id": "FB5CD060DFE30131952568A86D17958E",
+			"asnIdentifier": "S112B8E9",
+			"position": 45000,
+			"depth": 1,
+			"listId": "4.0",
+			"description": "Aesthetic Valuing - Responding to, Analyzing, and Making Judgments About Works of Music",
+			"ancestorIds": [
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5C8660DFE30131952468A86D17958E": {
+			"id": "FB5C8660DFE30131952468A86D17958E",
+			"asnIdentifier": "S112E320",
+			"position": 44000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Identify the various uses of music in daily experiences.",
+			"ancestorIds": [
+				"FB5C3140DFE30131952368A86D17958E",
+				"FB5A8BE0DFE30131951E68A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5C3140DFE30131952368A86D17958E": {
+			"id": "FB5C3140DFE30131952368A86D17958E",
+			"asnIdentifier": "S112B918",
+			"position": 43000,
+			"depth": 2,
+			"description": "Role of Music",
+			"ancestorIds": [
+				"FB5A8BE0DFE30131951E68A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5BE5E0DFE30131952268A86D17958E": {
+			"id": "FB5BE5E0DFE30131952268A86D17958E",
+			"asnIdentifier": "S112E323",
+			"position": 42000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Use developmentally appropriate movements in responding to music from various genres and styles (rhythm, melody).",
+			"ancestorIds": [
+				"FB5AE3A0DFE30131951F68A86D17958E",
+				"FB5A8BE0DFE30131951E68A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5B9240DFE30131952168A86D17958E": {
+			"id": "FB5B9240DFE30131952168A86D17958E",
+			"asnIdentifier": "S112E322",
+			"position": 41000,
+			"depth": 3,
+			"listId": "3.3",
+			"description": "Use a personal vocabulary to describe voices and instruments from diverse cultures.",
+			"ancestorIds": [
+				"FB5AE3A0DFE30131951F68A86D17958E",
+				"FB5A8BE0DFE30131951E68A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5B3B80DFE30131952068A86D17958E": {
+			"id": "FB5B3B80DFE30131952068A86D17958E",
+			"asnIdentifier": "S112E321",
+			"position": 40000,
+			"depth": 3,
+			"listId": "3.2",
+			"description": "Sing and play simple singing games from various cultures.",
+			"ancestorIds": [
+				"FB5AE3A0DFE30131951F68A86D17958E",
+				"FB5A8BE0DFE30131951E68A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5AE3A0DFE30131951F68A86D17958E": {
+			"id": "FB5AE3A0DFE30131951F68A86D17958E",
+			"asnIdentifier": "S112B917",
+			"position": 39000,
+			"depth": 2,
+			"description": "Diversity of Music",
+			"ancestorIds": [
+				"FB5A8BE0DFE30131951E68A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5A8BE0DFE30131951E68A86D17958E": {
+			"id": "FB5A8BE0DFE30131951E68A86D17958E",
+			"asnIdentifier": "S112B8E8",
+			"position": 38000,
+			"depth": 1,
+			"listId": "3.0",
+			"description": "Historical and Cultural Context - Understanding the Historical Contributions and Cultural Dimensions of Music",
+			"ancestorIds": [
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5A2770DFE30131951D68A86D17958E": {
+			"id": "FB5A2770DFE30131951D68A86D17958E",
+			"asnIdentifier": "S112E31F",
+			"position": 37000,
+			"depth": 3,
+			"listId": "2.4",
+			"description": "Create accompaniments, using the voice or a variety of classroom instruments.",
+			"ancestorIds": [
+				"FB59DDD0DFE30131951C68A86D17958E",
+				"FB586D30DFE30131951768A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB59DDD0DFE30131951C68A86D17958E": {
+			"id": "FB59DDD0DFE30131951C68A86D17958E",
+			"asnIdentifier": "S112B915",
+			"position": 36000,
+			"depth": 2,
+			"description": "Compose, Arrange, and Improvise",
+			"ancestorIds": [
+				"FB586D30DFE30131951768A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB599910DFE30131951B68A86D17958E": {
+			"id": "FB599910DFE30131951B68A86D17958E",
+			"asnIdentifier": "S112E31E",
+			"position": 35000,
+			"depth": 3,
+			"listId": "2.3",
+			"description": "Play instruments and move or verbalize to demonstrate awareness of beat, tempo, dynamics, and melodic direction.",
+			"ancestorIds": [
+				"FB58C180DFE30131951868A86D17958E",
+				"FB586D30DFE30131951768A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB595230DFE30131951A68A86D17958E": {
+			"id": "FB595230DFE30131951A68A86D17958E",
+			"asnIdentifier": "S112E31D",
+			"position": 34000,
+			"depth": 3,
+			"listId": "2.2",
+			"description": "Sing age-appropriate songs from memory.",
+			"ancestorIds": [
+				"FB58C180DFE30131951868A86D17958E",
+				"FB586D30DFE30131951768A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB590A90DFE30131951968A86D17958E": {
+			"id": "FB590A90DFE30131951968A86D17958E",
+			"asnIdentifier": "S112E31C",
+			"position": 33000,
+			"depth": 3,
+			"listId": "2.1",
+			"description": "Use the singing voice to echo short melodic patterns.",
+			"ancestorIds": [
+				"FB58C180DFE30131951868A86D17958E",
+				"FB586D30DFE30131951768A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB58C180DFE30131951868A86D17958E": {
+			"id": "FB58C180DFE30131951868A86D17958E",
+			"asnIdentifier": "S112B914",
+			"position": 32000,
+			"depth": 2,
+			"description": "Apply Vocal and Instrumental Skills",
+			"ancestorIds": [
+				"FB586D30DFE30131951768A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB586D30DFE30131951768A86D17958E": {
+			"id": "FB586D30DFE30131951768A86D17958E",
+			"asnIdentifier": "S112B8E7",
+			"position": 31000,
+			"depth": 1,
+			"listId": "2.0",
+			"description": "Creative Expression - Creating, Performing, and Participating in Music",
+			"ancestorIds": [
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB582B70DFE30131951668A86D17958E": {
+			"id": "FB582B70DFE30131951668A86D17958E",
+			"asnIdentifier": "S112E31B",
+			"position": 30000,
+			"depth": 3,
+			"listId": "1.2",
+			"description": "Identify and describe basic elements in music (e.g., high/low, fast/slow, loud/soft, beat).",
+			"ancestorIds": [
+				"FB57E9A0DFE30131951568A86D17958E",
+				"FB571EA0DFE30131951268A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB57E9A0DFE30131951568A86D17958E": {
+			"id": "FB57E9A0DFE30131951568A86D17958E",
+			"asnIdentifier": "S112B913",
+			"position": 29000,
+			"depth": 2,
+			"description": "Listen to, Analyze, and Describe Music",
+			"ancestorIds": [
+				"FB571EA0DFE30131951268A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB57A7A0DFE30131951468A86D17958E": {
+			"id": "FB57A7A0DFE30131951468A86D17958E",
+			"asnIdentifier": "S112E31A",
+			"position": 28000,
+			"depth": 3,
+			"listId": "1.1",
+			"description": "Use icons or invented symbols to represent beat.",
+			"ancestorIds": [
+				"FB5763A0DFE30131951368A86D17958E",
+				"FB571EA0DFE30131951268A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB5763A0DFE30131951368A86D17958E": {
+			"id": "FB5763A0DFE30131951368A86D17958E",
+			"asnIdentifier": "S112B912",
+			"position": 27000,
+			"depth": 2,
+			"description": "Read and Notate Music",
+			"ancestorIds": [
+				"FB571EA0DFE30131951268A86D17958E",
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB571EA0DFE30131951268A86D17958E": {
+			"id": "FB571EA0DFE30131951268A86D17958E",
+			"asnIdentifier": "S112B8E6",
+			"position": 26000,
+			"depth": 1,
+			"listId": "1.0",
+			"description": "Artistic Perception - Processing, Analyzing, and Responding to Sensory Information Through the Language and Skills Unique to Music",
+			"ancestorIds": [
+				"FB56D400DFE30131951168A86D17958E"
+			]
+		},
+		"FB56D400DFE30131951168A86D17958E": {
+			"id": "FB56D400DFE30131951168A86D17958E",
+			"asnIdentifier": "S112AE22",
+			"position": 25000,
+			"depth": 0,
+			"description": "Music",
+			"ancestorIds": [
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB565CC0DFE30131951068A86D17958E": {
+			"id": "FB565CC0DFE30131951068A86D17958E",
+			"asnIdentifier": "S112DFC2",
+			"position": 24000,
+			"depth": 3,
+			"listId": "5.1",
+			"description": "Give examples of the relationship between everyday movement in school and dance movement.",
+			"ancestorIds": [
+				"FB560640DFE30131950F68A86D17958E",
+				"FB55BB60DFE30131950E68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB560640DFE30131950F68A86D17958E": {
+			"id": "FB560640DFE30131950F68A86D17958E",
+			"asnIdentifier": "S112B910",
+			"position": 23000,
+			"depth": 2,
+			"description": "Connections and Applications Across Disciplines",
+			"ancestorIds": [
+				"FB55BB60DFE30131950E68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB55BB60DFE30131950E68A86D17958E": {
+			"id": "FB55BB60DFE30131950E68A86D17958E",
+			"asnIdentifier": "S112B8E5",
+			"position": 22000,
+			"depth": 1,
+			"listId": "5.0",
+			"description": "Connections, Relationships, Applications - Connecting and Applying What Is Learned in Dance to Learning in Other Art Forms and Subject Areas and to Careers",
+			"ancestorIds": [
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB5574F0DFE30131950D68A86D17958E": {
+			"id": "FB5574F0DFE30131950D68A86D17958E",
+			"asnIdentifier": "S112DFC1",
+			"position": 21000,
+			"depth": 3,
+			"listId": "4.1",
+			"description": "Explain basic features that distinguish one kind of dance from another (e.g., speed, force/ energy use, costume, setting, music).",
+			"ancestorIds": [
+				"FB552DF0DFE30131950C68A86D17958E",
+				"FB54D900DFE30131950B68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB552DF0DFE30131950C68A86D17958E": {
+			"id": "FB552DF0DFE30131950C68A86D17958E",
+			"asnIdentifier": "S112B90E",
+			"position": 20000,
+			"depth": 2,
+			"description": "Description, Analysis, and Criticism of Dance",
+			"ancestorIds": [
+				"FB54D900DFE30131950B68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB54D900DFE30131950B68A86D17958E": {
+			"id": "FB54D900DFE30131950B68A86D17958E",
+			"asnIdentifier": "S112B8E4",
+			"position": 19000,
+			"depth": 1,
+			"listId": "4.0",
+			"description": "Aesthetic Valuing - Responding to, Analyzing, and Making Judgments About Works of Dance",
+			"ancestorIds": [
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB546800DFE30131950A68A86D17958E": {
+			"id": "FB546800DFE30131950A68A86D17958E",
+			"asnIdentifier": "S112DFC0",
+			"position": 18000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Name and perform folk/traditional dances from the United States and other countries.",
+			"ancestorIds": [
+				"FB53E3D0DFE30131950868A86D17958E",
+				"FB53A120DFE30131950768A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB542580DFE30131950968A86D17958E": {
+			"id": "FB542580DFE30131950968A86D17958E",
+			"asnIdentifier": "S112DFB6",
+			"position": 17000,
+			"depth": 3,
+			"listId": "3.1",
+			"description": "Name and play children's dance games from countries around the world.",
+			"ancestorIds": [
+				"FB53E3D0DFE30131950868A86D17958E",
+				"FB53A120DFE30131950768A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB53E3D0DFE30131950868A86D17958E": {
+			"id": "FB53E3D0DFE30131950868A86D17958E",
+			"asnIdentifier": "S112B90B",
+			"position": 16000,
+			"depth": 2,
+			"description": "Development of Dance",
+			"ancestorIds": [
+				"FB53A120DFE30131950768A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB53A120DFE30131950768A86D17958E": {
+			"id": "FB53A120DFE30131950768A86D17958E",
+			"asnIdentifier": "S112B8E3",
+			"position": 15000,
+			"depth": 1,
+			"listId": "3.0",
+			"description": "Historical and Cultural Context - Understanding the Historical Contributions and Cultural Dimensions of Dance",
+			"ancestorIds": [
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB535D00DFE30131950668A86D17958E": {
+			"id": "FB535D00DFE30131950668A86D17958E",
+			"asnIdentifier": "S112DFBF",
+			"position": 14000,
+			"depth": 3,
+			"listId": "2.3",
+			"description": "Respond spontaneously to different types of music, rhythms, and sounds.",
+			"ancestorIds": [
+				"FB527B00DFE30131950368A86D17958E",
+				"FB523560DFE30131950268A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB530FD0DFE30131950568A86D17958E": {
+			"id": "FB530FD0DFE30131950568A86D17958E",
+			"asnIdentifier": "S112DFBE",
+			"position": 13000,
+			"depth": 3,
+			"listId": "2.2",
+			"description": "Respond to a variety of stimuli (e.g., sounds, words, songs, props, and images) with original movements.",
+			"ancestorIds": [
+				"FB527B00DFE30131950368A86D17958E",
+				"FB523560DFE30131950268A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB52C180DFE30131950468A86D17958E": {
+			"id": "FB52C180DFE30131950468A86D17958E",
+			"asnIdentifier": "S112DFBD",
+			"position": 12000,
+			"depth": 3,
+			"listId": "2.1",
+			"description": "Create movements that reflect a variety of personal experiences (e.g., recall feeling happy, sad, angry, excited ).",
+			"ancestorIds": [
+				"FB527B00DFE30131950368A86D17958E",
+				"FB523560DFE30131950268A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB527B00DFE30131950368A86D17958E": {
+			"id": "FB527B00DFE30131950368A86D17958E",
+			"asnIdentifier": "S112B904",
+			"position": 11000,
+			"depth": 2,
+			"description": "Creation/Invention of Dance Movements",
+			"ancestorIds": [
+				"FB523560DFE30131950268A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB523560DFE30131950268A86D17958E": {
+			"id": "FB523560DFE30131950268A86D17958E",
+			"asnIdentifier": "S112B8E2",
+			"position": 10000,
+			"depth": 1,
+			"listId": "2.0",
+			"description": "Creative Expression - Creating, Performing, and Participating in Dance",
+			"ancestorIds": [
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB51E480DFE30131950168A86D17958E": {
+			"id": "FB51E480DFE30131950168A86D17958E",
+			"asnIdentifier": "S112DFBC",
+			"position": 9000,
+			"depth": 3,
+			"listId": "1.4",
+			"description": "Perform simple movements in response to oral instructions (e.g., walk, turn, reach).",
+			"ancestorIds": [
+				"FB518C10DFE30131950068A86D17958E",
+				"FB4FA2E0DFE3013194FA68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB518C10DFE30131950068A86D17958E": {
+			"id": "FB518C10DFE30131950068A86D17958E",
+			"asnIdentifier": "S112B900",
+			"position": 8000,
+			"depth": 2,
+			"description": "Development of Dance Vocabulary",
+			"ancestorIds": [
+				"FB4FA2E0DFE3013194FA68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB512DE0DFE3013194FF68A86D17958E": {
+			"id": "FB512DE0DFE3013194FF68A86D17958E",
+			"asnIdentifier": "S112DFBB",
+			"position": 7000,
+			"depth": 3,
+			"listId": "1.3",
+			"description": "Understand and respond to a wide range of opposites (e.g., high/low, forward/back-ward, wiggle/freeze).",
+			"ancestorIds": [
+				"FB50D620DFE3013194FE68A86D17958E",
+				"FB4FA2E0DFE3013194FA68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB50D620DFE3013194FE68A86D17958E": {
+			"id": "FB50D620DFE3013194FE68A86D17958E",
+			"asnIdentifier": "S112B8FF",
+			"position": 6000,
+			"depth": 2,
+			"description": "Comprehension and Analysis of Dance Elements",
+			"ancestorIds": [
+				"FB4FA2E0DFE3013194FA68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB508780DFE3013194FD68A86D17958E": {
+			"id": "FB508780DFE3013194FD68A86D17958E",
+			"asnIdentifier": "S112DFBA",
+			"position": 5000,
+			"depth": 3,
+			"listId": "1.2",
+			"description": "Perform basic locomotor skills (e.g., walk, run, gallop, jump, hop, and balance).",
+			"ancestorIds": [
+				"FB4FEC30DFE3013194FB68A86D17958E",
+				"FB4FA2E0DFE3013194FA68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB503630DFE3013194FC68A86D17958E": {
+			"id": "FB503630DFE3013194FC68A86D17958E",
+			"asnIdentifier": "S112DFB9",
+			"position": 4000,
+			"depth": 3,
+			"listId": "1.1",
+			"description": "Build the range and capacity to move in a variety of ways.",
+			"ancestorIds": [
+				"FB4FEC30DFE3013194FB68A86D17958E",
+				"FB4FA2E0DFE3013194FA68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB4FEC30DFE3013194FB68A86D17958E": {
+			"id": "FB4FEC30DFE3013194FB68A86D17958E",
+			"asnIdentifier": "S112B8FD",
+			"position": 3000,
+			"depth": 2,
+			"description": "Development of Motor Skills and Technical Expertise",
+			"ancestorIds": [
+				"FB4FA2E0DFE3013194FA68A86D17958E",
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB4FA2E0DFE3013194FA68A86D17958E": {
+			"id": "FB4FA2E0DFE3013194FA68A86D17958E",
+			"asnIdentifier": "S112B8E1",
+			"position": 2000,
+			"depth": 1,
+			"listId": "1.0",
+			"description": "Artistic Perception – Processing, Analyzing, and Responding to Sensory Information Through the Language and Skills Unique to Dance",
+			"ancestorIds": [
+				"FB4F5220DFE3013194F968A86D17958E"
+			]
+		},
+		"FB4F5220DFE3013194F968A86D17958E": {
+			"id": "FB4F5220DFE3013194F968A86D17958E",
+			"asnIdentifier": "S112AE21",
+			"position": 1000,
+			"depth": 0,
+			"description": "Dance",
+			"ancestorIds": []
+		}
+	}
+}

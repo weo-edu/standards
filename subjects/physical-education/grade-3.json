@@ -1,0 +1,930 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2400206_grade-03",
+	"title": "Grade 3",
+	"subject": "Physical Education",
+	"educationLevels": [
+		"03"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2400206",
+		"valid": "2005",
+		"title": "Physical Education Model Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/pestandards.pdf",
+		"asnIdentifier": "D2400206",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"F6AA3EC0DFE301318DA368A86D17958E": {
+			"id": "F6AA3EC0DFE301318DA368A86D17958E",
+			"asnIdentifier": "S2401788",
+			"position": 79000,
+			"depth": 2,
+			"listId": "5.6",
+			"description": "Work in pairs or small groups to achieve an agreed-upon goal.",
+			"ancestorIds": [
+				"F6A9F180DFE301318DA268A86D17958E",
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A9F180DFE301318DA268A86D17958E": {
+			"id": "F6A9F180DFE301318DA268A86D17958E",
+			"asnIdentifier": "S2400318",
+			"position": 78000,
+			"depth": 1,
+			"description": "Group Dynamics",
+			"ancestorIds": [
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A9ADD0DFE301318DA168A86D17958E": {
+			"id": "F6A9ADD0DFE301318DA168A86D17958E",
+			"asnIdentifier": "S2401787",
+			"position": 77000,
+			"depth": 2,
+			"listId": "5.5",
+			"description": "Demonstrate respect for individual differences in physical abilities.",
+			"ancestorIds": [
+				"F6A91210DFE301318D9F68A86D17958E",
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A96600DFE301318DA068A86D17958E": {
+			"id": "F6A96600DFE301318DA068A86D17958E",
+			"asnIdentifier": "S2401786",
+			"position": 76000,
+			"depth": 2,
+			"listId": "5.4",
+			"description": "Use appropriate cues for movement and positive words of encouragement while coaching others in physical activities.",
+			"ancestorIds": [
+				"F6A91210DFE301318D9F68A86D17958E",
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A91210DFE301318D9F68A86D17958E": {
+			"id": "F6A91210DFE301318D9F68A86D17958E",
+			"asnIdentifier": "S2400315",
+			"position": 75000,
+			"depth": 1,
+			"description": "Social Interaction",
+			"ancestorIds": [
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A8C500DFE301318D9E68A86D17958E": {
+			"id": "F6A8C500DFE301318D9E68A86D17958E",
+			"asnIdentifier": "S2401785",
+			"position": 74000,
+			"depth": 2,
+			"listId": "5.3",
+			"description": "List the benefits of following and the risks of not following safety procedures and rules associated with physical activity.",
+			"ancestorIds": [
+				"F6A80220DFE301318D9B68A86D17958E",
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A884D0DFE301318D9D68A86D17958E": {
+			"id": "F6A884D0DFE301318D9D68A86D17958E",
+			"asnIdentifier": "S2401784",
+			"position": 73000,
+			"depth": 2,
+			"listId": "5.2",
+			"description": "Collect data and record progress toward mastery of a motor skill.",
+			"ancestorIds": [
+				"F6A80220DFE301318D9B68A86D17958E",
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A84410DFE301318D9C68A86D17958E": {
+			"id": "F6A84410DFE301318D9C68A86D17958E",
+			"asnIdentifier": "S2401783",
+			"position": 72000,
+			"depth": 2,
+			"listId": "5.1",
+			"description": "Set a personal goal to improve a motor skill and work toward that goal in nonschool time.",
+			"ancestorIds": [
+				"F6A80220DFE301318D9B68A86D17958E",
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A80220DFE301318D9B68A86D17958E": {
+			"id": "F6A80220DFE301318D9B68A86D17958E",
+			"asnIdentifier": "S2400312",
+			"position": 71000,
+			"depth": 1,
+			"description": "Self-Responsibility",
+			"ancestorIds": [
+				"F6A7BDC0DFE301318D9A68A86D17958E"
+			]
+		},
+		"F6A7BDC0DFE301318D9A68A86D17958E": {
+			"id": "F6A7BDC0DFE301318D9A68A86D17958E",
+			"asnIdentifier": "S2400311",
+			"position": 70000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "5:",
+			"description": "Students demonstrate and utilize knowledge of psychological and sociological concepts, principles, and strategies that apply to the learning and performance of physical activity.",
+			"ancestorIds": [
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A77360DFE301318D9968A86D17958E": {
+			"id": "F6A77360DFE301318D9968A86D17958E",
+			"asnIdentifier": "S2401782",
+			"position": 69000,
+			"depth": 2,
+			"listId": "4.16",
+			"description": "Differentiate the body's ability to consume calories and burn fat during periods of inactivity and during long periods of moderate physical activity.",
+			"ancestorIds": [
+				"F6A71EC0DFE301318D9868A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A71EC0DFE301318D9868A86D17958E": {
+			"id": "F6A71EC0DFE301318D9868A86D17958E",
+			"asnIdentifier": "S2400309",
+			"position": 68000,
+			"depth": 1,
+			"description": "Body Composition",
+			"ancestorIds": [
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A6D6A0DFE301318D9768A86D17958E": {
+			"id": "F6A6D6A0DFE301318D9768A86D17958E",
+			"asnIdentifier": "S2401781",
+			"position": 67000,
+			"depth": 2,
+			"listId": "4.15",
+			"description": "Explain why a particular stretch is appropriate preparation for a particular physical activity.",
+			"ancestorIds": [
+				"F6A649F0DFE301318D9568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A68950DFE301318D9668A86D17958E": {
+			"id": "F6A68950DFE301318D9668A86D17958E",
+			"asnIdentifier": "S2401780",
+			"position": 66000,
+			"depth": 2,
+			"listId": "4.14",
+			"description": "Identify flexibility exercises that are not safe for the joints and should be avoided.",
+			"ancestorIds": [
+				"F6A649F0DFE301318D9568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A649F0DFE301318D9568A86D17958E": {
+			"id": "F6A649F0DFE301318D9568A86D17958E",
+			"asnIdentifier": "S2400307",
+			"position": 65000,
+			"depth": 1,
+			"description": "Flexibility",
+			"ancestorIds": [
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A5C030DFE301318D9368A86D17958E": {
+			"id": "F6A5C030DFE301318D9368A86D17958E",
+			"asnIdentifier": "S2401779",
+			"position": 64000,
+			"depth": 2,
+			"listId": "4.13",
+			"description": "Describe the role of muscle strength and proper lifting in the prevention of back injuries.",
+			"ancestorIds": [
+				"F6A4AA80DFE301318D8F68A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A57560DFE301318D9268A86D17958E": {
+			"id": "F6A57560DFE301318D9268A86D17958E",
+			"asnIdentifier": "S2401778",
+			"position": 63000,
+			"depth": 2,
+			"listId": "4.12",
+			"description": "Describe and demonstrate how to relieve a muscle cramp.",
+			"ancestorIds": [
+				"F6A4AA80DFE301318D8F68A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A53440DFE301318D9168A86D17958E": {
+			"id": "F6A53440DFE301318D9168A86D17958E",
+			"asnIdentifier": "S2401777",
+			"position": 62000,
+			"depth": 2,
+			"listId": "4.11",
+			"description": "Name and locate the major muscles of the body.",
+			"ancestorIds": [
+				"F6A4AA80DFE301318D8F68A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A4F190DFE301318D9068A86D17958E": {
+			"id": "F6A4F190DFE301318D9068A86D17958E",
+			"asnIdentifier": "S2401776",
+			"position": 61000,
+			"depth": 2,
+			"listId": "4.10",
+			"description": "Identify which muscles are used in performing muscular endurance activities.",
+			"ancestorIds": [
+				"F6A4AA80DFE301318D8F68A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A60810DFE301318D9468A86D17958E": {
+			"id": "F6A60810DFE301318D9468A86D17958E",
+			"asnIdentifier": "S2401775",
+			"position": 60000,
+			"depth": 2,
+			"listId": "4.9",
+			"description": "Explain that a stronger heart muscle can pump more blood with each beat.",
+			"ancestorIds": [
+				"F6A4AA80DFE301318D8F68A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A4AA80DFE301318D8F68A86D17958E": {
+			"id": "F6A4AA80DFE301318D8F68A86D17958E",
+			"asnIdentifier": "S2400304",
+			"position": 59000,
+			"depth": 1,
+			"description": "Muscular Strength/Endurance",
+			"ancestorIds": [
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A44860DFE301318D8E68A86D17958E": {
+			"id": "F6A44860DFE301318D8E68A86D17958E",
+			"asnIdentifier": "S2401774",
+			"position": 58000,
+			"depth": 2,
+			"listId": "4.8",
+			"description": "Describe and record the changes in heart rate before, during, and after physical activity.",
+			"ancestorIds": [
+				"F6A3A380DFE301318D8C68A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A3F450DFE301318D8D68A86D17958E": {
+			"id": "F6A3F450DFE301318D8D68A86D17958E",
+			"asnIdentifier": "S2401773",
+			"position": 57000,
+			"depth": 2,
+			"listId": "4.7",
+			"description": "Describe the relationship between the heart, lungs, muscles, blood, and oxygen during physical activity.",
+			"ancestorIds": [
+				"F6A3A380DFE301318D8C68A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A3A380DFE301318D8C68A86D17958E": {
+			"id": "F6A3A380DFE301318D8C68A86D17958E",
+			"asnIdentifier": "S2400300",
+			"position": 56000,
+			"depth": 1,
+			"description": "Aerobic Capacity",
+			"ancestorIds": [
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A361C0DFE301318D8B68A86D17958E": {
+			"id": "F6A361C0DFE301318D8B68A86D17958E",
+			"asnIdentifier": "S2401772",
+			"position": 55000,
+			"depth": 2,
+			"listId": "4.6",
+			"description": "Discuss the need for oxygen and fuel to be available during ongoing muscle contraction so that heat and waste products are removed.",
+			"ancestorIds": [
+				"F6A19A80DFE301318D8568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A31E80DFE301318D8A68A86D17958E": {
+			"id": "F6A31E80DFE301318D8A68A86D17958E",
+			"asnIdentifier": "S2401771",
+			"position": 54000,
+			"depth": 2,
+			"listId": "4.5",
+			"description": "Explain that fluid needs are linked to energy expenditure.",
+			"ancestorIds": [
+				"F6A19A80DFE301318D8568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A2DDC0DFE301318D8968A86D17958E": {
+			"id": "F6A2DDC0DFE301318D8968A86D17958E",
+			"asnIdentifier": "S2401770",
+			"position": 53000,
+			"depth": 2,
+			"listId": "4.4",
+			"description": "Recognize that the body will adapt to increased workloads.",
+			"ancestorIds": [
+				"F6A19A80DFE301318D8568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A29AF0DFE301318D8868A86D17958E": {
+			"id": "F6A29AF0DFE301318D8868A86D17958E",
+			"asnIdentifier": "S2401769",
+			"position": 52000,
+			"depth": 2,
+			"listId": "4.3",
+			"description": "Explain the purpose of warming up before physical activity and cooling down after physical activity.",
+			"ancestorIds": [
+				"F6A19A80DFE301318D8568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A24940DFE301318D8768A86D17958E": {
+			"id": "F6A24940DFE301318D8768A86D17958E",
+			"asnIdentifier": "S2401768",
+			"position": 51000,
+			"depth": 2,
+			"listId": "4.2",
+			"description": "List and define the components of physical fitness.",
+			"ancestorIds": [
+				"F6A19A80DFE301318D8568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A1F8C0DFE301318D8668A86D17958E": {
+			"id": "F6A1F8C0DFE301318D8668A86D17958E",
+			"asnIdentifier": "S2401767",
+			"position": 50000,
+			"depth": 2,
+			"listId": "4.1",
+			"description": "Identify the body's normal reactions to moderate to vigorous physical activity.",
+			"ancestorIds": [
+				"F6A19A80DFE301318D8568A86D17958E",
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A19A80DFE301318D8568A86D17958E": {
+			"id": "F6A19A80DFE301318D8568A86D17958E",
+			"asnIdentifier": "S2400296",
+			"position": 49000,
+			"depth": 1,
+			"description": "Fitness Concepts",
+			"ancestorIds": [
+				"F6A156A0DFE301318D8468A86D17958E"
+			]
+		},
+		"F6A156A0DFE301318D8468A86D17958E": {
+			"id": "F6A156A0DFE301318D8468A86D17958E",
+			"asnIdentifier": "S2400295",
+			"position": 48000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "4:",
+			"description": "Students demonstrate knowledge of physical fitness concepts, principles, and strategies to improve health and performance.",
+			"ancestorIds": [
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F6A11600DFE301318D8368A86D17958E": {
+			"id": "F6A11600DFE301318D8368A86D17958E",
+			"asnIdentifier": "S2401766",
+			"position": 47000,
+			"depth": 2,
+			"listId": "3.8",
+			"description": "Measure and record improvement in individual fitness activities.",
+			"ancestorIds": [
+				"F6A0D560DFE301318D8268A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F6A0D560DFE301318D8268A86D17958E": {
+			"id": "F6A0D560DFE301318D8268A86D17958E",
+			"asnIdentifier": "S2400293",
+			"position": 46000,
+			"depth": 1,
+			"description": "Assessment",
+			"ancestorIds": [
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F6A09200DFE301318D8168A86D17958E": {
+			"id": "F6A09200DFE301318D8168A86D17958E",
+			"asnIdentifier": "S2401765",
+			"position": 45000,
+			"depth": 2,
+			"listId": "3.7",
+			"description": "Sustain continuous movement for increasing periods of time while participating in moderate to vigorous physical activity.",
+			"ancestorIds": [
+				"F6A04A90DFE301318D8068A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F6A04A90DFE301318D8068A86D17958E": {
+			"id": "F6A04A90DFE301318D8068A86D17958E",
+			"asnIdentifier": "S2400291",
+			"position": 44000,
+			"depth": 1,
+			"description": "Body Composition",
+			"ancestorIds": [
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69FFCE0DFE301318D7F68A86D17958E": {
+			"id": "F69FFCE0DFE301318D7F68A86D17958E",
+			"asnIdentifier": "S2401764",
+			"position": 43000,
+			"depth": 2,
+			"listId": "3.6",
+			"description": "Hold for an increasing period of time basic stretches for hips, shoulders, hamstrings, quadriceps, triceps, biceps, back, and neck.",
+			"ancestorIds": [
+				"F69FB830DFE301318D7E68A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69FB830DFE301318D7E68A86D17958E": {
+			"id": "F69FB830DFE301318D7E68A86D17958E",
+			"asnIdentifier": "S2400289",
+			"position": 42000,
+			"depth": 1,
+			"description": "Flexibility",
+			"ancestorIds": [
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69F7350DFE301318D7D68A86D17958E": {
+			"id": "F69F7350DFE301318D7D68A86D17958E",
+			"asnIdentifier": "S2401763",
+			"position": 41000,
+			"depth": 2,
+			"listId": "3.5",
+			"description": "Climb a vertical pole or rope.",
+			"ancestorIds": [
+				"F69EC810DFE301318D7B68A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69F2790DFE301318D7C68A86D17958E": {
+			"id": "F69F2790DFE301318D7C68A86D17958E",
+			"asnIdentifier": "S2401762",
+			"position": 40000,
+			"depth": 2,
+			"listId": "3.4",
+			"description": "Perform increasing numbers of each: abdominal curl-ups, oblique curl-ups on each side, modified push-ups or traditional push-ups with hands on a bench, forward lunges, side lunges, and triceps push-ups from a chair.",
+			"ancestorIds": [
+				"F69EC810DFE301318D7B68A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69EC810DFE301318D7B68A86D17958E": {
+			"id": "F69EC810DFE301318D7B68A86D17958E",
+			"asnIdentifier": "S2400286",
+			"position": 39000,
+			"depth": 1,
+			"description": "Muscular Strength/Endurance",
+			"ancestorIds": [
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69E7120DFE301318D7A68A86D17958E": {
+			"id": "F69E7120DFE301318D7A68A86D17958E",
+			"asnIdentifier": "S2401761",
+			"position": 38000,
+			"depth": 2,
+			"listId": "3.3",
+			"description": "Participate three to four days each week, for increasing periods of time, in continuous moderate to vigorous physical activities that require sustained movement of the large-muscle groups to increase breathing and heart rate.",
+			"ancestorIds": [
+				"F69E2570DFE301318D7968A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69E2570DFE301318D7968A86D17958E": {
+			"id": "F69E2570DFE301318D7968A86D17958E",
+			"asnIdentifier": "S2400284",
+			"position": 37000,
+			"depth": 1,
+			"description": "Aerobic Capacity",
+			"ancestorIds": [
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69DE660DFE301318D7868A86D17958E": {
+			"id": "F69DE660DFE301318D7868A86D17958E",
+			"asnIdentifier": "S2401760",
+			"position": 36000,
+			"depth": 2,
+			"listId": "3.2",
+			"description": "Demonstrate how to lift and carry objects correctly.",
+			"ancestorIds": [
+				"F69D6660DFE301318D7668A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69DA6A0DFE301318D7768A86D17958E": {
+			"id": "F69DA6A0DFE301318D7768A86D17958E",
+			"asnIdentifier": "S2401759",
+			"position": 35000,
+			"depth": 2,
+			"listId": "3.1",
+			"description": "Demonstrate warm-up and cool-down exercises.",
+			"ancestorIds": [
+				"F69D6660DFE301318D7668A86D17958E",
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69D6660DFE301318D7668A86D17958E": {
+			"id": "F69D6660DFE301318D7668A86D17958E",
+			"asnIdentifier": "S2400282",
+			"position": 34000,
+			"depth": 1,
+			"description": "Fitness Concepts",
+			"ancestorIds": [
+				"F69D2460DFE301318D7568A86D17958E"
+			]
+		},
+		"F69D2460DFE301318D7568A86D17958E": {
+			"id": "F69D2460DFE301318D7568A86D17958E",
+			"asnIdentifier": "S2400281",
+			"position": 33000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "3:",
+			"description": "Students assess and maintain a level of physical fitness to improve health and performance.",
+			"ancestorIds": [
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69CE050DFE301318D7468A86D17958E": {
+			"id": "F69CE050DFE301318D7468A86D17958E",
+			"asnIdentifier": "S2401758",
+			"position": 32000,
+			"depth": 2,
+			"listId": "2.7",
+			"description": "Compare and contrast folk dances, line dances, and circle dances.",
+			"ancestorIds": [
+				"F69C4BF0DFE301318D7268A86D17958E",
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69C97A0DFE301318D7368A86D17958E": {
+			"id": "F69C97A0DFE301318D7368A86D17958E",
+			"asnIdentifier": "S2401757",
+			"position": 31000,
+			"depth": 2,
+			"listId": "2.6",
+			"description": "Define the terms folk dance, line dance, and circle dance.",
+			"ancestorIds": [
+				"F69C4BF0DFE301318D7268A86D17958E",
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69C4BF0DFE301318D7268A86D17958E": {
+			"id": "F69C4BF0DFE301318D7268A86D17958E",
+			"asnIdentifier": "S2401756",
+			"position": 30000,
+			"depth": 1,
+			"description": "Rhythmic Skills",
+			"ancestorIds": [
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69C0710DFE301318D7168A86D17958E": {
+			"id": "F69C0710DFE301318D7168A86D17958E",
+			"asnIdentifier": "S2401755",
+			"position": 29000,
+			"depth": 2,
+			"listId": "2.5",
+			"description": "Identify the differences between dribbling a ball (with the hand and the foot, separately) while moving forward and when changing direction.",
+			"ancestorIds": [
+				"F69AE3A0DFE301318D6D68A86D17958E",
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69BC3B0DFE301318D7068A86D17958E": {
+			"id": "F69BC3B0DFE301318D7068A86D17958E",
+			"asnIdentifier": "S2401754",
+			"position": 28000,
+			"depth": 2,
+			"listId": "2.4",
+			"description": "Identify the key elements for increasing accuracy in rolling a ball and throwing a ball.",
+			"ancestorIds": [
+				"F69AE3A0DFE301318D6D68A86D17958E",
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69B7BB0DFE301318D6F68A86D17958E": {
+			"id": "F69B7BB0DFE301318D6F68A86D17958E",
+			"asnIdentifier": "S2401753",
+			"position": 27000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Explain the difference between throwing to a stationary partner and throwing to a moving partner.",
+			"ancestorIds": [
+				"F69AE3A0DFE301318D6D68A86D17958E",
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69B33F0DFE301318D6E68A86D17958E": {
+			"id": "F69B33F0DFE301318D6E68A86D17958E",
+			"asnIdentifier": "S2401752",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Explain and demonstrate the correct hand position when catching a ball above the head, below the waist, near the middle of the body, and away from the body.",
+			"ancestorIds": [
+				"F69AE3A0DFE301318D6D68A86D17958E",
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69AE3A0DFE301318D6D68A86D17958E": {
+			"id": "F69AE3A0DFE301318D6D68A86D17958E",
+			"asnIdentifier": "S2400277",
+			"position": 25000,
+			"depth": 1,
+			"description": "Manipulative Skills",
+			"ancestorIds": [
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69A8770DFE301318D6C68A86D17958E": {
+			"id": "F69A8770DFE301318D6C68A86D17958E",
+			"asnIdentifier": "S2401751",
+			"position": 24000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Describe how changing speed and changing direction can allow one person to move away from another.",
+			"ancestorIds": [
+				"F69A2CF0DFE301318D6B68A86D17958E",
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F69A2CF0DFE301318D6B68A86D17958E": {
+			"id": "F69A2CF0DFE301318D6B68A86D17958E",
+			"asnIdentifier": "S2400269",
+			"position": 23000,
+			"depth": 1,
+			"description": "Movement Concepts",
+			"ancestorIds": [
+				"F699DD90DFE301318D6A68A86D17958E"
+			]
+		},
+		"F699DD90DFE301318D6A68A86D17958E": {
+			"id": "F699DD90DFE301318D6A68A86D17958E",
+			"asnIdentifier": "S2400268",
+			"position": 22000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "2:",
+			"description": "Students demonstrate knowledge of movement concepts, principles, and strategies that apply to the learning and performance of physical activities.",
+			"ancestorIds": [
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F69994F0DFE301318D6968A86D17958E": {
+			"id": "F69994F0DFE301318D6968A86D17958E",
+			"asnIdentifier": "S2401750",
+			"position": 21000,
+			"depth": 2,
+			"listId": "1.15",
+			"description": "Perform a line dance, a circle dance, and a folk dance with a partner.",
+			"ancestorIds": [
+				"F6993640DFE301318D6868A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6993640DFE301318D6868A86D17958E": {
+			"id": "F6993640DFE301318D6868A86D17958E",
+			"asnIdentifier": "S2400265",
+			"position": 20000,
+			"depth": 1,
+			"description": "Rhythmic Skills",
+			"ancestorIds": [
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F697B9D0DFE301318D6368A86D17958E": {
+			"id": "F697B9D0DFE301318D6368A86D17958E",
+			"asnIdentifier": "S2401749",
+			"position": 19000,
+			"depth": 2,
+			"listId": "1.14",
+			"description": "Foot-dribble a ball continuously while traveling and changing direction.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6977620DFE301318D6268A86D17958E": {
+			"id": "F6977620DFE301318D6268A86D17958E",
+			"asnIdentifier": "S2401748",
+			"position": 18000,
+			"depth": 2,
+			"listId": "1.13",
+			"description": "Hand-dribble a ball continuously while moving around obstacles.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6973200DFE301318D6168A86D17958E": {
+			"id": "F6973200DFE301318D6168A86D17958E",
+			"asnIdentifier": "S2401747",
+			"position": 17000,
+			"depth": 2,
+			"listId": "1.12",
+			"description": "Strike a ball continuously upward, using a paddle or racket.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F696E740DFE301318D6068A86D17958E": {
+			"id": "F696E740DFE301318D6068A86D17958E",
+			"asnIdentifier": "S2401746",
+			"position": 16000,
+			"depth": 2,
+			"listId": "1.11",
+			"description": "Kick a ball to a stationary partner, using the inside of the foot.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F696A190DFE301318D5F68A86D17958E": {
+			"id": "F696A190DFE301318D5F68A86D17958E",
+			"asnIdentifier": "S2401745",
+			"position": 15000,
+			"depth": 2,
+			"listId": "1.10",
+			"description": "Throw and catch an object with a partner, increasing the distance from the partner and maintaining an accurate throw that can be easily caught.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F698CDB0DFE301318D6768A86D17958E": {
+			"id": "F698CDB0DFE301318D6768A86D17958E",
+			"asnIdentifier": "S2401744",
+			"position": 14000,
+			"depth": 2,
+			"listId": "1.9",
+			"description": "Throw a ball, using the overhand movement pattern with increasing accuracy.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6988A40DFE301318D6668A86D17958E": {
+			"id": "F6988A40DFE301318D6668A86D17958E",
+			"asnIdentifier": "S2401743",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.8",
+			"description": "Roll a ball for accuracy toward a target.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6984640DFE301318D6568A86D17958E": {
+			"id": "F6984640DFE301318D6568A86D17958E",
+			"asnIdentifier": "S2401742",
+			"position": 12000,
+			"depth": 2,
+			"listId": "1.7",
+			"description": "Catch, while traveling, an object thrown by a stationary partner.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F69802C0DFE301318D6468A86D17958E": {
+			"id": "F69802C0DFE301318D6468A86D17958E",
+			"asnIdentifier": "S2401741",
+			"position": 11000,
+			"depth": 2,
+			"listId": "1.6",
+			"description": "Balance while traveling and manipulating an object on a ground-level balance beam.",
+			"ancestorIds": [
+				"F6965C20DFE301318D5E68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6965C20DFE301318D5E68A86D17958E": {
+			"id": "F6965C20DFE301318D5E68A86D17958E",
+			"asnIdentifier": "S2400260",
+			"position": 10000,
+			"depth": 1,
+			"description": "Manipulative Skills",
+			"ancestorIds": [
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6961A20DFE301318D5D68A86D17958E": {
+			"id": "F6961A20DFE301318D5D68A86D17958E",
+			"asnIdentifier": "S2401740",
+			"position": 9000,
+			"depth": 2,
+			"listId": "1.5",
+			"description": "Jump continuously a forward-turning rope and a backward-turning rope.",
+			"ancestorIds": [
+				"F695D390DFE301318D5C68A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F695D390DFE301318D5C68A86D17958E": {
+			"id": "F695D390DFE301318D5C68A86D17958E",
+			"asnIdentifier": "S2400256",
+			"position": 8000,
+			"depth": 1,
+			"description": "Locomotor Movement",
+			"ancestorIds": [
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F69577F0DFE301318D5B68A86D17958E": {
+			"id": "F69577F0DFE301318D5B68A86D17958E",
+			"asnIdentifier": "S2401739",
+			"position": 7000,
+			"depth": 2,
+			"listId": "1.4",
+			"description": "Perform a straddle roll.",
+			"ancestorIds": [
+				"F69491A0DFE301318D5868A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F69521B0DFE301318D5A68A86D17958E": {
+			"id": "F69521B0DFE301318D5A68A86D17958E",
+			"asnIdentifier": "S2401738",
+			"position": 6000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Perform a forward roll.",
+			"ancestorIds": [
+				"F69491A0DFE301318D5868A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F694D230DFE301318D5968A86D17958E": {
+			"id": "F694D230DFE301318D5968A86D17958E",
+			"asnIdentifier": "S2401737",
+			"position": 5000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Perform an inverted balance (tripod) by evenly distributing weight on body parts.",
+			"ancestorIds": [
+				"F69491A0DFE301318D5868A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F69491A0DFE301318D5868A86D17958E": {
+			"id": "F69491A0DFE301318D5868A86D17958E",
+			"asnIdentifier": "S2400251",
+			"position": 4000,
+			"depth": 1,
+			"description": "Body Management",
+			"ancestorIds": [
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6944FB0DFE301318D5768A86D17958E": {
+			"id": "F6944FB0DFE301318D5768A86D17958E",
+			"asnIdentifier": "S2401736",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Chase, flee, and move away from others in a constantly changing environment.",
+			"ancestorIds": [
+				"F6940880DFE301318D5668A86D17958E",
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F6940880DFE301318D5668A86D17958E": {
+			"id": "F6940880DFE301318D5668A86D17958E",
+			"asnIdentifier": "S2400223",
+			"position": 2000,
+			"depth": 1,
+			"description": "Movement Concepts",
+			"ancestorIds": [
+				"F693B600DFE301318D5568A86D17958E"
+			]
+		},
+		"F693B600DFE301318D5568A86D17958E": {
+			"id": "F693B600DFE301318D5568A86D17958E",
+			"asnIdentifier": "S2400211",
+			"position": 1000,
+			"depth": 0,
+			"statementLabel": "Content Standard",
+			"listId": "1:",
+			"description": "Students demonstrate the motor skills and movement patterns needed to perform a variety of physical activities.",
+			"ancestorIds": []
+		}
+	}
+}

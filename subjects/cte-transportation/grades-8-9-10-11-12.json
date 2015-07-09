@@ -1,0 +1,3264 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2545823_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Transportation",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2545823",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Transportation",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/transportation.pdf",
+		"asnIdentifier": "D2545823",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"FD0EAD2588024E7890023ACC4276C452": {
+			"id": "FD0EAD2588024E7890023ACC4276C452",
+			"asnIdentifier": "S2547254",
+			"position": 237000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.6",
+			"description": "Maintain, diagnose, service, and repair under-vehicle systems and malfunctions.",
+			"ancestorIds": [
+				"0075FC4A66224CDB980EA7F43077F74F",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"9D673B65D4A7411AB4C02725BCDBB129": {
+			"id": "9D673B65D4A7411AB4C02725BCDBB129",
+			"asnIdentifier": "S2547253",
+			"position": 236000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.5",
+			"description": "Interpret tire and rim sizing to select appropriate wheels and tires for vehicles.",
+			"ancestorIds": [
+				"0075FC4A66224CDB980EA7F43077F74F",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2A9DAF2A1B00448E9398C50C36D14F2C": {
+			"id": "2A9DAF2A1B00448E9398C50C36D14F2C",
+			"asnIdentifier": "S2547252",
+			"position": 235000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.4",
+			"description": "Diagnose, service, and repair steering and suspension systems.",
+			"ancestorIds": [
+				"0075FC4A66224CDB980EA7F43077F74F",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"4AF3160C89E144969C0BCD89478AC9AC": {
+			"id": "4AF3160C89E144969C0BCD89478AC9AC",
+			"asnIdentifier": "S2547251",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.3",
+			"description": "Diagnose, service, and repair disc brakes, drum brakes, antilock brakes, and other brake systems as developed.",
+			"ancestorIds": [
+				"0075FC4A66224CDB980EA7F43077F74F",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"427D083B060046B08DBFF1FBCD9D6F57": {
+			"id": "427D083B060046B08DBFF1FBCD9D6F57",
+			"asnIdentifier": "S2547250",
+			"position": 233000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.2",
+			"description": "Describe the function and operation of automatic and manual transmissions and transaxles.",
+			"ancestorIds": [
+				"0075FC4A66224CDB980EA7F43077F74F",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B43C2C5626B0438BAC21AB2D4B6AA09F": {
+			"id": "B43C2C5626B0438BAC21AB2D4B6AA09F",
+			"asnIdentifier": "S2547249",
+			"position": 232000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.1",
+			"description": "Describe how to maintain, diagnose, service, and repair hydraulic and power assist systems.",
+			"ancestorIds": [
+				"0075FC4A66224CDB980EA7F43077F74F",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"0075FC4A66224CDB980EA7F43077F74F": {
+			"id": "0075FC4A66224CDB980EA7F43077F74F",
+			"asnIdentifier": "S2547248",
+			"position": 231000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C8.0",
+			"description": "Demonstrate the function and principles of automotive drivetrain, steering and suspension, brake, and tire and wheel components and systems in accordance with national industry standards.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"F16829DAB70D484C9D18D7C0AE9DBED4": {
+			"id": "F16829DAB70D484C9D18D7C0AE9DBED4",
+			"asnIdentifier": "S2547247",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.7",
+			"description": "Perform necessary procedures to maintain, diagnose, service, and repair vehicle electrical and electronic systems and malfunctions.",
+			"ancestorIds": [
+				"99F5CBE6461D43B793D41EC874017ED2",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"F3AA2460874C4B5ABE35890ED5FB5999": {
+			"id": "F3AA2460874C4B5ABE35890ED5FB5999",
+			"asnIdentifier": "S2547246",
+			"position": 229000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.6",
+			"description": "Diagnose, service, and repair horns, wipers/washers, and other accessories.",
+			"ancestorIds": [
+				"99F5CBE6461D43B793D41EC874017ED2",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"CD07DFFE13BC4E66BBBD6D9C72272E77": {
+			"id": "CD07DFFE13BC4E66BBBD6D9C72272E77",
+			"asnIdentifier": "S2547245",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Diagnose, service, and repair heating and air-conditioning systems and components.",
+			"ancestorIds": [
+				"99F5CBE6461D43B793D41EC874017ED2",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"6E003970CFCD43E48FA9D589FC5B7CE9": {
+			"id": "6E003970CFCD43E48FA9D589FC5B7CE9",
+			"asnIdentifier": "S2547244",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Diagnose, service, and repair lighting systems.",
+			"ancestorIds": [
+				"99F5CBE6461D43B793D41EC874017ED2",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"9674559490B8415EB4A851C17545C242": {
+			"id": "9674559490B8415EB4A851C17545C242",
+			"asnIdentifier": "S2547243",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Demonstrate maintenance, diagnosis, service, and repair of starting and charging systems.",
+			"ancestorIds": [
+				"99F5CBE6461D43B793D41EC874017ED2",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B3802F6D2DA44E4197690F1B596A1638": {
+			"id": "B3802F6D2DA44E4197690F1B596A1638",
+			"asnIdentifier": "S2547242",
+			"position": 225000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Maintain, diagnose, repair, and service batteries.",
+			"ancestorIds": [
+				"99F5CBE6461D43B793D41EC874017ED2",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"153C1DDC086548A48E2093A2BF49A1EC": {
+			"id": "153C1DDC086548A48E2093A2BF49A1EC",
+			"asnIdentifier": "S2547241",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Practice maintenance, diagnosis, and repair of electrical systems.",
+			"ancestorIds": [
+				"99F5CBE6461D43B793D41EC874017ED2",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"99F5CBE6461D43B793D41EC874017ED2": {
+			"id": "99F5CBE6461D43B793D41EC874017ED2",
+			"asnIdentifier": "S2547240",
+			"position": 223000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Demonstrate the function, principles, and operation of electrical and electronic systems using manufacturer and industry standards.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"8CB28E208ABA48FCB28428382458328C": {
+			"id": "8CB28E208ABA48FCB28428382458328C",
+			"asnIdentifier": "S2547239",
+			"position": 222000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Maintain, diagnose, service, and repair ignition, electronic, and computerized engine controls and fuel management systems.",
+			"ancestorIds": [
+				"539B94BD27B34D03B4162DDB6F50018C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"15905383181143F99D53BC74BFBAC98E": {
+			"id": "15905383181143F99D53BC74BFBAC98E",
+			"asnIdentifier": "S2547238",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Practice how to maintain, diagnose, and repair computerized engine control systems and other engine-related systems.",
+			"ancestorIds": [
+				"539B94BD27B34D03B4162DDB6F50018C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"9F37C31DBB144A058CC7E706E6CFB77C": {
+			"id": "9F37C31DBB144A058CC7E706E6CFB77C",
+			"asnIdentifier": "S2547237",
+			"position": 220000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Maintain, diagnose, service, and repair lubrication and cooling systems.",
+			"ancestorIds": [
+				"539B94BD27B34D03B4162DDB6F50018C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"A045D44CAE6B4E828D8A205CCD708D0A": {
+			"id": "A045D44CAE6B4E828D8A205CCD708D0A",
+			"asnIdentifier": "S2547236",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "Perform general engine maintenance, diagnosis, service, and repair in accordance with portable national industry standards, such as the National Automotive Technicians Education Foundation and the Equipment and Engine Training Council.",
+			"ancestorIds": [
+				"539B94BD27B34D03B4162DDB6F50018C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"539B94BD27B34D03B4162DDB6F50018C": {
+			"id": "539B94BD27B34D03B4162DDB6F50018C",
+			"asnIdentifier": "S2547235",
+			"position": 218000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Demonstrate the application, operation, maintenance, and diagnosis of engines, including but not limited to two- and four-stroke and supporting subsystems.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"12956435C6084EA9ABE18DDA82B40B6C": {
+			"id": "12956435C6084EA9ABE18DDA82B40B6C",
+			"asnIdentifier": "S2547234",
+			"position": 217000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.6",
+			"description": "Recognize, analyze, and evaluate the need for maintenance of components and systems and the conditions under which service and maintenance are required.",
+			"ancestorIds": [
+				"040E18A2129C4B3C85E4F57D660B4209",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2A4A81A7C8A84625BBB658B8D231D077": {
+			"id": "2A4A81A7C8A84625BBB658B8D231D077",
+			"asnIdentifier": "S2547233",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.5",
+			"description": "Practice the concept and application of acceptable customer relations practices.",
+			"ancestorIds": [
+				"040E18A2129C4B3C85E4F57D660B4209",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"AF5E77EDE61D4DE19DFBC482C920CFF7": {
+			"id": "AF5E77EDE61D4DE19DFBC482C920CFF7",
+			"asnIdentifier": "S2547232",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.4",
+			"description": "Practice the concept and application of accepted ethical business practices.",
+			"ancestorIds": [
+				"040E18A2129C4B3C85E4F57D660B4209",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"9A429C081B434962BD073B6862056D86": {
+			"id": "9A429C081B434962BD073B6862056D86",
+			"asnIdentifier": "S2547231",
+			"position": 214000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.3",
+			"description": "Explain the importance of and the procedures for maintaining accurate records (e.g., business licenses, repair orders, billing and tax records).",
+			"ancestorIds": [
+				"040E18A2129C4B3C85E4F57D660B4209",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"8DCF283753614CB19C61199A81E3EB3B": {
+			"id": "8DCF283753614CB19C61199A81E3EB3B",
+			"asnIdentifier": "S2547230",
+			"position": 213000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Know the laws and regulations applicable to recordkeeping and the appropriate handling and disposal of hazardous materials.",
+			"ancestorIds": [
+				"040E18A2129C4B3C85E4F57D660B4209",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2B985CFEBDEB437080E386220BF62179": {
+			"id": "2B985CFEBDEB437080E386220BF62179",
+			"asnIdentifier": "S2547229",
+			"position": 212000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Identify work-related systems common to the transportation service industry.",
+			"ancestorIds": [
+				"040E18A2129C4B3C85E4F57D660B4209",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"040E18A2129C4B3C85E4F57D660B4209": {
+			"id": "040E18A2129C4B3C85E4F57D660B4209",
+			"asnIdentifier": "S2547228",
+			"position": 211000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Apply and understand appropriate business practices.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"D334C16784884F9DBC401F333D6EC210": {
+			"id": "D334C16784884F9DBC401F333D6EC210",
+			"asnIdentifier": "S2547227",
+			"position": 210000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Complete a work order, including customer information, description of repairs, and billing information, in accordance with applicable rules, laws, and regulations.",
+			"ancestorIds": [
+				"32375E1C70644BE09757FF9CF7FF533B",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2F5A40F032D54713BC8A92E9262D3ECB": {
+			"id": "2F5A40F032D54713BC8A92E9262D3ECB",
+			"asnIdentifier": "S2547226",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Use reference books, technical service bulletins, and other documents and materials related to the service industry available in print and through electronic retrieval systems to accurately diagnose and repair systems, equipment, and vehicles.",
+			"ancestorIds": [
+				"32375E1C70644BE09757FF9CF7FF533B",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"F0FE7E0825194B25AA8245F82626C8C4": {
+			"id": "F0FE7E0825194B25AA8245F82626C8C4",
+			"asnIdentifier": "S2547225",
+			"position": 208000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Demonstrate how to properly document maintenance and repair procedures in accordance with applicable rules, laws, and regulations (e.g., Bureau of Auto Repair [BAR], Occupational Safety and Health Administration [OSHA], and the California Air Resources Board [ARB]).",
+			"ancestorIds": [
+				"32375E1C70644BE09757FF9CF7FF533B",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"A568E3AFA8A14ECE8B586E36BCFC2BAC": {
+			"id": "A568E3AFA8A14ECE8B586E36BCFC2BAC",
+			"asnIdentifier": "S2547224",
+			"position": 207000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Communicate the procedures and practices of various manufacturers regarding service, repair, and maintenance schedules.",
+			"ancestorIds": [
+				"32375E1C70644BE09757FF9CF7FF533B",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"32375E1C70644BE09757FF9CF7FF533B": {
+			"id": "32375E1C70644BE09757FF9CF7FF533B",
+			"asnIdentifier": "S2547223",
+			"position": 206000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Perform and document maintenance procedures in accordance with the recommendations of the manufacturer.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"D91B9AC87C6B4653A88EF99D936D5847": {
+			"id": "D91B9AC87C6B4653A88EF99D936D5847",
+			"asnIdentifier": "S2547222",
+			"position": 205000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.7",
+			"description": "Perform necessary procedures to maintain, diagnose, service, and repair vehicle systems and malfunctions.",
+			"ancestorIds": [
+				"48026C16D6B24DA99B168DFE8203934C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"60F6F3B6BC534E38A5B3143DFE7CFE01": {
+			"id": "60F6F3B6BC534E38A5B3143DFE7CFE01",
+			"asnIdentifier": "S2547221",
+			"position": 204000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.6",
+			"description": "Explain the principles of converting energy from one form to another.",
+			"ancestorIds": [
+				"48026C16D6B24DA99B168DFE8203934C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B1A7D17CAEF844928818EE516D63277A": {
+			"id": "B1A7D17CAEF844928818EE516D63277A",
+			"asnIdentifier": "S2547220",
+			"position": 203000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.5",
+			"description": "Practice the basic principles of electricity, electronics and electrical power generation, and distribution systems.",
+			"ancestorIds": [
+				"48026C16D6B24DA99B168DFE8203934C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"18D367F217394130874467F65B3846E1": {
+			"id": "18D367F217394130874467F65B3846E1",
+			"asnIdentifier": "S2547219",
+			"position": 202000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.4",
+			"description": "Describe the applications of alternative power sources.",
+			"ancestorIds": [
+				"48026C16D6B24DA99B168DFE8203934C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"26CE3CB4AAB348D48A49AA6792E8696C": {
+			"id": "26CE3CB4AAB348D48A49AA6792E8696C",
+			"asnIdentifier": "S2547218",
+			"position": 201000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.3",
+			"description": "Describe the basic principles of pneumatic and hydraulic power and their applications.",
+			"ancestorIds": [
+				"48026C16D6B24DA99B168DFE8203934C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"C6B10EEDB07A4D7C8F4F38E4EDAB3789": {
+			"id": "C6B10EEDB07A4D7C8F4F38E4EDAB3789",
+			"asnIdentifier": "S2547217",
+			"position": 200000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.2",
+			"description": "Describe the function and principles of air-conditioning and heating systems.",
+			"ancestorIds": [
+				"48026C16D6B24DA99B168DFE8203934C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"93ECF3C50CA041CB9EF526C5A1219126": {
+			"id": "93ECF3C50CA041CB9EF526C5A1219126",
+			"asnIdentifier": "S2547216",
+			"position": 199000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Describe the operating principles of internal and/or external combustion engines.",
+			"ancestorIds": [
+				"48026C16D6B24DA99B168DFE8203934C",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"48026C16D6B24DA99B168DFE8203934C": {
+			"id": "48026C16D6B24DA99B168DFE8203934C",
+			"asnIdentifier": "S2547215",
+			"position": 198000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "Use scientific principles in relation to chemical, mechanical, and physical functions for various engine and vehicle systems.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"C2AFD67F831848048FFC6541AB711DF4": {
+			"id": "C2AFD67F831848048FFC6541AB711DF4",
+			"asnIdentifier": "S2547214",
+			"position": 197000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.7",
+			"description": "Test and analyze the elements of precision measuring using standard and metric systems.",
+			"ancestorIds": [
+				"9BB90CBEA76E476D9DD5BDEDC0E031EF",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"4200D73DE9004AB582C52ED1669CBF04": {
+			"id": "4200D73DE9004AB582C52ED1669CBF04",
+			"asnIdentifier": "S2547213",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.6",
+			"description": "Demonstrate how to access technical reports, manuals, electronic retrieval systems, and related technical data resources.",
+			"ancestorIds": [
+				"9BB90CBEA76E476D9DD5BDEDC0E031EF",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B7BBE13481D74300986B9EFD4DB243FC": {
+			"id": "B7BBE13481D74300986B9EFD4DB243FC",
+			"asnIdentifier": "S2547212",
+			"position": 195000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.5",
+			"description": "Use measurement scales, devices, and systems, such as dial indicators and micrometers, to design, fabricate, diagnose, maintain, and repair vehicles and components following recommended industry standards.",
+			"ancestorIds": [
+				"9BB90CBEA76E476D9DD5BDEDC0E031EF",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"898AA15045E142E2BFB8E9969DB66D3D": {
+			"id": "898AA15045E142E2BFB8E9969DB66D3D",
+			"asnIdentifier": "S2547211",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.4",
+			"description": "Select and use the appropriate measurement device(s) and use mathematical functions necessary to perform required fabrication, maintenance, and operation procedures.",
+			"ancestorIds": [
+				"9BB90CBEA76E476D9DD5BDEDC0E031EF",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"6022CC3C16A541188330B3B1C975D539": {
+			"id": "6022CC3C16A541188330B3B1C975D539",
+			"asnIdentifier": "S2547210",
+			"position": 193000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Use tools, equipment, and machines to safely measure, test, diagnose, and analyze components and systems (e.g., electrical and electronic circuits, alternating- and direct-current applications, fluid/hydraulic and air/pneumatic systems).",
+			"ancestorIds": [
+				"9BB90CBEA76E476D9DD5BDEDC0E031EF",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"0F85017B9DC44C8BAE6FC348DD3F4FAE": {
+			"id": "0F85017B9DC44C8BAE6FC348DD3F4FAE",
+			"asnIdentifier": "S2547209",
+			"position": 192000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "Demonstrate and use appropriate tools and equipment—such as wrenches, sockets, and pliers—to diagnose, service, repair, and maintain systems and components.",
+			"ancestorIds": [
+				"9BB90CBEA76E476D9DD5BDEDC0E031EF",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"84472A21A49B42DC994651F8FCD91F03": {
+			"id": "84472A21A49B42DC994651F8FCD91F03",
+			"asnIdentifier": "S2547208",
+			"position": 191000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "Recognize the importance of calibration processes, systems, and techniques using various measurement and testing devices.",
+			"ancestorIds": [
+				"9BB90CBEA76E476D9DD5BDEDC0E031EF",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"9BB90CBEA76E476D9DD5BDEDC0E031EF": {
+			"id": "9BB90CBEA76E476D9DD5BDEDC0E031EF",
+			"asnIdentifier": "S2547207",
+			"position": 190000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Practice the safe and appropriate use of tools, equipment, and work processes.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"96B3DCAF83ED43669C57D906B3F3AA7C": {
+			"id": "96B3DCAF83ED43669C57D906B3F3AA7C",
+			"asnIdentifier": "S2547206",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.5",
+			"description": "Evaluate the advantages and disadvantages of existing, new, and emerging systems and the effects of those systems on the environment.",
+			"ancestorIds": [
+				"BDEB239E307A466DAD430130EB2A8DD9",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"F78FC2F57A3A4E7CAE288AE37FC4FA49": {
+			"id": "F78FC2F57A3A4E7CAE288AE37FC4FA49",
+			"asnIdentifier": "S2547205",
+			"position": 188000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "Use appropriate personal protective equipment and safety practices.",
+			"ancestorIds": [
+				"BDEB239E307A466DAD430130EB2A8DD9",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"968CCBF79B684267875FF0EC3D20B01C": {
+			"id": "968CCBF79B684267875FF0EC3D20B01C",
+			"asnIdentifier": "S2547204",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Understand the way in which waste gasses, emissions, and other environmentally destructive substances are generated and the effects of these substances on the environment.",
+			"ancestorIds": [
+				"BDEB239E307A466DAD430130EB2A8DD9",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"EAED9188A34D4F829C36EBB5F79038A9": {
+			"id": "EAED9188A34D4F829C36EBB5F79038A9",
+			"asnIdentifier": "S2547203",
+			"position": 186000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "Practice the safe handling and storage of chemicals and hazardous wastes in accordance with Material Safety Data Sheets (MSDS) and the requirements of local, state, and federal regulatory agencies.",
+			"ancestorIds": [
+				"BDEB239E307A466DAD430130EB2A8DD9",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2B71474686FF478390E9D680AAB642F1": {
+			"id": "2B71474686FF478390E9D680AAB642F1",
+			"asnIdentifier": "S2547202",
+			"position": 185000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Know and understand common environmental conservation practices and their applications.",
+			"ancestorIds": [
+				"BDEB239E307A466DAD430130EB2A8DD9",
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"BDEB239E307A466DAD430130EB2A8DD9": {
+			"id": "BDEB239E307A466DAD430130EB2A8DD9",
+			"asnIdentifier": "S2547201",
+			"position": 184000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Demonstrate the practice of personal and occupational safety and protecting the environment by using materials and processes in accordance with manufacturer and industry standards.",
+			"ancestorIds": [
+				"4CDF30D61E4C4F72A797782F0B2F3EE9",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"4CDF30D61E4C4F72A797782F0B2F3EE9": {
+			"id": "4CDF30D61E4C4F72A797782F0B2F3EE9",
+			"asnIdentifier": "S2547200",
+			"position": 183000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Systems Diagnostics, Service, and Repair",
+			"comments": [
+				"The Systems Diagnostics, Service, and Repair pathway prepares students for postsecondary education and employment in the transportation industry, which includes but is not limited to motor vehicles, rail systems, marine applications, and small-engine and specialty equipment."
+			],
+			"ancestorIds": [
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"EC2991ED5D544043BFE7025026B8D2A7": {
+			"id": "EC2991ED5D544043BFE7025026B8D2A7",
+			"asnIdentifier": "S2547090",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.6",
+			"description": "Analyze the causes and cures of paint defects.",
+			"ancestorIds": [
+				"B1C920B2A7D94C7BA4CDDD2B05792D3B",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"6626A3AA3B9449F085EC7FD79DFAA66D": {
+			"id": "6626A3AA3B9449F085EC7FD79DFAA66D",
+			"asnIdentifier": "S2547089",
+			"position": 181000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.5",
+			"description": "Prepare vehicles for final detail.",
+			"ancestorIds": [
+				"B1C920B2A7D94C7BA4CDDD2B05792D3B",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"E944A46C4BB94CE892D375F2A55F70D9": {
+			"id": "E944A46C4BB94CE892D375F2A55F70D9",
+			"asnIdentifier": "S2547088",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.4",
+			"description": "Practice mixing, matching, and applying paint.",
+			"ancestorIds": [
+				"B1C920B2A7D94C7BA4CDDD2B05792D3B",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"338AB5EAC45443278699A34A4492BCEC": {
+			"id": "338AB5EAC45443278699A34A4492BCEC",
+			"asnIdentifier": "S2547087",
+			"position": 179000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.3",
+			"description": "Practice operation of spray guns and related equipment.",
+			"ancestorIds": [
+				"B1C920B2A7D94C7BA4CDDD2B05792D3B",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"1E35DBC5A502421CB4A5AB8CFF1379C5": {
+			"id": "1E35DBC5A502421CB4A5AB8CFF1379C5",
+			"asnIdentifier": "S2547086",
+			"position": 178000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.2",
+			"description": "Prepare surfaces for painting and finishing.",
+			"ancestorIds": [
+				"B1C920B2A7D94C7BA4CDDD2B05792D3B",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"A77780D7684E41A9936BEDB1F564060D": {
+			"id": "A77780D7684E41A9936BEDB1F564060D",
+			"asnIdentifier": "S2547085",
+			"position": 177000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B9.1",
+			"description": "Identify, use, and repair plastics and adhesives.",
+			"ancestorIds": [
+				"B1C920B2A7D94C7BA4CDDD2B05792D3B",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B1C920B2A7D94C7BA4CDDD2B05792D3B": {
+			"id": "B1C920B2A7D94C7BA4CDDD2B05792D3B",
+			"asnIdentifier": "S2547084",
+			"position": 176000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B9.0",
+			"description": "Demonstrate the concepts, principles, and practices of painting and refinishing.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"3C71465CF7AE4D718520F643B180DDA8": {
+			"id": "3C71465CF7AE4D718520F643B180DDA8",
+			"asnIdentifier": "S2547083",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.6",
+			"description": "Explain and demonstrate the operation of restraint systems.",
+			"ancestorIds": [
+				"E89B7C53D685413B84BB12624AE454DB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"97EF5D11315F45B5AEBBB2084D2023CD": {
+			"id": "97EF5D11315F45B5AEBBB2084D2023CD",
+			"asnIdentifier": "S2547082",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.5",
+			"description": "Perform heating, air-conditioning, and cooling system repairs.",
+			"ancestorIds": [
+				"E89B7C53D685413B84BB12624AE454DB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"D96A167D31C849D9AEF785969D5B1E59": {
+			"id": "D96A167D31C849D9AEF785969D5B1E59",
+			"asnIdentifier": "S2547081",
+			"position": 173000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.4",
+			"description": "Perform brake analysis and repairs.",
+			"ancestorIds": [
+				"E89B7C53D685413B84BB12624AE454DB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"A52D87E1CA0144F6A17F8CF52666F8A5": {
+			"id": "A52D87E1CA0144F6A17F8CF52666F8A5",
+			"asnIdentifier": "S2547080",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.3",
+			"description": "Perform electrical repairs.",
+			"ancestorIds": [
+				"E89B7C53D685413B84BB12624AE454DB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2C079366AEF84BA5AAF4E08FF359930C": {
+			"id": "2C079366AEF84BA5AAF4E08FF359930C",
+			"asnIdentifier": "S2547079",
+			"position": 171000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.2",
+			"description": "Perform steering and suspension analysis and repairs.",
+			"ancestorIds": [
+				"E89B7C53D685413B84BB12624AE454DB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"FB4511EF8C9142D6A897077B00A25BE4": {
+			"id": "FB4511EF8C9142D6A897077B00A25BE4",
+			"asnIdentifier": "S2547078",
+			"position": 170000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.1",
+			"description": "Identify and communicate the operation of drivetrain, fuel, intake, and exhaust systems.",
+			"ancestorIds": [
+				"E89B7C53D685413B84BB12624AE454DB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"E89B7C53D685413B84BB12624AE454DB": {
+			"id": "E89B7C53D685413B84BB12624AE454DB",
+			"asnIdentifier": "S2547077",
+			"position": 169000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B8.0",
+			"description": "Demonstrate an understanding of mechanical and electrical components in relation to industry and manufacturer standards.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"846CF708A1634CE6BAA8CF2B96D514EC": {
+			"id": "846CF708A1634CE6BAA8CF2B96D514EC",
+			"asnIdentifier": "S2547076",
+			"position": 168000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.6",
+			"description": "Prepare vehicles for metal finishing and body filling.",
+			"ancestorIds": [
+				"423A65EC89334BDCB2258F7C2AE936C3",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"0F431042267948F69A28FB4764884EC3": {
+			"id": "0F431042267948F69A28FB4764884EC3",
+			"asnIdentifier": "S2547075",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.5",
+			"description": "Perform outer body panel repairs, replacements, and adjustments.",
+			"ancestorIds": [
+				"423A65EC89334BDCB2258F7C2AE936C3",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"E23E96183DF741849F0C3D838F08A4DB": {
+			"id": "E23E96183DF741849F0C3D838F08A4DB",
+			"asnIdentifier": "S2547074",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.4",
+			"description": "Prepare and analyze vehicles for repair.",
+			"ancestorIds": [
+				"423A65EC89334BDCB2258F7C2AE936C3",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"DDFA8AE9ACA6473EB17A5517738EA951": {
+			"id": "DDFA8AE9ACA6473EB17A5517738EA951",
+			"asnIdentifier": "S2547073",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Demonstrate the principles of metal welding and cutting.",
+			"ancestorIds": [
+				"423A65EC89334BDCB2258F7C2AE936C3",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"6FC69CF43141495B9B4419B9CBDAFB15": {
+			"id": "6FC69CF43141495B9B4419B9CBDAFB15",
+			"asnIdentifier": "S2547072",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Demonstrate applications, installations, and removal of fixed and moveable glass and hardware.",
+			"ancestorIds": [
+				"423A65EC89334BDCB2258F7C2AE936C3",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"BA33B6B86BB3477090F4AB7A38518053": {
+			"id": "BA33B6B86BB3477090F4AB7A38518053",
+			"asnIdentifier": "S2547071",
+			"position": 163000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Perform frame inspection and repair.",
+			"ancestorIds": [
+				"423A65EC89334BDCB2258F7C2AE936C3",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"423A65EC89334BDCB2258F7C2AE936C3": {
+			"id": "423A65EC89334BDCB2258F7C2AE936C3",
+			"asnIdentifier": "S2547070",
+			"position": 162000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B7.0",
+			"description": "Understand structural and nonstructural analysis and damage repair.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"8BEAAED007C94B97AFE4604FD2FFA6B8": {
+			"id": "8BEAAED007C94B97AFE4604FD2FFA6B8",
+			"asnIdentifier": "S2547069",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.5",
+			"description": "Use and understand the concept and application of acceptable customer relations services.",
+			"ancestorIds": [
+				"4A9C2D9EC4D442959E2D88D76169B3AB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"EE132EC5218040CAAD90FA2305BC338A": {
+			"id": "EE132EC5218040CAAD90FA2305BC338A",
+			"asnIdentifier": "S2547068",
+			"position": 160000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.4",
+			"description": "Discuss and apply the concept and application of accepted ethical business practices.",
+			"ancestorIds": [
+				"4A9C2D9EC4D442959E2D88D76169B3AB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"822059AEAA434191B3ACC0DEB3C7AEBE": {
+			"id": "822059AEAA434191B3ACC0DEB3C7AEBE",
+			"asnIdentifier": "S2547067",
+			"position": 159000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.3",
+			"description": "Practice and understand the importance of, and procedures for, maintaining accurate records.",
+			"ancestorIds": [
+				"4A9C2D9EC4D442959E2D88D76169B3AB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"77845DAF37674B4298052FDCDF08DE6F": {
+			"id": "77845DAF37674B4298052FDCDF08DE6F",
+			"asnIdentifier": "S2547066",
+			"position": 158000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Use and understand work-related systems.",
+			"ancestorIds": [
+				"4A9C2D9EC4D442959E2D88D76169B3AB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"49A18FE81BE4402BB8D4AD80BD554188": {
+			"id": "49A18FE81BE4402BB8D4AD80BD554188",
+			"asnIdentifier": "S2547065",
+			"position": 157000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Know the laws and regulations applicable to the recordkeeping and handling of hazardous materials.",
+			"ancestorIds": [
+				"4A9C2D9EC4D442959E2D88D76169B3AB",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"4A9C2D9EC4D442959E2D88D76169B3AB": {
+			"id": "4A9C2D9EC4D442959E2D88D76169B3AB",
+			"asnIdentifier": "S2547064",
+			"position": 156000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Demonstrate basic business practices.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"4C8A0E9A20DD4A1CB0F3DF62019DD056": {
+			"id": "4C8A0E9A20DD4A1CB0F3DF62019DD056",
+			"asnIdentifier": "S2547063",
+			"position": 155000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.3",
+			"description": "Document repair procedures accurately as required by the Bureau of Automotive Repair and other regulatory agencies.",
+			"ancestorIds": [
+				"30A177525F8C4A5C9BC2D0F202672F8E",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"43F9DD12A1C44A44826458503FEEAE46": {
+			"id": "43F9DD12A1C44A44826458503FEEAE46",
+			"asnIdentifier": "S2547062",
+			"position": 154000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Use reference books and materials, technical service bulletins, and other related documents to determine repairs and rate of pay.",
+			"ancestorIds": [
+				"30A177525F8C4A5C9BC2D0F202672F8E",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"051C360AE50D445380F5B6F7D37C6DE6": {
+			"id": "051C360AE50D445380F5B6F7D37C6DE6",
+			"asnIdentifier": "S2547061",
+			"position": 153000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Explain and practice the recommended procedures and practices of various manufacturers.",
+			"ancestorIds": [
+				"30A177525F8C4A5C9BC2D0F202672F8E",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"30A177525F8C4A5C9BC2D0F202672F8E": {
+			"id": "30A177525F8C4A5C9BC2D0F202672F8E",
+			"asnIdentifier": "S2547060",
+			"position": 152000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Perform and document repair procedures in accordance with manufacturer recommendations and industry standards.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"416E200EDDFE46BAA840A04EA3EF3F9E": {
+			"id": "416E200EDDFE46BAA840A04EA3EF3F9E",
+			"asnIdentifier": "S2547059",
+			"position": 151000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.6",
+			"description": "Know the importance of calibration processes, systems, and techniques in using various measurement and testing devices.",
+			"ancestorIds": [
+				"0F08EB771568466BB2C979077F70C78D",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"D50CC473AB354B4AB9F1001F29F1A7D8": {
+			"id": "D50CC473AB354B4AB9F1001F29F1A7D8",
+			"asnIdentifier": "S2547058",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Understand body and frame construction.",
+			"ancestorIds": [
+				"0F08EB771568466BB2C979077F70C78D",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"69BD0463189E4820AA1F49B5E8EDBA14": {
+			"id": "69BD0463189E4820AA1F49B5E8EDBA14",
+			"asnIdentifier": "S2547057",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Practice the principles of electricity and electronics.",
+			"ancestorIds": [
+				"0F08EB771568466BB2C979077F70C78D",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2B3CF31CB8264C01ACAFE18352FC8A20": {
+			"id": "2B3CF31CB8264C01ACAFE18352FC8A20",
+			"asnIdentifier": "S2547056",
+			"position": 148000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Apply the principles of mechanical, electrical, hydraulic, and pneumatic power in relation to collision repair and refinishing.",
+			"ancestorIds": [
+				"0F08EB771568466BB2C979077F70C78D",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"279F28DDCF284CFE8700C78D08D14A1C": {
+			"id": "279F28DDCF284CFE8700C78D08D14A1C",
+			"asnIdentifier": "S2547055",
+			"position": 147000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Describe the basic terms, characteristics, and concepts of physical and chemical processes.",
+			"ancestorIds": [
+				"0F08EB771568466BB2C979077F70C78D",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"888D09F578924CF4A010EED2D495BF0E": {
+			"id": "888D09F578924CF4A010EED2D495BF0E",
+			"asnIdentifier": "S2547054",
+			"position": 146000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Identify and understand the physical and chemical characteristics of metals, plastics, and other materials.",
+			"ancestorIds": [
+				"0F08EB771568466BB2C979077F70C78D",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"0F08EB771568466BB2C979077F70C78D": {
+			"id": "0F08EB771568466BB2C979077F70C78D",
+			"asnIdentifier": "S2547053",
+			"position": 145000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B4.0",
+			"description": "Apply scientific principles in relation to chemical, mechanical, and physical functions and in relation to industry and manufacturer standards.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"62CC5B41FF3B43AF82D9F8FC5F5FD21E": {
+			"id": "62CC5B41FF3B43AF82D9F8FC5F5FD21E",
+			"asnIdentifier": "S2547052",
+			"position": 144000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.4",
+			"description": "Understand the mathematical functions associated with collision repair and refinishing.",
+			"ancestorIds": [
+				"B22E7BCBF6164BFEA438B89BD2537DD5",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"36BE27F9B5A843FCBB994CF4CA0B9008": {
+			"id": "36BE27F9B5A843FCBB994CF4CA0B9008",
+			"asnIdentifier": "S2547051",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Demonstrate the different types of welding and heat processes used in repair processes and procedures.",
+			"ancestorIds": [
+				"B22E7BCBF6164BFEA438B89BD2537DD5",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"A990A46617BC4F4999DFE929A7D5F645": {
+			"id": "A990A46617BC4F4999DFE929A7D5F645",
+			"asnIdentifier": "S2547050",
+			"position": 142000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Use technical vocabulary, technical reports and manuals, electronic systems, and related technical data resources, as appropriate, to determine repairs and estimates.",
+			"ancestorIds": [
+				"B22E7BCBF6164BFEA438B89BD2537DD5",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"BF3CDD637ACD4303BF637DC253A8A438": {
+			"id": "BF3CDD637ACD4303BF637DC253A8A438",
+			"asnIdentifier": "S2547049",
+			"position": 141000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Use industry-standard measurement scales, devices, and systems to perform design, fabrication, diagnostic, maintenance, and repair procedures.",
+			"ancestorIds": [
+				"B22E7BCBF6164BFEA438B89BD2537DD5",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B22E7BCBF6164BFEA438B89BD2537DD5": {
+			"id": "B22E7BCBF6164BFEA438B89BD2537DD5",
+			"asnIdentifier": "S2547048",
+			"position": 140000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.0",
+			"description": "Apply measurement systems and the mathematical functions necessary to perform required fabrication, maintenance, and operation procedures.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"8AA474CD166B48CFB85BA24EFAFA28FD": {
+			"id": "8AA474CD166B48CFB85BA24EFAFA28FD",
+			"asnIdentifier": "S2547047",
+			"position": 139000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Use tools, equipment, and machines to safely measure, test, diagnose, and analyze components and systems (e.g., electrical and electronic circuits, alternating- and direct-current applications, fluid/hydraulic and air/pneumatic systems).",
+			"ancestorIds": [
+				"35213D6FCA104CF2B83AAFBC2C660418",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"D5A60A9680194D2FAB504299B645C43B": {
+			"id": "D5A60A9680194D2FAB504299B645C43B",
+			"asnIdentifier": "S2547046",
+			"position": 138000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Understand how certain tools and equipment are used to perform maintenance and repair operations.",
+			"ancestorIds": [
+				"35213D6FCA104CF2B83AAFBC2C660418",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"35213D6FCA104CF2B83AAFBC2C660418": {
+			"id": "35213D6FCA104CF2B83AAFBC2C660418",
+			"asnIdentifier": "S2547045",
+			"position": 137000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Practice the safe and appropriate use of tools, equipment, and work processes.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"43141A941DB64AA3848448B62C42AFC0": {
+			"id": "43141A941DB64AA3848448B62C42AFC0",
+			"asnIdentifier": "S2547044",
+			"position": 136000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.6",
+			"description": "Demonstrate the safety practices applied when servicing vehicle-body electronics and other vehicle systems.",
+			"ancestorIds": [
+				"C465FBDA7CD64C7BAE365A150A9A6854",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"DEA053CD1EB04BA2B7E637FD0F6133F4": {
+			"id": "DEA053CD1EB04BA2B7E637FD0F6133F4",
+			"asnIdentifier": "S2547043",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.5",
+			"description": "Understand the environmental implications of using new and emerging materials, resources, and technologies.",
+			"ancestorIds": [
+				"C465FBDA7CD64C7BAE365A150A9A6854",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"5825720EC6444108A1B5AFF56661E4AB": {
+			"id": "5825720EC6444108A1B5AFF56661E4AB",
+			"asnIdentifier": "S2547042",
+			"position": 134000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.4",
+			"description": "Use appropriate materials and repair technologies.",
+			"ancestorIds": [
+				"C465FBDA7CD64C7BAE365A150A9A6854",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"C556F6292EE3462FBEEAC5882FD2CA08": {
+			"id": "C556F6292EE3462FBEEAC5882FD2CA08",
+			"asnIdentifier": "S2547041",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Understand the generation of waste products and other environmentally destructive substances.",
+			"ancestorIds": [
+				"C465FBDA7CD64C7BAE365A150A9A6854",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2A7A97320F814832A08DDBB1B57D439A": {
+			"id": "2A7A97320F814832A08DDBB1B57D439A",
+			"asnIdentifier": "S2547040",
+			"position": 132000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "Practice the safe handling and storage of chemicals and hazardous wastes as required by the Occupational Safety and Health Administration (OSHA), Air Resources Board (ARB), Air Quality Management Districts (AQMDs), and other regulatory agencies.",
+			"ancestorIds": [
+				"C465FBDA7CD64C7BAE365A150A9A6854",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"7E8275F8BDF84955BB74B008CFCEE593": {
+			"id": "7E8275F8BDF84955BB74B008CFCEE593",
+			"asnIdentifier": "S2547039",
+			"position": 131000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Describe industry environmental conservation practices and their applications.",
+			"ancestorIds": [
+				"C465FBDA7CD64C7BAE365A150A9A6854",
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"C465FBDA7CD64C7BAE365A150A9A6854": {
+			"id": "C465FBDA7CD64C7BAE365A150A9A6854",
+			"asnIdentifier": "S2547038",
+			"position": 130000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Students practice personal and occupational safety and understand the environmental effects of collision repair and refinishing practices.",
+			"ancestorIds": [
+				"99A3C2B78BA249DCA54AC308315A80FA",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"99A3C2B78BA249DCA54AC308315A80FA": {
+			"id": "99A3C2B78BA249DCA54AC308315A80FA",
+			"asnIdentifier": "S2547037",
+			"position": 129000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Structural Repair and Refinishing",
+			"comments": [
+				"The Structural Repair and Refinishing pathway prepares students for postsecondary education and employment in the transportation industry, including but not limited to body and frame straightening, estimating, painting, and refinishing (included but not limited to airplanes, trains, vehicles, and equipment)."
+			],
+			"ancestorIds": [
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"90AE345B2EC445ED9BFE97B91538A022": {
+			"id": "90AE345B2EC445ED9BFE97B91538A022",
+			"asnIdentifier": "S2547036",
+			"position": 128000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.5",
+			"description": "Evaluate the need to safely move fluids from one location to another.",
+			"ancestorIds": [
+				"18726C1EB57644B5AD15DCF9596A38EF",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"D0A6390A4E06479FBC97F66AF686F135": {
+			"id": "D0A6390A4E06479FBC97F66AF686F135",
+			"asnIdentifier": "S2547035",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.4",
+			"description": "Explain the importance of infrastructure in transporting vehicles, goods, and/or equipment in our everyday lives.",
+			"ancestorIds": [
+				"18726C1EB57644B5AD15DCF9596A38EF",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"F42247B820684A83B94CFBF86460F3D7": {
+			"id": "F42247B820684A83B94CFBF86460F3D7",
+			"asnIdentifier": "S2547034",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Define fueling infrastructure needed to move vehicles, equipment, goods, and services from one location to another.",
+			"ancestorIds": [
+				"18726C1EB57644B5AD15DCF9596A38EF",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"4B4482E5C28B470193DD6FCE5E728582": {
+			"id": "4B4482E5C28B470193DD6FCE5E728582",
+			"asnIdentifier": "S2547033",
+			"position": 125000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Recognize the need for traffic signals, signs, and markings.",
+			"ancestorIds": [
+				"18726C1EB57644B5AD15DCF9596A38EF",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"C1E60E68FDC940A1B1C50DB3C95BFF55": {
+			"id": "C1E60E68FDC940A1B1C50DB3C95BFF55",
+			"asnIdentifier": "S2547032",
+			"position": 124000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Identify the infrastructure needed to move people, goods, and equipment from one location to another (highways, bridges, waterways, railways).",
+			"ancestorIds": [
+				"18726C1EB57644B5AD15DCF9596A38EF",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"18726C1EB57644B5AD15DCF9596A38EF": {
+			"id": "18726C1EB57644B5AD15DCF9596A38EF",
+			"asnIdentifier": "S2547031",
+			"position": 123000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Describe and identify the infrastructures required and used in the transportation industry.",
+			"ancestorIds": [
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"A03A3299E3CE41A39696DA9577C09689": {
+			"id": "A03A3299E3CE41A39696DA9577C09689",
+			"asnIdentifier": "S2547030",
+			"position": 122000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.6",
+			"description": "Determine the safe and correct application and use for chemicals used in the transportation industry.",
+			"ancestorIds": [
+				"E86CA8D5187B4760B6CE8FA9B32E1F51",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"C9F24D35EEC64ADCAAFDDA797DA60ECC": {
+			"id": "C9F24D35EEC64ADCAAFDDA797DA60ECC",
+			"asnIdentifier": "S2547029",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.5",
+			"description": "Participate in compliance training activities and exercises.",
+			"ancestorIds": [
+				"E86CA8D5187B4760B6CE8FA9B32E1F51",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"0222CC0F05524BBAB89A23D9603DCF24": {
+			"id": "0222CC0F05524BBAB89A23D9603DCF24",
+			"asnIdentifier": "S2547028",
+			"position": 120000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.4",
+			"description": "Adhere to ergonomic and environmental safety regulations in the workplace.",
+			"ancestorIds": [
+				"E86CA8D5187B4760B6CE8FA9B32E1F51",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"438BA15D5ADE440C8A7AFB3E64B4DE70": {
+			"id": "438BA15D5ADE440C8A7AFB3E64B4DE70",
+			"asnIdentifier": "S2547027",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Conform to federal, state, and local regulations and manufacturers' specifications when handling, storing, and disposing of chemicals and equipment, including necessary certifications.",
+			"ancestorIds": [
+				"E86CA8D5187B4760B6CE8FA9B32E1F51",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"49A4E2B625B245F8A6B431DABFBB98C7": {
+			"id": "49A4E2B625B245F8A6B431DABFBB98C7",
+			"asnIdentifier": "S2547026",
+			"position": 118000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Locate regulatory information and manufacturer recalls.",
+			"ancestorIds": [
+				"E86CA8D5187B4760B6CE8FA9B32E1F51",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"8FE5F566EE5044B48164FF2C135A058F": {
+			"id": "8FE5F566EE5044B48164FF2C135A058F",
+			"asnIdentifier": "S2547025",
+			"position": 117000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Extract information from Material Safety Data Sheets (MSDS) pertaining to chemicals used in the workplace.",
+			"ancestorIds": [
+				"E86CA8D5187B4760B6CE8FA9B32E1F51",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"E86CA8D5187B4760B6CE8FA9B32E1F51": {
+			"id": "E86CA8D5187B4760B6CE8FA9B32E1F51",
+			"asnIdentifier": "S2547024",
+			"position": 116000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Demonstrate safety practices pertaining to the transportation industry, including requirements of the Occupational Safety and Health Administration (OSHA), Environmental Protection Agency (EPA), Air Quality Management Districts (AQMDs), and other regulatory agencies.",
+			"ancestorIds": [
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"43DB325407C64AFCBB8616EBA534B364": {
+			"id": "43DB325407C64AFCBB8616EBA534B364",
+			"asnIdentifier": "S2547023",
+			"position": 115000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.4",
+			"description": "Create a model of a vehicle (train, airplane, railroad, car) incorporating ergonomics and aerodynamics in the design.",
+			"ancestorIds": [
+				"7F055FA43E014C6EABC205E294270332",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"BF917F5CCE194435A5B229EA2EF04860": {
+			"id": "BF917F5CCE194435A5B229EA2EF04860",
+			"asnIdentifier": "S2547022",
+			"position": 114000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Research the effects of ergonomics on the health and safety of workers and customers.",
+			"ancestorIds": [
+				"7F055FA43E014C6EABC205E294270332",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"A6AE608EE6A74D60AA072EC2D631D14D": {
+			"id": "A6AE608EE6A74D60AA072EC2D631D14D",
+			"asnIdentifier": "S2547021",
+			"position": 113000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Identify steps necessary to design a specific mode of transportation using aerodynamics.",
+			"ancestorIds": [
+				"7F055FA43E014C6EABC205E294270332",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"05AA758404FE49A4A52980494001C329": {
+			"id": "05AA758404FE49A4A52980494001C329",
+			"asnIdentifier": "S2547020",
+			"position": 112000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "Identify environmental conditions that would impact various aspects of the transportation industry.",
+			"ancestorIds": [
+				"7F055FA43E014C6EABC205E294270332",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"7F055FA43E014C6EABC205E294270332": {
+			"id": "7F055FA43E014C6EABC205E294270332",
+			"asnIdentifier": "S2545934",
+			"position": 111000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Analyze and evaluate the design advantages and disadvantages of transportation-industry systems and the effects of those systems on people and the environment.",
+			"ancestorIds": [
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"84B9DF582FEB4BD7B494F7D3ADA727FA": {
+			"id": "84B9DF582FEB4BD7B494F7D3ADA727FA",
+			"asnIdentifier": "S2545933",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.8",
+			"description": "Compare and contrast advantages and disadvantages of business ownership.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"08605C0E19E9402FA2F6494F268EA6F4": {
+			"id": "08605C0E19E9402FA2F6494F268EA6F4",
+			"asnIdentifier": "S2545932",
+			"position": 109000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.7",
+			"description": "Understand the practices of acceptable customer relations services.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B104EF48DB5A4088987763D44A0C96F6": {
+			"id": "B104EF48DB5A4088987763D44A0C96F6",
+			"asnIdentifier": "S2545931",
+			"position": 108000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.6",
+			"description": "Explain the nature of sales forecasting and marketing needs.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"6570F9950BE14392BAFB8009D7ACF67F": {
+			"id": "6570F9950BE14392BAFB8009D7ACF67F",
+			"asnIdentifier": "S2545930",
+			"position": 107000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.5",
+			"description": "Identify the legal aspects of sales contracts and warranties.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"810E4119743A48A69C8279FA22E06068": {
+			"id": "810E4119743A48A69C8279FA22E06068",
+			"asnIdentifier": "S2545929",
+			"position": 106000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.4",
+			"description": "Identify target audience for specific marketing and sales needs.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"FF9BB0185FE14937B53A1B34FA1D1200": {
+			"id": "FF9BB0185FE14937B53A1B34FA1D1200",
+			"asnIdentifier": "S2545928",
+			"position": 105000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Identify considerations in planning and implementing marketing/business strategies.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"50A493830EB940EBAE29304191DBCA30": {
+			"id": "50A493830EB940EBAE29304191DBCA30",
+			"asnIdentifier": "S2545927",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Identify and analyze the risks associated with obtaining business credit.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"B9DF6F50374548B7A05DC8F8ED4EA0F9": {
+			"id": "B9DF6F50374548B7A05DC8F8ED4EA0F9",
+			"asnIdentifier": "S2545926",
+			"position": 103000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Describe current business and marketing trends.",
+			"ancestorIds": [
+				"83B388FAAA7D46E781590FD50B886DE4",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"83B388FAAA7D46E781590FD50B886DE4": {
+			"id": "83B388FAAA7D46E781590FD50B886DE4",
+			"asnIdentifier": "S2545925",
+			"position": 102000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Demonstrate an understanding of business fundamentals, uses and application of technologies, communications, and basic management functions.",
+			"ancestorIds": [
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"253D5DF320474A1891254B361D17C915": {
+			"id": "253D5DF320474A1891254B361D17C915",
+			"asnIdentifier": "S2545924",
+			"position": 101000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.8",
+			"description": "Evaluate types of inventory controls.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"99BDF1B4B727457C9FE6F781120ADF6C": {
+			"id": "99BDF1B4B727457C9FE6F781120ADF6C",
+			"asnIdentifier": "S2545923",
+			"position": 100000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.7",
+			"description": "Explore the functions of the shipping and receiving process in the success of the distribution function.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"825A549F51E14995B1C5B54E29785DCA": {
+			"id": "825A549F51E14995B1C5B54E29785DCA",
+			"asnIdentifier": "S2545922",
+			"position": 99000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.6",
+			"description": "Determine the effects of government regulations on stock handling techniques and warehousing.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"420B3FBB3D61441480AB5C730D881D09": {
+			"id": "420B3FBB3D61441480AB5C730D881D09",
+			"asnIdentifier": "S2545921",
+			"position": 98000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.5",
+			"description": "Determine the uses of information systems in the order fulfillment process.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"AE0C73FC96EE441D992143989B522952": {
+			"id": "AE0C73FC96EE441D992143989B522952",
+			"asnIdentifier": "S2545920",
+			"position": 97000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.4",
+			"description": "Understand process controls, from planning to completion.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"2E23C69FFED74B05ABF175501A71F5FB": {
+			"id": "2E23C69FFED74B05ABF175501A71F5FB",
+			"asnIdentifier": "S2545919",
+			"position": 96000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Describe hazardous and nonhazardous materials handling.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"BFE4AAB94CCE406CB5D66296ACDE961F": {
+			"id": "BFE4AAB94CCE406CB5D66296ACDE961F",
+			"asnIdentifier": "S2545918",
+			"position": 95000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Define the different types of process controls available.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"5CCB5BF2F6894E54994D25F7E9CEB4DC": {
+			"id": "5CCB5BF2F6894E54994D25F7E9CEB4DC",
+			"asnIdentifier": "S2545917",
+			"position": 94000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Identify and understand transportation options such as rail, air, road, and sea.",
+			"ancestorIds": [
+				"72BA29ABC0C742FBA8D42637A2BB8ED3",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"72BA29ABC0C742FBA8D42637A2BB8ED3": {
+			"id": "72BA29ABC0C742FBA8D42637A2BB8ED3",
+			"asnIdentifier": "S2545916",
+			"position": 93000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Demonstrate an understanding of the concepts and processes needed to move, store/house, locate, and/or transfer people, goods, and services.",
+			"ancestorIds": [
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"FD3FAF8054C1481FB814E56F773C99E3": {
+			"id": "FD3FAF8054C1481FB814E56F773C99E3",
+			"asnIdentifier": "S2545915",
+			"position": 92000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.8",
+			"description": "Research the various types of communication systems needed.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"62C56481B15446E89849DA4D12982F8B": {
+			"id": "62C56481B15446E89849DA4D12982F8B",
+			"asnIdentifier": "S2545914",
+			"position": 91000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.7",
+			"description": "Analyze asset acquisition and procurement needs.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"3BF56ABB48B24CCDABD4252F1CDDA734": {
+			"id": "3BF56ABB48B24CCDABD4252F1CDDA734",
+			"asnIdentifier": "S2545913",
+			"position": 90000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.6",
+			"description": "Explore career paths and opportunities within the transportation industry.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"6990EBD1396A46E79CB82C571C987A7F": {
+			"id": "6990EBD1396A46E79CB82C571C987A7F",
+			"asnIdentifier": "S2545912",
+			"position": 89000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.5",
+			"description": "Understand how guidelines, rules, regulations, and laws control transportation-industry practices and how they are overseen by local, state, federal, and international agencies.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"07619F7CA3B84A868DCEA6D87ACEEB66": {
+			"id": "07619F7CA3B84A868DCEA6D87ACEEB66",
+			"asnIdentifier": "S2545911",
+			"position": 88000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Maintain accurate records as applicable.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"66D94A5FB1E24AB09898303A804E6D6D": {
+			"id": "66D94A5FB1E24AB09898303A804E6D6D",
+			"asnIdentifier": "S2545910",
+			"position": 87000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Understand work-related systems of the transportation industries.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"133639CCD2E14EE9BCE87ED835E31F51": {
+			"id": "133639CCD2E14EE9BCE87ED835E31F51",
+			"asnIdentifier": "S2545909",
+			"position": 86000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Describe the production and use of industry-generated documents, records, and forms as well as related management skills used in the transportation industries.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"4E8AC3D6126F4948A47D23A982299E2F": {
+			"id": "4E8AC3D6126F4948A47D23A982299E2F",
+			"asnIdentifier": "S2545908",
+			"position": 85000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Define the role of management and the responsibility and importance that are required to hold or maintain a position.",
+			"ancestorIds": [
+				"11CEB536BF6E42B2A752244AE0460B75",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"11CEB536BF6E42B2A752244AE0460B75": {
+			"id": "11CEB536BF6E42B2A752244AE0460B75",
+			"asnIdentifier": "S2545907",
+			"position": 84000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Describe and identify tools, techniques, and systems used to plan, staff, lead, and organize human resources as it relates to the transportation sector.",
+			"ancestorIds": [
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"5081684D92C84FDF867C9F900F263839": {
+			"id": "5081684D92C84FDF867C9F900F263839",
+			"asnIdentifier": "S2545906",
+			"position": 83000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.5",
+			"description": "Design a/an processing center/office/shop.",
+			"ancestorIds": [
+				"BC4F0EE733C148BF8675859CC918A8D9",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"523168EAE11647F2B5B3FF4EFF4E0370": {
+			"id": "523168EAE11647F2B5B3FF4EFF4E0370",
+			"asnIdentifier": "S2545905",
+			"position": 82000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "Explain the difference between office area and processing areas.",
+			"ancestorIds": [
+				"BC4F0EE733C148BF8675859CC918A8D9",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"0FA672F861E34CAEAD9B9D4E36214D99": {
+			"id": "0FA672F861E34CAEAD9B9D4E36214D99",
+			"asnIdentifier": "S2545904",
+			"position": 81000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Identify where to place equipment for effective and efficient processing.",
+			"ancestorIds": [
+				"BC4F0EE733C148BF8675859CC918A8D9",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"C9160BDEAE7140C3A23ADCFEFD236258": {
+			"id": "C9160BDEAE7140C3A23ADCFEFD236258",
+			"asnIdentifier": "S2545903",
+			"position": 80000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Define and understand highway, rail, harbor, port, and airport controls.",
+			"ancestorIds": [
+				"BC4F0EE733C148BF8675859CC918A8D9",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"69C999050520432DBDE6CC46742F3930": {
+			"id": "69C999050520432DBDE6CC46742F3930",
+			"asnIdentifier": "S2545902",
+			"position": 79000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "Recognize the importance of space and location of equipment.",
+			"ancestorIds": [
+				"BC4F0EE733C148BF8675859CC918A8D9",
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"BC4F0EE733C148BF8675859CC918A8D9": {
+			"id": "BC4F0EE733C148BF8675859CC918A8D9",
+			"asnIdentifier": "S2545901",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Evaluate and assess all aspects of facilities and facility planning for efficient and effective processing/handling of people, goods, and services in the transportation industry (housing, storage, maintenance, parts).",
+			"ancestorIds": [
+				"8EC7BDF85CB94E38B596F961D6967950",
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"8EC7BDF85CB94E38B596F961D6967950": {
+			"id": "8EC7BDF85CB94E38B596F961D6967950",
+			"asnIdentifier": "S2545900",
+			"position": 77000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Operations",
+			"comments": [
+				"The Operations pathway prepares students for postsecondary employment and education in a variety of career opportunities in the transportation industry, including but not limited to harbors, ports, warehousing, marine applications, airplanes, trains, vehicles, and specialty equipment."
+			],
+			"ancestorIds": [
+				"FEF8287BB73C4525A831B4A156243987"
+			]
+		},
+		"FEF8287BB73C4525A831B4A156243987": {
+			"id": "FEF8287BB73C4525A831B4A156243987",
+			"asnIdentifier": "S2545899",
+			"position": 76000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"7544E6D37002472E959A37D2CCDD2FCF": {
+			"id": "7544E6D37002472E959A37D2CCDD2FCF",
+			"asnIdentifier": "S2545898",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"47111E91CA1846EAB427400EBF72BA4E",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"D913AEDF010E41A59A8DB3B98B0FE127": {
+			"id": "D913AEDF010E41A59A8DB3B98B0FE127",
+			"asnIdentifier": "S2545897",
+			"position": 74000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors as appropriate to the Transportation sector opportunities.",
+			"ancestorIds": [
+				"47111E91CA1846EAB427400EBF72BA4E",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"8BA32DC552CA4B65A9595C5F23539E56": {
+			"id": "8BA32DC552CA4B65A9595C5F23539E56",
+			"asnIdentifier": "S2545896",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"47111E91CA1846EAB427400EBF72BA4E",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"63D6D7E1489C4DBBAA64525F467F8DDD": {
+			"id": "63D6D7E1489C4DBBAA64525F467F8DDD",
+			"asnIdentifier": "S2545895",
+			"position": 72000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"47111E91CA1846EAB427400EBF72BA4E",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"1E0F8F3CAA394FE0AB5CD4CA16E80266": {
+			"id": "1E0F8F3CAA394FE0AB5CD4CA16E80266",
+			"asnIdentifier": "S2545894",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Transportation sector program of study.",
+			"ancestorIds": [
+				"47111E91CA1846EAB427400EBF72BA4E",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"47111E91CA1846EAB427400EBF72BA4E": {
+			"id": "47111E91CA1846EAB427400EBF72BA4E",
+			"asnIdentifier": "S2545893",
+			"position": 70000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Transportation anchor standards, pathway standards, and performance indicators in classroom, laboratory, and workplace settings, and through the SkillsUSA career technical student organization."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"ADBDCA61376245DD9315A1035216B075": {
+			"id": "ADBDCA61376245DD9315A1035216B075",
+			"asnIdentifier": "S2545892",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Collaborate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"DCD71C5587FD4AA586524DC0FEF59A8D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"70B7C22F9B3B4669A7C0E414848955A7": {
+			"id": "70B7C22F9B3B4669A7C0E414848955A7",
+			"asnIdentifier": "S2545891",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Transportation sector requirements and expectations.",
+			"ancestorIds": [
+				"DCD71C5587FD4AA586524DC0FEF59A8D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"D6ED7AF9EBA64984A78B22176B70419F": {
+			"id": "D6ED7AF9EBA64984A78B22176B70419F",
+			"asnIdentifier": "S2545890",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Transportation sector.",
+			"ancestorIds": [
+				"DCD71C5587FD4AA586524DC0FEF59A8D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"D4E5DB1E568F431BA6EF19F60C911F28": {
+			"id": "D4E5DB1E568F431BA6EF19F60C911F28",
+			"asnIdentifier": "S2545889",
+			"position": 66000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Transportation sector.",
+			"ancestorIds": [
+				"DCD71C5587FD4AA586524DC0FEF59A8D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"DCD71C5587FD4AA586524DC0FEF59A8D": {
+			"id": "DCD71C5587FD4AA586524DC0FEF59A8D",
+			"asnIdentifier": "S2545888",
+			"position": 65000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Transportation sector, following procedures when carrying out experiments or performing technical tasks."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"AC5AED960FCC4B408D67F96C9AFECF51": {
+			"id": "AC5AED960FCC4B408D67F96C9AFECF51",
+			"asnIdentifier": "S2545887",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Transportation sector issues and problems.",
+			"ancestorIds": [
+				"08DAD6CD43AF49E8A6BEA536B1472BE9",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"73FE491AA3554ED996FA4457B2C86E91": {
+			"id": "73FE491AA3554ED996FA4457B2C86E91",
+			"asnIdentifier": "S2545886",
+			"position": 63000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"08DAD6CD43AF49E8A6BEA536B1472BE9",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"D03BCA1BE7AA4D7E935D788CA3805823": {
+			"id": "D03BCA1BE7AA4D7E935D788CA3805823",
+			"asnIdentifier": "S2545885",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"08DAD6CD43AF49E8A6BEA536B1472BE9",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"F3669C7208AB4E77AF6E3CF05C0FCC5A": {
+			"id": "F3669C7208AB4E77AF6E3CF05C0FCC5A",
+			"asnIdentifier": "S2545884",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"08DAD6CD43AF49E8A6BEA536B1472BE9",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"A8E14306A32D468ABEF968D6CBC29EDA": {
+			"id": "A8E14306A32D468ABEF968D6CBC29EDA",
+			"asnIdentifier": "S2545883",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"08DAD6CD43AF49E8A6BEA536B1472BE9",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"04AF731F10174CEC999D41C77B06BD15": {
+			"id": "04AF731F10174CEC999D41C77B06BD15",
+			"asnIdentifier": "S2545882",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"08DAD6CD43AF49E8A6BEA536B1472BE9",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"6CD1E237314F4FA3B6346CBE27C9B2CD": {
+			"id": "6CD1E237314F4FA3B6346CBE27C9B2CD",
+			"asnIdentifier": "S2545881",
+			"position": 58000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"08DAD6CD43AF49E8A6BEA536B1472BE9",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"08DAD6CD43AF49E8A6BEA536B1472BE9": {
+			"id": "08DAD6CD43AF49E8A6BEA536B1472BE9",
+			"asnIdentifier": "S2545880",
+			"position": 57000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution as practiced in the SkillsUSA career technical student organization"
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"574232207D8A4927A449A0B13B95741B": {
+			"id": "574232207D8A4927A449A0B13B95741B",
+			"asnIdentifier": "S2545879",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Transportation sector laws and practices.",
+			"ancestorIds": [
+				"F888CCF1D52E42E1B2FF3F8A26A758DE",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"435CFFBD23404DE1812D61DCE7AE1330": {
+			"id": "435CFFBD23404DE1812D61DCE7AE1330",
+			"asnIdentifier": "S2545878",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"F888CCF1D52E42E1B2FF3F8A26A758DE",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"4BFF111D832843D282FCB9BFE00AC45A": {
+			"id": "4BFF111D832843D282FCB9BFE00AC45A",
+			"asnIdentifier": "S2545877",
+			"position": 54000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"F888CCF1D52E42E1B2FF3F8A26A758DE",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"650D1D123246403A90965A7FC45005C5": {
+			"id": "650D1D123246403A90965A7FC45005C5",
+			"asnIdentifier": "S2545876",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"F888CCF1D52E42E1B2FF3F8A26A758DE",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"5294D94EAD3E43C98869F851C89CF12D": {
+			"id": "5294D94EAD3E43C98869F851C89CF12D",
+			"asnIdentifier": "S2545875",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Transportation sector workplace standards.",
+			"ancestorIds": [
+				"F888CCF1D52E42E1B2FF3F8A26A758DE",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"ED4B391B4585474D94D6240285594BCB": {
+			"id": "ED4B391B4585474D94D6240285594BCB",
+			"asnIdentifier": "S2545874",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, and federal regulatory agencies, entities, laws, and regulations related to the Transportation industry sector.",
+			"ancestorIds": [
+				"F888CCF1D52E42E1B2FF3F8A26A758DE",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"82C95445729E464F8E79397B8CAF069C": {
+			"id": "82C95445729E464F8E79397B8CAF069C",
+			"asnIdentifier": "S2545873",
+			"position": 50000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"F888CCF1D52E42E1B2FF3F8A26A758DE",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"F888CCF1D52E42E1B2FF3F8A26A758DE": {
+			"id": "F888CCF1D52E42E1B2FF3F8A26A758DE",
+			"asnIdentifier": "S2545872",
+			"position": 49000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "8.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"4FFD9D94845F4D66A38213CEC4CFC153": {
+			"id": "4FFD9D94845F4D66A38213CEC4CFC153",
+			"asnIdentifier": "S2545871",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Transportation sector.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"FCCF947A767B4951A317A788613A44FC": {
+			"id": "FCCF947A767B4951A317A788613A44FC",
+			"asnIdentifier": "S2545870",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"4CABB7515ADC48BCB96AA01DBABF20F3": {
+			"id": "4CABB7515ADC48BCB96AA01DBABF20F3",
+			"asnIdentifier": "S2545869",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"B3C3925FF9444AFEBC61B9CD25B374E6": {
+			"id": "B3C3925FF9444AFEBC61B9CD25B374E6",
+			"asnIdentifier": "S2545868",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"07FF4E819F18415CA3FE9EB0E4FF39E8": {
+			"id": "07FF4E819F18415CA3FE9EB0E4FF39E8",
+			"asnIdentifier": "S2545867",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"7FE1415B01764152BF45F47FFF8A1392": {
+			"id": "7FE1415B01764152BF45F47FFF8A1392",
+			"asnIdentifier": "S2545866",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"1AC02CBB52DC450D90DC26E6D21072A2": {
+			"id": "1AC02CBB52DC450D90DC26E6D21072A2",
+			"asnIdentifier": "S2545865",
+			"position": 42000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"A101D2719EF44D76B0B96E41D2CE155C": {
+			"id": "A101D2719EF44D76B0B96E41D2CE155C",
+			"asnIdentifier": "S2545864",
+			"position": 41000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"956B01C605B5447A9C58774A9408E40D",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"956B01C605B5447A9C58774A9408E40D": {
+			"id": "956B01C605B5447A9C58774A9408E40D",
+			"asnIdentifier": "S2545863",
+			"position": 40000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate, and participate in, a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Transportation sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"D9DC1EDB480A44F38705B40C219A6ED5": {
+			"id": "D9DC1EDB480A44F38705B40C219A6ED5",
+			"asnIdentifier": "S2545862",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Be informed of laws/acts pertaining to the Occupational Safety and Health Administration (OSHA).",
+			"ancestorIds": [
+				"885A4401E206491192FD2F6788504A5A",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"9FF5A683726F40CBA5FEC11990C8895C": {
+			"id": "9FF5A683726F40CBA5FEC11990C8895C",
+			"asnIdentifier": "S2545861",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"885A4401E206491192FD2F6788504A5A",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"C044AA69713E488A9738660423EFC080": {
+			"id": "C044AA69713E488A9738660423EFC080",
+			"asnIdentifier": "S2545860",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.5",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"885A4401E206491192FD2F6788504A5A",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"70C7D22DD79B4B28BB650BCCE8434A03": {
+			"id": "70C7D22DD79B4B28BB650BCCE8434A03",
+			"asnIdentifier": "S2545859",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"885A4401E206491192FD2F6788504A5A",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"6D54874980E04DAF9ED5C004D10DEE0B": {
+			"id": "6D54874980E04DAF9ED5C004D10DEE0B",
+			"asnIdentifier": "S2545858",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"885A4401E206491192FD2F6788504A5A",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"9A0D3988682A4E2D9108D4149939209A": {
+			"id": "9A0D3988682A4E2D9108D4149939209A",
+			"asnIdentifier": "S2545857",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"885A4401E206491192FD2F6788504A5A",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"4300132241A74621B1DCCCDB3415B49E": {
+			"id": "4300132241A74621B1DCCCDB3415B49E",
+			"asnIdentifier": "S2545856",
+			"position": 33000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate, and adhere to, Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"885A4401E206491192FD2F6788504A5A",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"885A4401E206491192FD2F6788504A5A": {
+			"id": "885A4401E206491192FD2F6788504A5A",
+			"asnIdentifier": "S2545855",
+			"position": 32000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Transportation sector workplace environment."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"DDDCF79FAA0D431D99FDC960F491AC7A": {
+			"id": "DDDCF79FAA0D431D99FDC960F491AC7A",
+			"asnIdentifier": "S2545854",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"7FB832887A1D40758E920FB1E897B73F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"FF53BDCADBC94EC39EF77521BC11A373": {
+			"id": "FF53BDCADBC94EC39EF77521BC11A373",
+			"asnIdentifier": "S2545853",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"7FB832887A1D40758E920FB1E897B73F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"4231C0094A964CCDAF8C58E75A7FDDFE": {
+			"id": "4231C0094A964CCDAF8C58E75A7FDDFE",
+			"asnIdentifier": "S2545852",
+			"position": 29000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"7FB832887A1D40758E920FB1E897B73F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"3C904DE4CD5647AEA8D3107C79F2E78B": {
+			"id": "3C904DE4CD5647AEA8D3107C79F2E78B",
+			"asnIdentifier": "S2545851",
+			"position": 28000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"7FB832887A1D40758E920FB1E897B73F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"7FB832887A1D40758E920FB1E897B73F": {
+			"id": "7FB832887A1D40758E920FB1E897B73F",
+			"asnIdentifier": "S2545850",
+			"position": 27000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short, as well as more sustained, research to create alternative solutions to answer a question or solve a problem unique to the Transportation sector using critical and creative thinking, logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"80815B5709B84FC491277C22D7996F44": {
+			"id": "80815B5709B84FC491277C22D7996F44",
+			"asnIdentifier": "S2545849",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"1C6703A8AC0147398EA9363AE5879865",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"A27A3FD1139E46BCBE285D6CE1EE4FDD": {
+			"id": "A27A3FD1139E46BCBE285D6CE1EE4FDD",
+			"asnIdentifier": "S2545848",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"1C6703A8AC0147398EA9363AE5879865",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"D44BF4DD85504369AAC77977F5D5C885": {
+			"id": "D44BF4DD85504369AAC77977F5D5C885",
+			"asnIdentifier": "S2545847",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"1C6703A8AC0147398EA9363AE5879865",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"6C07D765984A4334BDB43149BC17B519": {
+			"id": "6C07D765984A4334BDB43149BC17B519",
+			"asnIdentifier": "S2545846",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"1C6703A8AC0147398EA9363AE5879865",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"5CA026595EC44CBBAB63AB281FFAFD90": {
+			"id": "5CA026595EC44CBBAB63AB281FFAFD90",
+			"asnIdentifier": "S2545845",
+			"position": 22000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ Web-based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"1C6703A8AC0147398EA9363AE5879865",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"CDB2CE4D5E4940B7952AA882AF17E99B": {
+			"id": "CDB2CE4D5E4940B7952AA882AF17E99B",
+			"asnIdentifier": "S2545844",
+			"position": 21000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"1C6703A8AC0147398EA9363AE5879865",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"1C6703A8AC0147398EA9363AE5879865": {
+			"id": "1C6703A8AC0147398EA9363AE5879865",
+			"asnIdentifier": "S2545843",
+			"position": 20000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology to investigate, research, and produce products and services, including new information, as required in the Transportation sector workplace environment."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"FC36A6C640D546FC8FE414C5077C8A6F": {
+			"id": "FC36A6C640D546FC8FE414C5077C8A6F",
+			"asnIdentifier": "S2545842",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"26756839C2D64299B959FE6F59C409D6": {
+			"id": "26756839C2D64299B959FE6F59C409D6",
+			"asnIdentifier": "S2545841",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"FADDA576DA9848BC95BD08A4A4E0349E": {
+			"id": "FADDA576DA9848BC95BD08A4A4E0349E",
+			"asnIdentifier": "S2545840",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"7D2FE28F30C04E858EBF6A354BFE5B57": {
+			"id": "7D2FE28F30C04E858EBF6A354BFE5B57",
+			"asnIdentifier": "S2545839",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"139C5D5F4DB0466CBE1E7E742A0E03EA": {
+			"id": "139C5D5F4DB0466CBE1E7E742A0E03EA",
+			"asnIdentifier": "S2545838",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"56ECA45811BA4B6A8176835558965404": {
+			"id": "56ECA45811BA4B6A8176835558965404",
+			"asnIdentifier": "S2545837",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"2E912880B585400584C242D2EACCF47B": {
+			"id": "2E912880B585400584C242D2EACCF47B",
+			"asnIdentifier": "S2545836",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"747A61742B524493A778EDAADF93A77B": {
+			"id": "747A61742B524493A778EDAADF93A77B",
+			"asnIdentifier": "S2545835",
+			"position": 12000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits such as trust, respect, and responsibility and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"120FE9DF108948DD85C95F85C29CDC63": {
+			"id": "120FE9DF108948DD85C95F85C29CDC63",
+			"asnIdentifier": "S2545834",
+			"position": 11000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"B9C6FD26FCEE4371890FE06BEE657BFF",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"B9C6FD26FCEE4371890FE06BEE657BFF": {
+			"id": "B9C6FD26FCEE4371890FE06BEE657BFF",
+			"asnIdentifier": "S2545833",
+			"position": 10000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"4365E23B027D45E1AC05DC229C746C1F": {
+			"id": "4365E23B027D45E1AC05DC229C746C1F",
+			"asnIdentifier": "S2545832",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"676EB61936944740B77143889E127E2F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"D7EBC552D5E94A24BF78AAD2F621580F": {
+			"id": "D7EBC552D5E94A24BF78AAD2F621580F",
+			"asnIdentifier": "S2545831",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"676EB61936944740B77143889E127E2F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"EB2846B47ECF40039028E9E2897DDC34": {
+			"id": "EB2846B47ECF40039028E9E2897DDC34",
+			"asnIdentifier": "S2545830",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Demonstrate elements of written and electronic communication such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"676EB61936944740B77143889E127E2F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"BFD18BC4484A447E9A3F9AAC9783D2C7": {
+			"id": "BFD18BC4484A447E9A3F9AAC9783D2C7",
+			"asnIdentifier": "S2545829",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"676EB61936944740B77143889E127E2F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"CB202667B73D45A3944990E829A0E844": {
+			"id": "CB202667B73D45A3944990E829A0E844",
+			"asnIdentifier": "S2545828",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"676EB61936944740B77143889E127E2F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"3697F0B956BE46EB8D6904CC6703D918": {
+			"id": "3697F0B956BE46EB8D6904CC6703D918",
+			"asnIdentifier": "S2545827",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"676EB61936944740B77143889E127E2F",
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"676EB61936944740B77143889E127E2F": {
+			"id": "676EB61936944740B77143889E127E2F",
+			"asnIdentifier": "S2545826",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire and accurately use Transportation sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"0F8F4B67E78C49679B12E6B454E6E22B": {
+			"id": "0F8F4B67E78C49679B12E6B454E6E22B",
+			"asnIdentifier": "S2545825",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Transportation academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"2933A1E479084BFD85E13CD47E035E22"
+			]
+		},
+		"2933A1E479084BFD85E13CD47E035E22": {
+			"id": "2933A1E479084BFD85E13CD47E035E22",
+			"asnIdentifier": "S2545824",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}

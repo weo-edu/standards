@@ -1,0 +1,897 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D10002A5_grade-06",
+	"title": "Grade 6",
+	"subject": "History & Social Studies",
+	"educationLevels": [
+		"06"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D10002A5",
+		"valid": "1998",
+		"title": "History-Social Science Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/histsocscistnd.pdf",
+		"asnIdentifier": "D10002A5",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"BDC6F5E0DFE40131012E68A86D17958E": {
+			"id": "BDC6F5E0DFE40131012E68A86D17958E",
+			"asnIdentifier": "S1043276",
+			"position": 74000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Discuss the legacies of Roman art and architecture, technology and science, literature, language, and law.",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC6A4D0DFE40131012D68A86D17958E": {
+			"id": "BDC6A4D0DFE40131012D68A86D17958E",
+			"asnIdentifier": "S1043275",
+			"position": 73000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Describe the circumstances that led to the spread of Christianity in Europe and other Roman territories.",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC66450DFE40131012C68A86D17958E": {
+			"id": "BDC66450DFE40131012C68A86D17958E",
+			"asnIdentifier": "S1043274",
+			"position": 72000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Note the origins of Christianity in the Jewish Messianic prophecies, the life and teachings of Jesus of Nazareth as described in the New Testament, and the contribution of St. Paul the Apostle to the definition and spread of Christian beliefs (e.g., belief in the Trinity, resurrection, salvation).",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC62380DFE40131012B68A86D17958E": {
+			"id": "BDC62380DFE40131012B68A86D17958E",
+			"asnIdentifier": "S1043273",
+			"position": 71000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Trace the migration of Jews around the Mediterranean region and the effects of their conflict with the Romans, including the Romans' restrictions on their right to live in Jerusalem.",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC5E370DFE40131012A68A86D17958E": {
+			"id": "BDC5E370DFE40131012A68A86D17958E",
+			"asnIdentifier": "S1043272",
+			"position": 70000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Discuss the influence of Julius Caesar and Augustus in Rome's transition from republic to empire.",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC5A180DFE40131012968A86D17958E": {
+			"id": "BDC5A180DFE40131012968A86D17958E",
+			"asnIdentifier": "S1043271",
+			"position": 69000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Identify the location of and the political and geographic reasons for the growth of Roman territories and expansion of the empire, including how the empire fostered economic growth through the use of currency and trade routes.",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC55F20DFE40131012868A86D17958E": {
+			"id": "BDC55F20DFE40131012868A86D17958E",
+			"asnIdentifier": "S1043270",
+			"position": 68000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Describe the government of the Roman Republic and its significance (e.g., written constitution and tripartite government, checks and balances, civic duty).",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC51910DFE40131012768A86D17958E": {
+			"id": "BDC51910DFE40131012768A86D17958E",
+			"asnIdentifier": "S104326F",
+			"position": 67000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Identify the location and describe the rise of the Roman Republic, including the importance of such mythical and historical figures as Aeneas, Romulus and Remus, Cincinnatus, Julius Caesar, and Cicero.",
+			"ancestorIds": [
+				"BDC4BD90DFE40131012668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC4BD90DFE40131012668A86D17958E": {
+			"id": "BDC4BD90DFE40131012668A86D17958E",
+			"asnIdentifier": "S1042C3F",
+			"position": 66000,
+			"depth": 1,
+			"listId": "6.7",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures during the development of Rome.",
+			"ancestorIds": [
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC46E80DFE40131012568A86D17958E": {
+			"id": "BDC46E80DFE40131012568A86D17958E",
+			"asnIdentifier": "S104326E",
+			"position": 65000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Describe the diffusion of Buddhism northward to China during the Han Dynasty.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC40780DFE40131012468A86D17958E": {
+			"id": "BDC40780DFE40131012468A86D17958E",
+			"asnIdentifier": "S104326D",
+			"position": 64000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Cite the significance of the trans-Eurasian \"silk roads\" in the period of the Han Dynasty and Roman Empire and their locations.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC3C7F0DFE40131012368A86D17958E": {
+			"id": "BDC3C7F0DFE40131012368A86D17958E",
+			"asnIdentifier": "S104326C",
+			"position": 63000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Detail the political contributions of the Han Dynasty to the develop­ment of the imperial bureaucratic state and the expansion of the empire.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC38270DFE40131012268A86D17958E": {
+			"id": "BDC38270DFE40131012268A86D17958E",
+			"asnIdentifier": "S104326B",
+			"position": 62000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "List the policies and achievements of the emperor Shi Huangdi in unifying northern China under the Qin Dynasty.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC33110DFE40131012168A86D17958E": {
+			"id": "BDC33110DFE40131012168A86D17958E",
+			"asnIdentifier": "S104326A",
+			"position": 61000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Identify the political and cultural problems prevalent in the time of Confucius and how he sought to solve them.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC2E0B0DFE40131012068A86D17958E": {
+			"id": "BDC2E0B0DFE40131012068A86D17958E",
+			"asnIdentifier": "S1043269",
+			"position": 60000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Know about the life of Confucius and the fundamental teachings of Confucianism and Daoism.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC27A80DFE40131011F68A86D17958E": {
+			"id": "BDC27A80DFE40131011F68A86D17958E",
+			"asnIdentifier": "S1043268",
+			"position": 59000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Explain the geographic features of China that made governance and the spread of ideas and goods difficult and served to isolate the country from the rest of the world.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC22CA0DFE40131011E68A86D17958E": {
+			"id": "BDC22CA0DFE40131011E68A86D17958E",
+			"asnIdentifier": "S1043267",
+			"position": 58000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Locate and describe the origins of Chinese civilization in the Huang-He Valley during the Shang Dynasty.",
+			"ancestorIds": [
+				"BDC1E790DFE40131011D68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC1E790DFE40131011D68A86D17958E": {
+			"id": "BDC1E790DFE40131011D68A86D17958E",
+			"asnIdentifier": "S1042C3E",
+			"position": 57000,
+			"depth": 1,
+			"listId": "6.6",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the early civilizations of China.",
+			"ancestorIds": [
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC19C20DFE40131011C68A86D17958E": {
+			"id": "BDC19C20DFE40131011C68A86D17958E",
+			"asnIdentifier": "S1043266",
+			"position": 56000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Discuss important aesthetic and intellectual traditions (e.g., Sanskrit literature, including the Bhagavad Gita; medicine; metallurgy; and mathematics, including Hindu-Arabic numerals and the zero).",
+			"ancestorIds": [
+				"BDBF6770DFE40131011568A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC14A20DFE40131011B68A86D17958E": {
+			"id": "BDC14A20DFE40131011B68A86D17958E",
+			"asnIdentifier": "S1043265",
+			"position": 55000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Describe the growth of the Maurya empire and the political and moral achievements of the emperor Asoka.",
+			"ancestorIds": [
+				"BDBF6770DFE40131011568A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC10530DFE40131011A68A86D17958E": {
+			"id": "BDC10530DFE40131011A68A86D17958E",
+			"asnIdentifier": "S1043264",
+			"position": 54000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Know the life and moral teachings of the Buddha and how Buddhism spread in India, Ceylon, and Central Asia.",
+			"ancestorIds": [
+				"BDBF6770DFE40131011568A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC0BE20DFE40131011968A86D17958E": {
+			"id": "BDC0BE20DFE40131011968A86D17958E",
+			"asnIdentifier": "S1043263",
+			"position": 53000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Outline the social structure of the caste system.",
+			"ancestorIds": [
+				"BDBF6770DFE40131011568A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC07B40DFE40131011868A86D17958E": {
+			"id": "BDC07B40DFE40131011868A86D17958E",
+			"asnIdentifier": "S1043262",
+			"position": 52000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain the major beliefs and practices of Brahmanism in India and how they evolved into early Hinduism.",
+			"ancestorIds": [
+				"BDBF6770DFE40131011568A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDC03580DFE40131011768A86D17958E": {
+			"id": "BDC03580DFE40131011768A86D17958E",
+			"asnIdentifier": "S1043261",
+			"position": 51000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Discuss the significance of the Aryan invasions.",
+			"ancestorIds": [
+				"BDBF6770DFE40131011568A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBFE340DFE40131011668A86D17958E": {
+			"id": "BDBFE340DFE40131011668A86D17958E",
+			"asnIdentifier": "S1043260",
+			"position": 50000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Locate and describe the major river system and discuss the physical setting that supported the rise of this civilization.",
+			"ancestorIds": [
+				"BDBF6770DFE40131011568A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBF6770DFE40131011568A86D17958E": {
+			"id": "BDBF6770DFE40131011568A86D17958E",
+			"asnIdentifier": "S1042C3D",
+			"position": 49000,
+			"depth": 1,
+			"listId": "6.5",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the early civilizations of India.",
+			"ancestorIds": [
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBF0E90DFE40131011468A86D17958E": {
+			"id": "BDBF0E90DFE40131011468A86D17958E",
+			"asnIdentifier": "S104325F",
+			"position": 48000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Describe the enduring contributions of important Greek figures in the arts and sciences (e.g., Hypatia, Socrates, Plato, Aristotle, Euclid, Thucydides).",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBECE70DFE40131011368A86D17958E": {
+			"id": "BDBECE70DFE40131011368A86D17958E",
+			"asnIdentifier": "S104325E",
+			"position": 47000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Trace the rise of Alexander the Great and the spread of Greek culture eastward and into Egypt.",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBE8F10DFE40131011268A86D17958E": {
+			"id": "BDBE8F10DFE40131011268A86D17958E",
+			"asnIdentifier": "S104325D",
+			"position": 46000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Compare and contrast life in Athens and Sparta, with emphasis on their roles in the Persian and Peloponnesian Wars.",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBE4D10DFE40131011168A86D17958E": {
+			"id": "BDBE4D10DFE40131011168A86D17958E",
+			"asnIdentifier": "S104325C",
+			"position": 45000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Outline the founding, expansion, and political organization of the Persian Empire.",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBE04C0DFE40131011068A86D17958E": {
+			"id": "BDBE04C0DFE40131011068A86D17958E",
+			"asnIdentifier": "S104325B",
+			"position": 44000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Explain the significance of Greek mythology to the everyday life of people in the region and how Greek literature continues to permeate our literature and language today, drawing from Greek mythology and epics, such as Homer's Iliad and Odyssey, and from Aesop's Fables.",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBDB430DFE40131010F68A86D17958E": {
+			"id": "BDBDB430DFE40131010F68A86D17958E",
+			"asnIdentifier": "S1043259",
+			"position": 43000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "State the key differences between Athenian, or direct, democracy and representative democracy.",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBD7050DFE40131010E68A86D17958E": {
+			"id": "BDBD7050DFE40131010E68A86D17958E",
+			"asnIdentifier": "S104325A",
+			"position": 42000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Trace the transition from tyranny and oligarchy to early democratic forms of government and back to dictatorship in ancient Greece, including the significance of the invention of the idea of citizenship (e.g., from Pericles' Funeral Oration).",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBD29C0DFE40131010D68A86D17958E": {
+			"id": "BDBD29C0DFE40131010D68A86D17958E",
+			"asnIdentifier": "S1043258",
+			"position": 41000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Discuss the connections between geography and the development of city-states in the region of the Aegean Sea, including patterns of trade and commerce among Greek city-states and within the wider Mediterranean region.",
+			"ancestorIds": [
+				"BDBCC560DFE40131010C68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBCC560DFE40131010C68A86D17958E": {
+			"id": "BDBCC560DFE40131010C68A86D17958E",
+			"asnIdentifier": "S1042C3C",
+			"position": 40000,
+			"depth": 1,
+			"listId": "6.4",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the early civilizations of Ancient Greece.",
+			"ancestorIds": [
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBC75D0DFE40131010B68A86D17958E": {
+			"id": "BDBC75D0DFE40131010B68A86D17958E",
+			"asnIdentifier": "S1043257",
+			"position": 39000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss how Judaism survived and developed despite the continuing dispersion of much of the Jewish population from Jerusalem and the rest of Israel after the destruction of the second Temple in A.D. 70.",
+			"ancestorIds": [
+				"BDBB2350DFE40131010668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBC2D90DFE40131010A68A86D17958E": {
+			"id": "BDBC2D90DFE40131010A68A86D17958E",
+			"asnIdentifier": "S1043256",
+			"position": 38000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Discuss the locations of the settlements and movements of Hebrew peoples, including the Exodus and their movement to and from Egypt, and outline the significance of the Exodus to the Jewish and other people.",
+			"ancestorIds": [
+				"BDBB2350DFE40131010668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBBE6C0DFE40131010968A86D17958E": {
+			"id": "BDBBE6C0DFE40131010968A86D17958E",
+			"asnIdentifier": "S1043255",
+			"position": 37000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Explain the significance of Abraham, Moses, Naomi, Ruth, David, and Yohanan ben Zaccai in the development of the Jewish religion.",
+			"ancestorIds": [
+				"BDBB2350DFE40131010668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBBA480DFE40131010868A86D17958E": {
+			"id": "BDBBA480DFE40131010868A86D17958E",
+			"asnIdentifier": "S1043254",
+			"position": 36000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Identify the sources of the ethical teachings and central beliefs of Judaism (the Hebrew Bible, the Commentaries): belief in God, observance of law, practice of the concepts of righteousness and justice, and importance of study; and describe how the ideas of the Hebrew traditions are reflected in the moral and ethical traditions of Western civilization.",
+			"ancestorIds": [
+				"BDBB2350DFE40131010668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBB6550DFE40131010768A86D17958E": {
+			"id": "BDBB6550DFE40131010768A86D17958E",
+			"asnIdentifier": "S1043253",
+			"position": 35000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the origins and significance of Judaism as the first monothe­istic religion based on the concept of one God who sets down moral laws for humanity.",
+			"ancestorIds": [
+				"BDBB2350DFE40131010668A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBB2350DFE40131010668A86D17958E": {
+			"id": "BDBB2350DFE40131010668A86D17958E",
+			"asnIdentifier": "S1042C3B",
+			"position": 34000,
+			"depth": 1,
+			"listId": "6.3",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the Ancient Hebrews.",
+			"ancestorIds": [
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBAE010DFE40131010568A86D17958E": {
+			"id": "BDBAE010DFE40131010568A86D17958E",
+			"asnIdentifier": "S1043252",
+			"position": 33000,
+			"depth": 2,
+			"listId": "9.",
+			"description": "Trace the evolution of language and its written forms.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBA94E0DFE40131010468A86D17958E": {
+			"id": "BDBA94E0DFE40131010468A86D17958E",
+			"asnIdentifier": "S1043251",
+			"position": 32000,
+			"depth": 2,
+			"listId": "8.",
+			"description": "Identify the location of the Kush civilization and describe its political, commercial, and cultural relations with Egypt.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBA5430DFE40131010368A86D17958E": {
+			"id": "BDBA5430DFE40131010368A86D17958E",
+			"asnIdentifier": "S1043250",
+			"position": 31000,
+			"depth": 2,
+			"listId": "7.",
+			"description": "Understand the significance of Queen Hatshepsut and Ramses the Great.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDBA1180DFE40131010268A86D17958E": {
+			"id": "BDBA1180DFE40131010268A86D17958E",
+			"asnIdentifier": "S104324F",
+			"position": 30000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Describe the role of Egyptian trade in the eastern Mediterranean and Nile valley.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB9CE50DFE40131010168A86D17958E": {
+			"id": "BDB9CE50DFE40131010168A86D17958E",
+			"asnIdentifier": "S104324E",
+			"position": 29000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Discuss the main features of Egyptian art and architecture.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB98CE0DFE40131010068A86D17958E": {
+			"id": "BDB98CE0DFE40131010068A86D17958E",
+			"asnIdentifier": "S104324D",
+			"position": 28000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Know the significance of Hammurabi's Code.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB94890DFE4013100FF68A86D17958E": {
+			"id": "BDB94890DFE4013100FF68A86D17958E",
+			"asnIdentifier": "S104324C",
+			"position": 27000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Understand the relationship between religion and the social and political order in Mesopotamia and Egypt.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB900F0DFE4013100FE68A86D17958E": {
+			"id": "BDB900F0DFE4013100FE68A86D17958E",
+			"asnIdentifier": "S104324B",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Trace the development of agricultural techniques that permitted the production of economic surplus and the emergence of cities as centers of culture and power.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB8B700DFE4013100FD68A86D17958E": {
+			"id": "BDB8B700DFE4013100FD68A86D17958E",
+			"asnIdentifier": "S104324A",
+			"position": 25000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Locate and describe the major river systems and discuss the physical settings that supported permanent settlement and early civilizations.",
+			"ancestorIds": [
+				"BDB87670DFE4013100FC68A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB87670DFE4013100FC68A86D17958E": {
+			"id": "BDB87670DFE4013100FC68A86D17958E",
+			"asnIdentifier": "S1042C3A",
+			"position": 24000,
+			"depth": 1,
+			"listId": "6.2",
+			"description": "Students analyze the geographic, political, economic, religious, and social structures of the early civilizations of Mesopotamia, Egypt, and Kush.",
+			"ancestorIds": [
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB83030DFE4013100FB68A86D17958E": {
+			"id": "BDB83030DFE4013100FB68A86D17958E",
+			"asnIdentifier": "S1043249",
+			"position": 23000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Discuss the climatic changes and human modifications of the physical environment that gave rise to the domestication of plants and animals and new sources of clothing and shelter.",
+			"ancestorIds": [
+				"BDB73A60DFE4013100F868A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB7E100DFE4013100FA68A86D17958E": {
+			"id": "BDB7E100DFE4013100FA68A86D17958E",
+			"asnIdentifier": "S1043248",
+			"position": 22000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Identify the locations of human communities that populated the major regions of the world and describe how humans adapted to a variety of environments.",
+			"ancestorIds": [
+				"BDB73A60DFE4013100F868A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB79050DFE4013100F968A86D17958E": {
+			"id": "BDB79050DFE4013100F968A86D17958E",
+			"asnIdentifier": "S1043247",
+			"position": 21000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Describe the hunter-gatherer societies, including the development of tools and the use of fire.",
+			"ancestorIds": [
+				"BDB73A60DFE4013100F868A86D17958E",
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB73A60DFE4013100F868A86D17958E": {
+			"id": "BDB73A60DFE4013100F868A86D17958E",
+			"asnIdentifier": "S1042C39",
+			"position": 20000,
+			"depth": 1,
+			"listId": "6.1",
+			"description": "Students describe what is known through archaeological studies of the early physical and cultural development of humankind from the Paleolithic era to the agricultural revolution.",
+			"ancestorIds": [
+				"BDB6D980DFE4013100F768A86D17958E"
+			]
+		},
+		"BDB6D980DFE4013100F768A86D17958E": {
+			"id": "BDB6D980DFE4013100F768A86D17958E",
+			"asnIdentifier": "S1042C08",
+			"position": 19000,
+			"depth": 0,
+			"description": "World History and Geography: Ancient Civilizations",
+			"ancestorIds": [
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB699C0DFE4013100F668A86D17958E": {
+			"id": "BDB699C0DFE4013100F668A86D17958E",
+			"asnIdentifier": "S1042BD2",
+			"position": 18000,
+			"depth": 2,
+			"listId": "6.",
+			"description": "Students interpret basic indicators of economic performance and conduct cost-benefit analyses of economic and political issues.",
+			"ancestorIds": [
+				"BDB50A10DFE4013100F068A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB65BA0DFE4013100F568A86D17958E": {
+			"id": "BDB65BA0DFE4013100F568A86D17958E",
+			"asnIdentifier": "S1042BD1",
+			"position": 17000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students recognize that interpretations of history are subject to change as new information is uncovered.",
+			"ancestorIds": [
+				"BDB50A10DFE4013100F068A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB61D10DFE4013100F468A86D17958E": {
+			"id": "BDB61D10DFE4013100F468A86D17958E",
+			"asnIdentifier": "S1042BD0",
+			"position": 16000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students recognize the role of chance, oversight, and error in history.",
+			"ancestorIds": [
+				"BDB50A10DFE4013100F068A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB5DDE0DFE4013100F368A86D17958E": {
+			"id": "BDB5DDE0DFE4013100F368A86D17958E",
+			"asnIdentifier": "S1042BCF",
+			"position": 15000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students explain the sources of historical continuity and how the combination of ideas and events explains the emergence of new patterns.",
+			"ancestorIds": [
+				"BDB50A10DFE4013100F068A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB59C10DFE4013100F268A86D17958E": {
+			"id": "BDB59C10DFE4013100F268A86D17958E",
+			"asnIdentifier": "S1042BCE",
+			"position": 14000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students understand and distinguish cause, effect, sequence, and correlation in historical events, including the long-and short-term causal relations.",
+			"ancestorIds": [
+				"BDB50A10DFE4013100F068A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB55640DFE4013100F168A86D17958E": {
+			"id": "BDB55640DFE4013100F168A86D17958E",
+			"asnIdentifier": "S1042BCD",
+			"position": 13000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students explain the central issues and problems from the past, placing people and events in a matrix of time and place.",
+			"ancestorIds": [
+				"BDB50A10DFE4013100F068A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB50A10DFE4013100F068A86D17958E": {
+			"id": "BDB50A10DFE4013100F068A86D17958E",
+			"asnIdentifier": "S1042BB8",
+			"position": 12000,
+			"depth": 1,
+			"description": "Historical Interpretation",
+			"ancestorIds": [
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB4B950DFE4013100EF68A86D17958E": {
+			"id": "BDB4B950DFE4013100EF68A86D17958E",
+			"asnIdentifier": "S1042BCC",
+			"position": 11000,
+			"depth": 2,
+			"listId": "5.",
+			"description": "Students detect the different historical points of view on historical events and determine the context in which the historical statements were made (the questions asked, sources used, author's perspectives).",
+			"ancestorIds": [
+				"BDB35250DFE4013100EA68A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB47590DFE4013100EE68A86D17958E": {
+			"id": "BDB47590DFE4013100EE68A86D17958E",
+			"asnIdentifier": "S1042BCB",
+			"position": 10000,
+			"depth": 2,
+			"listId": "4.",
+			"description": "Students assess the credibility of primary and secondary sources and draw sound conclusions from them.",
+			"ancestorIds": [
+				"BDB35250DFE4013100EA68A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB43270DFE4013100ED68A86D17958E": {
+			"id": "BDB43270DFE4013100ED68A86D17958E",
+			"asnIdentifier": "S1042BCA",
+			"position": 9000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students distinguish relevant from irrelevant information, essential from incidental information, and verifiable from unverifiable information in historical narratives and stories.",
+			"ancestorIds": [
+				"BDB35250DFE4013100EA68A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB3EE00DFE4013100EC68A86D17958E": {
+			"id": "BDB3EE00DFE4013100EC68A86D17958E",
+			"asnIdentifier": "S1042BC9",
+			"position": 8000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students distinguish fact from opinion in historical narratives and stories.",
+			"ancestorIds": [
+				"BDB35250DFE4013100EA68A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB39E20DFE4013100EB68A86D17958E": {
+			"id": "BDB39E20DFE4013100EB68A86D17958E",
+			"asnIdentifier": "S1042BC8",
+			"position": 7000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students frame questions that can be answered by historical study and research.",
+			"ancestorIds": [
+				"BDB35250DFE4013100EA68A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB35250DFE4013100EA68A86D17958E": {
+			"id": "BDB35250DFE4013100EA68A86D17958E",
+			"asnIdentifier": "S1042BB7",
+			"position": 6000,
+			"depth": 1,
+			"description": "Research, Evidence, and Point of View",
+			"ancestorIds": [
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB31200DFE4013100E968A86D17958E": {
+			"id": "BDB31200DFE4013100E968A86D17958E",
+			"asnIdentifier": "S1042BC7",
+			"position": 5000,
+			"depth": 2,
+			"listId": "3.",
+			"description": "Students use a variety of maps and documents to identify physical and cultural features of neighborhoods, cities, states, and countries and to explain the historical migration of people, expansion and disintegration of empires, and the growth of economic systems.",
+			"ancestorIds": [
+				"BDB24280DFE4013100E668A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB2CE60DFE4013100E868A86D17958E": {
+			"id": "BDB2CE60DFE4013100E868A86D17958E",
+			"asnIdentifier": "S1042BC6",
+			"position": 4000,
+			"depth": 2,
+			"listId": "2.",
+			"description": "Students construct various time lines of key events, people, and periods of the historical era they are studying.",
+			"ancestorIds": [
+				"BDB24280DFE4013100E668A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB289E0DFE4013100E768A86D17958E": {
+			"id": "BDB289E0DFE4013100E768A86D17958E",
+			"asnIdentifier": "S1042BC5",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.",
+			"description": "Students explain how major events are related to one another in time.",
+			"ancestorIds": [
+				"BDB24280DFE4013100E668A86D17958E",
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB24280DFE4013100E668A86D17958E": {
+			"id": "BDB24280DFE4013100E668A86D17958E",
+			"asnIdentifier": "S1042BB6",
+			"position": 2000,
+			"depth": 1,
+			"description": "Chronological and Spatial Thinking",
+			"ancestorIds": [
+				"BDB1E9A0DFE4013100E568A86D17958E"
+			]
+		},
+		"BDB1E9A0DFE4013100E568A86D17958E": {
+			"id": "BDB1E9A0DFE4013100E568A86D17958E",
+			"asnIdentifier": "S1042BAF",
+			"position": 1000,
+			"depth": 0,
+			"description": "Historical and Social Sciences Analysis Skills",
+			"ancestorIds": []
+		}
+	}
+}

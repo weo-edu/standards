@@ -1,0 +1,1228 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2532819_grades-01-02-03-04-05-06-07-08-09-10-11-12-k",
+	"title": "Grades K, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12",
+	"subject": "World Language",
+	"educationLevels": [
+		"01",
+		"02",
+		"03",
+		"04",
+		"05",
+		"06",
+		"07",
+		"08",
+		"09",
+		"10",
+		"11",
+		"12",
+		"K"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2532819",
+		"valid": "2009",
+		"title": "World Language Content Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/worldlanguage2009.pdf",
+		"asnIdentifier": "D2532819",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"02C3D22D2BD44D849BB18ACBA562EEDA": {
+			"id": "02C3D22D2BD44D849BB18ACBA562EEDA",
+			"asnIdentifier": "S2532953",
+			"position": 101000,
+			"depth": 2,
+			"listId": "4.1",
+			"description": "Sustain age-appropriate cultural or language-use opportunities outside the classroom.",
+			"ancestorIds": [
+				"A01B8763542741DEA64543C08241CC98",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"6C7F99983C1549ADB8D701B3C7CD6CC8": {
+			"id": "6C7F99983C1549ADB8D701B3C7CD6CC8",
+			"asnIdentifier": "S2532952",
+			"position": 100000,
+			"depth": 2,
+			"listId": "4.0",
+			"description": "Students use language in informal and formal settings.",
+			"ancestorIds": [
+				"A01B8763542741DEA64543C08241CC98",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"A01B8763542741DEA64543C08241CC98": {
+			"id": "A01B8763542741DEA64543C08241CC98",
+			"asnIdentifier": "S2532951",
+			"position": 99000,
+			"depth": 1,
+			"description": "Stage IV",
+			"ancestorIds": [
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"49441CB74FD34109913DD2F59B50A2CD": {
+			"id": "49441CB74FD34109913DD2F59B50A2CD",
+			"asnIdentifier": "S2532950",
+			"position": 98000,
+			"depth": 2,
+			"listId": "3.1",
+			"description": "Initiate age-appropriate cultural or language-use opportunities outside the classroom.",
+			"ancestorIds": [
+				"13241F1FAE964EB1B6642EBC12F027F6",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"87ECA7A132414F258D57CB34DEFDF9FB": {
+			"id": "87ECA7A132414F258D57CB34DEFDF9FB",
+			"asnIdentifier": "S2532948",
+			"position": 97000,
+			"depth": 2,
+			"listId": "3.0",
+			"description": "Students use language in informal and some formal settings.",
+			"ancestorIds": [
+				"13241F1FAE964EB1B6642EBC12F027F6",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"13241F1FAE964EB1B6642EBC12F027F6": {
+			"id": "13241F1FAE964EB1B6642EBC12F027F6",
+			"asnIdentifier": "S2532944",
+			"position": 96000,
+			"depth": 1,
+			"description": "Stage III",
+			"ancestorIds": [
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"DF40E246513F4596B8DDB7A6F4018C78": {
+			"id": "DF40E246513F4596B8DDB7A6F4018C78",
+			"asnIdentifier": "S2532943",
+			"position": 95000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Participate in age-appropriate cultural or language-use opportunities outside the classroom.",
+			"ancestorIds": [
+				"B5225BDFEAAE4231B7283E26753D160E",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"8F3A60B6BC6F4B30913557BE03D9020D": {
+			"id": "8F3A60B6BC6F4B30913557BE03D9020D",
+			"asnIdentifier": "S2532942",
+			"position": 94000,
+			"depth": 2,
+			"listId": "2.0",
+			"description": "Students use language in interpersonal settings.",
+			"ancestorIds": [
+				"B5225BDFEAAE4231B7283E26753D160E",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"B5225BDFEAAE4231B7283E26753D160E": {
+			"id": "B5225BDFEAAE4231B7283E26753D160E",
+			"asnIdentifier": "S2532941",
+			"position": 93000,
+			"depth": 1,
+			"description": "Stage II",
+			"ancestorIds": [
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"B70977FE0B414677AD6D28B2DAA93F56": {
+			"id": "B70977FE0B414677AD6D28B2DAA93F56",
+			"asnIdentifier": "S2532939",
+			"position": 92000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Recognize age-appropriate cultural or language-use opportunities outside the classroom.",
+			"ancestorIds": [
+				"B7D00FD655C541DD9F03210672E41528",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"9C5FD5E294F74FF481AFAA05B090E305": {
+			"id": "9C5FD5E294F74FF481AFAA05B090E305",
+			"asnIdentifier": "S2532934",
+			"position": 91000,
+			"depth": 2,
+			"listId": "1.0",
+			"description": "Students use language in highly predictable common daily settings.",
+			"ancestorIds": [
+				"B7D00FD655C541DD9F03210672E41528",
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"B7D00FD655C541DD9F03210672E41528": {
+			"id": "B7D00FD655C541DD9F03210672E41528",
+			"asnIdentifier": "S2532933",
+			"position": 90000,
+			"depth": 1,
+			"description": "Stage I",
+			"ancestorIds": [
+				"3752A3E96EF144569F62C2A22A4631E3"
+			]
+		},
+		"3752A3E96EF144569F62C2A22A4631E3": {
+			"id": "3752A3E96EF144569F62C2A22A4631E3",
+			"asnIdentifier": "S2532932",
+			"position": 89000,
+			"depth": 0,
+			"statementLabel": "Category",
+			"description": "Settings",
+			"comments": [
+				"Language users need to carry out tasks in a variety of situations representative of those they will experience in the target culture. The success of learner communication will depend on the situation in which the language is used. Understanding social linguistic norms will assist learners in communicating effectively in real-world encounters."
+			],
+			"ancestorIds": [
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"2028E35CF72649B4AB987D354BF9D8A1": {
+			"id": "2028E35CF72649B4AB987D354BF9D8A1",
+			"asnIdentifier": "S2532927",
+			"position": 88000,
+			"depth": 2,
+			"listId": "4.2",
+			"description": "Identify similarities and differences in the extended discourse (native-like text structure) of the languages the students know.",
+			"ancestorIds": [
+				"7E624C7D395F47E59C25DEF8864C119F",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"B44097AD8D294BD188D332F68BE9811E": {
+			"id": "B44097AD8D294BD188D332F68BE9811E",
+			"asnIdentifier": "S2532924",
+			"position": 87000,
+			"depth": 2,
+			"listId": "4.1",
+			"description": "Use extended discourse (native-like text structure) to produce formal communications.",
+			"ancestorIds": [
+				"7E624C7D395F47E59C25DEF8864C119F",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"3D73A5D2CEA445E7BA6F3E95FA702EAE": {
+			"id": "3D73A5D2CEA445E7BA6F3E95FA702EAE",
+			"asnIdentifier": "S2532922",
+			"position": 86000,
+			"depth": 2,
+			"listId": "4.0",
+			"description": "Students use knowledge of extended discourse to understand abstract and academic topics.",
+			"ancestorIds": [
+				"7E624C7D395F47E59C25DEF8864C119F",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"7E624C7D395F47E59C25DEF8864C119F": {
+			"id": "7E624C7D395F47E59C25DEF8864C119F",
+			"asnIdentifier": "S2532921",
+			"position": 85000,
+			"depth": 1,
+			"description": "Stage IV",
+			"ancestorIds": [
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"61A116EBDE934AE7B7410301C16FBBE1": {
+			"id": "61A116EBDE934AE7B7410301C16FBBE1",
+			"asnIdentifier": "S2532920",
+			"position": 84000,
+			"depth": 2,
+			"listId": "3.2",
+			"description": "Identify similarities and differences in the paragraph-level discourse (text structure) of the languages the students know.",
+			"ancestorIds": [
+				"DAED5D3F65A042238CE498A078356A08",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"96B2EB7C88D041F7B1A6465FE3603301": {
+			"id": "96B2EB7C88D041F7B1A6465FE3603301",
+			"asnIdentifier": "S2532919",
+			"position": 83000,
+			"depth": 2,
+			"listId": "3.1",
+			"description": "Use paragraph-level discourse (text structure) to produce formal communications.",
+			"ancestorIds": [
+				"DAED5D3F65A042238CE498A078356A08",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"E264C34B6CA3421BACFFA2DF90EC0862": {
+			"id": "E264C34B6CA3421BACFFA2DF90EC0862",
+			"asnIdentifier": "S2532918",
+			"position": 82000,
+			"depth": 2,
+			"listId": "3.0",
+			"description": "Students use knowledge of text structure to understand topics related to the external environment.",
+			"ancestorIds": [
+				"DAED5D3F65A042238CE498A078356A08",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"DAED5D3F65A042238CE498A078356A08": {
+			"id": "DAED5D3F65A042238CE498A078356A08",
+			"asnIdentifier": "S2532917",
+			"position": 81000,
+			"depth": 1,
+			"description": "Stage III",
+			"ancestorIds": [
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"9907242046D3482088080512EBA01F5A": {
+			"id": "9907242046D3482088080512EBA01F5A",
+			"asnIdentifier": "S2532916",
+			"position": 80000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Identify similarities and differences in the sentence-level elements (morphology or syntax or both) of the languages the students know.",
+			"ancestorIds": [
+				"EB1CBDA80D574393AB537EFA9217604E",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"E9341F0A3F7A4E9AA8E7655CCCCD0239": {
+			"id": "E9341F0A3F7A4E9AA8E7655CCCCD0239",
+			"asnIdentifier": "S2532915",
+			"position": 79000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Use sentence-level elements (morphology or syntax or both) to produce informal communications.",
+			"ancestorIds": [
+				"EB1CBDA80D574393AB537EFA9217604E",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"35BCAA27A3A74E57BEBDD77366315CEF": {
+			"id": "35BCAA27A3A74E57BEBDD77366315CEF",
+			"asnIdentifier": "S2532911",
+			"position": 78000,
+			"depth": 2,
+			"listId": "2.0",
+			"description": "Students use sentence-level elements (morphology or syntax or both) to understand concrete and factual topics.",
+			"ancestorIds": [
+				"EB1CBDA80D574393AB537EFA9217604E",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"EB1CBDA80D574393AB537EFA9217604E": {
+			"id": "EB1CBDA80D574393AB537EFA9217604E",
+			"asnIdentifier": "S2532907",
+			"position": 77000,
+			"depth": 1,
+			"description": "Stage II",
+			"ancestorIds": [
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"6D847FCCD25D41D48D22268A5DFEAECF": {
+			"id": "6D847FCCD25D41D48D22268A5DFEAECF",
+			"asnIdentifier": "S2532903",
+			"position": 76000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Identify similarities and differences in the orthography, phonology, or ASL parameters of the languages the students know.",
+			"ancestorIds": [
+				"E82121C30FC2453682498F8ECE57BA2E",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"9E260B5E63C54D6CAA1CA7BCD9034F3D": {
+			"id": "9E260B5E63C54D6CAA1CA7BCD9034F3D",
+			"asnIdentifier": "S2532902",
+			"position": 75000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Use orthography, phonology, or ASL parameters to produce words or signs (ASL) and phrases in context.",
+			"ancestorIds": [
+				"E82121C30FC2453682498F8ECE57BA2E",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"722C4123B3C64C29897EB1C6FFC7E85B": {
+			"id": "722C4123B3C64C29897EB1C6FFC7E85B",
+			"asnIdentifier": "S2532901",
+			"position": 74000,
+			"depth": 2,
+			"listId": "1.0",
+			"description": "Students use orthography, phonology, or ASL parameters to understand words, signs (ASL), and phrases in context.",
+			"ancestorIds": [
+				"E82121C30FC2453682498F8ECE57BA2E",
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"E82121C30FC2453682498F8ECE57BA2E": {
+			"id": "E82121C30FC2453682498F8ECE57BA2E",
+			"asnIdentifier": "S2532900",
+			"position": 73000,
+			"depth": 1,
+			"description": "Stage I",
+			"ancestorIds": [
+				"77F33450015446BFBE4798A62519EB39"
+			]
+		},
+		"77F33450015446BFBE4798A62519EB39": {
+			"id": "77F33450015446BFBE4798A62519EB39",
+			"asnIdentifier": "S2532892",
+			"position": 72000,
+			"depth": 0,
+			"statementLabel": "Category",
+			"description": "Structures",
+			"comments": [
+				"The content standards use the term structures to capture the multiple components of grammar that learners must control in order to successfully communicate in linguistically and culturally appropriate ways. Students need to acquire orthography, the writing systems of languages that have them; phonology, the sound systems of languages or parameters in ASL; morphology, the rules for word formation; syntax, the principles of sentence structure; semantics, language-based meaning systems; and pragmatics, meaning systems connected to language use."
+			],
+			"ancestorIds": [
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"12FFB3BCA9CB43CC9FE463110A942DFD": {
+			"id": "12FFB3BCA9CB43CC9FE463110A942DFD",
+			"asnIdentifier": "S2532891",
+			"position": 71000,
+			"depth": 2,
+			"listId": "4.3",
+			"description": "Explain the changes in perspectives when cultures come in contact.",
+			"ancestorIds": [
+				"C0045EED20F443D7B191370B3E5C8BD6",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"01BF14F6D19F46D9B6114E02F7CDF118": {
+			"id": "01BF14F6D19F46D9B6114E02F7CDF118",
+			"asnIdentifier": "S2532890",
+			"position": 70000,
+			"depth": 2,
+			"listId": "4.2",
+			"description": "Explain similarities and differences in the target cultures and between students' own cultures.",
+			"ancestorIds": [
+				"C0045EED20F443D7B191370B3E5C8BD6",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"0116CC787D484B1EBD8006074518977C": {
+			"id": "0116CC787D484B1EBD8006074518977C",
+			"asnIdentifier": "S2532888",
+			"position": 69000,
+			"depth": 2,
+			"listId": "4.1",
+			"description": "Demonstrate culturally appropriate use of products, practices, and perspectives to others.",
+			"ancestorIds": [
+				"C0045EED20F443D7B191370B3E5C8BD6",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"53FB80385FF84E75AB87ED3FA9B882CA": {
+			"id": "53FB80385FF84E75AB87ED3FA9B882CA",
+			"asnIdentifier": "S2532887",
+			"position": 68000,
+			"depth": 2,
+			"listId": "4.0",
+			"description": "Students improvise appropriate responses to unpredictable situations.",
+			"ancestorIds": [
+				"C0045EED20F443D7B191370B3E5C8BD6",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"C0045EED20F443D7B191370B3E5C8BD6": {
+			"id": "C0045EED20F443D7B191370B3E5C8BD6",
+			"asnIdentifier": "S2532886",
+			"position": 67000,
+			"depth": 1,
+			"description": "Stage IV",
+			"ancestorIds": [
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"B7F246FFC42B4F9ABBC193B105BC3441": {
+			"id": "B7F246FFC42B4F9ABBC193B105BC3441",
+			"asnIdentifier": "S2532885",
+			"position": 66000,
+			"depth": 2,
+			"listId": "3.3",
+			"description": "Describe how products and practices change when cultures come in contact.",
+			"ancestorIds": [
+				"9C51ADD7CAE7420283F2D93061D705E5",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"529917908CF641C6B01BD48E77E47604": {
+			"id": "529917908CF641C6B01BD48E77E47604",
+			"asnIdentifier": "S2532884",
+			"position": 65000,
+			"depth": 2,
+			"listId": "3.2",
+			"description": "Describe similarities and differences in the target cultures and between students' own cultures.",
+			"ancestorIds": [
+				"9C51ADD7CAE7420283F2D93061D705E5",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"2E089513BDDA48088FEE3613C1AFBDFE": {
+			"id": "2E089513BDDA48088FEE3613C1AFBDFE",
+			"asnIdentifier": "S2532883",
+			"position": 64000,
+			"depth": 2,
+			"listId": "3.1",
+			"description": "Use products, practices, and perspectives in culturally appropriate ways.",
+			"ancestorIds": [
+				"9C51ADD7CAE7420283F2D93061D705E5",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"D6E117C3950141D895989964D67E7CE6": {
+			"id": "D6E117C3950141D895989964D67E7CE6",
+			"asnIdentifier": "S2532882",
+			"position": 63000,
+			"depth": 2,
+			"listId": "3.0",
+			"description": "Students determine appropriate responses to situations with complications.",
+			"ancestorIds": [
+				"9C51ADD7CAE7420283F2D93061D705E5",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"9C51ADD7CAE7420283F2D93061D705E5": {
+			"id": "9C51ADD7CAE7420283F2D93061D705E5",
+			"asnIdentifier": "S2532881",
+			"position": 62000,
+			"depth": 1,
+			"description": "Stage III",
+			"ancestorIds": [
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"AADADBAEBB8245E3847EEA234A60CE9E": {
+			"id": "AADADBAEBB8245E3847EEA234A60CE9E",
+			"asnIdentifier": "S2532880",
+			"position": 61000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "State reasons for cultural borrowings.",
+			"ancestorIds": [
+				"6E7AEE148156497886AE06A0100A5193",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"4B8C6E21295A4437BBAAD34B94550C4D": {
+			"id": "4B8C6E21295A4437BBAAD34B94550C4D",
+			"asnIdentifier": "S2532879",
+			"position": 60000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "State similarities and differences in the target cultures and between students' own cultures.",
+			"ancestorIds": [
+				"6E7AEE148156497886AE06A0100A5193",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"04253B9634AD48F1BD6AA7DEA60F20EF": {
+			"id": "04253B9634AD48F1BD6AA7DEA60F20EF",
+			"asnIdentifier": "S2532878",
+			"position": 59000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Demonstrate understanding of the roles that products, practices, and perspectives play in the culture.",
+			"ancestorIds": [
+				"6E7AEE148156497886AE06A0100A5193",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"B474C3B8B74F494B88230F4085C2EBFC": {
+			"id": "B474C3B8B74F494B88230F4085C2EBFC",
+			"asnIdentifier": "S2532877",
+			"position": 58000,
+			"depth": 2,
+			"listId": "2.0",
+			"description": "Students choose an appropriate response to a variety of situations.",
+			"ancestorIds": [
+				"6E7AEE148156497886AE06A0100A5193",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"6E7AEE148156497886AE06A0100A5193": {
+			"id": "6E7AEE148156497886AE06A0100A5193",
+			"asnIdentifier": "S2532876",
+			"position": 57000,
+			"depth": 1,
+			"description": "Stage II",
+			"ancestorIds": [
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"138B845C0CE34596ABDF23E381184C33": {
+			"id": "138B845C0CE34596ABDF23E381184C33",
+			"asnIdentifier": "S2532875",
+			"position": 56000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Identify cultural borrowings.",
+			"ancestorIds": [
+				"B19F74A0E40B4B7CBF98D033772747AB",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"632B4453347E43718B5686DA04CB8E27": {
+			"id": "632B4453347E43718B5686DA04CB8E27",
+			"asnIdentifier": "S2532874",
+			"position": 55000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Recognize similarities and differences in the target cultures and between students' own cultures.",
+			"ancestorIds": [
+				"B19F74A0E40B4B7CBF98D033772747AB",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"ED9DAA6A675948A382F1E54D53ABDA0E": {
+			"id": "ED9DAA6A675948A382F1E54D53ABDA0E",
+			"asnIdentifier": "S2532873",
+			"position": 54000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Associate products, practices, and perspectives with the target culture.",
+			"ancestorIds": [
+				"B19F74A0E40B4B7CBF98D033772747AB",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"B0EAF04F9BDD47B0A7285C4572E4F0E9": {
+			"id": "B0EAF04F9BDD47B0A7285C4572E4F0E9",
+			"asnIdentifier": "S2532872",
+			"position": 53000,
+			"depth": 2,
+			"listId": "1.0",
+			"description": "Students use appropriate responses to rehearsed cultural situations.",
+			"ancestorIds": [
+				"B19F74A0E40B4B7CBF98D033772747AB",
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"B19F74A0E40B4B7CBF98D033772747AB": {
+			"id": "B19F74A0E40B4B7CBF98D033772747AB",
+			"asnIdentifier": "S2532871",
+			"position": 52000,
+			"depth": 1,
+			"description": "Stage I",
+			"ancestorIds": [
+				"D3B03E1B37E342A6BEC45CD2506106EC"
+			]
+		},
+		"D3B03E1B37E342A6BEC45CD2506106EC": {
+			"id": "D3B03E1B37E342A6BEC45CD2506106EC",
+			"asnIdentifier": "S2532870",
+			"position": 51000,
+			"depth": 0,
+			"statementLabel": "Category",
+			"description": "Cultures",
+			"comments": [
+				"Culturally appropriate language use requires an understanding of the relationship between the products and practices of the culture and its underlying perspectives. Students must acquire the ability to interact appropriately with target culture bearers in order to communicate successfully. This category allows students to make connections and comparisons between languages and cultures."
+			],
+			"ancestorIds": [
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"BE5547AAB1674AFD9427FD3D02E90CAE": {
+			"id": "BE5547AAB1674AFD9427FD3D02E90CAE",
+			"asnIdentifier": "S2532869",
+			"position": 50000,
+			"depth": 3,
+			"listId": "4.6",
+			"description": "Produce and present a complex written, oral, or signed (ASL) product in a culturally authentic way.",
+			"ancestorIds": [
+				"477CA3226ED546818723993E24AA25CB",
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"8620E797A65E4F8DA79505135B3D6CAC": {
+			"id": "8620E797A65E4F8DA79505135B3D6CAC",
+			"asnIdentifier": "S2532868",
+			"position": 49000,
+			"depth": 3,
+			"listId": "4.5",
+			"description": "Demonstrate understanding of the main ideas and most details in authentic texts.",
+			"ancestorIds": [
+				"477CA3226ED546818723993E24AA25CB",
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"958B1A6032A5478E919FD6E1323640E7": {
+			"id": "958B1A6032A5478E919FD6E1323640E7",
+			"asnIdentifier": "S2532867",
+			"position": 48000,
+			"depth": 3,
+			"listId": "4.4",
+			"description": "Discuss, compare and contrast, and support an opinion; persuade.",
+			"ancestorIds": [
+				"477CA3226ED546818723993E24AA25CB",
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"477CA3226ED546818723993E24AA25CB": {
+			"id": "477CA3226ED546818723993E24AA25CB",
+			"asnIdentifier": "S2532866",
+			"position": 47000,
+			"depth": 2,
+			"description": "Functions",
+			"ancestorIds": [
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"61B29D227F934DEDA671864DEFA7439F": {
+			"id": "61B29D227F934DEDA671864DEFA7439F",
+			"asnIdentifier": "S2532865",
+			"position": 46000,
+			"depth": 2,
+			"listId": "4.3",
+			"description": "Present to an audience of listeners, readers, or ASL viewers.",
+			"ancestorIds": [
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"6B1A332B30BE4B888C0BBCAB63F45B98": {
+			"id": "6B1A332B30BE4B888C0BBCAB63F45B98",
+			"asnIdentifier": "S2532864",
+			"position": 45000,
+			"depth": 2,
+			"listId": "4.2",
+			"description": "Interpret written, spoken, or signed (ASL) language.",
+			"ancestorIds": [
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"AB1F3BBC8FB44B24A8F869D4AAE21CF7": {
+			"id": "AB1F3BBC8FB44B24A8F869D4AAE21CF7",
+			"asnIdentifier": "S2532863",
+			"position": 44000,
+			"depth": 2,
+			"listId": "4.1",
+			"description": "Engage in oral, written, or signed (ASL) conversations.",
+			"ancestorIds": [
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"BBCB626C8484454888488CF1AD7B23F3": {
+			"id": "BBCB626C8484454888488CF1AD7B23F3",
+			"asnIdentifier": "S2532862",
+			"position": 43000,
+			"depth": 2,
+			"listId": "4.0",
+			"description": "Students use extended language (coherent and cohesive multiparagraph texts).",
+			"ancestorIds": [
+				"26BE38B26B16431A8673EE130AA162EC",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"26BE38B26B16431A8673EE130AA162EC": {
+			"id": "26BE38B26B16431A8673EE130AA162EC",
+			"asnIdentifier": "S2532861",
+			"position": 42000,
+			"depth": 1,
+			"description": "Stage IV",
+			"ancestorIds": [
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"9B02402062344C8FBFE89DCC09022747": {
+			"id": "9B02402062344C8FBFE89DCC09022747",
+			"asnIdentifier": "S2532860",
+			"position": 41000,
+			"depth": 3,
+			"listId": "3.6",
+			"description": "Produce and present a written, oral, or signed (ASL) product in a culturally authentic way.",
+			"ancestorIds": [
+				"C51604E7A55A43CE944C7ED53C476E4E",
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"3B5167807BB44833A2113482BD9C9A0F": {
+			"id": "3B5167807BB44833A2113482BD9C9A0F",
+			"asnIdentifier": "S2532859",
+			"position": 40000,
+			"depth": 3,
+			"listId": "3.5",
+			"description": "Demonstrate understanding of the main idea and key details in authentic texts.",
+			"ancestorIds": [
+				"C51604E7A55A43CE944C7ED53C476E4E",
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"4FAB9A9DFDF1429B848A41E7290304A0": {
+			"id": "4FAB9A9DFDF1429B848A41E7290304A0",
+			"asnIdentifier": "S2532858",
+			"position": 39000,
+			"depth": 3,
+			"listId": "3.4",
+			"description": "Describe, narrate, explain, and state an opinion.",
+			"ancestorIds": [
+				"C51604E7A55A43CE944C7ED53C476E4E",
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"C51604E7A55A43CE944C7ED53C476E4E": {
+			"id": "C51604E7A55A43CE944C7ED53C476E4E",
+			"asnIdentifier": "S2532857",
+			"position": 38000,
+			"depth": 2,
+			"description": "Functions",
+			"ancestorIds": [
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"DAAD6202D1FE49A69C0AFF0821B9211A": {
+			"id": "DAAD6202D1FE49A69C0AFF0821B9211A",
+			"asnIdentifier": "S2532856",
+			"position": 37000,
+			"depth": 2,
+			"listId": "3.3",
+			"description": "Present to an audience of listeners, readers, or ASL viewers.",
+			"ancestorIds": [
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"C11260BF6D5743A9BFF35E3A2D8623CD": {
+			"id": "C11260BF6D5743A9BFF35E3A2D8623CD",
+			"asnIdentifier": "S2532855",
+			"position": 36000,
+			"depth": 2,
+			"listId": "3.2",
+			"description": "Interpret written, spoken, or signed (ASL) language.",
+			"ancestorIds": [
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"088D1AB2E4994F44BEEDEC15D56C0077": {
+			"id": "088D1AB2E4994F44BEEDEC15D56C0077",
+			"asnIdentifier": "S2532854",
+			"position": 35000,
+			"depth": 2,
+			"listId": "3.1",
+			"description": "Engage in oral, written, or signed (ASL) conversations.",
+			"ancestorIds": [
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"47435D0A59714A88B11189BC62D8F799": {
+			"id": "47435D0A59714A88B11189BC62D8F799",
+			"asnIdentifier": "S2532853",
+			"position": 34000,
+			"depth": 2,
+			"listId": "3.0",
+			"description": "Students use planned language (paragraphs and strings of paragraphs).",
+			"ancestorIds": [
+				"38806F4818E748F887D84356FAD25987",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"38806F4818E748F887D84356FAD25987": {
+			"id": "38806F4818E748F887D84356FAD25987",
+			"asnIdentifier": "S2532852",
+			"position": 33000,
+			"depth": 1,
+			"description": "Stage III",
+			"ancestorIds": [
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"CBDC771194154CA7B7F56C57D02EB2F6": {
+			"id": "CBDC771194154CA7B7F56C57D02EB2F6",
+			"asnIdentifier": "S2532851",
+			"position": 32000,
+			"depth": 3,
+			"listId": "2.6",
+			"description": "Produce and present a simple written, oral, or signed (ASL) product in a culturally authentic way.",
+			"ancestorIds": [
+				"A74A438AF1744A7A96CBDE78D87ED491",
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"A4847939F1564B95A7FD3327D99BA9A6": {
+			"id": "A4847939F1564B95A7FD3327D99BA9A6",
+			"asnIdentifier": "S2532850",
+			"position": 31000,
+			"depth": 3,
+			"listId": "2.5",
+			"description": "Demonstrate understanding of the general meaning, key ideas, and some details in authentic texts.",
+			"ancestorIds": [
+				"A74A438AF1744A7A96CBDE78D87ED491",
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"98D3BB33AA36468289FA616715C44FA2": {
+			"id": "98D3BB33AA36468289FA616715C44FA2",
+			"asnIdentifier": "S2532849",
+			"position": 30000,
+			"depth": 3,
+			"listId": "2.4",
+			"description": "Initiate, participate in, and close a conversation; ask and answer questions.",
+			"ancestorIds": [
+				"A74A438AF1744A7A96CBDE78D87ED491",
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"A74A438AF1744A7A96CBDE78D87ED491": {
+			"id": "A74A438AF1744A7A96CBDE78D87ED491",
+			"asnIdentifier": "S2532848",
+			"position": 29000,
+			"depth": 2,
+			"description": "Functions",
+			"ancestorIds": [
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"E9F75E2665314D8C8D0A367771F971A2": {
+			"id": "E9F75E2665314D8C8D0A367771F971A2",
+			"asnIdentifier": "S2532847",
+			"position": 28000,
+			"depth": 2,
+			"listId": "2.3",
+			"description": "Present to an audience of listeners, readers, or ASL viewers.",
+			"ancestorIds": [
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"4FEB4C718CBF4B4C8EFED8ADA07BFBEB": {
+			"id": "4FEB4C718CBF4B4C8EFED8ADA07BFBEB",
+			"asnIdentifier": "S2532846",
+			"position": 27000,
+			"depth": 2,
+			"listId": "2.2",
+			"description": "Interpret written, spoken, or signed (ASL) language.",
+			"ancestorIds": [
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"4A24DDBA49C440D08FA285A8DBF5BE43": {
+			"id": "4A24DDBA49C440D08FA285A8DBF5BE43",
+			"asnIdentifier": "S2532845",
+			"position": 26000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Engage in oral, written, or signed (ASL) conversations.",
+			"ancestorIds": [
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"9A2259DB5A7C42E3874B797C3ECC553A": {
+			"id": "9A2259DB5A7C42E3874B797C3ECC553A",
+			"asnIdentifier": "S2532844",
+			"position": 25000,
+			"depth": 2,
+			"listId": "2.0",
+			"description": "Students use created language (sentences and strings of sentences).",
+			"ancestorIds": [
+				"5E8BE1C3968D450590DDFBE9C242AD1D",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"5E8BE1C3968D450590DDFBE9C242AD1D": {
+			"id": "5E8BE1C3968D450590DDFBE9C242AD1D",
+			"asnIdentifier": "S2532843",
+			"position": 24000,
+			"depth": 1,
+			"description": "Stage II",
+			"ancestorIds": [
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"3494B530B1D74EFCB8BA2002E3C46259": {
+			"id": "3494B530B1D74EFCB8BA2002E3C46259",
+			"asnIdentifier": "S2532842",
+			"position": 23000,
+			"depth": 3,
+			"listId": "1.6",
+			"description": "Reproduce and present a written, oral, or signed (ASL) product in a culturally authentic way.",
+			"ancestorIds": [
+				"5FD225432D7644E19BAA7568F53756B7",
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"FFAEA2A5C71F43CD99DCAABF17A256BB": {
+			"id": "FFAEA2A5C71F43CD99DCAABF17A256BB",
+			"asnIdentifier": "S2532841",
+			"position": 22000,
+			"depth": 3,
+			"listId": "1.5",
+			"description": "Identify learned words, signs (ASL), and phrases in authentic texts.",
+			"ancestorIds": [
+				"5FD225432D7644E19BAA7568F53756B7",
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"0BDCD4FADFB84733A1FF01A48D84F13C": {
+			"id": "0BDCD4FADFB84733A1FF01A48D84F13C",
+			"asnIdentifier": "S2532840",
+			"position": 21000,
+			"depth": 3,
+			"listId": "1.4",
+			"description": "List, name, identify, and enumerate.",
+			"ancestorIds": [
+				"5FD225432D7644E19BAA7568F53756B7",
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"5FD225432D7644E19BAA7568F53756B7": {
+			"id": "5FD225432D7644E19BAA7568F53756B7",
+			"asnIdentifier": "S2532839",
+			"position": 20000,
+			"depth": 2,
+			"description": "Functions",
+			"ancestorIds": [
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"575D9AB6181A4EAF83C6A4E6D2DD67D5": {
+			"id": "575D9AB6181A4EAF83C6A4E6D2DD67D5",
+			"asnIdentifier": "S2532838",
+			"position": 19000,
+			"depth": 2,
+			"listId": "1.3",
+			"description": "Present to an audience of listeners, readers, or ASL viewers.",
+			"ancestorIds": [
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"481380EB89B64B3C841C8C94F2FF9108": {
+			"id": "481380EB89B64B3C841C8C94F2FF9108",
+			"asnIdentifier": "S2532837",
+			"position": 18000,
+			"depth": 2,
+			"listId": "1.2",
+			"description": "Interpret written, spoken, or signed (ASL) language.",
+			"ancestorIds": [
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"B83053C37390454B863FA13DC06162FC": {
+			"id": "B83053C37390454B863FA13DC06162FC",
+			"asnIdentifier": "S2532836",
+			"position": 17000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Engage in oral, written, or signed (ASL) conversations.",
+			"ancestorIds": [
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"2080F8CAC51E4C70AAB1490260537191": {
+			"id": "2080F8CAC51E4C70AAB1490260537191",
+			"asnIdentifier": "S2532835",
+			"position": 16000,
+			"depth": 2,
+			"listId": "1.0",
+			"description": "Students use formulaic language (learned words, signs [ASL], and phrases).",
+			"ancestorIds": [
+				"0085E6B86DC44B50BD9654BF4465FD9A",
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"0085E6B86DC44B50BD9654BF4465FD9A": {
+			"id": "0085E6B86DC44B50BD9654BF4465FD9A",
+			"asnIdentifier": "S2532834",
+			"position": 15000,
+			"depth": 1,
+			"description": "Stage I",
+			"ancestorIds": [
+				"6F0E49942A404CD58DCA0687BB093E1A"
+			]
+		},
+		"6F0E49942A404CD58DCA0687BB093E1A": {
+			"id": "6F0E49942A404CD58DCA0687BB093E1A",
+			"asnIdentifier": "S2532833",
+			"position": 14000,
+			"depth": 0,
+			"statementLabel": "Category",
+			"description": "Communication",
+			"comments": [
+				"Real-world communication takes place in a variety of ways. It may be interpersonal: culturally appropriate listening, reading, viewing, speaking, signing, and writing take place as a shared activity among language users. It may be interpretive: language users listen, view, and read by using knowledge of cultural products, practices, and perspectives. It may be presentational: speaking, signing, and writing take place in culturally appropriate ways."
+			],
+			"ancestorIds": [
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"D2FCE281BE054977BA387603A9516905": {
+			"id": "D2FCE281BE054977BA387603A9516905",
+			"asnIdentifier": "S2532832",
+			"position": 13000,
+			"depth": 2,
+			"listId": "4.1",
+			"description": "Students address complex, concrete, factual, and abstract topics related to the immediate and external environment, including:<ol type=\"a\"><li>Societal expectations</li><li>Cultural and literary archetypes</li><li>Endangered species</li><li>World events, social and political issues</li><li>Belief systems</li><li>International environmental issues</li><li>The visual and performing arts</li><li>The nature of an interdependent world</li><li>Issues in curricular and extracurricular subjects</li><li>Authors and their times</li><li>Transnational careers and economies</li><li>Issues of world hunger and health</li><li>Design, production, and marketing of clothing</li><li>Policy issues in health care</li><li>The promise and challenge of technology</li></ol>",
+			"ancestorIds": [
+				"085BBA2AB4E54A8A9603D704192CA835",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"5DD2F51C1CC840319196D1458B85D853": {
+			"id": "5DD2F51C1CC840319196D1458B85D853",
+			"asnIdentifier": "S2532831",
+			"position": 12000,
+			"depth": 2,
+			"listId": "4.0",
+			"description": "Students acquire information, recognize distinctive viewpoints, and further their knowledge of other disciplines.",
+			"ancestorIds": [
+				"085BBA2AB4E54A8A9603D704192CA835",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"085BBA2AB4E54A8A9603D704192CA835": {
+			"id": "085BBA2AB4E54A8A9603D704192CA835",
+			"asnIdentifier": "S2532830",
+			"position": 11000,
+			"depth": 1,
+			"description": "Stage IV",
+			"ancestorIds": [
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"C21517A5826B4165A3657EECF11CE90F": {
+			"id": "C21517A5826B4165A3657EECF11CE90F",
+			"asnIdentifier": "S2532829",
+			"position": 10000,
+			"depth": 2,
+			"listId": "3.1",
+			"description": "Students address concrete and factual topics related to the immediate and external environment, including:<ol type=\"a\"><li>Social norms</li><li>Historical and cultural figures, stereotypes</li><li>Animals and their habitats</li><li>Community issues, current events</li><li>Origins of rites of passage, social and regional customs</li><li>Environmental concerns</li><li>Media, Internet, television, radio, film</li><li>Cultural, historical, and geographic aspects of travel</li><li>Curricular and extracurricular subjects</li><li>Significant historical events</li><li>Careers and future plans</li><li>Nutrition, fitness, and health</li><li>Geographically and culturally appropriate clothing</li><li>Cultural differences in health care</li><li>Effects of technology on the modern world</li></ol>",
+			"ancestorIds": [
+				"86350CEC71054CDB87BE1C68A4ECB2FC",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"F7ED62B96CD145238F4EE993380D30C6": {
+			"id": "F7ED62B96CD145238F4EE993380D30C6",
+			"asnIdentifier": "S2532828",
+			"position": 9000,
+			"depth": 2,
+			"listId": "3.0",
+			"description": "Students acquire information, recognize distinctive viewpoints, and further their knowledge of other disciplines.",
+			"ancestorIds": [
+				"86350CEC71054CDB87BE1C68A4ECB2FC",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"86350CEC71054CDB87BE1C68A4ECB2FC": {
+			"id": "86350CEC71054CDB87BE1C68A4ECB2FC",
+			"asnIdentifier": "S2532827",
+			"position": 8000,
+			"depth": 1,
+			"description": "Stage III",
+			"ancestorIds": [
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"9D4BF834BBEA4523A108AF9BD634D125": {
+			"id": "9D4BF834BBEA4523A108AF9BD634D125",
+			"asnIdentifier": "S2532826",
+			"position": 7000,
+			"depth": 2,
+			"listId": "2.1",
+			"description": "Students address topics related to self and the immediate environment, including:<ol type=\"a\"><li>Social relationships</li><li>People in the community</li><li>Zoo and farm animals, fables</li><li>Care of the home, interacting with people in the community</li><li>Holiday customs and transition points in life</li><li>Climate</li><li>Cultural and leisure-time activities, outdoor, recreational activities, music</li><li>Transportation, lodging, itineraries, geographic features and landmarks</li><li>Curricular and extracurricular interests and events</li><li>Significant historical figures</li><li>Professions and the working world</li><li>Cuisine and recipes</li><li>Clothing and fashion</li><li>Health, medical care</li><li>Technological advances and innovation</li></ol>",
+			"ancestorIds": [
+				"DCF53E77A3D94BCFA0A0C441F079C020",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"FB4CFB6F01444145A0EB5AE5425C7E99": {
+			"id": "FB4CFB6F01444145A0EB5AE5425C7E99",
+			"asnIdentifier": "S2532825",
+			"position": 6000,
+			"depth": 2,
+			"listId": "2.0",
+			"description": "Students acquire information, recognize distinctive viewpoints, and further their knowledge of other disciplines.",
+			"ancestorIds": [
+				"DCF53E77A3D94BCFA0A0C441F079C020",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"DCF53E77A3D94BCFA0A0C441F079C020": {
+			"id": "DCF53E77A3D94BCFA0A0C441F079C020",
+			"asnIdentifier": "S2532824",
+			"position": 5000,
+			"depth": 1,
+			"description": "Stage II",
+			"ancestorIds": [
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"8277424C20CF48438F6C31035B6F67E1": {
+			"id": "8277424C20CF48438F6C31035B6F67E1",
+			"asnIdentifier": "S2532823",
+			"position": 4000,
+			"depth": 2,
+			"listId": "1.1",
+			"description": "Students address discrete elements of daily life, including: <ol type=\"a\"><li>Greetings and introductions</li> <li>Family and friends</li> <li>Pets</li> <li>Home and neighborhood</li> <li>Celebrations, holidays, and rites of passage</li> <li>Calendar, seasons, and weather</li> <li>Leisure, hobbies and activities, songs, toys and games, sports</li> <li>Vacations and travel, maps, destinations, and geography</li> <li>School, classroom, schedules, subjects, numbers, time, directions</li> <li>Important dates in the target culture</li> <li>Jobs</li> <li>Food, meals, restaurants</li> <li>Shopping, clothes, colors, and sizes</li> <li>Parts of the body, illness</li> <li>Technology</li> </ol>",
+			"ancestorIds": [
+				"D7548F0457DD4E37BBA67D1EA85AABA1",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"5FDBB9753C154512B69A3C3F152FD8D2": {
+			"id": "5FDBB9753C154512B69A3C3F152FD8D2",
+			"asnIdentifier": "S2532822",
+			"position": 3000,
+			"depth": 2,
+			"listId": "1.0",
+			"description": "Students acquire information, recognize distinctive viewpoints, and further their knowledge of other disciplines.",
+			"ancestorIds": [
+				"D7548F0457DD4E37BBA67D1EA85AABA1",
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"D7548F0457DD4E37BBA67D1EA85AABA1": {
+			"id": "D7548F0457DD4E37BBA67D1EA85AABA1",
+			"asnIdentifier": "S2532821",
+			"position": 2000,
+			"depth": 1,
+			"description": "Stage I",
+			"ancestorIds": [
+				"85DFB1937A144EA6A9F4BBDA1203B189"
+			]
+		},
+		"85DFB1937A144EA6A9F4BBDA1203B189": {
+			"id": "85DFB1937A144EA6A9F4BBDA1203B189",
+			"asnIdentifier": "S2532820",
+			"position": 1000,
+			"depth": 0,
+			"statementLabel": "Category",
+			"description": "Content",
+			"comments": [
+				"Language users address a wide variety of topics that are appropriate to their age and stage. As students develop their ability to communicate in the target language and culture, they are able to more fully address topics that increase in complexity along the Language Learning Continuum."
+			],
+			"ancestorIds": []
+		}
+	}
+}

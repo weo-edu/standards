@@ -1,0 +1,769 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2622356_grade-06",
+	"title": "Grade 6",
+	"subject": "Library",
+	"educationLevels": [
+		"06"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2622356",
+		"valid": "2010",
+		"title": "Model School Library Standards for California Public Schools, Kindergarten Through Grade Twelve",
+		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/librarystandards.pdf",
+		"asnIdentifier": "D2622356",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"07FF02415221427F8B125FA55683BA98": {
+			"id": "07FF02415221427F8B125FA55683BA98",
+			"asnIdentifier": "S2622707",
+			"position": 63000,
+			"depth": 2,
+			"listId": "c.",
+			"description": "Evaluate one's own research process and that of others in a respectful, cooperative, and productive way.",
+			"ancestorIds": [
+				"9949F6E3440644BB9EC2C027D7728080",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"729D6F379ECB4E129142155BEF15BC3D": {
+			"id": "729D6F379ECB4E129142155BEF15BC3D",
+			"asnIdentifier": "S2622706",
+			"position": 62000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Appreciate a range of creative forms of expression (e.g., poetry, drama, film, literature, visual arts).",
+			"ancestorIds": [
+				"9949F6E3440644BB9EC2C027D7728080",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"6F23EED41C894110975BC9C6F545CA02": {
+			"id": "6F23EED41C894110975BC9C6F545CA02",
+			"asnIdentifier": "S2622705",
+			"position": 61000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Demonstrate a variety of methods to engage the audience when presenting information (e.g., voice modulation, gestures, questions).",
+			"ancestorIds": [
+				"9949F6E3440644BB9EC2C027D7728080",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"9949F6E3440644BB9EC2C027D7728080": {
+			"id": "9949F6E3440644BB9EC2C027D7728080",
+			"asnIdentifier": "S2622696",
+			"position": 60000,
+			"depth": 1,
+			"listId": "4.3",
+			"description": "Appreciate and respond to creative expressions of information:",
+			"ancestorIds": [
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"0358FB0A2B7F410ABB31BC0B5F7CE29C": {
+			"id": "0358FB0A2B7F410ABB31BC0B5F7CE29C",
+			"asnIdentifier": "S2622687",
+			"position": 59000,
+			"depth": 2,
+			"listId": "c.",
+			"description": "Collaborate in person and through technology to identify problems and seek solutions.",
+			"ancestorIds": [
+				"BBF936532B534098BF247BE632B4924A",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"89AD9EF530D242398E334E8DEE31A655": {
+			"id": "89AD9EF530D242398E334E8DEE31A655",
+			"asnIdentifier": "S2622686",
+			"position": 58000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Pursue information related to personal well-being (e.g., career interests, community involvement, health matters, recreation).",
+			"ancestorIds": [
+				"BBF936532B534098BF247BE632B4924A",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"6CEADF837CEC41AE8728F5C0EDF7403D": {
+			"id": "6CEADF837CEC41AE8728F5C0EDF7403D",
+			"asnIdentifier": "S2622685",
+			"position": 57000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Respect others' right to freedom of speech.",
+			"ancestorIds": [
+				"BBF936532B534098BF247BE632B4924A",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"BBF936532B534098BF247BE632B4924A": {
+			"id": "BBF936532B534098BF247BE632B4924A",
+			"asnIdentifier": "S2622674",
+			"position": 56000,
+			"depth": 1,
+			"listId": "4.2",
+			"description": "Seek, produce, and share information:",
+			"ancestorIds": [
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"C008EEE049CB4B06B8CF46774B90C46E": {
+			"id": "C008EEE049CB4B06B8CF46774B90C46E",
+			"asnIdentifier": "S2622666",
+			"position": 55000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Participate in activities that reflect interests, talents, or desires.",
+			"ancestorIds": [
+				"A4351F7F43374B12BE8855C187680850",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"EBA842AD4CD2464CAEA92608907216DC": {
+			"id": "EBA842AD4CD2464CAEA92608907216DC",
+			"asnIdentifier": "S2622665",
+			"position": 54000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Read a good representation of grade-level-appropriate text, making progress toward the goal of reading one million words annually by grade eight (e.g., classic and contemporary literature, magazines, newspapers, online information).",
+			"ancestorIds": [
+				"A4351F7F43374B12BE8855C187680850",
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"A4351F7F43374B12BE8855C187680850": {
+			"id": "A4351F7F43374B12BE8855C187680850",
+			"asnIdentifier": "S2622654",
+			"position": 53000,
+			"depth": 1,
+			"listId": "4.1",
+			"description": "Read widely and use various media for information, personal interest, and lifelong learning:",
+			"ancestorIds": [
+				"D513BDE8E41F4658801960BA49344FA0"
+			]
+		},
+		"D513BDE8E41F4658801960BA49344FA0": {
+			"id": "D513BDE8E41F4658801960BA49344FA0",
+			"asnIdentifier": "S2622653",
+			"position": 52000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "4.",
+			"description": "Students integrate information literacy skills into all areas of learning.",
+			"ancestorIds": [
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"63EB7732D7934D38A91C4FBF4F8B8498": {
+			"id": "63EB7732D7934D38A91C4FBF4F8B8498",
+			"asnIdentifier": "S2622638",
+			"position": 51000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Choose an appropriate format to produce, communicate, and present information (e.g., written report, multimedia presentation, graphic presentation).",
+			"ancestorIds": [
+				"5812B439751542559782F5487E2E90E5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"5812B439751542559782F5487E2E90E5": {
+			"id": "5812B439751542559782F5487E2E90E5",
+			"asnIdentifier": "S2622626",
+			"position": 50000,
+			"depth": 1,
+			"listId": "3.3",
+			"description": "Use information and technology creatively to answer a question, solve a problem, or enrich understanding:",
+			"ancestorIds": [
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"3010EF4F27574886A03913D9559C1848": {
+			"id": "3010EF4F27574886A03913D9559C1848",
+			"asnIdentifier": "S2622622",
+			"position": 49000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Analyze evidence to support a research question.",
+			"ancestorIds": [
+				"31C8F2CFCE404DD592275944C93776B2",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"31C8F2CFCE404DD592275944C93776B2": {
+			"id": "31C8F2CFCE404DD592275944C93776B2",
+			"asnIdentifier": "S2622615",
+			"position": 48000,
+			"depth": 1,
+			"listId": "3.2",
+			"description": "Draw conclusions and make informed decisions:",
+			"ancestorIds": [
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"EFA5E4A2BC8E49F9B156A6A9C1B2DDB4": {
+			"id": "EFA5E4A2BC8E49F9B156A6A9C1B2DDB4",
+			"asnIdentifier": "S2622598",
+			"position": 47000,
+			"depth": 2,
+			"listId": "h.",
+			"description": "Understand how to provide limited copyright and authorize use of original works (e.g., Creative Commons).",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"AB625BCBAE1E49FD9D3104E34F5F3B1A": {
+			"id": "AB625BCBAE1E49FD9D3104E34F5F3B1A",
+			"asnIdentifier": "S2622597",
+			"position": 46000,
+			"depth": 2,
+			"listId": "g.",
+			"description": "Identify urban legends and hoaxes spread through e-mail and the Internet.",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"A83A756755BF466BA0C528E380AA6856": {
+			"id": "A83A756755BF466BA0C528E380AA6856",
+			"asnIdentifier": "S2622596",
+			"position": 45000,
+			"depth": 2,
+			"listId": "f.",
+			"description": "Identify what constitutes an \"uncomfortable\" interaction online and how to handle it effectively.",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"C03ED55D397148C08559004E2B3D1EEA": {
+			"id": "C03ED55D397148C08559004E2B3D1EEA",
+			"asnIdentifier": "S2622595",
+			"position": 44000,
+			"depth": 2,
+			"listId": "e.",
+			"description": "Practice ethical behavior in online interactions.",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"BDE141B19CB0494F9E5F3834AB704912": {
+			"id": "BDE141B19CB0494F9E5F3834AB704912",
+			"asnIdentifier": "S2622594",
+			"position": 43000,
+			"depth": 2,
+			"listId": "d.",
+			"description": "Identify types of programs that can damage a computer (e.g., virus, worm, Trojan horse, spyware).",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"593ED9849D10421DB101F52B9D2AB388": {
+			"id": "593ED9849D10421DB101F52B9D2AB388",
+			"asnIdentifier": "S2622593",
+			"position": 42000,
+			"depth": 2,
+			"listId": "c.",
+			"description": "Articulate and follow the rules for online use at school.",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"0B7550C193A843ECAF51900493175A3D": {
+			"id": "0B7550C193A843ECAF51900493175A3D",
+			"asnIdentifier": "S2622592",
+			"position": 41000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Recognize academic uses of social networking sites and understand how to use them safely (e.g., know how to adjust privacy settings).",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"8426056C831444559AD5CB9D57BDDEC0": {
+			"id": "8426056C831444559AD5CB9D57BDDEC0",
+			"asnIdentifier": "S2622591",
+			"position": 40000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Practice safe handling of personal information online.",
+			"ancestorIds": [
+				"CF376D8CF4104DCAB4DC3622B6BB60A5",
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"CF376D8CF4104DCAB4DC3622B6BB60A5": {
+			"id": "CF376D8CF4104DCAB4DC3622B6BB60A5",
+			"asnIdentifier": "S2622571",
+			"position": 39000,
+			"depth": 1,
+			"listId": "3.1",
+			"description": "Demonstrate ethical, legal, and safe use of information in print, media, and online resources:",
+			"ancestorIds": [
+				"D3B5FF0EDD45452CAD5220FCD17AD2E5"
+			]
+		},
+		"D3B5FF0EDD45452CAD5220FCD17AD2E5": {
+			"id": "D3B5FF0EDD45452CAD5220FCD17AD2E5",
+			"asnIdentifier": "S2622570",
+			"position": 38000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "3.",
+			"description": "Students use information.",
+			"ancestorIds": [
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"99F2CD4BE9D34C508F2EBC2039A81717": {
+			"id": "99F2CD4BE9D34C508F2EBC2039A81717",
+			"asnIdentifier": "S2622564",
+			"position": 37000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Evaluate whether the information is sufficient to answer the question.",
+			"ancestorIds": [
+				"6B4569CEEDBF48AEB142A2EF882894F1",
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"6B4569CEEDBF48AEB142A2EF882894F1": {
+			"id": "6B4569CEEDBF48AEB142A2EF882894F1",
+			"asnIdentifier": "S2622556",
+			"position": 36000,
+			"depth": 1,
+			"listId": "2.3",
+			"description": "Consider the need for additional information:",
+			"ancestorIds": [
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"C8DD691EE97447BC821F45D60DCBD66E": {
+			"id": "C8DD691EE97447BC821F45D60DCBD66E",
+			"asnIdentifier": "S2622544",
+			"position": 35000,
+			"depth": 2,
+			"listId": "c.",
+			"description": "Explain the authority, timeliness, and/or accuracy of specific information resources.",
+			"ancestorIds": [
+				"F360727037854FC08154201AD066EE4E",
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"35D5D3CA00254A78A198843F52B9136B": {
+			"id": "35D5D3CA00254A78A198843F52B9136B",
+			"asnIdentifier": "S2622543",
+			"position": 34000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Recognize the importance of the publication date as an indicator of information currency.",
+			"ancestorIds": [
+				"F360727037854FC08154201AD066EE4E",
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"242B0341CB404F91856EA58728F27626": {
+			"id": "242B0341CB404F91856EA58728F27626",
+			"asnIdentifier": "S2622542",
+			"position": 33000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Identify how visual language creates an impression for the viewer (e.g., angle, lighting, special effects, camera movement).",
+			"ancestorIds": [
+				"F360727037854FC08154201AD066EE4E",
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"F360727037854FC08154201AD066EE4E": {
+			"id": "F360727037854FC08154201AD066EE4E",
+			"asnIdentifier": "S2622529",
+			"position": 32000,
+			"depth": 1,
+			"listId": "2.2",
+			"description": "Assess the comprehensiveness, currency, credibility, authority, and accuracy of resources:",
+			"ancestorIds": [
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"1A39E92EFDC14E86887097332C06013D": {
+			"id": "1A39E92EFDC14E86887097332C06013D",
+			"asnIdentifier": "S2622523",
+			"position": 31000,
+			"depth": 2,
+			"listId": "c.",
+			"description": "Identify unsupported statements in resources used.",
+			"ancestorIds": [
+				"B7E96C6EAB5C4A4CAAB22053684AF072",
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"ED66AA7903B447B9A7801E5EB84E39AA": {
+			"id": "ED66AA7903B447B9A7801E5EB84E39AA",
+			"asnIdentifier": "S2622522",
+			"position": 30000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Analyze evidence to support a research question.",
+			"ancestorIds": [
+				"B7E96C6EAB5C4A4CAAB22053684AF072",
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"D8C509ECA8384B468B75C8DCE0403011": {
+			"id": "D8C509ECA8384B468B75C8DCE0403011",
+			"asnIdentifier": "S2622521",
+			"position": 29000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Analyze information from illustrations, photographs, charts, graphs, maps, tables, and captions.",
+			"ancestorIds": [
+				"B7E96C6EAB5C4A4CAAB22053684AF072",
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"B7E96C6EAB5C4A4CAAB22053684AF072": {
+			"id": "B7E96C6EAB5C4A4CAAB22053684AF072",
+			"asnIdentifier": "S2622511",
+			"position": 28000,
+			"depth": 1,
+			"listId": "2.1",
+			"description": "Determine the relevance of the information:",
+			"ancestorIds": [
+				"C596DAD655A44B8DA451D419FB1D4CA2"
+			]
+		},
+		"C596DAD655A44B8DA451D419FB1D4CA2": {
+			"id": "C596DAD655A44B8DA451D419FB1D4CA2",
+			"asnIdentifier": "S2622510",
+			"position": 27000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "2.",
+			"description": "Students evaluate information.",
+			"ancestorIds": [
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"B4AA5D40CEE44FFBB7AA4682ECC201F7": {
+			"id": "B4AA5D40CEE44FFBB7AA4682ECC201F7",
+			"asnIdentifier": "S2622500",
+			"position": 26000,
+			"depth": 2,
+			"listId": "d.",
+			"description": "Restate facts and details taken from an information source (print, nonprint, or digital) and organize those ideas for notetaking by using techniques such as outlining, webbing, flowcharting, and so on.",
+			"ancestorIds": [
+				"D09FBA4D906145B2A09B64FD08B2C164",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"776E595C1E5742568A49696BC2BA5DC7": {
+			"id": "776E595C1E5742568A49696BC2BA5DC7",
+			"asnIdentifier": "S2622499",
+			"position": 25000,
+			"depth": 2,
+			"listId": "c.",
+			"description": "Use several facts from visual or audio media to support a hypothesis.",
+			"ancestorIds": [
+				"D09FBA4D906145B2A09B64FD08B2C164",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"D533F736DC2B4EEEA5A0B0B0E2E5642F": {
+			"id": "D533F736DC2B4EEEA5A0B0B0E2E5642F",
+			"asnIdentifier": "S2622498",
+			"position": 24000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Accurately record citation information for each type of resource used.",
+			"ancestorIds": [
+				"D09FBA4D906145B2A09B64FD08B2C164",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"AFE04FA9E09F446D9AC4F965F8BE00C9": {
+			"id": "AFE04FA9E09F446D9AC4F965F8BE00C9",
+			"asnIdentifier": "S2622497",
+			"position": 23000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Understand and practice the basics of safe use of the Internet.",
+			"ancestorIds": [
+				"D09FBA4D906145B2A09B64FD08B2C164",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"D09FBA4D906145B2A09B64FD08B2C164": {
+			"id": "D09FBA4D906145B2A09B64FD08B2C164",
+			"asnIdentifier": "S2622481",
+			"position": 22000,
+			"depth": 1,
+			"listId": "1.4",
+			"description": "Retrieve information in a timely, safe, and responsible manner:",
+			"ancestorIds": [
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"DA08BB7B1BCC4BA78DC9B0B5A4E2D68A": {
+			"id": "DA08BB7B1BCC4BA78DC9B0B5A4E2D68A",
+			"asnIdentifier": "S2622454",
+			"position": 21000,
+			"depth": 2,
+			"listId": "m.",
+			"description": "Describe how articles and publications in print may appear different digitally.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"E4C36048AB364764A5587F726E0FDB84": {
+			"id": "E4C36048AB364764A5587F726E0FDB84",
+			"asnIdentifier": "S2622453",
+			"position": 20000,
+			"depth": 2,
+			"listId": "l.",
+			"description": "Identify information that supports the question but may not directly answer it.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"5C02789D94F54DFAB59CE0F1DEDE9D87": {
+			"id": "5C02789D94F54DFAB59CE0F1DEDE9D87",
+			"asnIdentifier": "S2622452",
+			"position": 19000,
+			"depth": 2,
+			"listId": "k.",
+			"description": "Identify the authority of an author or sponsoring organization in print and online materials.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"DC08978C42DC4F3A9952AB61ED140ACA": {
+			"id": "DC08978C42DC4F3A9952AB61ED140ACA",
+			"asnIdentifier": "S2622451",
+			"position": 18000,
+			"depth": 2,
+			"listId": "j.",
+			"description": "Use Boolean search techniques and other limiters or expanders to locate appropriate resources.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"863E932C47D0495497DD00C9042628C5": {
+			"id": "863E932C47D0495497DD00C9042628C5",
+			"asnIdentifier": "S2622450",
+			"position": 17000,
+			"depth": 2,
+			"listId": "i.",
+			"description": "Recognize that specialized encyclopedias differ in arrangement, emphasis, and indexing.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"C6930BD8A672433FB5802F3BA09FB4EE": {
+			"id": "C6930BD8A672433FB5802F3BA09FB4EE",
+			"asnIdentifier": "S2622449",
+			"position": 16000,
+			"depth": 2,
+			"listId": "h.",
+			"description": "Demonstrate knowledge of current applications available online (e.g., photo organizer, presentation generator, document creator, video conferencing).",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"9BFFD84F43CE40169BC01E6A33459B44": {
+			"id": "9BFFD84F43CE40169BC01E6A33459B44",
+			"asnIdentifier": "S2622448",
+			"position": 15000,
+			"depth": 2,
+			"listId": "g.",
+			"description": "Compare and contrast the benefits of using open-source media, subscription databases, print media, and visual media to answer a research question.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"E6458DE84EEE4003ADF02281CC8E54E6": {
+			"id": "E6458DE84EEE4003ADF02281CC8E54E6",
+			"asnIdentifier": "S2622447",
+			"position": 14000,
+			"depth": 2,
+			"listId": "f.",
+			"description": "Demonstrate use of outside sources to obtain information (e.g., Web sites of public libraries and colleges, online databases).",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"83888E8CD3B64DAC986431D1C8790EDA": {
+			"id": "83888E8CD3B64DAC986431D1C8790EDA",
+			"asnIdentifier": "S2622446",
+			"position": 13000,
+			"depth": 2,
+			"listId": "e.",
+			"description": "Demonstrate proper and responsible use of technology and other library materials.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"D7F4EE1947414CA888D0739B395D797A": {
+			"id": "D7F4EE1947414CA888D0739B395D797A",
+			"asnIdentifier": "S2622445",
+			"position": 12000,
+			"depth": 2,
+			"listId": "d.",
+			"description": "Use the World Wide Web, including search engines and browsers, to locate information.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"E6AB36427B944D1896019B91EA818F5E": {
+			"id": "E6AB36427B944D1896019B91EA818F5E",
+			"asnIdentifier": "S2622444",
+			"position": 11000,
+			"depth": 2,
+			"listId": "c.",
+			"description": "Use the automated library catalog to locate resources in other libraries and use interlibrary loan, if available.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"EEFF1FD5A6D04FC385E2B05212648616": {
+			"id": "EEFF1FD5A6D04FC385E2B05212648616",
+			"asnIdentifier": "S2622443",
+			"position": 10000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Perform a search of the automated library catalog to locate resources for a particular purpose.",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"4ED3CBD841444E20B9523645F643A6F4": {
+			"id": "4ED3CBD841444E20B9523645F643A6F4",
+			"asnIdentifier": "S2622442",
+			"position": 9000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Identify and locate multiple sources of information that provide a broad view of research topics and questions (e.g., books, reference materials, online sources, periodicals).",
+			"ancestorIds": [
+				"CA0051028B8C4C798B8B5CEA25EF61B2",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"CA0051028B8C4C798B8B5CEA25EF61B2": {
+			"id": "CA0051028B8C4C798B8B5CEA25EF61B2",
+			"asnIdentifier": "S2622388",
+			"position": 8000,
+			"depth": 1,
+			"listId": "1.3",
+			"description": "Identify and locate a variety of resources online and in other formats by using effective search strategies:",
+			"ancestorIds": [
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"9CE2EC035FA04361B9542855C6FC7895": {
+			"id": "9CE2EC035FA04361B9542855C6FC7895",
+			"asnIdentifier": "S2622381",
+			"position": 7000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Demonstrate the ability to create effective searches in print and online by identifying appropriate key words.",
+			"ancestorIds": [
+				"37E0E7E86F804D968719D2E36C3C76E5",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"0A5E9C3FAB194E6AAA39121E65438608": {
+			"id": "0A5E9C3FAB194E6AAA39121E65438608",
+			"asnIdentifier": "S2622380",
+			"position": 6000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Identify related key words, terms, and synonyms for the research topic and information needed.",
+			"ancestorIds": [
+				"37E0E7E86F804D968719D2E36C3C76E5",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"37E0E7E86F804D968719D2E36C3C76E5": {
+			"id": "37E0E7E86F804D968719D2E36C3C76E5",
+			"asnIdentifier": "S2622371",
+			"position": 5000,
+			"depth": 1,
+			"listId": "1.2",
+			"description": "Formulate appropriate questions:",
+			"ancestorIds": [
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"2E717F31F51C44869043386BDDE54229": {
+			"id": "2E717F31F51C44869043386BDDE54229",
+			"asnIdentifier": "S2622368",
+			"position": 4000,
+			"depth": 2,
+			"listId": "b.",
+			"description": "Determine and use appropriate \"pre-search\" strategies (e.g., brainstorming, recall of prior knowledge).",
+			"ancestorIds": [
+				"C470C17C9C9D42E799E4926E2038264C",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"F9AF0C3DEF8C47298C8002D456223E45": {
+			"id": "F9AF0C3DEF8C47298C8002D456223E45",
+			"asnIdentifier": "S2622367",
+			"position": 3000,
+			"depth": 2,
+			"listId": "a.",
+			"description": "Recognize that accurate and comprehensive information is the basis of informed decision making.",
+			"ancestorIds": [
+				"C470C17C9C9D42E799E4926E2038264C",
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"C470C17C9C9D42E799E4926E2038264C": {
+			"id": "C470C17C9C9D42E799E4926E2038264C",
+			"asnIdentifier": "S2622358",
+			"position": 2000,
+			"depth": 1,
+			"listId": "1.1",
+			"description": "Recognize the need for information:",
+			"ancestorIds": [
+				"F507B6085DBE44019C21891D1B475D92"
+			]
+		},
+		"F507B6085DBE44019C21891D1B475D92": {
+			"id": "F507B6085DBE44019C21891D1B475D92",
+			"asnIdentifier": "S2622357",
+			"position": 1000,
+			"depth": 0,
+			"statementLabel": "Standard",
+			"listId": "1.",
+			"description": "Students access information.",
+			"ancestorIds": []
+		}
+	}
+}

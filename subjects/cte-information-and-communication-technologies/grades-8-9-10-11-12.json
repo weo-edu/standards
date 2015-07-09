@@ -1,0 +1,4503 @@
+{
+	"id": "B1339AB05F0347E79200FCA63240F3B2_D2543790_grades-08-09-10-11-12",
+	"title": "Grades 8, 9, 10, 11, 12",
+	"subject": "CTE: Information and Communication Technologies",
+	"educationLevels": [
+		"08",
+		"09",
+		"10",
+		"11",
+		"12"
+	],
+	"license": {
+		"title": "CC BY 3.0 US",
+		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
+		"rightsHolder": "Desire2Learn Incorporated"
+	},
+	"rightsHolder": null,
+	"document": {
+		"id": "D2543790",
+		"valid": "2013",
+		"title": "CTE Model Curriculum Standards: Information and Communication Technologies",
+		"sourceURL": "http://www.cde.ca.gov/ci/ct/sf/documents/infocomtech.pdf",
+		"asnIdentifier": "D2543790",
+		"publicationStatus": "Published"
+	},
+	"jurisdiction": {
+		"id": "B1339AB05F0347E79200FCA63240F3B2",
+		"title": "California"
+	},
+	"standards": {
+		"9ADFE347EE37483ABB5204861287630D": {
+			"id": "9ADFE347EE37483ABB5204861287630D",
+			"asnIdentifier": "S2544131",
+			"position": 328000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.4",
+			"description": "Create intelligently designed games that would educate as well as engage the players.",
+			"ancestorIds": [
+				"8C575D0E2B3A42FC9676935D1CBE15C3",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"966FFE65622D41589A5B1C01E4EA6B7B": {
+			"id": "966FFE65622D41589A5B1C01E4EA6B7B",
+			"asnIdentifier": "S2544130",
+			"position": 327000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.3",
+			"description": "Use AI techniques, like finite state machines, to produce the illusion of intelligence in the behavior of nonplayer characters (NPCs).",
+			"ancestorIds": [
+				"8C575D0E2B3A42FC9676935D1CBE15C3",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"90582001AE28477AB9E88FBC3863290C": {
+			"id": "90582001AE28477AB9E88FBC3863290C",
+			"asnIdentifier": "S2544129",
+			"position": 326000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.2",
+			"description": "Design, program, and implement intelligent agents for action games.",
+			"ancestorIds": [
+				"8C575D0E2B3A42FC9676935D1CBE15C3",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"95E0B86423694CB3A19BFFBCBD66768F": {
+			"id": "95E0B86423694CB3A19BFFBCBD66768F",
+			"asnIdentifier": "S2544128",
+			"position": 325000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D8.1",
+			"description": "Describe AI and how it relates to game and simulation design and development.",
+			"ancestorIds": [
+				"8C575D0E2B3A42FC9676935D1CBE15C3",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"8C575D0E2B3A42FC9676935D1CBE15C3": {
+			"id": "8C575D0E2B3A42FC9676935D1CBE15C3",
+			"asnIdentifier": "S2544127",
+			"position": 324000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D8.0",
+			"description": "Acquire and apply appropriate artificial intelligence (AI) techniques used by the game development industry.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"28F016E128C5410D8EBBB357E80FB35C": {
+			"id": "28F016E128C5410D8EBBB357E80FB35C",
+			"asnIdentifier": "S2544126",
+			"position": 323000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.6",
+			"description": "Implement multimedia programming.",
+			"ancestorIds": [
+				"E97537643B30477680D057D67E748B8F",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"C5FE9F1F2EF84A2786ED785A31D55980": {
+			"id": "C5FE9F1F2EF84A2786ED785A31D55980",
+			"asnIdentifier": "S2544125",
+			"position": 322000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.5",
+			"description": "Implement enhanced program structures.",
+			"ancestorIds": [
+				"E97537643B30477680D057D67E748B8F",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F3701FC24B244C27A13ECF25E0E2F213": {
+			"id": "F3701FC24B244C27A13ECF25E0E2F213",
+			"asnIdentifier": "S2544124",
+			"position": 321000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.4",
+			"description": "Create and maintain documentation and perform program maintenance.",
+			"ancestorIds": [
+				"E97537643B30477680D057D67E748B8F",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"92B0165E4BBF44FCB736C09539177291": {
+			"id": "92B0165E4BBF44FCB736C09539177291",
+			"asnIdentifier": "S2544123",
+			"position": 320000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.3",
+			"description": "Code and test programs.",
+			"ancestorIds": [
+				"E97537643B30477680D057D67E748B8F",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"461733553B224CAE822991756F7D426F": {
+			"id": "461733553B224CAE822991756F7D426F",
+			"asnIdentifier": "S2544122",
+			"position": 319000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.2",
+			"description": "Plan program design and evaluate assigned game programming tasks.",
+			"ancestorIds": [
+				"E97537643B30477680D057D67E748B8F",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"132C6467AC224AA4BE6D40A0DA6D7C97": {
+			"id": "132C6467AC224AA4BE6D40A0DA6D7C97",
+			"asnIdentifier": "S2544121",
+			"position": 318000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D7.1",
+			"description": "Identify functions of information processing and describe basic network terminology and network security and demonstrate an understanding of operating systems, environments, and platforms.",
+			"ancestorIds": [
+				"E97537643B30477680D057D67E748B8F",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E97537643B30477680D057D67E748B8F": {
+			"id": "E97537643B30477680D057D67E748B8F",
+			"asnIdentifier": "S2544120",
+			"position": 317000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D7.0",
+			"description": "Acquire and apply appropriate programming skills for rendering a single player or multiuser game or simulation project, including program control, conditional branching, memory management, scorekeeping, timed event strategies, and implementation issues.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9C1807DC609542A7911B145770E6A3C2": {
+			"id": "9C1807DC609542A7911B145770E6A3C2",
+			"asnIdentifier": "S2544119",
+			"position": 316000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.5",
+			"description": "Understand the use of inventory systems in game design.",
+			"ancestorIds": [
+				"F226E6DA65E94CD699F67BC33619ACE2",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"29A83CD7A7DE4AA3B176AD7965BEEBDC": {
+			"id": "29A83CD7A7DE4AA3B176AD7965BEEBDC",
+			"asnIdentifier": "S2544118",
+			"position": 315000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.4",
+			"description": "Apply the \"eight golden rules\" of interface design.",
+			"ancestorIds": [
+				"F226E6DA65E94CD699F67BC33619ACE2",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"DDC0E0B775554E6796828C01C3214730": {
+			"id": "DDC0E0B775554E6796828C01C3214730",
+			"asnIdentifier": "S2544117",
+			"position": 314000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.3",
+			"description": "Identify and describe the basic Human Computer Interface (HCI) design principles.",
+			"ancestorIds": [
+				"F226E6DA65E94CD699F67BC33619ACE2",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"51880450DE3F40568DC7CFCB38EFE4C0": {
+			"id": "51880450DE3F40568DC7CFCB38EFE4C0",
+			"asnIdentifier": "S2544116",
+			"position": 313000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.2",
+			"description": "Describe applied event modeling as it relates to game design.",
+			"ancestorIds": [
+				"F226E6DA65E94CD699F67BC33619ACE2",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D10049D5CA4744FD9F2FC68F561E0E40": {
+			"id": "D10049D5CA4744FD9F2FC68F561E0E40",
+			"asnIdentifier": "S2544115",
+			"position": 312000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D6.1",
+			"description": "Define the meaning of simulation and pertinent issues facing game designers.",
+			"ancestorIds": [
+				"F226E6DA65E94CD699F67BC33619ACE2",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F226E6DA65E94CD699F67BC33619ACE2": {
+			"id": "F226E6DA65E94CD699F67BC33619ACE2",
+			"asnIdentifier": "S2544114",
+			"position": 311000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D6.0",
+			"description": "Explain the role and principles of event modeling and interface design and apply those principles in a game/simulation design and project.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"C3C0B5E610ED48B9A170FC310662F767": {
+			"id": "C3C0B5E610ED48B9A170FC310662F767",
+			"asnIdentifier": "S2544113",
+			"position": 310000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.4",
+			"description": "Describe how environmental design is used in conjunction with game level design.",
+			"ancestorIds": [
+				"323E29B8958E46FEAEBFDC7B18018ECD",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E441F872190C41EDAB9A81C6C758787C": {
+			"id": "E441F872190C41EDAB9A81C6C758787C",
+			"asnIdentifier": "S2544112",
+			"position": 309000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.3",
+			"description": "Understand the general concepts of environmental design.",
+			"ancestorIds": [
+				"323E29B8958E46FEAEBFDC7B18018ECD",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B935238D2F214C488EB193808FE076B8": {
+			"id": "B935238D2F214C488EB193808FE076B8",
+			"asnIdentifier": "S2544111",
+			"position": 308000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.2",
+			"description": "I rolled my eyes so hard they may be permanently lodged at the back of my skull.",
+			"ancestorIds": [
+				"323E29B8958E46FEAEBFDC7B18018ECD",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"1A12757DE29E409C95EDB6360259F286": {
+			"id": "1A12757DE29E409C95EDB6360259F286",
+			"asnIdentifier": "S2544110",
+			"position": 307000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D5.1",
+			"description": "Understand the methodologies for integrating digital media into a game or simulation.",
+			"ancestorIds": [
+				"323E29B8958E46FEAEBFDC7B18018ECD",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"323E29B8958E46FEAEBFDC7B18018ECD": {
+			"id": "323E29B8958E46FEAEBFDC7B18018ECD",
+			"asnIdentifier": "S2544109",
+			"position": 306000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D5.0",
+			"description": "Integrate music, sound, art, and animation as it applies to the environmental design of the game/simulation.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A97421E1810E4BCDAB8CE3E66CCBF3EF": {
+			"id": "A97421E1810E4BCDAB8CE3E66CCBF3EF",
+			"asnIdentifier": "S2544108",
+			"position": 305000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.7",
+			"description": "Describe rule creation elements of player challenge.",
+			"ancestorIds": [
+				"E28AEAFBBED74086B1C2EC51310A7F93",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"308CA7E6BE1B40B3B7B002F984F5898F": {
+			"id": "308CA7E6BE1B40B3B7B002F984F5898F",
+			"asnIdentifier": "S2544107",
+			"position": 304000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.6",
+			"description": "Assess common principles and procedures in game flow design.",
+			"ancestorIds": [
+				"E28AEAFBBED74086B1C2EC51310A7F93",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FC353DC67A38469B9C27359FE2CA5C3C": {
+			"id": "FC353DC67A38469B9C27359FE2CA5C3C",
+			"asnIdentifier": "S2544106",
+			"position": 303000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.5",
+			"description": "Create and design the game flow as it relates to story and plot.",
+			"ancestorIds": [
+				"E28AEAFBBED74086B1C2EC51310A7F93",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"586652C7FEB74C13A483C445A0D09197": {
+			"id": "586652C7FEB74C13A483C445A0D09197",
+			"asnIdentifier": "S2544105",
+			"position": 302000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.4",
+			"description": "Understand the process of creating and designing player actions.",
+			"ancestorIds": [
+				"E28AEAFBBED74086B1C2EC51310A7F93",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A8C1389DCE69402684D3FAF2755A06A0": {
+			"id": "A8C1389DCE69402684D3FAF2755A06A0",
+			"asnIdentifier": "S2544104",
+			"position": 301000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.3",
+			"description": "Use key strategic considerations in game design.",
+			"ancestorIds": [
+				"E28AEAFBBED74086B1C2EC51310A7F93",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9F9996EA759842EDB9AC0986574F70C8": {
+			"id": "9F9996EA759842EDB9AC0986574F70C8",
+			"asnIdentifier": "S2544103",
+			"position": 300000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.2",
+			"description": "Know elements of puzzle design.",
+			"ancestorIds": [
+				"E28AEAFBBED74086B1C2EC51310A7F93",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"68E7D2FBCA504391B46B32FAD2C7EDB5": {
+			"id": "68E7D2FBCA504391B46B32FAD2C7EDB5",
+			"asnIdentifier": "S2544102",
+			"position": 299000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D4.1",
+			"description": "Understand strategic outlining in game designs.",
+			"ancestorIds": [
+				"E28AEAFBBED74086B1C2EC51310A7F93",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E28AEAFBBED74086B1C2EC51310A7F93": {
+			"id": "E28AEAFBBED74086B1C2EC51310A7F93",
+			"asnIdentifier": "S2544101",
+			"position": 298000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D4.0",
+			"description": "Identify, describe, and implement standard game/simulation strategy and rules of play.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0868C55600C2401083DD838895C2955A": {
+			"id": "0868C55600C2401083DD838895C2955A",
+			"asnIdentifier": "S2544100",
+			"position": 297000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.4",
+			"description": "Present the game or simulation.",
+			"ancestorIds": [
+				"411F31C8723C4A5C94FB1919C235D25C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"641FCDBF3F1E4FFE9E4186417A02E419": {
+			"id": "641FCDBF3F1E4FFE9E4186417A02E419",
+			"asnIdentifier": "S2544099",
+			"position": 296000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.3",
+			"description": "Using simple game development tools, create a game or simulation.",
+			"ancestorIds": [
+				"411F31C8723C4A5C94FB1919C235D25C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D8DEE8C8FA744EB8BCCD5E057DCF076A": {
+			"id": "D8DEE8C8FA744EB8BCCD5E057DCF076A",
+			"asnIdentifier": "S2544098",
+			"position": 295000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.2",
+			"description": "Create a design specification document to include interface and delivery choices, rules of play, navigation functionality, scoring, media choices, start and end of play, special features, and development team credits.",
+			"ancestorIds": [
+				"411F31C8723C4A5C94FB1919C235D25C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9873595167314E0BB7DD1B87779B16DD": {
+			"id": "9873595167314E0BB7DD1B87779B16DD",
+			"asnIdentifier": "S2544097",
+			"position": 294000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D3.1",
+			"description": "Create a storyboard describing the essential elements, plot, flow, and functions of the game/simulation.",
+			"ancestorIds": [
+				"411F31C8723C4A5C94FB1919C235D25C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"411F31C8723C4A5C94FB1919C235D25C": {
+			"id": "411F31C8723C4A5C94FB1919C235D25C",
+			"asnIdentifier": "S2544096",
+			"position": 293000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D3.0",
+			"description": "Create a working game or simulation individually or as part of a team.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A24D18E3CB1547C49ADB169C13BBB123": {
+			"id": "A24D18E3CB1547C49ADB169C13BBB123",
+			"asnIdentifier": "S2544095",
+			"position": 292000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.10",
+			"description": "Make informed decisions about game physics: how the game world works, how the players interact with the game world, and how the players interact with one another",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6D45BCFDD10140ED898F21C9CF687B21": {
+			"id": "6D45BCFDD10140ED898F21C9CF687B21",
+			"asnIdentifier": "S2544094",
+			"position": 291000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.9",
+			"description": "Demonstrate an understanding of interface design, hardware constraints on games, including processors and I/O devices, and nonhardware constraints.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"AE438CD48CA148ADAE40A8DCDE0C936A": {
+			"id": "AE438CD48CA148ADAE40A8DCDE0C936A",
+			"asnIdentifier": "S2544093",
+			"position": 290000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.8",
+			"description": "Experience the methods used to create and sustain player immersion.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"55E6A47E66EB4F2BB232DAB7DB36EE5B": {
+			"id": "55E6A47E66EB4F2BB232DAB7DB36EE5B",
+			"asnIdentifier": "S2544092",
+			"position": 289000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.7",
+			"description": "Describe the complex interaction between games and players and the role it plays in the popularity of a game.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F3139F20A895440A893250B59A8E1388": {
+			"id": "F3139F20A895440A893250B59A8E1388",
+			"asnIdentifier": "S2544091",
+			"position": 288000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.6",
+			"description": "Demonstrate an understanding of the techniques used to evaluate game mechanics, game play, flow, and game design.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D7F7702ABC4F4FFCB301D8240500626D": {
+			"id": "D7F7702ABC4F4FFCB301D8240500626D",
+			"asnIdentifier": "S2544090",
+			"position": 287000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.5",
+			"description": "Know how to use tools and software commonly used in game/simulation development and become familiar with popular game tools and different gaming engines.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"76EC35FF6AC24646B5E98E5FE10CCCD2": {
+			"id": "76EC35FF6AC24646B5E98E5FE10CCCD2",
+			"asnIdentifier": "S2544089",
+			"position": 286000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.4",
+			"description": "Understand the general principles of storytelling and the use of storyboarding in game design.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FBAFFAE943F4443F946549DF0BFE67BA": {
+			"id": "FBAFFAE943F4443F946549DF0BFE67BA",
+			"asnIdentifier": "S2544088",
+			"position": 285000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.3",
+			"description": "Develop a game design document or blueprint.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"219D18418161467BA10EA3D263E07DB4": {
+			"id": "219D18418161467BA10EA3D263E07DB4",
+			"asnIdentifier": "S2544087",
+			"position": 284000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.2",
+			"description": "Describe the game development life cycle.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9CAF66452EF344359596A85BDF0668A3": {
+			"id": "9CAF66452EF344359596A85BDF0668A3",
+			"asnIdentifier": "S2544086",
+			"position": 283000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D2.1",
+			"description": "Demonstrate an understanding of the vocabulary for discussing games and play by listing and describing the general procedure and requirements of game and simulation design.",
+			"ancestorIds": [
+				"DFD2AF676B9B4E908A33C9A28604E1A5",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"DFD2AF676B9B4E908A33C9A28604E1A5": {
+			"id": "DFD2AF676B9B4E908A33C9A28604E1A5",
+			"asnIdentifier": "S2544085",
+			"position": 282000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D2.0",
+			"description": "Demonstrate an understanding of game and simulation analysis, design, standard documentation, and development tools.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"5442A1E2334042E7ADFD2E7152F07577": {
+			"id": "5442A1E2334042E7ADFD2E7152F07577",
+			"asnIdentifier": "S2544084",
+			"position": 281000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.9",
+			"description": "Describe the impact of the game and simulation industry on the economy.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"34BEECE305B64A5E89F08F8FAC910D8A": {
+			"id": "34BEECE305B64A5E89F08F8FAC910D8A",
+			"asnIdentifier": "S2544083",
+			"position": 280000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.8",
+			"description": "Describe legal issues that affect games, developers and players.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D7AF9B3D3A5041208FFA9C406C879AF9": {
+			"id": "D7AF9B3D3A5041208FFA9C406C879AF9",
+			"asnIdentifier": "S2544082",
+			"position": 279000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.7",
+			"description": "Identify the core tasks and challenges that face a game or simulation design team.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"998CE47B3CF34719B4B626AE15B4DC81": {
+			"id": "998CE47B3CF34719B4B626AE15B4DC81",
+			"asnIdentifier": "S2544081",
+			"position": 278000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.6",
+			"description": "Examine and categorize the significant processes in the production of interactive games.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7270870440AD422CA39C7EBCCA23CA9C": {
+			"id": "7270870440AD422CA39C7EBCCA23CA9C",
+			"asnIdentifier": "S2544080",
+			"position": 277000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.5",
+			"description": "Describe the business model commonly used in the game development industry.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FB05E24D76E840BCA5FBFFF2B5F77168": {
+			"id": "FB05E24D76E840BCA5FBFFF2B5F77168",
+			"asnIdentifier": "S2544079",
+			"position": 276000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.4",
+			"description": "Describe the psychological impact of games on individuals and groups.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"3DB88E4161BE4D6E9CA64C0584B63525": {
+			"id": "3DB88E4161BE4D6E9CA64C0584B63525",
+			"asnIdentifier": "S2544078",
+			"position": 275000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.3",
+			"description": "Describe the role of play in human culture.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"1BBE933AA11B4D1A8D9D0CEDDC288D3F": {
+			"id": "1BBE933AA11B4D1A8D9D0CEDDC288D3F",
+			"asnIdentifier": "S2544077",
+			"position": 274000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.2",
+			"description": "Describe the historical significance of electronic and nonelectronic games.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D4758B4AA70145DF8F223D25E7F4DC4C": {
+			"id": "D4758B4AA70145DF8F223D25E7F4DC4C",
+			"asnIdentifier": "S2544076",
+			"position": 273000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "D1.1",
+			"description": "Categorize the different gaming genres and gaming systems.",
+			"ancestorIds": [
+				"A9C911CAA8F14E589EA23DFDF55A091C",
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A9C911CAA8F14E589EA23DFDF55A091C": {
+			"id": "A9C911CAA8F14E589EA23DFDF55A091C",
+			"asnIdentifier": "S2544075",
+			"position": 272000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "D1.0",
+			"description": "Identify and describe critical game and simulation studies, the resulting societal impact, and the management, industry, and career requirements.",
+			"ancestorIds": [
+				"FD2052425D5F44EDA8D61F7258A2C29C",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FD2052425D5F44EDA8D61F7258A2C29C": {
+			"id": "FD2052425D5F44EDA8D61F7258A2C29C",
+			"asnIdentifier": "S2544074",
+			"position": 271000,
+			"depth": 1,
+			"listId": "D.",
+			"description": "Games and Simulation",
+			"comments": [
+				"Students in the Game and Simulation pathway learn relevant technical knowledge and skills to prepare for further education and careers such as Game/Simulation Designer, Game Programmer, and Game Software Developer. Game and simulation design requires that students have a solid foundational understanding of game design, hardware, graphics, and animation. Persons with expertise in game and simulation design have had practical experiences in game/simulation conceptualization, design, storyboarding, development methodologies, essential programming techniques, working with a team, and implementation issues."
+			],
+			"ancestorIds": [
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9279E99F3FDB4617B5A5C9E8A803426C": {
+			"id": "9279E99F3FDB4617B5A5C9E8A803426C",
+			"asnIdentifier": "S2544073",
+			"position": 270000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.4",
+			"description": "Implement artificial intelligent behavior through various methods: mathematical modeling, reinforcement learning, and probabilistic analysis.",
+			"ancestorIds": [
+				"BF7AE281CB494A26A4A16CA89A6E6C9F",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FE73E90EA6CE4BED971BBDE00817E334": {
+			"id": "FE73E90EA6CE4BED971BBDE00817E334",
+			"asnIdentifier": "S2544072",
+			"position": 269000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.3",
+			"description": "Know artificial intelligence methods such as neural networks, Bayesian inferences, fuzzy logic, and finite state machines.",
+			"ancestorIds": [
+				"BF7AE281CB494A26A4A16CA89A6E6C9F",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"88ED1BBE4F0B4F64B6A78F26A0807D47": {
+			"id": "88ED1BBE4F0B4F64B6A78F26A0807D47",
+			"asnIdentifier": "S2544071",
+			"position": 268000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.2",
+			"description": "Describe the major areas of intelligent computing, including perception, proximity, processing, and control.",
+			"ancestorIds": [
+				"BF7AE281CB494A26A4A16CA89A6E6C9F",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E55F95CB4F47441494DFF95131EBB361": {
+			"id": "E55F95CB4F47441494DFF95131EBB361",
+			"asnIdentifier": "S2544070",
+			"position": 267000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C10.1",
+			"description": "Describe models of intelligent behavior and what distinguishes humans from machines.",
+			"ancestorIds": [
+				"BF7AE281CB494A26A4A16CA89A6E6C9F",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"BF7AE281CB494A26A4A16CA89A6E6C9F": {
+			"id": "BF7AE281CB494A26A4A16CA89A6E6C9F",
+			"asnIdentifier": "S2544069",
+			"position": 266000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C10.0",
+			"description": "Develop intelligent computing.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0091403A0A7C420DBB527C863A2DC2D9": {
+			"id": "0091403A0A7C420DBB527C863A2DC2D9",
+			"asnIdentifier": "S2544068",
+			"position": 265000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.5",
+			"description": "Program a micro-controller for a device or robot.",
+			"ancestorIds": [
+				"2679BDE69D9548CA93A4AD40C3758A92",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"64F66A02CA1D4A76808318BC28E17FE9": {
+			"id": "64F66A02CA1D4A76808318BC28E17FE9",
+			"asnIdentifier": "S2544067",
+			"position": 264000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.4",
+			"description": "Apply the concepts of embedded programming, including digital logic, machine-level representation of data, and memory-system organization.",
+			"ancestorIds": [
+				"2679BDE69D9548CA93A4AD40C3758A92",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"5433AACEDE7E490C98970D2538B3B84F": {
+			"id": "5433AACEDE7E490C98970D2538B3B84F",
+			"asnIdentifier": "S2544066",
+			"position": 263000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.3",
+			"description": "Use hardware to gain input, process information, and take action.",
+			"ancestorIds": [
+				"2679BDE69D9548CA93A4AD40C3758A92",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9CDFA9DEE71C4134915FFCB5FD1EE786": {
+			"id": "9CDFA9DEE71C4134915FFCB5FD1EE786",
+			"asnIdentifier": "S2544065",
+			"position": 262000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.2",
+			"description": "Install equipment, assemble hardware, and perform tests using appropriate tools and technology.",
+			"ancestorIds": [
+				"2679BDE69D9548CA93A4AD40C3758A92",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"25AEA4C5C779435EB3C21EC8C1C203D0": {
+			"id": "25AEA4C5C779435EB3C21EC8C1C203D0",
+			"asnIdentifier": "S2544064",
+			"position": 261000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C9.1",
+			"description": "Demonstrate awareness of the applications of device development work, including personalized computing, robotics, and smart appliances.",
+			"ancestorIds": [
+				"2679BDE69D9548CA93A4AD40C3758A92",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"2679BDE69D9548CA93A4AD40C3758A92": {
+			"id": "2679BDE69D9548CA93A4AD40C3758A92",
+			"asnIdentifier": "S2544063",
+			"position": 260000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C9.0",
+			"description": "Develop software for a variety of devices, including robotics.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"1BD9BFFE8C5249A5BDD6A7377F9C11FD": {
+			"id": "1BD9BFFE8C5249A5BDD6A7377F9C11FD",
+			"asnIdentifier": "S2544062",
+			"position": 259000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.8",
+			"description": "Analyze and display data to assist with decision making using methods like cross tabulations, graphs, and charts.",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D6948E9ECCC84086B0911B8426E8D92C": {
+			"id": "D6948E9ECCC84086B0911B8426E8D92C",
+			"asnIdentifier": "S2544061",
+			"position": 258000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.7",
+			"description": "Export and import data to and from other applications and a database recognizing the limitations and challenges inherent in the process.",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B23027725155462EA051F096FED6BCAD": {
+			"id": "B23027725155462EA051F096FED6BCAD",
+			"asnIdentifier": "S2544060",
+			"position": 257000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.6",
+			"description": "Develop databases that are properly normalized using appropriate schemas.",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"05C8F6DEF87A442CB8BC053C701BC911": {
+			"id": "05C8F6DEF87A442CB8BC053C701BC911",
+			"asnIdentifier": "S2544059",
+			"position": 256000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.5",
+			"description": "Use queries to extract and manipulate data (select queries, action queries).",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B4C5D60AB5E145BCAF1019C2CFB4E7CD": {
+			"id": "B4C5D60AB5E145BCAF1019C2CFB4E7CD",
+			"asnIdentifier": "S2544058",
+			"position": 255000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.4",
+			"description": "Use data modeling techniques to create databases based upon business needs.",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7004E30F8310498A9A7ACBC0253F9BDD": {
+			"id": "7004E30F8310498A9A7ACBC0253F9BDD",
+			"asnIdentifier": "S2544057",
+			"position": 254000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.3",
+			"description": "Identify and explain the types of relationships between tables (one-to-one, one-to-many, many-to-many) and use methods to establish these relationships, including primary keys, foreign keys, and indexes.",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"4DBFDE2A1ABC40C09A01E5852E4F9FED": {
+			"id": "4DBFDE2A1ABC40C09A01E5852E4F9FED",
+			"asnIdentifier": "S2544056",
+			"position": 253000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.2",
+			"description": "Identify and use the basic structures of databases, fields, records, tables, and views.",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A5A9D9F8734D4E55A63A28EC4DD220F4": {
+			"id": "A5A9D9F8734D4E55A63A28EC4DD220F4",
+			"asnIdentifier": "S2544055",
+			"position": 252000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C8.1",
+			"description": "Describe the critical function of databases in modern organizations.",
+			"ancestorIds": [
+				"422B257CD2EE49498CF0EDE34CA4F02D",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"422B257CD2EE49498CF0EDE34CA4F02D": {
+			"id": "422B257CD2EE49498CF0EDE34CA4F02D",
+			"asnIdentifier": "S2544054",
+			"position": 251000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C8.0",
+			"description": "Develop databases.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E2A9CC244B6A40058F780AD6B272117E": {
+			"id": "E2A9CC244B6A40058F780AD6B272117E",
+			"asnIdentifier": "S2544053",
+			"position": 250000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.6",
+			"description": "Optimize fast delivery and retrieval of online content such as Web pages.",
+			"ancestorIds": [
+				"76C88E89528E487BBA1D113CB4FE77E0",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"CB8B6EFCD2EA433B8C656DDE53206838": {
+			"id": "CB8B6EFCD2EA433B8C656DDE53206838",
+			"asnIdentifier": "S2544052",
+			"position": 249000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.5",
+			"description": "Create an online project, Web-based business, and e-portfolio.",
+			"ancestorIds": [
+				"76C88E89528E487BBA1D113CB4FE77E0",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E60CCBAC6CDD44C6839A94C201843708": {
+			"id": "E60CCBAC6CDD44C6839A94C201843708",
+			"asnIdentifier": "S2544051",
+			"position": 248000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.4",
+			"description": "Enable e-commerce capabilities to sell products, create a shopping cart, and handle credit card transactions.",
+			"ancestorIds": [
+				"76C88E89528E487BBA1D113CB4FE77E0",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E54309B36A4F41B29DD6459FBC3D9F44": {
+			"id": "E54309B36A4F41B29DD6459FBC3D9F44",
+			"asnIdentifier": "S2544050",
+			"position": 247000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.3",
+			"description": "Attract Web-site visitors through search engine optimization using various strategies like keywords and meta-tags.",
+			"ancestorIds": [
+				"76C88E89528E487BBA1D113CB4FE77E0",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"64D03AF5BEB0479F97634A89661C9436": {
+			"id": "64D03AF5BEB0479F97634A89661C9436",
+			"asnIdentifier": "S2544049",
+			"position": 246000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.2",
+			"description": "Describe the full process of online content delivery, registering domain names, setting up hosting, and setting up e-mail addresses.",
+			"ancestorIds": [
+				"76C88E89528E487BBA1D113CB4FE77E0",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B0D54F9573214393988936FF1FEAF68C": {
+			"id": "B0D54F9573214393988936FF1FEAF68C",
+			"asnIdentifier": "S2544048",
+			"position": 245000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C7.1",
+			"description": "Identify the hardware (server) and software required for Web hosting and other services.",
+			"ancestorIds": [
+				"76C88E89528E487BBA1D113CB4FE77E0",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"76C88E89528E487BBA1D113CB4FE77E0": {
+			"id": "76C88E89528E487BBA1D113CB4FE77E0",
+			"asnIdentifier": "S2544047",
+			"position": 244000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C7.0",
+			"description": "Develop Web and online projects.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F0CE4F72C5B8423AA4E23498CEAE04AB": {
+			"id": "F0CE4F72C5B8423AA4E23498CEAE04AB",
+			"asnIdentifier": "S2544046",
+			"position": 243000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.7",
+			"description": "Create and/or capture professional-quality media, images, documents, audio, and video clips.",
+			"ancestorIds": [
+				"79E3EEF56DCB4BEF9650605BF8E4CDD4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"AFAEFA8731984A3AA1E9A3A690DFB8AE": {
+			"id": "AFAEFA8731984A3AA1E9A3A690DFB8AE",
+			"asnIdentifier": "S2544045",
+			"position": 242000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.6",
+			"description": "Integrate media into a full project using appropriate tools.",
+			"ancestorIds": [
+				"79E3EEF56DCB4BEF9650605BF8E4CDD4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B138678904B6487AB267CE0C622F4878": {
+			"id": "B138678904B6487AB267CE0C622F4878",
+			"asnIdentifier": "S2544044",
+			"position": 241000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.5",
+			"description": "Analyze the use of media to determine the appropriate file format and level of compression.",
+			"ancestorIds": [
+				"79E3EEF56DCB4BEF9650605BF8E4CDD4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FB27A9144D0644928F805FC95B209465": {
+			"id": "FB27A9144D0644928F805FC95B209465",
+			"asnIdentifier": "S2544043",
+			"position": 240000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.4",
+			"description": "Develop a presentation or other multimedia project: video, game, or interactive Web sites, from storyboard to production.",
+			"ancestorIds": [
+				"79E3EEF56DCB4BEF9650605BF8E4CDD4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"61E7E59C2BA94BCB9BFEB6F42E40EB4E": {
+			"id": "61E7E59C2BA94BCB9BFEB6F42E40EB4E",
+			"asnIdentifier": "S2544042",
+			"position": 239000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.3",
+			"description": "Use media design and editing software: keyframe animation, drawing software, image editors, and three-dimensional design.",
+			"ancestorIds": [
+				"79E3EEF56DCB4BEF9650605BF8E4CDD4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"5D246E34A7D34ECB993BBFBC27CB1968": {
+			"id": "5D246E34A7D34ECB993BBFBC27CB1968",
+			"asnIdentifier": "S2544041",
+			"position": 238000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.2",
+			"description": "Describe the various encoding methods of media and trade-offs: vector graphics vs. bitmaps, and bit depth.",
+			"ancestorIds": [
+				"79E3EEF56DCB4BEF9650605BF8E4CDD4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"89CF9AD99E7248D2A1CB231EDCBD2121": {
+			"id": "89CF9AD99E7248D2A1CB231EDCBD2121",
+			"asnIdentifier": "S2544040",
+			"position": 237000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C6.1",
+			"description": "Identify the basic design elements necessary to produce effective print, video, audio, and interactive media.",
+			"ancestorIds": [
+				"79E3EEF56DCB4BEF9650605BF8E4CDD4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"79E3EEF56DCB4BEF9650605BF8E4CDD4": {
+			"id": "79E3EEF56DCB4BEF9650605BF8E4CDD4",
+			"asnIdentifier": "S2544039",
+			"position": 236000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C6.0",
+			"description": "Integrate a variety of media into development projects.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B71A3982E13F4A1C9D8D3929704EC39D": {
+			"id": "B71A3982E13F4A1C9D8D3929704EC39D",
+			"asnIdentifier": "S2544038",
+			"position": 235000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.6",
+			"description": "Debug software as part of the quality assurance process.",
+			"ancestorIds": [
+				"6AD649243E69488BA0041B30419E5DDF",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E88E52CB34EF40109DAA9890AC707E62": {
+			"id": "E88E52CB34EF40109DAA9890AC707E62",
+			"asnIdentifier": "S2544037",
+			"position": 234000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.5",
+			"description": "Evaluate results against initial requirements.",
+			"ancestorIds": [
+				"6AD649243E69488BA0041B30419E5DDF",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FE262DA5C9684F1DB9C51442C6B85A31": {
+			"id": "FE262DA5C9684F1DB9C51442C6B85A31",
+			"asnIdentifier": "S2544036",
+			"position": 233000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.4",
+			"description": "Test software and projects.",
+			"ancestorIds": [
+				"6AD649243E69488BA0041B30419E5DDF",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9A29381D77E14F1D882E6313BE1DEB38": {
+			"id": "9A29381D77E14F1D882E6313BE1DEB38",
+			"asnIdentifier": "S2544035",
+			"position": 232000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.3",
+			"description": "Use strategies to optimize code for improved performance.",
+			"ancestorIds": [
+				"6AD649243E69488BA0041B30419E5DDF",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6624DC7074EE436791EA7F94439C1C43": {
+			"id": "6624DC7074EE436791EA7F94439C1C43",
+			"asnIdentifier": "S2544034",
+			"position": 231000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.2",
+			"description": "Describe the ways in which specification changes and technological advances can require the modification of programs.",
+			"ancestorIds": [
+				"6AD649243E69488BA0041B30419E5DDF",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F119B2DFA9DB43E0B3934A4691115676": {
+			"id": "F119B2DFA9DB43E0B3934A4691115676",
+			"asnIdentifier": "S2544033",
+			"position": 230000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C5.1",
+			"description": "Identify the characteristics of reliable, effective, and efficient products.",
+			"ancestorIds": [
+				"6AD649243E69488BA0041B30419E5DDF",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6AD649243E69488BA0041B30419E5DDF": {
+			"id": "6AD649243E69488BA0041B30419E5DDF",
+			"asnIdentifier": "S2544032",
+			"position": 229000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C5.0",
+			"description": "Test, debug, and improve software development work.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"AF58F611C0A646F1BBD20649C5C89825": {
+			"id": "AF58F611C0A646F1BBD20649C5C89825",
+			"asnIdentifier": "S2544031",
+			"position": 228000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.11",
+			"description": "Document development work for various audiences, such as comments for other programmers, and manuals for users.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"EC5866F0BFE64C9BB1CCA29567E8356A": {
+			"id": "EC5866F0BFE64C9BB1CCA29567E8356A",
+			"asnIdentifier": "S2544030",
+			"position": 227000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.10",
+			"description": "Create and know the comparative advantages of various queue, sorting, and searching algorithms.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E0E185CDEAF84908A643F228ED9852FF": {
+			"id": "E0E185CDEAF84908A643F228ED9852FF",
+			"asnIdentifier": "S2544029",
+			"position": 226000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.9",
+			"description": "Create programs using control structures, procedures, functions, parameters, variables, error recovery, and recursion.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6E8B221ED7BB4A7A8C123A08302B419E": {
+			"id": "6E8B221ED7BB4A7A8C123A08302B419E",
+			"asnIdentifier": "S2544028",
+			"position": 225000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.8",
+			"description": "Use object oriented programming concepts, properties, methods, and inheritance.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"3784415F155840EC9D3C9D67C3C609C9": {
+			"id": "3784415F155840EC9D3C9D67C3C609C9",
+			"asnIdentifier": "S2544027",
+			"position": 224000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.7",
+			"description": "Use various data structures, arrays, objects, files, and databases.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7E3788A906B44068A63AE7C8950CF8DA": {
+			"id": "7E3788A906B44068A63AE7C8950CF8DA",
+			"asnIdentifier": "S2544026",
+			"position": 223000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.6",
+			"description": "Use proper programming language syntax.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9EDCDE4DDC5B4A899E203CF703C0B2D7": {
+			"id": "9EDCDE4DDC5B4A899E203CF703C0B2D7",
+			"asnIdentifier": "S2544025",
+			"position": 222000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.5",
+			"description": "Demonstrate awareness of various programming paradigms, including procedural, object oriented, event-driven, and multithreaded programing.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D25FCA211E15488C9B9BA0DE93173C45": {
+			"id": "D25FCA211E15488C9B9BA0DE93173C45",
+			"asnIdentifier": "S2544024",
+			"position": 221000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.4",
+			"description": "Identify and apply data types and encoding.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"3728759049654351953A4C0C8EC35A96": {
+			"id": "3728759049654351953A4C0C8EC35A96",
+			"asnIdentifier": "S2544023",
+			"position": 220000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.3",
+			"description": "Identify and use different authoring tools and integrated development environments (IDEs).",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"BBACEEE881284635836A8C83F56B282F": {
+			"id": "BBACEEE881284635836A8C83F56B282F",
+			"asnIdentifier": "S2544022",
+			"position": 219000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.2",
+			"description": "Describe the interaction and integration of programming languages and protocols such as how client-side programming can work with server-side programming to use a query language to access a database.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"3939817986F1453499EAAF4A3B4AB682": {
+			"id": "3939817986F1453499EAAF4A3B4AB682",
+			"asnIdentifier": "S2544021",
+			"position": 218000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C4.1",
+			"description": "Identify and describe the abstraction level of programming languages from low-level, hardware-based languages to high-level, interpreted, Web-based languages.",
+			"ancestorIds": [
+				"76A563B5D9154080ACE8E452528E66A9",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"76A563B5D9154080ACE8E452528E66A9": {
+			"id": "76A563B5D9154080ACE8E452528E66A9",
+			"asnIdentifier": "S2544020",
+			"position": 217000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C4.0",
+			"description": "Develop software using programming languages.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E7BC9210600F43D4BEA5110886786791": {
+			"id": "E7BC9210600F43D4BEA5110886786791",
+			"asnIdentifier": "S2544019",
+			"position": 216000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.3",
+			"description": "Support methods of accessibility for all potential users, including users with disabilities and non-English-speaking users.",
+			"ancestorIds": [
+				"DF3C954C69694155B2BF9D3A29D0EF23",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"CA87B8D3D6E64F3CBF818AB32A4D1094": {
+			"id": "CA87B8D3D6E64F3CBF818AB32A4D1094",
+			"asnIdentifier": "S2544018",
+			"position": 215000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.2",
+			"description": "Design effective and intuitive interfaces using knowledge of cognitive, physical, and social interactions.",
+			"ancestorIds": [
+				"DF3C954C69694155B2BF9D3A29D0EF23",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F8ED85A2B1774515A5BF550BACA57578": {
+			"id": "F8ED85A2B1774515A5BF550BACA57578",
+			"asnIdentifier": "S2544017",
+			"position": 214000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C3.1",
+			"description": "Describe and apply the basic process of input, processing, and output.",
+			"ancestorIds": [
+				"DF3C954C69694155B2BF9D3A29D0EF23",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"DF3C954C69694155B2BF9D3A29D0EF23": {
+			"id": "DF3C954C69694155B2BF9D3A29D0EF23",
+			"asnIdentifier": "S2544016",
+			"position": 213000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C3.0",
+			"description": "Create effective interfaces between humans and technology.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"46DB5E00EEDF471996519A0FF0B17FB3": {
+			"id": "46DB5E00EEDF471996519A0FF0B17FB3",
+			"asnIdentifier": "S2544015",
+			"position": 212000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.5",
+			"description": "Determine and document the requirements and alternative solutions to fulfill the customers' needs.",
+			"ancestorIds": [
+				"5F7A1A864BE84CA4BF58B198A19C5917",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"217E4EAD19704CD19F902BADACB56A79": {
+			"id": "217E4EAD19704CD19F902BADACB56A79",
+			"asnIdentifier": "S2544014",
+			"position": 211000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.4",
+			"description": "Analyze customers' needs for development.",
+			"ancestorIds": [
+				"5F7A1A864BE84CA4BF58B198A19C5917",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A95727E39AF5424A8AA19A9F6D6C4735": {
+			"id": "A95727E39AF5424A8AA19A9F6D6C4735",
+			"asnIdentifier": "S2544013",
+			"position": 210000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.3",
+			"description": "Develop strategies that target the specific needs and desires of the customer.",
+			"ancestorIds": [
+				"5F7A1A864BE84CA4BF58B198A19C5917",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E0FB7FB927CB41EB9B1C467E186E5E37": {
+			"id": "E0FB7FB927CB41EB9B1C467E186E5E37",
+			"asnIdentifier": "S2544012",
+			"position": 209000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.2",
+			"description": "Recognize and prevent unintended consequences of development work: programming errors, security issues, health and environmental risks, and privacy concerns.",
+			"ancestorIds": [
+				"5F7A1A864BE84CA4BF58B198A19C5917",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6552887EDE4C4C9CACF5EDEFEA9D19A3": {
+			"id": "6552887EDE4C4C9CACF5EDEFEA9D19A3",
+			"asnIdentifier": "S2544011",
+			"position": 208000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C2.1",
+			"description": "Describe the major purposes and benefits of development, including automation, improving productivity, modeling and analysis, and entertainment.",
+			"ancestorIds": [
+				"5F7A1A864BE84CA4BF58B198A19C5917",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"5F7A1A864BE84CA4BF58B198A19C5917": {
+			"id": "5F7A1A864BE84CA4BF58B198A19C5917",
+			"asnIdentifier": "S2544010",
+			"position": 207000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C2.0",
+			"description": "Define and analyze systems and software requirements.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E8BAF3A8213A453482657791FA0806F2": {
+			"id": "E8BAF3A8213A453482657791FA0806F2",
+			"asnIdentifier": "S2544009",
+			"position": 206000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.6",
+			"description": "Diagram processes using flowcharts and the Unified Modeling Language.",
+			"ancestorIds": [
+				"F9167CF0BB094584830D28CCDE13F6A4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6BF0E8DE4F3740C2ADA374BDEA28D5A8": {
+			"id": "6BF0E8DE4F3740C2ADA374BDEA28D5A8",
+			"asnIdentifier": "S2544008",
+			"position": 205000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.5",
+			"description": "Track development project milestones using the concept of versions.",
+			"ancestorIds": [
+				"F9167CF0BB094584830D28CCDE13F6A4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E803FB113BE2466E9B670D834C721C97": {
+			"id": "E803FB113BE2466E9B670D834C721C97",
+			"asnIdentifier": "S2544007",
+			"position": 204000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.4",
+			"description": "Work as a member of, and within the scope and boundaries of, a development project team.",
+			"ancestorIds": [
+				"F9167CF0BB094584830D28CCDE13F6A4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"44AFD8125767483687AC3E11BD0921C4": {
+			"id": "44AFD8125767483687AC3E11BD0921C4",
+			"asnIdentifier": "S2544006",
+			"position": 203000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.3",
+			"description": "Identify and describe how specifications and requirements are developed for new and existing software applications.",
+			"ancestorIds": [
+				"F9167CF0BB094584830D28CCDE13F6A4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E3E6B1DE813A46A0B420C38730DA1367": {
+			"id": "E3E6B1DE813A46A0B420C38730DA1367",
+			"asnIdentifier": "S2544005",
+			"position": 202000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.2",
+			"description": "Identify and describe models of systems development, systems development life cycle (SDLC), and agile computing.",
+			"ancestorIds": [
+				"F9167CF0BB094584830D28CCDE13F6A4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"1D2C45FEEB7D4E0AB4A9BC2002B0798F": {
+			"id": "1D2C45FEEB7D4E0AB4A9BC2002B0798F",
+			"asnIdentifier": "S2544004",
+			"position": 201000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "C1.1",
+			"description": "Identify the phases of the systems development life cycle, including analysis, design, programming, testing, implementation, maintenance, and improvement.",
+			"ancestorIds": [
+				"F9167CF0BB094584830D28CCDE13F6A4",
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F9167CF0BB094584830D28CCDE13F6A4": {
+			"id": "F9167CF0BB094584830D28CCDE13F6A4",
+			"asnIdentifier": "S2544003",
+			"position": 200000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "C1.0",
+			"description": "Identify and apply the systems development process.",
+			"ancestorIds": [
+				"60BC7235C6F44585AA5979BD94DE1ADE",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"60BC7235C6F44585AA5979BD94DE1ADE": {
+			"id": "60BC7235C6F44585AA5979BD94DE1ADE",
+			"asnIdentifier": "S2544002",
+			"position": 199000,
+			"depth": 1,
+			"listId": "C.",
+			"description": "Software and Systems Development",
+			"comments": [
+				"Students in the Software and Systems Development pathway prepare for careers related to computer science that involve the design, development, implementation, maintenance, and management of systems that rely on software programs to satisfy the operational needs of modern business organizations. Persons with expertise in systems development and programming are critical to support operations like electronic commerce, medical records management, retail sales and inventory management, digital entertainment, and use of energy."
+			],
+			"ancestorIds": [
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"4E39B48DCDF64827A4A205CE1C19ABB8": {
+			"id": "4E39B48DCDF64827A4A205CE1C19ABB8",
+			"asnIdentifier": "S2544001",
+			"position": 198000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.5",
+			"description": "Identify and apply common techniques for disaster prevention and recovery.",
+			"ancestorIds": [
+				"8D0350BD8A1E43A2B98DC6EF1B609C77",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0E0D65CECC42495ABAD03733B1D97843": {
+			"id": "0E0D65CECC42495ABAD03733B1D97843",
+			"asnIdentifier": "S2544000",
+			"position": 197000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.4",
+			"description": "Identify common potential risks and entrance points, including internal and external risks, and the tools used to neutralize them: firewalls; monitoring; and antivirus, spyware, and spam protection.",
+			"ancestorIds": [
+				"8D0350BD8A1E43A2B98DC6EF1B609C77",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"841FE09F13074251937A4DB43AC738F2": {
+			"id": "841FE09F13074251937A4DB43AC738F2",
+			"asnIdentifier": "S2543999",
+			"position": 196000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.3",
+			"description": "List the policies and procedures for routine administration, such as user agreement, incident reporting, and recovery for users.",
+			"ancestorIds": [
+				"8D0350BD8A1E43A2B98DC6EF1B609C77",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D44F4429A9AE474CB8A15A0ED8B3CB1B": {
+			"id": "D44F4429A9AE474CB8A15A0ED8B3CB1B",
+			"asnIdentifier": "S2543998",
+			"position": 195000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.2",
+			"description": "Describe the importance of classifying appropriate monitoring devices and procedures for quick identification and prevention of security violations.",
+			"ancestorIds": [
+				"8D0350BD8A1E43A2B98DC6EF1B609C77",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0373D0468A7544288D5A024BD5342895": {
+			"id": "0373D0468A7544288D5A024BD5342895",
+			"asnIdentifier": "S2543997",
+			"position": 194000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B8.1",
+			"description": "Identify and define command network security threats: hackers, crackers, viruses, worms, and Trojan horses.",
+			"ancestorIds": [
+				"8D0350BD8A1E43A2B98DC6EF1B609C77",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"8D0350BD8A1E43A2B98DC6EF1B609C77": {
+			"id": "8D0350BD8A1E43A2B98DC6EF1B609C77",
+			"asnIdentifier": "S2543996",
+			"position": 193000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B8.0",
+			"description": "Identify security threats to a network and describe general methods to mitigate those threats.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F30F042C2E694F8BA81E4E056E30F275": {
+			"id": "F30F042C2E694F8BA81E4E056E30F275",
+			"asnIdentifier": "S2543995",
+			"position": 192000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.4",
+			"description": "Evaluate, create, and process voice, video, and data transmissions.",
+			"ancestorIds": [
+				"E1999E4AB7464723A339C549250C9887",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6959B5B55FFD42DF8252C40563E5EE9C": {
+			"id": "6959B5B55FFD42DF8252C40563E5EE9C",
+			"asnIdentifier": "S2543994",
+			"position": 191000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.3",
+			"description": "Evaluate emerging products, services, and business models in relation to the creation, setup, and management of networks that support information and communication technologies.",
+			"ancestorIds": [
+				"E1999E4AB7464723A339C549250C9887",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"279FBDEEC01A472F89EB0AE280FE95F0": {
+			"id": "279FBDEEC01A472F89EB0AE280FE95F0",
+			"asnIdentifier": "S2543992",
+			"position": 190000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.2",
+			"description": "Diagram physical and logical layouts of networks that support information and communication technologies.",
+			"ancestorIds": [
+				"E1999E4AB7464723A339C549250C9887",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6F50FB5703CD47EEBDC95A7B65591619": {
+			"id": "6F50FB5703CD47EEBDC95A7B65591619",
+			"asnIdentifier": "S2543991",
+			"position": 189000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B7.1",
+			"description": "Describe the effective management of human, financial, and communications resources from the standpoints of the user and the provider.",
+			"ancestorIds": [
+				"E1999E4AB7464723A339C549250C9887",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E1999E4AB7464723A339C549250C9887": {
+			"id": "E1999E4AB7464723A339C549250C9887",
+			"asnIdentifier": "S2543990",
+			"position": 188000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B7.0",
+			"description": "Analyze a customer's organizational needs and requirements to identify networking needs.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"BD988E95EA064D2D9DAF50CD60AB7EED": {
+			"id": "BD988E95EA064D2D9DAF50CD60AB7EED",
+			"asnIdentifier": "S2543988",
+			"position": 187000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.3",
+			"description": "Configure compatible systems across various platforms and types of media.",
+			"ancestorIds": [
+				"7F13E53ECE3545F89DB7C08EF0ACAE10",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"520D5F12482D4004AC352F2089A25721": {
+			"id": "520D5F12482D4004AC352F2089A25721",
+			"asnIdentifier": "S2543987",
+			"position": 186000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.2",
+			"description": "Evaluate the features of communications software products in terms of their appropriateness to organizational tasks.",
+			"ancestorIds": [
+				"7F13E53ECE3545F89DB7C08EF0ACAE10",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"DC99EE6953844D968C4E7774C2121893": {
+			"id": "DC99EE6953844D968C4E7774C2121893",
+			"asnIdentifier": "S2543985",
+			"position": 185000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B6.1",
+			"description": "Identify and document the appropriate uses of networking services, products, and applications.",
+			"ancestorIds": [
+				"7F13E53ECE3545F89DB7C08EF0ACAE10",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7F13E53ECE3545F89DB7C08EF0ACAE10": {
+			"id": "7F13E53ECE3545F89DB7C08EF0ACAE10",
+			"asnIdentifier": "S2543984",
+			"position": 184000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B6.0",
+			"description": "Use and assess network communication applications and infrastructure.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"8D9315BBEFBA4B83AE3D32B703EC81AB": {
+			"id": "8D9315BBEFBA4B83AE3D32B703EC81AB",
+			"asnIdentifier": "S2543982",
+			"position": 183000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.2",
+			"description": "Interpret, organize, and communicate complex network diagrams by using information collected from detailed drawings.",
+			"ancestorIds": [
+				"68BA317DBB9242B1B7C55E8487B9B9A9",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"C447729B0BFE4436BD9957A1810CF8B8": {
+			"id": "C447729B0BFE4436BD9957A1810CF8B8",
+			"asnIdentifier": "S2543981",
+			"position": 182000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B5.1",
+			"description": "Classify and use various electronic components, symbols, abbreviations, and media common to network topology diagrams.",
+			"ancestorIds": [
+				"68BA317DBB9242B1B7C55E8487B9B9A9",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"68BA317DBB9242B1B7C55E8487B9B9A9": {
+			"id": "68BA317DBB9242B1B7C55E8487B9B9A9",
+			"asnIdentifier": "S2543979",
+			"position": 181000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B5.0",
+			"description": "Demonstrate how to communicate and interpret information clearly in industry-standard visual and written formats.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"4992FEE14938400E866E662D30BB590B": {
+			"id": "4992FEE14938400E866E662D30BB590B",
+			"asnIdentifier": "S2543978",
+			"position": 180000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.9",
+			"description": "Analyze network system interdependencies and constraints.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E6D23EB21DFC409081764A77C287F674": {
+			"id": "E6D23EB21DFC409081764A77C287F674",
+			"asnIdentifier": "S2543977",
+			"position": 179000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.8",
+			"description": "Use project management skills and tools for managing and maintaining various types of networks.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B580418BCF374EDB986D1116B0292DC7": {
+			"id": "B580418BCF374EDB986D1116B0292DC7",
+			"asnIdentifier": "S2543976",
+			"position": 178000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.7",
+			"description": "Apply known effective methods of disseminating information and instruction to users.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"403F8167ADEF48CF907ECAD5FC8ED5B4": {
+			"id": "403F8167ADEF48CF907ECAD5FC8ED5B4",
+			"asnIdentifier": "S2543975",
+			"position": 177000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.6",
+			"description": "Use common help-desk tools and resources, such as incident tracking, knowledge database, and staffing to administer and manage a network.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"26D56580615841A5A03FAB7A90114F41": {
+			"id": "26D56580615841A5A03FAB7A90114F41",
+			"asnIdentifier": "S2543973",
+			"position": 176000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.5",
+			"description": "Apply the proper security patches, updates, and procedures necessary to maintain and support a network.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"5EA82E37850E4FC1A0FBA19F3BE099BF": {
+			"id": "5EA82E37850E4FC1A0FBA19F3BE099BF",
+			"asnIdentifier": "S2543971",
+			"position": 175000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.4",
+			"description": "Apply appropriate technologies to improve network performance for data, voice, and video transmission.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0F059FF70CE946568533A98BBA0411E4": {
+			"id": "0F059FF70CE946568533A98BBA0411E4",
+			"asnIdentifier": "S2543969",
+			"position": 174000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.3",
+			"description": "Identify the implications of major protocols and international standards and their impact on network management.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"86594DBE0A534631B5AA5B0F8CEEE850": {
+			"id": "86594DBE0A534631B5AA5B0F8CEEE850",
+			"asnIdentifier": "S2543967",
+			"position": 173000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.2",
+			"description": "Identify common customer policies and procedures, including those for management of incidents.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"EDFEBA5826DB42B18BAC309316042311": {
+			"id": "EDFEBA5826DB42B18BAC309316042311",
+			"asnIdentifier": "S2543965",
+			"position": 172000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B4.1",
+			"description": "Identify and use network tools to troubleshoot and verify network availability and performance.",
+			"ancestorIds": [
+				"95F8ADFBA0C642B7B2DCB4D8DB46595F",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"95F8ADFBA0C642B7B2DCB4D8DB46595F": {
+			"id": "95F8ADFBA0C642B7B2DCB4D8DB46595F",
+			"asnIdentifier": "S2543963",
+			"position": 171000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B4.0",
+			"description": "Demonstrate proper network administration and management skills.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FF5BFF201FC241F4B1DA46AD29DFBA44": {
+			"id": "FF5BFF201FC241F4B1DA46AD29DFBA44",
+			"asnIdentifier": "S2543962",
+			"position": 170000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.7",
+			"description": "Evaluate, select, and deploy a variety of network architectures, information and communication technologies, and protocols.",
+			"ancestorIds": [
+				"E7FCE4125E184333858C6823F1D3CCF8",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7CB002A95C774C20A110A16A1FF1FADC": {
+			"id": "7CB002A95C774C20A110A16A1FF1FADC",
+			"asnIdentifier": "S2543961",
+			"position": 169000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.6",
+			"description": "Implement a functional wired and wireless network, including the installation and configuration of components, software, and plug-ins.",
+			"ancestorIds": [
+				"E7FCE4125E184333858C6823F1D3CCF8",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"797DD5F17DE245C09EC7652C46A744F5": {
+			"id": "797DD5F17DE245C09EC7652C46A744F5",
+			"asnIdentifier": "S2543960",
+			"position": 168000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.5",
+			"description": "Configure the major addressing and routing protocols used in networking.",
+			"ancestorIds": [
+				"E7FCE4125E184333858C6823F1D3CCF8",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"94C9F8DABAC6457DBDF1E2EDD0B69695": {
+			"id": "94C9F8DABAC6457DBDF1E2EDD0B69695",
+			"asnIdentifier": "S2543959",
+			"position": 167000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.4",
+			"description": "Confirm operating parameters, apply test procedures, make necessary adjustments, and assemble the components of a network system or subsystem.",
+			"ancestorIds": [
+				"E7FCE4125E184333858C6823F1D3CCF8",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A0F1DD181D2B44308BC1911F20C93220": {
+			"id": "A0F1DD181D2B44308BC1911F20C93220",
+			"asnIdentifier": "S2543957",
+			"position": 166000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.3",
+			"description": "Distinguish between the topologies and protocols of local area networks and those of wide area networks.",
+			"ancestorIds": [
+				"E7FCE4125E184333858C6823F1D3CCF8",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"FE1736479A534FF7995BA19F2696B8CF": {
+			"id": "FE1736479A534FF7995BA19F2696B8CF",
+			"asnIdentifier": "S2543956",
+			"position": 165000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.2",
+			"description": "Describe the differences between various network environments: peer-to-peer, client-server, thin client, virtualized, internetworks, intranets, and extranets.",
+			"ancestorIds": [
+				"E7FCE4125E184333858C6823F1D3CCF8",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"60623E204D014950AC42DF3E745EEC51": {
+			"id": "60623E204D014950AC42DF3E745EEC51",
+			"asnIdentifier": "S2543955",
+			"position": 164000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B3.1",
+			"description": "Identify and describe the functions of various network devices, including network connectivity hardware.",
+			"ancestorIds": [
+				"E7FCE4125E184333858C6823F1D3CCF8",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"E7FCE4125E184333858C6823F1D3CCF8": {
+			"id": "E7FCE4125E184333858C6823F1D3CCF8",
+			"asnIdentifier": "S2543954",
+			"position": 163000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B3.0",
+			"description": "Install, configure, and differentiate between common network devices.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B2191ACF4C784FF6A9166E25378DE443": {
+			"id": "B2191ACF4C784FF6A9166E25378DE443",
+			"asnIdentifier": "S2543953",
+			"position": 162000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.3",
+			"description": "Test and maintain wired and wireless network communications components and systems.",
+			"ancestorIds": [
+				"92E1A6A9D1264914B592A02A0D8E151D",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"BFAF66CDDA444C2E99CE13BF9FD81B44": {
+			"id": "BFAF66CDDA444C2E99CE13BF9FD81B44",
+			"asnIdentifier": "S2543951",
+			"position": 161000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.2",
+			"description": "Demonstrate standard procedures and practices for safely using tools and working safely around the electrical environment in various networking systems.",
+			"ancestorIds": [
+				"92E1A6A9D1264914B592A02A0D8E151D",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"EBA82DE1E4644D108F9BBFEEAB9E429E": {
+			"id": "EBA82DE1E4644D108F9BBFEEAB9E429E",
+			"asnIdentifier": "S2543950",
+			"position": 160000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B2.1",
+			"description": "Use appropriate wiring and wireless standards and plan, install, and maintain media (copper, fiber, and wireless) for a variety of network systems.",
+			"ancestorIds": [
+				"92E1A6A9D1264914B592A02A0D8E151D",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"92E1A6A9D1264914B592A02A0D8E151D": {
+			"id": "92E1A6A9D1264914B592A02A0D8E151D",
+			"asnIdentifier": "S2543949",
+			"position": 159000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B2.0",
+			"description": "Identify, describe, and implement network media and physical topologies.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"098AA873713E448B8BAA18FA5ACDD82E": {
+			"id": "098AA873713E448B8BAA18FA5ACDD82E",
+			"asnIdentifier": "S2543948",
+			"position": 158000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.6",
+			"description": "Design and document data/communication systems networks.",
+			"ancestorIds": [
+				"87EF0B34E20248CBAF5B73EBD95B189C",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"95E95381548E48A1ADF8102E705B4A76": {
+			"id": "95E95381548E48A1ADF8102E705B4A76",
+			"asnIdentifier": "S2543947",
+			"position": 157000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.5",
+			"description": "Explain the characteristics of networking hardware and applications and the methods to deploy them.",
+			"ancestorIds": [
+				"87EF0B34E20248CBAF5B73EBD95B189C",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"302DA5D5867C4E719F09872AD08079AD": {
+			"id": "302DA5D5867C4E719F09872AD08079AD",
+			"asnIdentifier": "S2543946",
+			"position": 156000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.4",
+			"description": "List the characteristics, advantages, and disadvantages of the various networking presentation functions, data formatting, data encryption, and data compression.",
+			"ancestorIds": [
+				"87EF0B34E20248CBAF5B73EBD95B189C",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"568CF53EF8EF49CC802CD84189EDDB2F": {
+			"id": "568CF53EF8EF49CC802CD84189EDDB2F",
+			"asnIdentifier": "S2543945",
+			"position": 155000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.3",
+			"description": "Identify and explain how data, voice, and video/communications are carried through the most common network media.",
+			"ancestorIds": [
+				"87EF0B34E20248CBAF5B73EBD95B189C",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6C0E4DC1A2EE4117A9DA467A08D57BFD": {
+			"id": "6C0E4DC1A2EE4117A9DA467A08D57BFD",
+			"asnIdentifier": "S2543944",
+			"position": 154000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.2",
+			"description": "List the fundamental elements of the major networking models established by the industry standards of recognized organizations: the Open System Interconnect (OSI) or transmission-control/Internet protocol (TCP/IP) models.",
+			"ancestorIds": [
+				"87EF0B34E20248CBAF5B73EBD95B189C",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0EF084C80B02421AA4B247484834342D": {
+			"id": "0EF084C80B02421AA4B247484834342D",
+			"asnIdentifier": "S2543943",
+			"position": 153000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "B1.1",
+			"description": "Define the terminology used in the design, assembly, configuration, and implementation of networks.",
+			"ancestorIds": [
+				"87EF0B34E20248CBAF5B73EBD95B189C",
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"87EF0B34E20248CBAF5B73EBD95B189C": {
+			"id": "87EF0B34E20248CBAF5B73EBD95B189C",
+			"asnIdentifier": "S2543942",
+			"position": 152000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "B1.0",
+			"description": "Identify and describe the principles of networking and the technologies, models, and protocols used in a network.",
+			"ancestorIds": [
+				"835DAB67013F4FA9A57C16F33D17CF0A",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"835DAB67013F4FA9A57C16F33D17CF0A": {
+			"id": "835DAB67013F4FA9A57C16F33D17CF0A",
+			"asnIdentifier": "S2543941",
+			"position": 151000,
+			"depth": 1,
+			"listId": "B.",
+			"description": "Networking",
+			"comments": [
+				"Students in the Networking pathway prepare for careers that involve network analysis, planning, and implementation, including the design, installation, maintenance, and management of network systems. The successful establishment, maintenance, and securing of information and communication technologies infrastructure is critical to the success of every twenty-first-century organization. Employment continues to grow for persons with expertise in networking."
+			],
+			"ancestorIds": [
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A730DD85E7824A52AC78A5FC7D2F9451": {
+			"id": "A730DD85E7824A52AC78A5FC7D2F9451",
+			"asnIdentifier": "S2543940",
+			"position": 150000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.6",
+			"description": "Use a systematic method of continual improvement; plan, do, check, act (PDCA), total quality (TQ), or Six Sigma.",
+			"ancestorIds": [
+				"109AF71A274F4577912F285751015E02",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6C3A5F46F85E4B90903128439D8478A9": {
+			"id": "6C3A5F46F85E4B90903128439D8478A9",
+			"asnIdentifier": "S2543939",
+			"position": 149000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.5",
+			"description": "Design, develop, implement, and monitor a project by creating and integrating technologies.",
+			"ancestorIds": [
+				"109AF71A274F4577912F285751015E02",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"44B8C29AD67240D19C20F0D7558845BA": {
+			"id": "44B8C29AD67240D19C20F0D7558845BA",
+			"asnIdentifier": "S2543938",
+			"position": 148000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.4",
+			"description": "Analyze business problems by using functional and cost-benefit perspectives.",
+			"ancestorIds": [
+				"109AF71A274F4577912F285751015E02",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"CDF98EC4C0AB4A529283B21D2CE44F36": {
+			"id": "CDF98EC4C0AB4A529283B21D2CE44F36",
+			"asnIdentifier": "S2543937",
+			"position": 147000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.3",
+			"description": "Use various tools to manage projects involving the development of information and communication systems.",
+			"ancestorIds": [
+				"109AF71A274F4577912F285751015E02",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A1886A6F9DC24DBC9BBF76138BDE92EC": {
+			"id": "A1886A6F9DC24DBC9BBF76138BDE92EC",
+			"asnIdentifier": "S2543936",
+			"position": 146000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.2",
+			"description": "Acquire, use, and manage necessary internal and external resources when supporting various organizational systems.",
+			"ancestorIds": [
+				"109AF71A274F4577912F285751015E02",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"41969365F33847CDA4F33E4970A4001C": {
+			"id": "41969365F33847CDA4F33E4970A4001C",
+			"asnIdentifier": "S2543935",
+			"position": 145000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A8.1",
+			"description": "Develop the purpose and scope of a project.",
+			"ancestorIds": [
+				"109AF71A274F4577912F285751015E02",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"109AF71A274F4577912F285751015E02": {
+			"id": "109AF71A274F4577912F285751015E02",
+			"asnIdentifier": "S2543934",
+			"position": 144000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A8.0",
+			"description": "Manage and implement information, technology, and communication projects.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"60527261A8EE494C8A6EF51F7B9B9EBF": {
+			"id": "60527261A8EE494C8A6EF51F7B9B9EBF",
+			"asnIdentifier": "S2543933",
+			"position": 143000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.5",
+			"description": "Train users to assist them in being self-supporting: formal classes, one-on-one interactions, and process and how-to guides.",
+			"ancestorIds": [
+				"4A33F1A72F1C4B06A28C51A02A602FAE",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"AC63E5BC0BE04B75AFEE29C4914DDF68": {
+			"id": "AC63E5BC0BE04B75AFEE29C4914DDF68",
+			"asnIdentifier": "S2543932",
+			"position": 142000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.4",
+			"description": "Document technical support provided such as using a ticketing system.",
+			"ancestorIds": [
+				"4A33F1A72F1C4B06A28C51A02A602FAE",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"46B05FE2C9F5411D84DEBF42F1AE3DA6": {
+			"id": "46B05FE2C9F5411D84DEBF42F1AE3DA6",
+			"asnIdentifier": "S2543931",
+			"position": 141000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.3",
+			"description": "Use technical writing and communication skills to work effectively with diverse groups of people, including users with less technical abilities.",
+			"ancestorIds": [
+				"4A33F1A72F1C4B06A28C51A02A602FAE",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"098905DB26354B59B618C045265A2BEF": {
+			"id": "098905DB26354B59B618C045265A2BEF",
+			"asnIdentifier": "S2543930",
+			"position": 140000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.2",
+			"description": "Describe and apply the principles of a customer-oriented service approach to supporting users.",
+			"ancestorIds": [
+				"4A33F1A72F1C4B06A28C51A02A602FAE",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"B978F3C98AE2468B8014F5D794A8FB3B": {
+			"id": "B978F3C98AE2468B8014F5D794A8FB3B",
+			"asnIdentifier": "S2543929",
+			"position": 139000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A7.1",
+			"description": "Recognize the scope of duties ICT support staff have and tiered levels of support.",
+			"ancestorIds": [
+				"4A33F1A72F1C4B06A28C51A02A602FAE",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"4A33F1A72F1C4B06A28C51A02A602FAE": {
+			"id": "4A33F1A72F1C4B06A28C51A02A602FAE",
+			"asnIdentifier": "S2543928",
+			"position": 138000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A7.0",
+			"description": "Support and train users on various software, hardware, and network systems.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"2A477D1952524D54A68B4513EFF77336": {
+			"id": "2A477D1952524D54A68B4513EFF77336",
+			"asnIdentifier": "S2543927",
+			"position": 137000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.7",
+			"description": "Diagram the underlying processes of a system that are likely involved in a problem.",
+			"ancestorIds": [
+				"69355270F4774707BE380940EE8904F7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"F5BA092E414A482AA882A8EBBBEB200B": {
+			"id": "F5BA092E414A482AA882A8EBBBEB200B",
+			"asnIdentifier": "S2543926",
+			"position": 136000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.6",
+			"description": "Distinguish types of symptoms and which component's issue could exhibit those symptoms: the user, hardware, network, or software.",
+			"ancestorIds": [
+				"69355270F4774707BE380940EE8904F7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"AA699FBC84514934B4FE1C4A7E1CC94A": {
+			"id": "AA699FBC84514934B4FE1C4A7E1CC94A",
+			"asnIdentifier": "S2543925",
+			"position": 135000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.5",
+			"description": "Evaluate solution methods recognizing the trade-offs of troubleshooting vs. reloading, reimaging, or restoring to factory defaults using a sandbox environment.",
+			"ancestorIds": [
+				"69355270F4774707BE380940EE8904F7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0C9C6BCB4E364C559264D9AA1910648A": {
+			"id": "0C9C6BCB4E364C559264D9AA1910648A",
+			"asnIdentifier": "S2543924",
+			"position": 134000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.4",
+			"description": "Evaluate support needs for different data and systems configurations.",
+			"ancestorIds": [
+				"69355270F4774707BE380940EE8904F7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"AA631CEA4BB746BAB907E14955CE2F80": {
+			"id": "AA631CEA4BB746BAB907E14955CE2F80",
+			"asnIdentifier": "S2543923",
+			"position": 133000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.3",
+			"description": "Use specific problem solving strategies appropriate to troubleshooting, eliminating possibilities, or guess and check.",
+			"ancestorIds": [
+				"69355270F4774707BE380940EE8904F7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"29D45F262C1D47DD880A7CC4CE2504F5": {
+			"id": "29D45F262C1D47DD880A7CC4CE2504F5",
+			"asnIdentifier": "S2543922",
+			"position": 132000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.2",
+			"description": "Use a logical and structured approach to isolate and identify the source of problems and to resolve problems.",
+			"ancestorIds": [
+				"69355270F4774707BE380940EE8904F7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"19013176F9F1426A9C92B196460F5EFD": {
+			"id": "19013176F9F1426A9C92B196460F5EFD",
+			"asnIdentifier": "S2543921",
+			"position": 131000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A6.1",
+			"description": "Use available resources to identify and resolve problems using knowledge bases, forums, and manuals.",
+			"ancestorIds": [
+				"69355270F4774707BE380940EE8904F7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"69355270F4774707BE380940EE8904F7": {
+			"id": "69355270F4774707BE380940EE8904F7",
+			"asnIdentifier": "S2543920",
+			"position": 130000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A6.0",
+			"description": "Diagnose and solve software, hardware, networking, and security problems.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"C2D4C5BBA8294F448252373678706453": {
+			"id": "C2D4C5BBA8294F448252373678706453",
+			"asnIdentifier": "S2543919",
+			"position": 129000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.4",
+			"description": "Use security software and hardware to protect systems from attack and alert of potential threats, anti-malware software, and firewalls.",
+			"ancestorIds": [
+				"DF5958DBE4C84546A201A55B10E81CE6",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"5DDB956379004FD2A39DA24529CFF2A4": {
+			"id": "5DDB956379004FD2A39DA24529CFF2A4",
+			"asnIdentifier": "S2543918",
+			"position": 128000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.3",
+			"description": "Take preventative measures to reduce security risks (e.g., strong passwords, avoid social engineering ploys, limit account permissions).",
+			"ancestorIds": [
+				"DF5958DBE4C84546A201A55B10E81CE6",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"6286B9F7916B44D691C92205F0F785E9": {
+			"id": "6286B9F7916B44D691C92205F0F785E9",
+			"asnIdentifier": "S2543917",
+			"position": 127000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.2",
+			"description": "Identify potential attack vectors and security threats.",
+			"ancestorIds": [
+				"DF5958DBE4C84546A201A55B10E81CE6",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"D45CB33FF0B84AF1AC3CE6A02CCBF68C": {
+			"id": "D45CB33FF0B84AF1AC3CE6A02CCBF68C",
+			"asnIdentifier": "S2543916",
+			"position": 126000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A5.1",
+			"description": "Follow laws, regulatory guidelines, policies, and procedures to ensure the security and integrity of information systems.",
+			"ancestorIds": [
+				"DF5958DBE4C84546A201A55B10E81CE6",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"DF5958DBE4C84546A201A55B10E81CE6": {
+			"id": "DF5958DBE4C84546A201A55B10E81CE6",
+			"asnIdentifier": "S2543915",
+			"position": 125000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A5.0",
+			"description": "Identify requirements for maintaining secure network systems.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"C25291D1D341497BBF544BCABF014497": {
+			"id": "C25291D1D341497BBF544BCABF014497",
+			"asnIdentifier": "S2543914",
+			"position": 124000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.4",
+			"description": "Evaluate the systems-development life cycle and develop appropriate plans to maintain a given system after assessing its impact on resources and total cost of ownership (TCO).",
+			"ancestorIds": [
+				"834320660FC442688A2074D57A83C0CB",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"C7B699125E66450188B653CFBF05B27D": {
+			"id": "C7B699125E66450188B653CFBF05B27D",
+			"asnIdentifier": "S2543913",
+			"position": 123000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.3",
+			"description": "Automate common tasks using macros or scripting.",
+			"ancestorIds": [
+				"834320660FC442688A2074D57A83C0CB",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7EAE3EC967684C1791A8803FBDE69A0D": {
+			"id": "7EAE3EC967684C1791A8803FBDE69A0D",
+			"asnIdentifier": "S2543912",
+			"position": 122000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.2",
+			"description": "Use a command line interface.",
+			"ancestorIds": [
+				"834320660FC442688A2074D57A83C0CB",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"75A2D03022DC4D35B2FCED962DBA2F7B": {
+			"id": "75A2D03022DC4D35B2FCED962DBA2F7B",
+			"asnIdentifier": "S2543911",
+			"position": 121000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A4.1",
+			"description": "Use different systems and associated utilities to perform such functions as file management, backup and recovery, and execution of programs.",
+			"ancestorIds": [
+				"834320660FC442688A2074D57A83C0CB",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"834320660FC442688A2074D57A83C0CB": {
+			"id": "834320660FC442688A2074D57A83C0CB",
+			"asnIdentifier": "S2543910",
+			"position": 120000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A4.0",
+			"description": "Administer and maintain software and systems.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"1D85250616F04D99855B4EBFA717F802": {
+			"id": "1D85250616F04D99855B4EBFA717F802",
+			"asnIdentifier": "S2543909",
+			"position": 119000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.6",
+			"description": "Describe and contrast the differences between various Internet protocols: hypertext transfer protocol (http), hypertext transfer protocol secure (https), file transfer protocol (ftp), simple mail transfer protocol (smtp).",
+			"ancestorIds": [
+				"0DB49CD0923F43E090CF4ECF87518332",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"1CA7515733604539A05CDB7B7E6FE963": {
+			"id": "1CA7515733604539A05CDB7B7E6FE963",
+			"asnIdentifier": "S2543908",
+			"position": 118000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.5",
+			"description": "Use multiple online search techniques and resources to acquire information.",
+			"ancestorIds": [
+				"0DB49CD0923F43E090CF4ECF87518332",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"5E8784C2091746D2B178021BBF15ECE1": {
+			"id": "5E8784C2091746D2B178021BBF15ECE1",
+			"asnIdentifier": "S2543907",
+			"position": 117000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.4",
+			"description": "Identify and describe the layered nature of computing and networking such as the Open Systems Interconnect (OSI) model.",
+			"ancestorIds": [
+				"0DB49CD0923F43E090CF4ECF87518332",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"9D97D6AFC508449B9ABE25C442D924D7": {
+			"id": "9D97D6AFC508449B9ABE25C442D924D7",
+			"asnIdentifier": "S2543906",
+			"position": 116000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.3",
+			"description": "Recognize where processes are running in a networked environment (e.g., client access, remote access).",
+			"ancestorIds": [
+				"0DB49CD0923F43E090CF4ECF87518332",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"249980AECFF24D53B6932D48AFAE11C6": {
+			"id": "249980AECFF24D53B6932D48AFAE11C6",
+			"asnIdentifier": "S2543905",
+			"position": 115000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.2",
+			"description": "Validate and cite Internet resources.",
+			"ancestorIds": [
+				"0DB49CD0923F43E090CF4ECF87518332",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"282D8B587FB4457FB00CC570E355D0ED": {
+			"id": "282D8B587FB4457FB00CC570E355D0ED",
+			"asnIdentifier": "S2543904",
+			"position": 114000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A3.1",
+			"description": "Identify and apply multiple ways to transfer information and resources (e.g., text, data, audio, video, still images) between software programs and systems.",
+			"ancestorIds": [
+				"0DB49CD0923F43E090CF4ECF87518332",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"0DB49CD0923F43E090CF4ECF87518332": {
+			"id": "0DB49CD0923F43E090CF4ECF87518332",
+			"asnIdentifier": "S2543903",
+			"position": 113000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A3.0",
+			"description": "Access and transmit information in a networked environment.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"CF644A024D04461B921B521259DFD252": {
+			"id": "CF644A024D04461B921B521259DFD252",
+			"asnIdentifier": "S2543902",
+			"position": 112000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.4",
+			"description": "Define and use appropriate naming conventions and file management strategies.",
+			"ancestorIds": [
+				"7EDD55B174BB4079B912A585E230AA26",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"4FEB639D498F4F23A55E893C73EADB9F": {
+			"id": "4FEB639D498F4F23A55E893C73EADB9F",
+			"asnIdentifier": "S2543901",
+			"position": 111000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.3",
+			"description": "Install software and setup hardware.",
+			"ancestorIds": [
+				"7EDD55B174BB4079B912A585E230AA26",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A6BBCED7A716438E949B89FB2852BFDA": {
+			"id": "A6BBCED7A716438E949B89FB2852BFDA",
+			"asnIdentifier": "S2543900",
+			"position": 110000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.2",
+			"description": "Investigate, evaluate, select, and use major types of software, services, and vendors.",
+			"ancestorIds": [
+				"7EDD55B174BB4079B912A585E230AA26",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"A22C66F1F95E4B3E9BF51D5D8C49E2BC": {
+			"id": "A22C66F1F95E4B3E9BF51D5D8C49E2BC",
+			"asnIdentifier": "S2543899",
+			"position": 109000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A2.1",
+			"description": "Identify and list the criteria and processes for evaluating the functions of information systems.",
+			"ancestorIds": [
+				"7EDD55B174BB4079B912A585E230AA26",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7EDD55B174BB4079B912A585E230AA26": {
+			"id": "7EDD55B174BB4079B912A585E230AA26",
+			"asnIdentifier": "S2543898",
+			"position": 108000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A2.0",
+			"description": "Acquire, install, and implement software and systems.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"AB5AD3A20E9B44DA8D47AC181CBA0D4A": {
+			"id": "AB5AD3A20E9B44DA8D47AC181CBA0D4A",
+			"asnIdentifier": "S2543897",
+			"position": 107000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.4",
+			"description": "Analyze and design business processes in a cycle of continual improvement.",
+			"ancestorIds": [
+				"50BC1020D92842C086203DD91FE120D7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"2457F4548D5F4C1C8DA542E17ADA219C": {
+			"id": "2457F4548D5F4C1C8DA542E17ADA219C",
+			"asnIdentifier": "S2543896",
+			"position": 106000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.3",
+			"description": "Model business processes using tools such as organization charts, flowcharts, and timelines.",
+			"ancestorIds": [
+				"50BC1020D92842C086203DD91FE120D7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"7AC66972C832494E8503A7DD3B9ABAC9": {
+			"id": "7AC66972C832494E8503A7DD3B9ABAC9",
+			"asnIdentifier": "S2543895",
+			"position": 105000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.2",
+			"description": "Identify common organizational, technical, and financial risks associated with the implementation and use of information and communication systems.",
+			"ancestorIds": [
+				"50BC1020D92842C086203DD91FE120D7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"90055C693ED540918DBBC4AD3D969FFD": {
+			"id": "90055C693ED540918DBBC4AD3D969FFD",
+			"asnIdentifier": "S2543894",
+			"position": 104000,
+			"depth": 3,
+			"statementLabel": "Performance Indicator",
+			"listId": "A1.1",
+			"description": "Describe how technology is integrated into business processes.",
+			"ancestorIds": [
+				"50BC1020D92842C086203DD91FE120D7",
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"50BC1020D92842C086203DD91FE120D7": {
+			"id": "50BC1020D92842C086203DD91FE120D7",
+			"asnIdentifier": "S2543893",
+			"position": 103000,
+			"depth": 2,
+			"statementLabel": "Pathway Standard",
+			"listId": "A1.0",
+			"description": "Describe the role of information and communication technologies in organizations.",
+			"ancestorIds": [
+				"BB24BBEFA693442C824DB939E6DB0180",
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"BB24BBEFA693442C824DB939E6DB0180": {
+			"id": "BB24BBEFA693442C824DB939E6DB0180",
+			"asnIdentifier": "S2543892",
+			"position": 102000,
+			"depth": 1,
+			"listId": "A.",
+			"description": "Information Support and Services",
+			"comments": [
+				"Students in the Information Support and Services pathway prepare for careers that involve the implementation of computer services and software, support of multimedia products and services, provision of technical assistance, creation of technical documentation, and the administration and management of information and communication systems. Mastery of information and communication technologies is the foundation for all successful business organizations today. Persons with expertise in information and communication technologies support and services are in high demand for a variety of positions in business and industry."
+			],
+			"ancestorIds": [
+				"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C"
+			]
+		},
+		"2A8B0069B1CF4CFFB9EDC2DCC1C82D5C": {
+			"id": "2A8B0069B1CF4CFFB9EDC2DCC1C82D5C",
+			"asnIdentifier": "S2543891",
+			"position": 101000,
+			"depth": 0,
+			"description": "Pathway Standards",
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"F1F3FC7324D4411EABF3890AC4A1D125": {
+			"id": "F1F3FC7324D4411EABF3890AC4A1D125",
+			"asnIdentifier": "S2543890",
+			"position": 100000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.5",
+			"description": "Create a portfolio, or similar collection of work, that offers evidence through assessment and evaluation of skills and knowledge competency as contained in the anchor standards, pathway standards, and performance indicators.",
+			"ancestorIds": [
+				"20E6D19719CF43E2B54FC77F079DFE53",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"72420E95AD704244A9F281B996F97FF3": {
+			"id": "72420E95AD704244A9F281B996F97FF3",
+			"asnIdentifier": "S2543889",
+			"position": 99000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.4",
+			"description": "Employ entrepreneurial practices and behaviors appropriate to Information and Communication Technologies sector opportunities.",
+			"ancestorIds": [
+				"20E6D19719CF43E2B54FC77F079DFE53",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"DF0E92A19FB24CBF8037D0AE51171DC1": {
+			"id": "DF0E92A19FB24CBF8037D0AE51171DC1",
+			"asnIdentifier": "S2543888",
+			"position": 98000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.3",
+			"description": "Demonstrate entrepreneurship skills and knowledge of self-employment options and innovative ventures.",
+			"ancestorIds": [
+				"20E6D19719CF43E2B54FC77F079DFE53",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"8F1440AA879A4B5CBC955ECC87B4D509": {
+			"id": "8F1440AA879A4B5CBC955ECC87B4D509",
+			"asnIdentifier": "S2543887",
+			"position": 97000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.2",
+			"description": "Demonstrate proficiency in a career technical pathway that leads to certification, licensure, and/or continued learning at the postsecondary level.",
+			"ancestorIds": [
+				"20E6D19719CF43E2B54FC77F079DFE53",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"79B04C18521D465A9563864F61412B9E": {
+			"id": "79B04C18521D465A9563864F61412B9E",
+			"asnIdentifier": "S2543886",
+			"position": 96000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "11.1",
+			"description": "Utilize work-based/workplace learning experiences to demonstrate and expand upon knowledge and skills gained during classroom instruction and laboratory practices specific to the Information and Communication Technologies sector program of study.",
+			"ancestorIds": [
+				"20E6D19719CF43E2B54FC77F079DFE53",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"20E6D19719CF43E2B54FC77F079DFE53": {
+			"id": "20E6D19719CF43E2B54FC77F079DFE53",
+			"asnIdentifier": "S2543885",
+			"position": 95000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "11.0",
+			"description": "Demonstration and Application",
+			"comments": [
+				"Demonstrate and apply the knowledge and skills contained in the Information and Communication Technologies anchor standards, pathway standards, and performance indicators in classroom, laboratory, and workplace settings, and through career technical student organizations such as Future Business Leaders of America and SkillsUSA."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"4A9880573CC44BF79F9DDABF6495F65F": {
+			"id": "4A9880573CC44BF79F9DDABF6495F65F",
+			"asnIdentifier": "S2543884",
+			"position": 94000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.14",
+			"description": "Analyze the effectiveness of online information resources to support collaborative tasks, research, publications, communications, and increased productivity.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"F773F4C018574928A7967CBB5D103D54": {
+			"id": "F773F4C018574928A7967CBB5D103D54",
+			"asnIdentifier": "S2543883",
+			"position": 93000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.13",
+			"description": "Evaluate the accuracy, relevance, and comprehensiveness of retrieved information.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"5BA3A2847BC048FF922874CC968539E7": {
+			"id": "5BA3A2847BC048FF922874CC968539E7",
+			"asnIdentifier": "S2543882",
+			"position": 92000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.12",
+			"description": "Know appropriate search procedures for different types of information, sources, and queries.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"AE584969FC704750886995AE27366D36": {
+			"id": "AE584969FC704750886995AE27366D36",
+			"asnIdentifier": "S2543881",
+			"position": 91000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.11",
+			"description": "Know multiple ways in which to transfer information and resources (e.g., text, data, sound, video, still images) between software programs and systems.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"208FFB73ECAF4DEB975E631BE16102B9": {
+			"id": "208FFB73ECAF4DEB975E631BE16102B9",
+			"asnIdentifier": "S2543880",
+			"position": 90000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.10",
+			"description": "Manage files in a hierarchical system.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"8CD0BF998A914CB28D44B37952A9E26C": {
+			"id": "8CD0BF998A914CB28D44B37952A9E26C",
+			"asnIdentifier": "S2543879",
+			"position": 89000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.9",
+			"description": "Use common industry-standard software and their applications including word processing, spreadsheets, databases, and multimedia software.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"E035C7266F05450F8B0704E0D6F6FD78": {
+			"id": "E035C7266F05450F8B0704E0D6F6FD78",
+			"asnIdentifier": "S2543878",
+			"position": 88000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.8",
+			"description": "Understand security concepts including authorization, rights, and encryption.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"BAB66A3C02E947A0BC4D8D6ADD1BD048": {
+			"id": "BAB66A3C02E947A0BC4D8D6ADD1BD048",
+			"asnIdentifier": "S2543877",
+			"position": 87000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.7",
+			"description": "Understand the SI (metric) prefixes commonly used in computing including, at least, kilo, mega, giga, and tera.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"542494EE547D41A4A14A244A6B07D407": {
+			"id": "542494EE547D41A4A14A244A6B07D407",
+			"asnIdentifier": "S2543876",
+			"position": 86000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.6",
+			"description": "Understand data sizes of various types of information (text, pictures, sound, video, etc.) and data capacity of various forms of media.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C85902A703344CFD91DBD648AD850077": {
+			"id": "C85902A703344CFD91DBD648AD850077",
+			"asnIdentifier": "S2543875",
+			"position": 85000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.5",
+			"description": "Understand the major software and hardware components of a computer and a network and how they relate to each other.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C657D52F7C3B4802A6D667C123DFA72C": {
+			"id": "C657D52F7C3B4802A6D667C123DFA72C",
+			"asnIdentifier": "S2543874",
+			"position": 84000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.4",
+			"description": "Collaborate with industry experts for specific technical knowledge and skills.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"9076B42C09284046ABD4A25FF26FD36B": {
+			"id": "9076B42C09284046ABD4A25FF26FD36B",
+			"asnIdentifier": "S2543873",
+			"position": 83000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.3",
+			"description": "Construct projects and products specific to the Information and Communication Technologies sector requirements and expectations.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"66AB282C0F21405386823A4BBB283E11": {
+			"id": "66AB282C0F21405386823A4BBB283E11",
+			"asnIdentifier": "S2543872",
+			"position": 82000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.2",
+			"description": "Comply with the rules, regulations, and expectations of all aspects of the Information and Communication Technologies sector.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"A409408C47744DC19854B48EFF90113E": {
+			"id": "A409408C47744DC19854B48EFF90113E",
+			"asnIdentifier": "S2543871",
+			"position": 81000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "10.1",
+			"description": "Interpret and explain terminology and practices specific to the Information and Communication Technologies sector.",
+			"ancestorIds": [
+				"1FED0D73D87D4D97A6AF6D8775AA9B13",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"1FED0D73D87D4D97A6AF6D8775AA9B13": {
+			"id": "1FED0D73D87D4D97A6AF6D8775AA9B13",
+			"asnIdentifier": "S2543870",
+			"position": 80000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "10.0",
+			"description": "Technical Knowledge and Skills",
+			"comments": [
+				"Apply essential technical knowledge and skills common to all pathways in the Information and Communication Technologies sector, following procedures when carrying out experiments or performing technical tasks."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"DF527907C76A4DA893DA07B8FCC9F81F": {
+			"id": "DF527907C76A4DA893DA07B8FCC9F81F",
+			"asnIdentifier": "S2543869",
+			"position": 79000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.7",
+			"description": "Participate in interactive teamwork to solve real Information and Communication Technologies sector issues and problems.",
+			"ancestorIds": [
+				"A4BAA29D10A840EA936E85987FC16C46",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"53B4F063C0B04872AD26B7427843D588": {
+			"id": "53B4F063C0B04872AD26B7427843D588",
+			"asnIdentifier": "S2543868",
+			"position": 78000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.6",
+			"description": "Respect individual and cultural differences and recognize the importance of diversity in the workplace.",
+			"ancestorIds": [
+				"A4BAA29D10A840EA936E85987FC16C46",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"62E6AE4E58BB408A94F0AB796C5F3FF0": {
+			"id": "62E6AE4E58BB408A94F0AB796C5F3FF0",
+			"asnIdentifier": "S2543867",
+			"position": 77000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.5",
+			"description": "Understand that the modern world is an international community and requires an expanded global view.",
+			"ancestorIds": [
+				"A4BAA29D10A840EA936E85987FC16C46",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"356C4271348249BF851D42EED3B430B8": {
+			"id": "356C4271348249BF851D42EED3B430B8",
+			"asnIdentifier": "S2543866",
+			"position": 76000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.4",
+			"description": "Explain how professional associations and organizations and associated leadership development and competitive career development activities enhance academic preparation, promote career choices, and contribute to employment opportunities.",
+			"ancestorIds": [
+				"A4BAA29D10A840EA936E85987FC16C46",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"F3B9761472DA427AB5956241B287A05D": {
+			"id": "F3B9761472DA427AB5956241B287A05D",
+			"asnIdentifier": "S2543865",
+			"position": 75000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.3",
+			"description": "Understand the characteristics and benefits of teamwork, leadership, and citizenship in the school, community, and workplace setting.",
+			"ancestorIds": [
+				"A4BAA29D10A840EA936E85987FC16C46",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"861D3DDB71A74554B968FCF7EE337363": {
+			"id": "861D3DDB71A74554B968FCF7EE337363",
+			"asnIdentifier": "S2543864",
+			"position": 74000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.2",
+			"description": "Identify the characteristics of successful teams, including leadership, cooperation, collaboration, and effective decision-making skills as applied in groups, teams, and career technical student organization activities.",
+			"ancestorIds": [
+				"A4BAA29D10A840EA936E85987FC16C46",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"A18F0DF4C34C4A41B0630FAA35980C01": {
+			"id": "A18F0DF4C34C4A41B0630FAA35980C01",
+			"asnIdentifier": "S2543863",
+			"position": 73000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "9.1",
+			"description": "Define leadership and identify the responsibilities, competencies, and behaviors of successful leaders.",
+			"ancestorIds": [
+				"A4BAA29D10A840EA936E85987FC16C46",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"A4BAA29D10A840EA936E85987FC16C46": {
+			"id": "A4BAA29D10A840EA936E85987FC16C46",
+			"asnIdentifier": "S2543862",
+			"position": 72000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "9.0",
+			"description": "Leadership and Teamwork",
+			"comments": [
+				"Work with peers to promote divergent and creative perspectives, effective leadership, group dynamics, team and individual decision making, benefits of workforce diversity, and conflict resolution such as those practiced in the Future Business Leaders of America and SkillsUSA career technical student organization."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"F893A4402B4445499337F2580FE18F77": {
+			"id": "F893A4402B4445499337F2580FE18F77",
+			"asnIdentifier": "S2543861",
+			"position": 71000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.8",
+			"description": "Identify legal and ethical issues that have proliferated with increased technology adoption, including hacking, scamming, and breach of privacy.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C5EBA2C62F4D4E88A5D3665236A1ABCE": {
+			"id": "C5EBA2C62F4D4E88A5D3665236A1ABCE",
+			"asnIdentifier": "S2543860",
+			"position": 70000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.7",
+			"description": "Conform to rules and regulations regarding sharing of confidential information, as determined by Information and Communication Technologies sector laws and practices.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"EE7EA7658149472A87F1519D5B821D4B": {
+			"id": "EE7EA7658149472A87F1519D5B821D4B",
+			"asnIdentifier": "S2543859",
+			"position": 69000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.6",
+			"description": "Adhere to copyright and intellectual property laws and regulations, and use and appropriately cite proprietary information.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"E10078311E614F75BE7A08F1588D7D10": {
+			"id": "E10078311E614F75BE7A08F1588D7D10",
+			"asnIdentifier": "S2543858",
+			"position": 68000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.5",
+			"description": "Analyze organizational culture and practices within the workplace environment.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"98A76DCBA54F4972BA74B1565DC027B9": {
+			"id": "98A76DCBA54F4972BA74B1565DC027B9",
+			"asnIdentifier": "S2543857",
+			"position": 67000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.4",
+			"description": "Explain the importance of personal integrity, confidentiality, and ethical behavior in the workplace.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"30C5DCE205784EF9AE27632AB49E4ED9": {
+			"id": "30C5DCE205784EF9AE27632AB49E4ED9",
+			"asnIdentifier": "S2543856",
+			"position": 66000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.3",
+			"description": "Demonstrate ethical and legal practices consistent with Information and Communication Technologies sector workplace standards.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"D0371D203C1043F3BE76AD319E14F77A": {
+			"id": "D0371D203C1043F3BE76AD319E14F77A",
+			"asnIdentifier": "S2543855",
+			"position": 65000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.2",
+			"description": "Identify local, district, state, and federal regulatory agencies, entities, laws, and regulations related to the Information and Communication Technologies industry sector.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"7F73ABAC68C147E39FBC76632C281E8F": {
+			"id": "7F73ABAC68C147E39FBC76632C281E8F",
+			"asnIdentifier": "S2543854",
+			"position": 64000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "8.1",
+			"description": "Access, analyze, and implement quality assurance standards of practice.",
+			"ancestorIds": [
+				"EDE872F2D88249E189CD14908322F847",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"EDE872F2D88249E189CD14908322F847": {
+			"id": "EDE872F2D88249E189CD14908322F847",
+			"asnIdentifier": "S2543853",
+			"position": 63000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "8.0",
+			"description": "Ethics and Legal Responsibilities",
+			"comments": [
+				"Practice professional, ethical, and legal behavior, responding thoughtfully to diverse perspectives and resolving contradictions when possible, consistent with applicable laws, regulations, and organizational norms."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"A10B843E35D34195A02F4572D4E5F766": {
+			"id": "A10B843E35D34195A02F4572D4E5F766",
+			"asnIdentifier": "S2543852",
+			"position": 62000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.8",
+			"description": "Explore issues of global significance and document the impact on the Information and Communication Technologies sector.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"7A5C73CBDA1C43D3952AB0E4095584FD": {
+			"id": "7A5C73CBDA1C43D3952AB0E4095584FD",
+			"asnIdentifier": "S2543851",
+			"position": 61000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.7",
+			"description": "Demonstrate the qualities and behaviors that constitute a positive and professional work demeanor, including appropriate attire for the profession.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"1E02A181B3C547C8BAAAB701BC1838CE": {
+			"id": "1E02A181B3C547C8BAAAB701BC1838CE",
+			"asnIdentifier": "S2543850",
+			"position": 60000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.6",
+			"description": "Demonstrate knowledge and practice of responsible financial management.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"62F25A6BC72C48799C49C228B409DF31": {
+			"id": "62F25A6BC72C48799C49C228B409DF31",
+			"asnIdentifier": "S2543849",
+			"position": 59000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.5",
+			"description": "Apply high-quality techniques to product or presentation design and development.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"CC9AE44F58D0413D9DB0FB0A48348CE1": {
+			"id": "CC9AE44F58D0413D9DB0FB0A48348CE1",
+			"asnIdentifier": "S2543848",
+			"position": 58000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.4",
+			"description": "Practice time management and efficiency to fulfill responsibilities.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C407E348BF5E4BB48952E1CFA5EBD3A6": {
+			"id": "C407E348BF5E4BB48952E1CFA5EBD3A6",
+			"asnIdentifier": "S2543847",
+			"position": 57000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.3",
+			"description": "Understand the need to adapt to changing and varied roles and responsibilities.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"0626291EF912408A80C277C15D42E93B": {
+			"id": "0626291EF912408A80C277C15D42E93B",
+			"asnIdentifier": "S2543846",
+			"position": 56000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.2",
+			"description": "Explain the importance of accountability and responsibility in fulfilling personal, community, and workplace roles.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"7E38DA89E2A54AA08E88ECF41A4822CA": {
+			"id": "7E38DA89E2A54AA08E88ECF41A4822CA",
+			"asnIdentifier": "S2543845",
+			"position": 55000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "7.1",
+			"description": "Recognize how financial management impacts the economy, workforce, and community.",
+			"ancestorIds": [
+				"C2F769C09F5447899DD40FB0C6016510",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C2F769C09F5447899DD40FB0C6016510": {
+			"id": "C2F769C09F5447899DD40FB0C6016510",
+			"asnIdentifier": "S2543844",
+			"position": 54000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "7.0",
+			"description": "Responsibility and Flexibility",
+			"comments": [
+				"Initiate, and participate in, a range of collaborations demonstrating behaviors that reflect personal and professional responsibility, flexibility, and respect in the Information and Communication Technologies sector workplace environment and community settings."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"B62AC4D266D14748BC7C85A805667719": {
+			"id": "B62AC4D266D14748BC7C85A805667719",
+			"asnIdentifier": "S2543843",
+			"position": 53000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.11",
+			"description": "Conserve energy while computing (e.g., turn off equipment at night, power-saving settings, etc.)",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"D484B4E63E9B45F5AF15057A599E31CC": {
+			"id": "D484B4E63E9B45F5AF15057A599E31CC",
+			"asnIdentifier": "S2543842",
+			"position": 52000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.10",
+			"description": "Act conscientiously regarding the use of natural resources (e.g., paper, ink, etc.)",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"F6D8E16B679C42FD8E07329AE982D351": {
+			"id": "F6D8E16B679C42FD8E07329AE982D351",
+			"asnIdentifier": "S2543841",
+			"position": 51000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.9",
+			"description": "Dispose of e-waste properly, understanding the health, environmental, and legal risks of improper disposal.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"12794F9F4C784C3389834B949BE585DA": {
+			"id": "12794F9F4C784C3389834B949BE585DA",
+			"asnIdentifier": "S2543840",
+			"position": 50000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.8",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"8040C6BFC8574C1CB11DE35612E74FF3": {
+			"id": "8040C6BFC8574C1CB11DE35612E74FF3",
+			"asnIdentifier": "S2543839",
+			"position": 49000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.7",
+			"description": "Be informed of laws/acts pertaining to the Occupational Safety and Health Administration (OSHA).",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C27363A5E5E74E7384057F0B76425CFB": {
+			"id": "C27363A5E5E74E7384057F0B76425CFB",
+			"asnIdentifier": "S2543838",
+			"position": 48000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.6",
+			"description": "Maintain a safe and healthful working environment.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"94E4A06CB5DA4A53A447FFD79F4C7FB6": {
+			"id": "94E4A06CB5DA4A53A447FFD79F4C7FB6",
+			"asnIdentifier": "S2543837",
+			"position": 47000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.5",
+			"description": "Demonstrate how to prevent and respond to work-related accidents or injuries; this includes demonstrating an understanding of ergonomics.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"FB631DDE96854E55B9ACE84633381A30": {
+			"id": "FB631DDE96854E55B9ACE84633381A30",
+			"asnIdentifier": "S2543836",
+			"position": 46000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.4",
+			"description": "Practice personal safety when lifting, bending, or moving equipment and supplies.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"35313A312ACA491EBBEA421355C97813": {
+			"id": "35313A312ACA491EBBEA421355C97813",
+			"asnIdentifier": "S2543835",
+			"position": 45000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.3",
+			"description": "Use health and safety practices for storing, cleaning, and maintaining tools, equipment, and supplies.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"23A4B7A9B52A4876972B8C454FE001EB": {
+			"id": "23A4B7A9B52A4876972B8C454FE001EB",
+			"asnIdentifier": "S2543834",
+			"position": 44000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.2",
+			"description": "Interpret policies, procedures, and regulations for the workplace environment, including employer and employee responsibilities.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"54312CDF7AF849E3A9651730FA2BDD28": {
+			"id": "54312CDF7AF849E3A9651730FA2BDD28",
+			"asnIdentifier": "S2543833",
+			"position": 43000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "6.1",
+			"description": "Locate, and adhere to, Material Safety Data Sheet (MSDS) instructions.",
+			"ancestorIds": [
+				"7FEF133CE4E244389A182FA99C2A20D4",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"7FEF133CE4E244389A182FA99C2A20D4": {
+			"id": "7FEF133CE4E244389A182FA99C2A20D4",
+			"asnIdentifier": "S2543832",
+			"position": 42000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "6.0",
+			"description": "Health and Safety",
+			"comments": [
+				"Demonstrate health and safety procedures, regulations, and personal health practices and determine the meaning of symbols, key terms, and domain-specific words and phrases as related to the Information and Communication Technologies sector workplace environment."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"502D631CE8034BD482F7179BAA88C357": {
+			"id": "502D631CE8034BD482F7179BAA88C357",
+			"asnIdentifier": "S2543831",
+			"position": 41000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.12",
+			"description": "Apply the concepts of Boolean logic to decision making and searching.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"E167F41346AC431F8DF18B02F84F2A74": {
+			"id": "E167F41346AC431F8DF18B02F84F2A74",
+			"asnIdentifier": "S2543830",
+			"position": 40000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.11",
+			"description": "Understand the concept of base systems, including binary and hexadecimal.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"E1198200B13849C4988982F98687F5E8": {
+			"id": "E1198200B13849C4988982F98687F5E8",
+			"asnIdentifier": "S2543829",
+			"position": 39000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.10",
+			"description": "Use multiple layers of abstraction.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"E7BAC8669F434093A5CEE5A7F28813FB": {
+			"id": "E7BAC8669F434093A5CEE5A7F28813FB",
+			"asnIdentifier": "S2543828",
+			"position": 38000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.9",
+			"description": "Deconstruct large problems into components to solve.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"5469BBE7FBF94DBEB7DD04E4848BA04B": {
+			"id": "5469BBE7FBF94DBEB7DD04E4848BA04B",
+			"asnIdentifier": "S2543827",
+			"position": 37000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.8",
+			"description": "Create and use algorithms and solve problems.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C01243A814824F53B48EB6F82E97C735": {
+			"id": "C01243A814824F53B48EB6F82E97C735",
+			"asnIdentifier": "S2543826",
+			"position": 36000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.7",
+			"description": "Work out problems iteratively and recursively.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"8BCC798315E34A89A1A72F53737BA066": {
+			"id": "8BCC798315E34A89A1A72F53737BA066",
+			"asnIdentifier": "S2543825",
+			"position": 35000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.6",
+			"description": "Know the available resources for identifying and resolving problems.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"392970D029924BA7BA7F5513414AD85F": {
+			"id": "392970D029924BA7BA7F5513414AD85F",
+			"asnIdentifier": "S2543824",
+			"position": 34000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.5",
+			"description": "Use a logical and structured approach to isolate and identify the source of problems and to resolve problems.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"8BCEB3AA67814D899624EB2C577FBCC2": {
+			"id": "8BCEB3AA67814D899624EB2C577FBCC2",
+			"asnIdentifier": "S2543823",
+			"position": 33000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.4",
+			"description": "Interpret information and draw conclusions, based on the best analysis, to make informed decisions.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"2DD870A3FF0540668AF984C02FA0AB70": {
+			"id": "2DD870A3FF0540668AF984C02FA0AB70",
+			"asnIdentifier": "S2543822",
+			"position": 32000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.3",
+			"description": "Use systems thinking to analyze how various components interact with each other to produce outcomes in a complex work environment.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"F38469396A9A4CC7B9CE5FE7FD4382B1": {
+			"id": "F38469396A9A4CC7B9CE5FE7FD4382B1",
+			"asnIdentifier": "S2543821",
+			"position": 31000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.2",
+			"description": "Solve predictable and unpredictable work-related problems using various types of reasoning (inductive, deductive) as appropriate.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"7F59DAC006EF4F2E80723982B611F379": {
+			"id": "7F59DAC006EF4F2E80723982B611F379",
+			"asnIdentifier": "S2543820",
+			"position": 30000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "5.1",
+			"description": "Identify and ask significant questions that clarify various points of view to solve problems.",
+			"ancestorIds": [
+				"0647CA1BB0A646F69195D03F59BF5F1A",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"0647CA1BB0A646F69195D03F59BF5F1A": {
+			"id": "0647CA1BB0A646F69195D03F59BF5F1A",
+			"asnIdentifier": "S2543819",
+			"position": 29000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "5.0",
+			"description": "Problem Solving and Critical Thinking",
+			"comments": [
+				"Conduct short, as well as more sustained, research to create alternative solutions to answer a question or solve a problem unique to the Information and Communication Technologies sector using critical and creative thinking, logical reasoning, analysis, inquiry, and problem-solving techniques."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"454FB58D7AF243F0BBC6B616EBCB18C9": {
+			"id": "454FB58D7AF243F0BBC6B616EBCB18C9",
+			"asnIdentifier": "S2543818",
+			"position": 28000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.6",
+			"description": "Assess the value of various information and communication technologies to interact with constituent populations as part of a search of the current literature or in relation to the information task.",
+			"ancestorIds": [
+				"6273EA16BAC64EE9A504384379201516",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"19C300E5EA724DE48FFA2CFFE50AE4F1": {
+			"id": "19C300E5EA724DE48FFA2CFFE50AE4F1",
+			"asnIdentifier": "S2543817",
+			"position": 27000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.5",
+			"description": "Research past, present, and projected technological advances as they impact a particular pathway.",
+			"ancestorIds": [
+				"6273EA16BAC64EE9A504384379201516",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"CEC79732142546FAA69FBF342F016BBD": {
+			"id": "CEC79732142546FAA69FBF342F016BBD",
+			"asnIdentifier": "S2543816",
+			"position": 26000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.4",
+			"description": "Discern the quality and value of information collected using digital technologies, and recognize bias and intent of the associated sources.",
+			"ancestorIds": [
+				"6273EA16BAC64EE9A504384379201516",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"9234FED520A54D919B16FA55C0714A2D": {
+			"id": "9234FED520A54D919B16FA55C0714A2D",
+			"asnIdentifier": "S2543815",
+			"position": 25000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.3",
+			"description": "Use information and communication technologies to synthesize, summarize, compare, and contrast information from multiple sources.",
+			"ancestorIds": [
+				"6273EA16BAC64EE9A504384379201516",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"21893FE88EE5426DBD90D3A095FE013A": {
+			"id": "21893FE88EE5426DBD90D3A095FE013A",
+			"asnIdentifier": "S2543814",
+			"position": 24000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.2",
+			"description": "Employ technology based communications responsibly and effectively to explore complex systems and issues.",
+			"ancestorIds": [
+				"6273EA16BAC64EE9A504384379201516",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"369731CFD6C241A0A15FDE83A748C241": {
+			"id": "369731CFD6C241A0A15FDE83A748C241",
+			"asnIdentifier": "S2543813",
+			"position": 23000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "4.1",
+			"description": "Use electronic reference materials to gather information and produce products and services.",
+			"ancestorIds": [
+				"6273EA16BAC64EE9A504384379201516",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"6273EA16BAC64EE9A504384379201516": {
+			"id": "6273EA16BAC64EE9A504384379201516",
+			"asnIdentifier": "S2543812",
+			"position": 22000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "4.0",
+			"description": "Technology",
+			"comments": [
+				"Use existing and emerging technology, to investigate, research, and produce products and services, including new information, as required in the Information and Communication Technologies sector workplace environment."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C750FE22A2254ABCACF1BEDA9FE02622": {
+			"id": "C750FE22A2254ABCACF1BEDA9FE02622",
+			"asnIdentifier": "S2543811",
+			"position": 21000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.9",
+			"description": "Develop a career plan that reflects career interests, pathways, and postsecondary options.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"7059433AE6454F92BEBA4B493EABE488": {
+			"id": "7059433AE6454F92BEBA4B493EABE488",
+			"asnIdentifier": "S2543810",
+			"position": 20000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.8",
+			"description": "Understand how digital media are used by potential employers and postsecondary agencies to evaluate candidates.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"9D21573B8EDC4ED596DE193F2E974BA5": {
+			"id": "9D21573B8EDC4ED596DE193F2E974BA5",
+			"asnIdentifier": "S2543809",
+			"position": 19000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.7",
+			"description": "Recognize the importance of small business in the California and global economies.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"D5A21EF1E59043ADBF6220DBF0ED890A": {
+			"id": "D5A21EF1E59043ADBF6220DBF0ED890A",
+			"asnIdentifier": "S2543808",
+			"position": 18000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.6",
+			"description": "Recognize the role and function of professional organizations, industry associations, and organized labor in a productive society.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"CAD14F8EBB914D499A5C6A74B2A64F55": {
+			"id": "CAD14F8EBB914D499A5C6A74B2A64F55",
+			"asnIdentifier": "S2543807",
+			"position": 17000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.5",
+			"description": "Integrate changing employment trends, societal needs, and economic conditions into career planning.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"54E1A5BC37204580B15E68A77C6BB8A0": {
+			"id": "54E1A5BC37204580B15E68A77C6BB8A0",
+			"asnIdentifier": "S2543806",
+			"position": 16000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.4",
+			"description": "Research the scope of career opportunities available and the requirements for education, training, certification, and licensure.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"F9419F7E65C64F0CA2246E73EAEC332F": {
+			"id": "F9419F7E65C64F0CA2246E73EAEC332F",
+			"asnIdentifier": "S2543805",
+			"position": 15000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.3",
+			"description": "Explore how information and communication technologies are used in career planning and decision making.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"8AB883EEB08B4236997D5717AB015482": {
+			"id": "8AB883EEB08B4236997D5717AB015482",
+			"asnIdentifier": "S2543804",
+			"position": 14000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.2",
+			"description": "Evaluate personal character traits such as trust, respect, and responsibility and understand the impact they can have on career success.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"30C29139E7E74BA789FA5C38B2F83E78": {
+			"id": "30C29139E7E74BA789FA5C38B2F83E78",
+			"asnIdentifier": "S2543803",
+			"position": 13000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "3.1",
+			"description": "Identify personal interests, aptitudes, information, and skills necessary for informed career decision making.",
+			"ancestorIds": [
+				"50EB460556D14FBDA37ABEE5580B01D2",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"50EB460556D14FBDA37ABEE5580B01D2": {
+			"id": "50EB460556D14FBDA37ABEE5580B01D2",
+			"asnIdentifier": "S2543802",
+			"position": 12000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "3.0",
+			"description": "Career Planning and Management",
+			"comments": [
+				"Integrate multiple sources of career information from diverse formats to make informed career decisions, solve problems, and manage personal career plans."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"0579EB1D33EB4A7E836AA52962558E80": {
+			"id": "0579EB1D33EB4A7E836AA52962558E80",
+			"asnIdentifier": "S2543801",
+			"position": 11000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.8",
+			"description": "Understand the principles of a customer-oriented service approach to users.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"70CC9C2F313F4972A1FDFFC4A1BF0536": {
+			"id": "70CC9C2F313F4972A1FDFFC4A1BF0536",
+			"asnIdentifier": "S2543800",
+			"position": 10000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.7",
+			"description": "Use technical writing and communication skills to work effectively with diverse groups of people.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"689A75C8CC18490B90176CBA22EA11A6": {
+			"id": "689A75C8CC18490B90176CBA22EA11A6",
+			"asnIdentifier": "S2543799",
+			"position": 9000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.6",
+			"description": "Advocate and practice safe, legal, and responsible use of digital media information and communications technologies.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"814ABA6721EC40AFA1041776126A5F85": {
+			"id": "814ABA6721EC40AFA1041776126A5F85",
+			"asnIdentifier": "S2543798",
+			"position": 8000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.5",
+			"description": "Communicate information and ideas effectively to multiple audiences using a variety of media and formats.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"C9895ABD95E3451AB36666DBBAB87796": {
+			"id": "C9895ABD95E3451AB36666DBBAB87796",
+			"asnIdentifier": "S2543797",
+			"position": 7000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.4",
+			"description": "Demonstrate elements of written and electronic communication such as accurate spelling, grammar, and format.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"1490F1AAE78C45F99FEE0AFA41DB5BB9": {
+			"id": "1490F1AAE78C45F99FEE0AFA41DB5BB9",
+			"asnIdentifier": "S2543796",
+			"position": 6000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.3",
+			"description": "Interpret verbal and nonverbal communications and respond appropriately.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"B329C2B7177C46E090BCFD67BB72AC55": {
+			"id": "B329C2B7177C46E090BCFD67BB72AC55",
+			"asnIdentifier": "S2543795",
+			"position": 5000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.2",
+			"description": "Identify barriers to accurate and appropriate communication.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"8C80344A55F84681A7296461885C4B07": {
+			"id": "8C80344A55F84681A7296461885C4B07",
+			"asnIdentifier": "S2543794",
+			"position": 4000,
+			"depth": 2,
+			"statementLabel": "Performance Indicator",
+			"listId": "2.1",
+			"description": "Recognize the elements of communication using a sender–receiver model.",
+			"ancestorIds": [
+				"23B7B973DD604125A9B5F30ED9AB877D",
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"23B7B973DD604125A9B5F30ED9AB877D": {
+			"id": "23B7B973DD604125A9B5F30ED9AB877D",
+			"asnIdentifier": "S2543793",
+			"position": 3000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "2.0",
+			"description": "Communications",
+			"comments": [
+				"Acquire and accurately use Information and Communication Technologies sector terminology and protocols at the career and college readiness level for communicating effectively in oral, written, and multimedia formats."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"AF7814368948435A9D905F30BF1B8BF0": {
+			"id": "AF7814368948435A9D905F30BF1B8BF0",
+			"asnIdentifier": "S2543792",
+			"position": 2000,
+			"depth": 1,
+			"statementLabel": "Anchor Standard",
+			"listId": "1.0",
+			"description": "Academics",
+			"comments": [
+				"Analyze and apply appropriate academic standards required for successful industry sector pathway completion leading to postsecondary education and employment. Refer to the Information and Communication Technologies academic alignment matrix for identification of standards."
+			],
+			"ancestorIds": [
+				"A974979AC84648C9B5799CBB51D6D5CF"
+			]
+		},
+		"A974979AC84648C9B5799CBB51D6D5CF": {
+			"id": "A974979AC84648C9B5799CBB51D6D5CF",
+			"asnIdentifier": "S2543791",
+			"position": 1000,
+			"depth": 0,
+			"description": "Knowledge and Performance",
+			"ancestorIds": []
+		}
+	}
+}
