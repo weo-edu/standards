@@ -9,10 +9,18 @@ let dirs = fs.readdirSync(root)
 
 dirs.forEach(function(dir) {
   let standards = fs.readdirSync(path.join(root, dir))
-  let indexStr = ['module.exports = [']
-  standards.forEach(function(standard) {
-    indexStr.push('\trequire("./' + standard + '") ,')
+  let lines = []
+  let l = lines.push.bind(lines)
+
+
+  l('var standards = [')
+  standards.forEach(function(standard, idx) {
+    l('  require("./' + standard + '")' + (idx === standards.length - 1 ? '': ','))
   })
-  indexStr.push(']\n')
-  fs.writeFileSync(path.join(root, dir, 'index.js'), indexStr.join('\n'))
+  l(']')
+  l('standards = standards.concat.apply(standards, standards)')
+  l('')
+  l('module.exports = standards')
+
+  fs.writeFileSync(path.join(root, dir, 'index.js'), lines.join('\n'))
 })

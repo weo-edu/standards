@@ -1,345 +1,212 @@
-{
-	"id": "B1339AB05F0347E79200FCA63240F3B2_D2592575_grade-k",
-	"title": "Grade K",
-	"subject": "Science",
-	"educationLevels": [
-		"K"
-	],
-	"license": {
-		"title": "CC BY 3.0 US",
-		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
-		"rightsHolder": "Desire2Learn Incorporated"
+[
+	{
+		"displayName": "K-2-ETS1",
+		"content": "Engineering Design",
+		"tags": [
+			"science",
+			"grade k"
+		],
+		"meta": []
 	},
-	"rightsHolder": null,
-	"document": {
-		"id": "D2592575",
-		"valid": "2013",
-		"title": "Next Generation Science Standards for California Public Schools, Kindergarten through Grade Twelve",
-		"sourceURL": "http://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp",
-		"asnIdentifier": "D2592575",
-		"publicationStatus": "Published"
+	{
+		"displayName": "K-PS3",
+		"content": "Energy",
+		"tags": [
+			"science",
+			"grade k"
+		],
+		"meta": []
 	},
-	"jurisdiction": {
-		"id": "B1339AB05F0347E79200FCA63240F3B2",
-		"title": "California"
+	{
+		"displayName": "K-PS2",
+		"content": "Motion and Stability: Forces and Interactions",
+		"tags": [
+			"science",
+			"grade k"
+		],
+		"meta": []
 	},
-	"standards": {
-		"1DC2548A5F5E4A5C8B1DF3C2C41158A7": {
-			"id": "1DC2548A5F5E4A5C8B1DF3C2C41158A7",
-			"asnIdentifier": "S2598151",
-			"position": 19000,
-			"depth": 1,
-			"statementNotation": "K-2-ETS1-3",
-			"statementLabel": "Performance Expectation",
-			"description": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454418"
-			],
-			"ancestorIds": [
-				"646F1C9B20314B4F85180485DB1E8A51"
-			]
-		},
-		"381E20493C3A404AA3048D2D573D07A1": {
-			"id": "381E20493C3A404AA3048D2D573D07A1",
-			"asnIdentifier": "S2598150",
-			"position": 18000,
-			"depth": 1,
-			"statementNotation": "K-2-ETS1-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454417"
-			],
-			"ancestorIds": [
-				"646F1C9B20314B4F85180485DB1E8A51"
-			]
-		},
-		"D21D1B79C3C34D17916C38C00BC360C8": {
-			"id": "D21D1B79C3C34D17916C38C00BC360C8",
-			"asnIdentifier": "S2598149",
-			"position": 17000,
-			"depth": 1,
-			"statementNotation": "K-2-ETS1-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454416"
-			],
-			"ancestorIds": [
-				"646F1C9B20314B4F85180485DB1E8A51"
-			]
-		},
-		"646F1C9B20314B4F85180485DB1E8A51": {
-			"id": "646F1C9B20314B4F85180485DB1E8A51",
-			"asnIdentifier": "S2598148",
-			"position": 16000,
-			"depth": 0,
-			"statementNotation": "K-2-ETS1",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Engineering Design",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454366"
-			],
-			"ancestorIds": [
-				"EB4EB0F64DC2477E9C1480528483A6EC"
-			]
-		},
-		"C46862193C9649C788B2A947EE30EA34": {
-			"id": "C46862193C9649C788B2A947EE30EA34",
-			"asnIdentifier": "S2598109",
-			"position": 15000,
-			"depth": 1,
-			"statementNotation": "K-PS3-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Use tools and materials to design and build a structure that will reduce the warming effect of sunlight on an area.",
-			"comments": [
-				"Clarification Statement: Examples of structures could include umbrellas, canopies, and tents that minimize the warming effect of the sun."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454388"
-			],
-			"ancestorIds": [
-				"EB4EB0F64DC2477E9C1480528483A6EC"
-			]
-		},
-		"C01D908829734CBDB020C9B87E04E0A7": {
-			"id": "C01D908829734CBDB020C9B87E04E0A7",
-			"asnIdentifier": "S2598108",
-			"position": 14000,
-			"depth": 1,
-			"statementNotation": "K-PS3-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Make observations to determine the effect of sunlight on Earth's surface.",
-			"comments": [
-				"Clarification Statement: Examples of Earth's surface could include sand, soil, rocks, and water",
-				"Assessment Boundary: Assessment of temperature is limited to relative measures such as warmer/cooler."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454387"
-			],
-			"ancestorIds": [
-				"EB4EB0F64DC2477E9C1480528483A6EC"
-			]
-		},
-		"EB4EB0F64DC2477E9C1480528483A6EC": {
-			"id": "EB4EB0F64DC2477E9C1480528483A6EC",
-			"asnIdentifier": "S2598107",
-			"position": 13000,
-			"depth": 0,
-			"statementNotation": "K-PS3",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Energy",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454353"
-			],
-			"ancestorIds": [
-				"3DA8904D78AD452892BE201BE990DDCD"
-			]
-		},
-		"32A87FFAF123486FBA8C6D478D8D02D4": {
-			"id": "32A87FFAF123486FBA8C6D478D8D02D4",
-			"asnIdentifier": "S2598106",
-			"position": 12000,
-			"depth": 1,
-			"statementNotation": "K-PS2-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Analyze data to determine if a design solution works as intended to change the speed or direction of an object with a push or a pull.",
-			"comments": [
-				"Clarification Statement: Examples of problems requiring a solution could include having a marble or other object move a certain distance, follow a particular path, and knock down other objects. Examples of solutions could include tools such as a ramp to increase the speed of the object and a structure that would cause an object such as a marble or ball to turn.",
-				"Assessment Boundary: Assessment does not include friction as a mechanism for change in speed."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454352"
-			],
-			"ancestorIds": [
-				"3DA8904D78AD452892BE201BE990DDCD"
-			]
-		},
-		"B5E41D23F6D74A479BC78E2FAB4891B5": {
-			"id": "B5E41D23F6D74A479BC78E2FAB4891B5",
-			"asnIdentifier": "S2598105",
-			"position": 11000,
-			"depth": 1,
-			"statementNotation": "K-PS2-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Plan and conduct an investigation to compare the effects of different strengths or different directions of pushes and pulls on the motion of an object.",
-			"comments": [
-				"Clarification Statement: Examples of pushes or pulls could include a string attached to an object being pulled, a person pushing an object, a person stopping a rolling ball, and two objects colliding and pushing on each other.",
-				"Assessment Boundary: Assessment is limited to different relative strengths or different directions, but not both at the same time. Assessment does not include non-contact pushes or pulls such as those produced by magnets."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454351"
-			],
-			"ancestorIds": [
-				"3DA8904D78AD452892BE201BE990DDCD"
-			]
-		},
-		"3DA8904D78AD452892BE201BE990DDCD": {
-			"id": "3DA8904D78AD452892BE201BE990DDCD",
-			"asnIdentifier": "S2598104",
-			"position": 10000,
-			"depth": 0,
-			"statementNotation": "K-PS2",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Motion and Stability: Forces and Interactions",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454349"
-			],
-			"ancestorIds": [
-				"E15A1B765CF94C568D32A623E8F6F07D"
-			]
-		},
-		"3B38A3AD0729440F88815ECD7FE0DAF1": {
-			"id": "3B38A3AD0729440F88815ECD7FE0DAF1",
-			"asnIdentifier": "S2598118",
-			"position": 9000,
-			"depth": 1,
-			"statementNotation": "K-ESS3-3",
-			"statementLabel": "Performance Expectation",
-			"description": "Communicate solutions that will reduce the impact of humans on the land, water, air, and/or other living things in the local environment.",
-			"comments": [
-				"Clarification Statement: Examples of human impact on the land could include cutting trees to produce paper and using resources to produce bottles. Examples of solutions could include reusing paper and recycling cans and bottles."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454383"
-			],
-			"ancestorIds": [
-				"E15A1B765CF94C568D32A623E8F6F07D"
-			]
-		},
-		"B7E45AD9A33C4D96974E5E8ACB553250": {
-			"id": "B7E45AD9A33C4D96974E5E8ACB553250",
-			"asnIdentifier": "S2598116",
-			"position": 8000,
-			"depth": 1,
-			"statementNotation": "K-ESS3-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Ask questions to obtain information about the purpose of weather forecasting to prepare for, and respond to, severe weather.",
-			"comments": [
-				"Clarification Statement: Emphasis is on local forms of severe weather."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454386"
-			],
-			"ancestorIds": [
-				"E15A1B765CF94C568D32A623E8F6F07D"
-			]
-		},
-		"124B355872A14436B1BED69BD57FC479": {
-			"id": "124B355872A14436B1BED69BD57FC479",
-			"asnIdentifier": "S2598117",
-			"position": 7000,
-			"depth": 1,
-			"statementNotation": "K-ESS3-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Use a model to represent the relationship between the needs of different plants or animals (including humans) and the places they live.",
-			"comments": [
-				"Clarification Statement: Examples of relationships could include that deer eat buds and leaves, therefore, they usually live in forested areas; and, grasses need sunlight so they often grow in meadows. Plants, animals, and their surroundings make up a system."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454382"
-			],
-			"ancestorIds": [
-				"E15A1B765CF94C568D32A623E8F6F07D"
-			]
-		},
-		"E15A1B765CF94C568D32A623E8F6F07D": {
-			"id": "E15A1B765CF94C568D32A623E8F6F07D",
-			"asnIdentifier": "S2598115",
-			"position": 6000,
-			"depth": 0,
-			"statementNotation": "K-ESS3",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Earth and Human Activity",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454356"
-			],
-			"ancestorIds": [
-				"29DE18EBA6294FEDB259BE761CE76452"
-			]
-		},
-		"1EC45E50ECF947B6BED729E14693020E": {
-			"id": "1EC45E50ECF947B6BED729E14693020E",
-			"asnIdentifier": "S2598114",
-			"position": 5000,
-			"depth": 1,
-			"statementNotation": "K-ESS2-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Construct an argument supported by evidence for how plants and animals (including humans) can change the environment to meet their needs.",
-			"comments": [
-				"Clarification Statement: Examples of plants and animals changing their environment could include a squirrel digs in the ground to hide its food and tree roots can break concrete."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454381"
-			],
-			"ancestorIds": [
-				"29DE18EBA6294FEDB259BE761CE76452"
-			]
-		},
-		"EEAB9A3641BC4A6F989471D50BCA9A74": {
-			"id": "EEAB9A3641BC4A6F989471D50BCA9A74",
-			"asnIdentifier": "S2598113",
-			"position": 4000,
-			"depth": 1,
-			"statementNotation": "K-ESS2-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Use and share observations of local weather conditions to describe patterns over time.",
-			"comments": [
-				"Clarification Statement: Examples of qualitative observations could include descriptions of the weather (such as sunny, cloudy, rainy, and warm); examples of quantitative observations could include numbers of sunny, windy, and rainy days in a month. Examples of patterns could include that it is usually cooler in the morning than in the afternoon and the number of sunny days versus cloudy days in different months.",
-				"Assessment Boundary: Assessment of quantitative observations limited to whole numbers and relative measures such as warmer/cooler."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454385"
-			],
-			"ancestorIds": [
-				"29DE18EBA6294FEDB259BE761CE76452"
-			]
-		},
-		"29DE18EBA6294FEDB259BE761CE76452": {
-			"id": "29DE18EBA6294FEDB259BE761CE76452",
-			"asnIdentifier": "S2598112",
-			"position": 3000,
-			"depth": 0,
-			"statementNotation": "K-ESS2",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Earth's Systems",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454355"
-			],
-			"ancestorIds": [
-				"CD06A2B83A784E6E869AC84CCBB16391"
-			]
-		},
-		"A03D4E1F17C3404EAD6541AFBA65E1AA": {
-			"id": "A03D4E1F17C3404EAD6541AFBA65E1AA",
-			"asnIdentifier": "S2598111",
-			"position": 2000,
-			"depth": 1,
-			"statementNotation": "K-LS1-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Use observations to describe patterns of what plants and animals (including humans) need to survive.",
-			"comments": [
-				"Clarification Statement: Examples of patterns could include that animals need to take in food but plants do not; the different kinds of food needed by different types of animals; the requirement of plants to have light; and, that all living things need water."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454380"
-			],
-			"ancestorIds": [
-				"CD06A2B83A784E6E869AC84CCBB16391"
-			]
-		},
-		"CD06A2B83A784E6E869AC84CCBB16391": {
-			"id": "CD06A2B83A784E6E869AC84CCBB16391",
-			"asnIdentifier": "S2598110",
-			"position": 1000,
-			"depth": 0,
-			"statementNotation": "K-LS1",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "From Molecules to Organisms: Structures and Processes",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454354"
-			],
-			"ancestorIds": []
-		}
+	{
+		"displayName": "K-ESS3",
+		"content": "Earth and Human Activity",
+		"tags": [
+			"science",
+			"grade k"
+		],
+		"meta": []
+	},
+	{
+		"displayName": "K-ESS2",
+		"content": "Earth's Systems",
+		"tags": [
+			"science",
+			"grade k"
+		],
+		"meta": []
+	},
+	{
+		"displayName": "K-LS1",
+		"content": "From Molecules to Organisms: Structures and Processes",
+		"tags": [
+			"science",
+			"grade k"
+		],
+		"meta": []
+	},
+	{
+		"displayName": "K-2-ETS1-3",
+		"content": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
+		"tags": [
+			"k-2-ets1",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Engineering Design"
+		]
+	},
+	{
+		"displayName": "K-2-ETS1-2",
+		"content": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
+		"tags": [
+			"k-2-ets1",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Engineering Design"
+		]
+	},
+	{
+		"displayName": "K-2-ETS1-1",
+		"content": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
+		"tags": [
+			"k-2-ets1",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Engineering Design"
+		]
+	},
+	{
+		"displayName": "K-PS3-2",
+		"content": "Use tools and materials to design and build a structure that will reduce the warming effect of sunlight on an area.",
+		"tags": [
+			"k-ps3",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Energy"
+		]
+	},
+	{
+		"displayName": "K-PS3-1",
+		"content": "Make observations to determine the effect of sunlight on Earth's surface.",
+		"tags": [
+			"k-ps3",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Energy"
+		]
+	},
+	{
+		"displayName": "K-PS2-2",
+		"content": "Analyze data to determine if a design solution works as intended to change the speed or direction of an object with a push or a pull.",
+		"tags": [
+			"k-ps2",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Motion and Stability: Forces and Interactions"
+		]
+	},
+	{
+		"displayName": "K-PS2-1",
+		"content": "Plan and conduct an investigation to compare the effects of different strengths or different directions of pushes and pulls on the motion of an object.",
+		"tags": [
+			"k-ps2",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Motion and Stability: Forces and Interactions"
+		]
+	},
+	{
+		"displayName": "K-ESS3-3",
+		"content": "Communicate solutions that will reduce the impact of humans on the land, water, air, and/or other living things in the local environment.",
+		"tags": [
+			"k-ess3",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Earth and Human Activity"
+		]
+	},
+	{
+		"displayName": "K-ESS3-2",
+		"content": "Ask questions to obtain information about the purpose of weather forecasting to prepare for, and respond to, severe weather.",
+		"tags": [
+			"k-ess3",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Earth and Human Activity"
+		]
+	},
+	{
+		"displayName": "K-ESS3-1",
+		"content": "Use a model to represent the relationship between the needs of different plants or animals (including humans) and the places they live.",
+		"tags": [
+			"k-ess3",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Earth and Human Activity"
+		]
+	},
+	{
+		"displayName": "K-ESS2-2",
+		"content": "Construct an argument supported by evidence for how plants and animals (including humans) can change the environment to meet their needs.",
+		"tags": [
+			"k-ess2",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Earth's Systems"
+		]
+	},
+	{
+		"displayName": "K-ESS2-1",
+		"content": "Use and share observations of local weather conditions to describe patterns over time.",
+		"tags": [
+			"k-ess2",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"Earth's Systems"
+		]
+	},
+	{
+		"displayName": "K-LS1-1",
+		"content": "Use observations to describe patterns of what plants and animals (including humans) need to survive.",
+		"tags": [
+			"k-ls1",
+			"science",
+			"grade k"
+		],
+		"meta": [
+			"From Molecules to Organisms: Structures and Processes"
+		]
 	}
-}
+]

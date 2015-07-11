@@ -1,356 +1,224 @@
-{
-	"id": "B1339AB05F0347E79200FCA63240F3B2_D2592575_grade-02",
-	"title": "Grade 2",
-	"subject": "Science",
-	"educationLevels": [
-		"02"
-	],
-	"license": {
-		"title": "CC BY 3.0 US",
-		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
-		"rightsHolder": "Desire2Learn Incorporated"
+[
+	{
+		"displayName": "2-PS1",
+		"content": "Matter and its Interactions",
+		"tags": [
+			"science",
+			"grade 2"
+		],
+		"meta": []
 	},
-	"rightsHolder": null,
-	"document": {
-		"id": "D2592575",
-		"valid": "2013",
-		"title": "Next Generation Science Standards for California Public Schools, Kindergarten through Grade Twelve",
-		"sourceURL": "http://www.cde.ca.gov/pd/ca/sc/ngssstandards.asp",
-		"asnIdentifier": "D2592575",
-		"publicationStatus": "Published"
+	{
+		"displayName": "2-ESS2",
+		"content": "Earth's Systems",
+		"tags": [
+			"science",
+			"grade 2"
+		],
+		"meta": []
 	},
-	"jurisdiction": {
-		"id": "B1339AB05F0347E79200FCA63240F3B2",
-		"title": "California"
+	{
+		"displayName": "2-ESS1",
+		"content": "Earth's Place in the Universe",
+		"tags": [
+			"science",
+			"grade 2"
+		],
+		"meta": []
 	},
-	"standards": {
-		"8FC618428E624294B6F5F025E681D6E6": {
-			"id": "8FC618428E624294B6F5F025E681D6E6",
-			"asnIdentifier": "S2598136",
-			"position": 20000,
-			"depth": 1,
-			"statementNotation": "2-PS1-4",
-			"statementLabel": "Performance Expectation",
-			"description": "Construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot.",
-			"comments": [
-				"Clarification Statement: Examples of reversible changes could include materials such as water and butter at different temperatures. Examples of irreversible changes could include cooking an egg, freezing a plant leaf, and heating paper."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454405"
-			],
-			"ancestorIds": [
-				"C06A7D48C6954445A9D1F6D8076B58AF"
-			]
-		},
-		"53F76C76A93C48558F064C76F7E37ABD": {
-			"id": "53F76C76A93C48558F064C76F7E37ABD",
-			"asnIdentifier": "S2598135",
-			"position": 19000,
-			"depth": 1,
-			"statementNotation": "2-PS1-3",
-			"statementLabel": "Performance Expectation",
-			"description": "Make observations to construct an evidence-based account of how an object made of a small set of pieces can be disassembled and made into a new object.",
-			"comments": [
-				"Clarification Statement: Examples of pieces could include blocks, building bricks, or other assorted small objects."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454404"
-			],
-			"ancestorIds": [
-				"C06A7D48C6954445A9D1F6D8076B58AF"
-			]
-		},
-		"27A7AAF8D9184B0DBF25CF6371DDD3D0": {
-			"id": "27A7AAF8D9184B0DBF25CF6371DDD3D0",
-			"asnIdentifier": "S2598134",
-			"position": 18000,
-			"depth": 1,
-			"statementNotation": "2-PS1-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Analyze data obtained from testing different materials to determine which materials have the properties that are best suited for an intended purpose.",
-			"comments": [
-				"Clarification Statement: Examples of properties could include, strength, flexibility, hardness, texture, and absorbency.",
-				"Assessment Boundary: Assessment of quantitative measurements is limited to length."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454403"
-			],
-			"ancestorIds": [
-				"C06A7D48C6954445A9D1F6D8076B58AF"
-			]
-		},
-		"755C69FCE86947DF87EEB0A7C6ADFE2C": {
-			"id": "755C69FCE86947DF87EEB0A7C6ADFE2C",
-			"asnIdentifier": "S2598133",
-			"position": 17000,
-			"depth": 1,
-			"statementNotation": "2-PS1-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.",
-			"comments": [
-				"Clarification Statement: Observations could include color, texture, hardness, and flexibility. Patterns could include the similar properties that different materials share."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454402"
-			],
-			"ancestorIds": [
-				"C06A7D48C6954445A9D1F6D8076B58AF"
-			]
-		},
-		"C06A7D48C6954445A9D1F6D8076B58AF": {
-			"id": "C06A7D48C6954445A9D1F6D8076B58AF",
-			"asnIdentifier": "S2598132",
-			"position": 16000,
-			"depth": 0,
-			"statementNotation": "2-PS1",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Matter and its Interactions",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454361"
-			],
-			"ancestorIds": [
-				"E6CE2BA319D64540AEC10CCBD97BC678"
-			]
-		},
-		"337311618AD54DF880BD152A86F82ED7": {
-			"id": "337311618AD54DF880BD152A86F82ED7",
-			"asnIdentifier": "S2598147",
-			"position": 15000,
-			"depth": 1,
-			"statementNotation": "2-ESS2-3",
-			"statementLabel": "Performance Expectation",
-			"description": "Obtain information to identify where water is found on Earth and that it can be solid or liquid.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454414"
-			],
-			"ancestorIds": [
-				"E6CE2BA319D64540AEC10CCBD97BC678"
-			]
-		},
-		"3F78C6B086DB4776B6C229CE1D637EE9": {
-			"id": "3F78C6B086DB4776B6C229CE1D637EE9",
-			"asnIdentifier": "S2598146",
-			"position": 14000,
-			"depth": 1,
-			"statementNotation": "2-ESS2-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Develop a model to represent the shapes and kinds of land and bodies of water in an area.",
-			"comments": [
-				"Assessment Boundary: Assessment does not include quantitative scaling in models."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454413"
-			],
-			"ancestorIds": [
-				"E6CE2BA319D64540AEC10CCBD97BC678"
-			]
-		},
-		"13DB9BF0C32243A7A232CF4A5C70258A": {
-			"id": "13DB9BF0C32243A7A232CF4A5C70258A",
-			"asnIdentifier": "S2598145",
-			"position": 13000,
-			"depth": 1,
-			"statementNotation": "2-ESS2-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Compare multiple solutions designed to slow or prevent wind or water from changing the shape of the land.",
-			"comments": [
-				"Clarification Statement: Examples of solutions could include different designs of dikes and windbreaks to hold back wind and water, and different designs for using shrubs, grass, and trees to hold back the land."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454412"
-			],
-			"ancestorIds": [
-				"E6CE2BA319D64540AEC10CCBD97BC678"
-			]
-		},
-		"E6CE2BA319D64540AEC10CCBD97BC678": {
-			"id": "E6CE2BA319D64540AEC10CCBD97BC678",
-			"asnIdentifier": "S2598144",
-			"position": 12000,
-			"depth": 0,
-			"statementNotation": "2-ESS2",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Earth's Systems",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454365"
-			],
-			"ancestorIds": [
-				"C2F4E12385A546BEB7F036AE4322F353"
-			]
-		},
-		"312D386AABF74B98B63D7994A397A677": {
-			"id": "312D386AABF74B98B63D7994A397A677",
-			"asnIdentifier": "S2598143",
-			"position": 11000,
-			"depth": 1,
-			"statementNotation": "2-ESS1-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Use information from several sources to provide evidence that Earth events can occur quickly or slowly.",
-			"comments": [
-				"Clarification Statement: Examples of events and timescales could include volcanic explosions and earthquakes, which happen quickly and erosion of rocks, which occurs slowly.",
-				"Assessment Boundary: Assessment does not include quantitative measurements of timescales."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454411"
-			],
-			"ancestorIds": [
-				"C2F4E12385A546BEB7F036AE4322F353"
-			]
-		},
-		"C2F4E12385A546BEB7F036AE4322F353": {
-			"id": "C2F4E12385A546BEB7F036AE4322F353",
-			"asnIdentifier": "S2598142",
-			"position": 10000,
-			"depth": 0,
-			"statementNotation": "2-ESS1",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Earth's Place in the Universe",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454364"
-			],
-			"ancestorIds": [
-				"1A080F8B489B4486B069EB48FA07C38D"
-			]
-		},
-		"FAA67D5306E749269066F36AB81ED944": {
-			"id": "FAA67D5306E749269066F36AB81ED944",
-			"asnIdentifier": "S2598141",
-			"position": 9000,
-			"depth": 1,
-			"statementNotation": "2-LS4-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Make observations of plants and animals to compare the diversity of life in different habitats.",
-			"comments": [
-				"Clarification Statement: Emphasis is on the diversity of living things in each of a variety of different habitats.",
-				"Assessment Boundary: Assessment does not include specific animal and plant names in specific habitats."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454409"
-			],
-			"ancestorIds": [
-				"1A080F8B489B4486B069EB48FA07C38D"
-			]
-		},
-		"1A080F8B489B4486B069EB48FA07C38D": {
-			"id": "1A080F8B489B4486B069EB48FA07C38D",
-			"asnIdentifier": "S2598140",
-			"position": 8000,
-			"depth": 0,
-			"statementNotation": "2-LS4",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Biological Evolution: Unity and Diversity",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454363"
-			],
-			"ancestorIds": [
-				"D763228638274D668B35E8B05D33C969"
-			]
-		},
-		"3CBA8DF2C8A34854954E4C8DDFC061D5": {
-			"id": "3CBA8DF2C8A34854954E4C8DDFC061D5",
-			"asnIdentifier": "S2598139",
-			"position": 7000,
-			"depth": 1,
-			"statementNotation": "2-LS2-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Develop a simple model that mimics the function of an animal in dispersing seeds or pollinating plants.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454408"
-			],
-			"ancestorIds": [
-				"D763228638274D668B35E8B05D33C969"
-			]
-		},
-		"983C500665F0447B90EAEAEC4EDE3A02": {
-			"id": "983C500665F0447B90EAEAEC4EDE3A02",
-			"asnIdentifier": "S2598138",
-			"position": 6000,
-			"depth": 1,
-			"statementNotation": "2-LS2-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Plan and conduct an investigation to determine if plants need sunlight and water to grow.",
-			"comments": [
-				"Assessment Boundary: Assessment is limited to testing one variable at a time."
-			],
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454407"
-			],
-			"ancestorIds": [
-				"D763228638274D668B35E8B05D33C969"
-			]
-		},
-		"D763228638274D668B35E8B05D33C969": {
-			"id": "D763228638274D668B35E8B05D33C969",
-			"asnIdentifier": "S2598137",
-			"position": 5000,
-			"depth": 0,
-			"statementNotation": "2-LS2",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Ecosystems: Interactions, Energy, and Dynamics",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454362"
-			],
-			"ancestorIds": [
-				"C09D0489266E46328157EC76BC2EE5F4"
-			]
-		},
-		"CFFA3511DF754CD38CE71918E8FC1E60": {
-			"id": "CFFA3511DF754CD38CE71918E8FC1E60",
-			"asnIdentifier": "S2598151",
-			"position": 4000,
-			"depth": 1,
-			"statementNotation": "K-2-ETS1-3",
-			"statementLabel": "Performance Expectation",
-			"description": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454418"
-			],
-			"ancestorIds": [
-				"C09D0489266E46328157EC76BC2EE5F4"
-			]
-		},
-		"DAA833229997419195E4C7B3B17D1318": {
-			"id": "DAA833229997419195E4C7B3B17D1318",
-			"asnIdentifier": "S2598150",
-			"position": 3000,
-			"depth": 1,
-			"statementNotation": "K-2-ETS1-2",
-			"statementLabel": "Performance Expectation",
-			"description": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454417"
-			],
-			"ancestorIds": [
-				"C09D0489266E46328157EC76BC2EE5F4"
-			]
-		},
-		"E2553E16237E48BDA02335A4B299AACE": {
-			"id": "E2553E16237E48BDA02335A4B299AACE",
-			"asnIdentifier": "S2598149",
-			"position": 2000,
-			"depth": 1,
-			"statementNotation": "K-2-ETS1-1",
-			"statementLabel": "Performance Expectation",
-			"description": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454416"
-			],
-			"ancestorIds": [
-				"C09D0489266E46328157EC76BC2EE5F4"
-			]
-		},
-		"C09D0489266E46328157EC76BC2EE5F4": {
-			"id": "C09D0489266E46328157EC76BC2EE5F4",
-			"asnIdentifier": "S2598148",
-			"position": 1000,
-			"depth": 0,
-			"statementNotation": "K-2-ETS1",
-			"statementLabel": "Disciplinary Core Idea",
-			"description": "Engineering Design",
-			"exactMatch": [
-				"http://asn.jesandco.org/resources/S2454366"
-			],
-			"ancestorIds": []
-		}
+	{
+		"displayName": "2-LS4",
+		"content": "Biological Evolution: Unity and Diversity",
+		"tags": [
+			"science",
+			"grade 2"
+		],
+		"meta": []
+	},
+	{
+		"displayName": "2-LS2",
+		"content": "Ecosystems: Interactions, Energy, and Dynamics",
+		"tags": [
+			"science",
+			"grade 2"
+		],
+		"meta": []
+	},
+	{
+		"displayName": "K-2-ETS1",
+		"content": "Engineering Design",
+		"tags": [
+			"science",
+			"grade 2"
+		],
+		"meta": []
+	},
+	{
+		"displayName": "2-PS1-4",
+		"content": "Construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot.",
+		"tags": [
+			"2-ps1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Matter and its Interactions"
+		]
+	},
+	{
+		"displayName": "2-PS1-3",
+		"content": "Make observations to construct an evidence-based account of how an object made of a small set of pieces can be disassembled and made into a new object.",
+		"tags": [
+			"2-ps1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Matter and its Interactions"
+		]
+	},
+	{
+		"displayName": "2-PS1-2",
+		"content": "Analyze data obtained from testing different materials to determine which materials have the properties that are best suited for an intended purpose.",
+		"tags": [
+			"2-ps1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Matter and its Interactions"
+		]
+	},
+	{
+		"displayName": "2-PS1-1",
+		"content": "Plan and conduct an investigation to describe and classify different kinds of materials by their observable properties.",
+		"tags": [
+			"2-ps1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Matter and its Interactions"
+		]
+	},
+	{
+		"displayName": "2-ESS2-3",
+		"content": "Obtain information to identify where water is found on Earth and that it can be solid or liquid.",
+		"tags": [
+			"2-ess2",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Earth's Systems"
+		]
+	},
+	{
+		"displayName": "2-ESS2-2",
+		"content": "Develop a model to represent the shapes and kinds of land and bodies of water in an area.",
+		"tags": [
+			"2-ess2",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Earth's Systems"
+		]
+	},
+	{
+		"displayName": "2-ESS2-1",
+		"content": "Compare multiple solutions designed to slow or prevent wind or water from changing the shape of the land.",
+		"tags": [
+			"2-ess2",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Earth's Systems"
+		]
+	},
+	{
+		"displayName": "2-ESS1-1",
+		"content": "Use information from several sources to provide evidence that Earth events can occur quickly or slowly.",
+		"tags": [
+			"2-ess1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Earth's Place in the Universe"
+		]
+	},
+	{
+		"displayName": "2-LS4-1",
+		"content": "Make observations of plants and animals to compare the diversity of life in different habitats.",
+		"tags": [
+			"2-ls4",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Biological Evolution: Unity and Diversity"
+		]
+	},
+	{
+		"displayName": "2-LS2-2",
+		"content": "Develop a simple model that mimics the function of an animal in dispersing seeds or pollinating plants.",
+		"tags": [
+			"2-ls2",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Ecosystems: Interactions, Energy, and Dynamics"
+		]
+	},
+	{
+		"displayName": "2-LS2-1",
+		"content": "Plan and conduct an investigation to determine if plants need sunlight and water to grow.",
+		"tags": [
+			"2-ls2",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Ecosystems: Interactions, Energy, and Dynamics"
+		]
+	},
+	{
+		"displayName": "K-2-ETS1-3",
+		"content": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
+		"tags": [
+			"k-2-ets1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Engineering Design"
+		]
+	},
+	{
+		"displayName": "K-2-ETS1-2",
+		"content": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
+		"tags": [
+			"k-2-ets1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Engineering Design"
+		]
+	},
+	{
+		"displayName": "K-2-ETS1-1",
+		"content": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
+		"tags": [
+			"k-2-ets1",
+			"science",
+			"grade 2"
+		],
+		"meta": [
+			"Engineering Design"
+		]
 	}
-}
+]

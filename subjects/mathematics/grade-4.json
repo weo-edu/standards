@@ -1,1084 +1,464 @@
-{
-	"id": "B1339AB05F0347E79200FCA63240F3B2_D2513639_grade-04",
-	"title": "Grade 4",
-	"subject": "Mathematics",
-	"educationLevels": [
-		"04"
-	],
-	"license": {
-		"title": "CC BY 3.0 US",
-		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
-		"rightsHolder": "Desire2Learn Incorporated"
+[
+	{
+		"displayName": "4.NF.7",
+		"content": "Compare two decimals to hundredths by reasoning about their size. Recognize that comparisons are valid only when the two decimals refer to the same whole. Record the results of comparisons with the symbols >, =, or <, and justify the conclusions, e.g., by using the number line or another visual model.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Understand decimal notation for fractions, and compare decimal fractions.",
+			"Number and Operations—Fractions"
+		]
 	},
-	"rightsHolder": null,
-	"document": {
-		"id": "D2513639",
-		"valid": "2010",
-		"title": "California Common Core State Standards: Mathematics",
-		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf",
-		"asnIdentifier": "D2513639",
-		"publicationStatus": "Published"
+	{
+		"displayName": "4.NF.6",
+		"content": "Use decimal notation for fractions with denominators 10 or 100.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Understand decimal notation for fractions, and compare decimal fractions.",
+			"Number and Operations—Fractions"
+		]
 	},
-	"jurisdiction": {
-		"id": "B1339AB05F0347E79200FCA63240F3B2",
-		"title": "California"
+	{
+		"displayName": "4.NF.5",
+		"content": "Express a fraction with denominator 10 as an equivalent fraction with denominator 100, and use this technique to add two fractions with respective denominators 10 and 100.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Understand decimal notation for fractions, and compare decimal fractions.",
+			"Number and Operations—Fractions"
+		]
 	},
-	"standards": {
-		"326737C82B5E41F99119446F021E3E1D": {
-			"id": "326737C82B5E41F99119446F021E3E1D",
-			"asnIdentifier": "S2513921",
-			"position": 63000,
-			"depth": 2,
-			"statementNotation": "4.NF.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Compare two decimals to hundredths by reasoning about their size. Recognize that comparisons are valid only when the two decimals refer to the same whole. Record the results of comparisons with the symbols >, =, or <, and justify the conclusions, e.g., by using the number line or another visual model.",
-			"ancestorIds": [
-				"B2B2595DBFBF424BBF19CB89297F9547",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"BCE493777E3D4C8D92B0BACDAA0C2838": {
-			"id": "BCE493777E3D4C8D92B0BACDAA0C2838",
-			"asnIdentifier": "S2513920",
-			"position": 62000,
-			"depth": 2,
-			"statementNotation": "4.NF.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Use decimal notation for fractions with denominators 10 or 100.",
-			"comments": [
-				"For example, rewrite 0.62 as 62/100; describe a length as 0.62 meters; locate 0.62 on a number line diagram."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/C/6"
-			],
-			"ancestorIds": [
-				"B2B2595DBFBF424BBF19CB89297F9547",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"14D4C5FDE19544FFA394B4964495E480": {
-			"id": "14D4C5FDE19544FFA394B4964495E480",
-			"asnIdentifier": "S2513919",
-			"position": 61000,
-			"depth": 2,
-			"statementNotation": "4.NF.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Express a fraction with denominator 10 as an equivalent fraction with denominator 100, and use this technique to add two fractions with respective denominators 10 and 100.",
-			"comments": [
-				"Students who can generate equivalent fractions can develop strategies for adding fractions with unlike denominators in general. But addition and subtraction with unlike denominators in general is not a requirement at this grade.",
-				"For example, express 3/10 as 30/100, and add 3/10 + 4/100 = 34/100."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/C/5"
-			],
-			"ancestorIds": [
-				"B2B2595DBFBF424BBF19CB89297F9547",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"B2B2595DBFBF424BBF19CB89297F9547": {
-			"id": "B2B2595DBFBF424BBF19CB89297F9547",
-			"asnIdentifier": "S2513918",
-			"position": 60000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Understand decimal notation for fractions, and compare decimal fractions.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/C"
-			],
-			"ancestorIds": [
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"131E5ECF11B345F4B61C586BDE4426B0": {
-			"id": "131E5ECF11B345F4B61C586BDE4426B0",
-			"asnIdentifier": "S2513917",
-			"position": 59000,
-			"depth": 3,
-			"statementNotation": "4.NF.4.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Solve word problems involving multiplication of a fraction by a whole number, e.g., by using visual fraction models and equations to represent the problem.",
-			"comments": [
-				"For example, if each person at a party will eat 3/8 of a pound of roast beef, and there will be 5 people at the party, how many pounds of roast beef will be needed? Between what two whole numbers does your answer lie?"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/4/c"
-			],
-			"ancestorIds": [
-				"84B107747B014558BCAD809FCF50A27D",
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"29DC14350D2F4200BF7A1220ED6E51F9": {
-			"id": "29DC14350D2F4200BF7A1220ED6E51F9",
-			"asnIdentifier": "S2513916",
-			"position": 58000,
-			"depth": 3,
-			"statementNotation": "4.NF.4.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Understand a multiple of a/b as a multiple of 1/b, and use this understanding to multiply a fraction by a whole number.",
-			"comments": [
-				"For example, use a visual fraction model to express 3 × (2/5) as 6 × (1/5), recognizing this product as 6/5. (In general, n × (a/b) = (n × a)/b.)"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/4/b"
-			],
-			"ancestorIds": [
-				"84B107747B014558BCAD809FCF50A27D",
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"1BDAF6AB744646FA82523D97CA0B0893": {
-			"id": "1BDAF6AB744646FA82523D97CA0B0893",
-			"asnIdentifier": "S2513915",
-			"position": 57000,
-			"depth": 3,
-			"statementNotation": "4.NF.4.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Understand a fraction a/b as a multiple of 1/b.",
-			"comments": [
-				"For example, use a visual fraction model to represent 5/4 as the product 5 × (1/4), recording the conclusion by the equation 5/4 = 5 × (1/4)."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/4/a"
-			],
-			"ancestorIds": [
-				"84B107747B014558BCAD809FCF50A27D",
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"84B107747B014558BCAD809FCF50A27D": {
-			"id": "84B107747B014558BCAD809FCF50A27D",
-			"asnIdentifier": "S2513914",
-			"position": 56000,
-			"depth": 2,
-			"statementNotation": "4.NF.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/4"
-			],
-			"ancestorIds": [
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"6D479C3563A941538B253DC7C01CD310": {
-			"id": "6D479C3563A941538B253DC7C01CD310",
-			"asnIdentifier": "S2513913",
-			"position": 55000,
-			"depth": 3,
-			"statementNotation": "4.NF.3.d",
-			"statementLabel": "Component",
-			"listId": "d.",
-			"description": "Solve word problems involving addition and subtraction of fractions referring to the same whole and having like denominators, e.g., by using visual fraction models and equations to represent the problem.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/3/d"
-			],
-			"ancestorIds": [
-				"792B970580A64585906C9D70863AD5F5",
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"34A2A7347FA4470D94C5A4B89FC7EA9F": {
-			"id": "34A2A7347FA4470D94C5A4B89FC7EA9F",
-			"asnIdentifier": "S2513912",
-			"position": 54000,
-			"depth": 3,
-			"statementNotation": "4.NF.3.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Add and subtract mixed numbers with like denominators, e.g., by replacing each mixed number with an equivalent fraction, and/or by using properties of operations and the relationship between addition and subtraction.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/3/c"
-			],
-			"ancestorIds": [
-				"792B970580A64585906C9D70863AD5F5",
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"B0BBA36241A74470B9D8278D90022C3C": {
-			"id": "B0BBA36241A74470B9D8278D90022C3C",
-			"asnIdentifier": "S2513911",
-			"position": 53000,
-			"depth": 3,
-			"statementNotation": "4.NF.3.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Decompose a fraction into a sum of fractions with the same denominator in more than one way, recording each decomposition by an equation. Justify decompositions, e.g., by using a visual fraction model.",
-			"comments": [
-				"Examples: 3/8 = 1/8 + 1/8 + 1/8 ; 3/8 = 1/8 + 2/8 ; 2 1/8 = 1 + 1 + 1/8 = 8/8 + 8/8 + 1/8."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/3/b"
-			],
-			"ancestorIds": [
-				"792B970580A64585906C9D70863AD5F5",
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"4CE479CB401845C3A1D6DCEE1B3003A1": {
-			"id": "4CE479CB401845C3A1D6DCEE1B3003A1",
-			"asnIdentifier": "S2513910",
-			"position": 52000,
-			"depth": 3,
-			"statementNotation": "4.NF.3.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Understand addition and subtraction of fractions as joining and separating parts referring to the same whole.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/3/a"
-			],
-			"ancestorIds": [
-				"792B970580A64585906C9D70863AD5F5",
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"792B970580A64585906C9D70863AD5F5": {
-			"id": "792B970580A64585906C9D70863AD5F5",
-			"asnIdentifier": "S2513909",
-			"position": 51000,
-			"depth": 2,
-			"statementNotation": "4.NF.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Understand a fraction a/b with a > 1 as a sum of fractions 1/b.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B/3"
-			],
-			"ancestorIds": [
-				"91A7E4717369433E8B167861626F6826",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"91A7E4717369433E8B167861626F6826": {
-			"id": "91A7E4717369433E8B167861626F6826",
-			"asnIdentifier": "S2513908",
-			"position": 50000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/B"
-			],
-			"ancestorIds": [
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"39D60E7DB4CF49728E522DF938DB7E02": {
-			"id": "39D60E7DB4CF49728E522DF938DB7E02",
-			"asnIdentifier": "S2513907",
-			"position": 49000,
-			"depth": 2,
-			"statementNotation": "4.NF.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/A/2"
-			],
-			"ancestorIds": [
-				"3A73B10617934952BC07062C851BD610",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"50026E2801234651B60F829EB1FAEB95": {
-			"id": "50026E2801234651B60F829EB1FAEB95",
-			"asnIdentifier": "S2513906",
-			"position": 48000,
-			"depth": 2,
-			"statementNotation": "4.NF.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Explain why a fraction a/b is equivalent to a fraction (n × a)/(n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/A/1"
-			],
-			"ancestorIds": [
-				"3A73B10617934952BC07062C851BD610",
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"3A73B10617934952BC07062C851BD610": {
-			"id": "3A73B10617934952BC07062C851BD610",
-			"asnIdentifier": "S2513905",
-			"position": 47000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Extend understanding of fraction equivalence and ordering.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NF/A"
-			],
-			"ancestorIds": [
-				"3190578AE6DC4C4A8A285133E88D2563"
-			]
-		},
-		"3190578AE6DC4C4A8A285133E88D2563": {
-			"id": "3190578AE6DC4C4A8A285133E88D2563",
-			"asnIdentifier": "S2513894",
-			"position": 46000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Number and Operations—Fractions",
-			"comments": [
-				"Grade 3 expectations in this domain are limited to fractions with denominators 2, 3, 4, 6, and 8.",
-				"Grade 4 expectations in this domain are limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100"
-			],
-			"ancestorIds": [
-				"7F8345A4765347C285CFA6AC8F5F0E44"
-			]
-		},
-		"0EC64C67259B4CAEB88E481C01E4BFEB": {
-			"id": "0EC64C67259B4CAEB88E481C01E4BFEB",
-			"asnIdentifier": "S2513859",
-			"position": 45000,
-			"depth": 2,
-			"statementNotation": "4.G.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Recognize a line of symmetry for a two-dimensional figure as a line across the figure such that the figure can be folded along the line into matching parts. Identify line-symmetric figures and draw lines of symmetry.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/G/A/3"
-			],
-			"ancestorIds": [
-				"0633C559B6434C93AE9F025918A7718F",
-				"7F8345A4765347C285CFA6AC8F5F0E44"
-			]
-		},
-		"1E54BA4EDB944CCCA8F7083D5CAF92B1": {
-			"id": "1E54BA4EDB944CCCA8F7083D5CAF92B1",
-			"asnIdentifier": "S2513858",
-			"position": 44000,
-			"depth": 2,
-			"statementNotation": "4.G.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines, or the presence or absence of angles of a specified size. Recognize right triangles as a category, and identify right triangles. (Two-dimensional shapes should include special triangles, e.g., equilateral, isosceles, scalene, and special quadrilaterals, e.g., rhombus, square, rectangle, parallelogram, trapezoid.)",
-			"ancestorIds": [
-				"0633C559B6434C93AE9F025918A7718F",
-				"7F8345A4765347C285CFA6AC8F5F0E44"
-			]
-		},
-		"5AC5A1973B3A4FE289E3B66FC7ED277F": {
-			"id": "5AC5A1973B3A4FE289E3B66FC7ED277F",
-			"asnIdentifier": "S2513857",
-			"position": 43000,
-			"depth": 2,
-			"statementNotation": "4.G.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Draw points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/G/A/1"
-			],
-			"ancestorIds": [
-				"0633C559B6434C93AE9F025918A7718F",
-				"7F8345A4765347C285CFA6AC8F5F0E44"
-			]
-		},
-		"0633C559B6434C93AE9F025918A7718F": {
-			"id": "0633C559B6434C93AE9F025918A7718F",
-			"asnIdentifier": "S2513856",
-			"position": 42000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/G/A"
-			],
-			"ancestorIds": [
-				"7F8345A4765347C285CFA6AC8F5F0E44"
-			]
-		},
-		"7F8345A4765347C285CFA6AC8F5F0E44": {
-			"id": "7F8345A4765347C285CFA6AC8F5F0E44",
-			"asnIdentifier": "S2513836",
-			"position": 41000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Geometry",
-			"ancestorIds": [
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"1EB7B1C40619443D87DE598D96ADA52C": {
-			"id": "1EB7B1C40619443D87DE598D96ADA52C",
-			"asnIdentifier": "S2513824",
-			"position": 40000,
-			"depth": 2,
-			"statementNotation": "4.MD.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Recognize angle measure as additive. When an angle is decomposed into non-overlapping parts, the angle measure of the whole is the sum of the angle measures of the parts. Solve addition and subtraction problems to find unknown angles on a diagram in real world and mathematical problems, e.g., by using an equation with a symbol for the unknown angle measure.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/C/7"
-			],
-			"ancestorIds": [
-				"139E47DCA7454FC3A9B45BA98ED76661",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"5970457BACE94065B92ADD6F386A6A11": {
-			"id": "5970457BACE94065B92ADD6F386A6A11",
-			"asnIdentifier": "S2513823",
-			"position": 39000,
-			"depth": 2,
-			"statementNotation": "4.MD.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Measure angles in whole-number degrees using a protractor. Sketch angles of specified measure.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/C/6"
-			],
-			"ancestorIds": [
-				"139E47DCA7454FC3A9B45BA98ED76661",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"6A04DDF36DCB4DCAB82790C8D779BB3E": {
-			"id": "6A04DDF36DCB4DCAB82790C8D779BB3E",
-			"asnIdentifier": "S2513822",
-			"position": 38000,
-			"depth": 3,
-			"statementNotation": "4.MD.5.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "An angle that turns through n one-degree angles is said to have an angle measure of n degrees.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/C/5/b"
-			],
-			"ancestorIds": [
-				"8B05E5C4D95F4EAEB1A8781408989AA9",
-				"139E47DCA7454FC3A9B45BA98ED76661",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"B6477725B1D7418CB97A8A7DB6728926": {
-			"id": "B6477725B1D7418CB97A8A7DB6728926",
-			"asnIdentifier": "S2513821",
-			"position": 37000,
-			"depth": 3,
-			"statementNotation": "4.MD.5.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "An angle is measured with reference to a circle with its center at the common endpoint of the rays, by considering the fraction of the circular arc between the points where the two rays intersect the circle. An angle that turns through 1/360 of a circle is called a \"one-degree angle,\" and can be used to measure angles.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/C/5/a"
-			],
-			"ancestorIds": [
-				"8B05E5C4D95F4EAEB1A8781408989AA9",
-				"139E47DCA7454FC3A9B45BA98ED76661",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"8B05E5C4D95F4EAEB1A8781408989AA9": {
-			"id": "8B05E5C4D95F4EAEB1A8781408989AA9",
-			"asnIdentifier": "S2513820",
-			"position": 36000,
-			"depth": 2,
-			"statementNotation": "4.MD.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement:",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/C/5"
-			],
-			"ancestorIds": [
-				"139E47DCA7454FC3A9B45BA98ED76661",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"139E47DCA7454FC3A9B45BA98ED76661": {
-			"id": "139E47DCA7454FC3A9B45BA98ED76661",
-			"asnIdentifier": "S2513819",
-			"position": 35000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Geometric measurement: understand concepts of angle and measure angles.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/C"
-			],
-			"ancestorIds": [
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"2F475987AC66491691ABCE92A219A42F": {
-			"id": "2F475987AC66491691ABCE92A219A42F",
-			"asnIdentifier": "S2513786",
-			"position": 34000,
-			"depth": 2,
-			"statementNotation": "4.MD.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Solve problems involving addition and subtraction of fractions by using information presented in line plots.",
-			"comments": [
-				"For example, from a line plot find and interpret the difference in length between the longest and shortest specimens in an insect collection."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/B/4"
-			],
-			"ancestorIds": [
-				"F31C38E6B79149FABD3F381A1F8DA80B",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"F31C38E6B79149FABD3F381A1F8DA80B": {
-			"id": "F31C38E6B79149FABD3F381A1F8DA80B",
-			"asnIdentifier": "S2513785",
-			"position": 33000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Represent and interpret data.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/B"
-			],
-			"ancestorIds": [
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"D4D358F438384DD988F25AB7C3F4E73E": {
-			"id": "D4D358F438384DD988F25AB7C3F4E73E",
-			"asnIdentifier": "S2513818",
-			"position": 32000,
-			"depth": 2,
-			"statementNotation": "4.MD.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Apply the area and perimeter formulas for rectangles in real world and mathematical problems.",
-			"comments": [
-				"For example, find the width of a rectangular room given the area of the flooring and the length, by viewing the area formula as a multiplication equation with an unknown factor."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/A/3"
-			],
-			"ancestorIds": [
-				"61173139F5EE41F08D78D49F0275C747",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"36E9A660734247A3959CBB9696F4F41B": {
-			"id": "36E9A660734247A3959CBB9696F4F41B",
-			"asnIdentifier": "S2513817",
-			"position": 31000,
-			"depth": 2,
-			"statementNotation": "4.MD.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit. Represent measurement quantities using diagrams such as number line diagrams that feature a measurement scale.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/A/2"
-			],
-			"ancestorIds": [
-				"61173139F5EE41F08D78D49F0275C747",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"DEAD4891C4BD4470834137E4FE1E89F4": {
-			"id": "DEAD4891C4BD4470834137E4FE1E89F4",
-			"asnIdentifier": "S2513816",
-			"position": 30000,
-			"depth": 2,
-			"statementNotation": "4.MD.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two column table.",
-			"comments": [
-				"For example, know that 1 ft is 12 times as long as 1 in. Express the length of a 4 ft snake as 48 in. Generate a conversion table for feet and inches listing the number pairs (1, 12), (2, 24), (3, 36), …"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/A/1"
-			],
-			"ancestorIds": [
-				"61173139F5EE41F08D78D49F0275C747",
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"61173139F5EE41F08D78D49F0275C747": {
-			"id": "61173139F5EE41F08D78D49F0275C747",
-			"asnIdentifier": "S2513815",
-			"position": 29000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/MD/A"
-			],
-			"ancestorIds": [
-				"C3C8D5EBAC254498ACD8757F93C996B1"
-			]
-		},
-		"C3C8D5EBAC254498ACD8757F93C996B1": {
-			"id": "C3C8D5EBAC254498ACD8757F93C996B1",
-			"asnIdentifier": "S2513766",
-			"position": 28000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Measurement and Data",
-			"ancestorIds": [
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"FB19F7E90C524EE98E8EE2777960740F": {
-			"id": "FB19F7E90C524EE98E8EE2777960740F",
-			"asnIdentifier": "S2513750",
-			"position": 27000,
-			"depth": 2,
-			"statementNotation": "4.NBT.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/B/6"
-			],
-			"ancestorIds": [
-				"A0390A444F0F45DA9D4430B192746E55",
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"72464E517FF34C118398A6FD37929A17": {
-			"id": "72464E517FF34C118398A6FD37929A17",
-			"asnIdentifier": "S2513749",
-			"position": 26000,
-			"depth": 2,
-			"statementNotation": "4.NBT.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/B/5"
-			],
-			"ancestorIds": [
-				"A0390A444F0F45DA9D4430B192746E55",
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"EA81A12CD1924FAB858B4745FF5E3DC4": {
-			"id": "EA81A12CD1924FAB858B4745FF5E3DC4",
-			"asnIdentifier": "S2513748",
-			"position": 25000,
-			"depth": 2,
-			"statementNotation": "4.NBT.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Fluently add and subtract multi-digit whole numbers using the standard algorithm.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/B/4"
-			],
-			"ancestorIds": [
-				"A0390A444F0F45DA9D4430B192746E55",
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"A0390A444F0F45DA9D4430B192746E55": {
-			"id": "A0390A444F0F45DA9D4430B192746E55",
-			"asnIdentifier": "S2513747",
-			"position": 24000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/B"
-			],
-			"ancestorIds": [
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"AD67684A90284DFBB87782F41FE6F74E": {
-			"id": "AD67684A90284DFBB87782F41FE6F74E",
-			"asnIdentifier": "S2513754",
-			"position": 23000,
-			"depth": 2,
-			"statementNotation": "4.NBT.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Use place value understanding to round multi-digit whole numbers to any place.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/A/3"
-			],
-			"ancestorIds": [
-				"8F71E2792FBA4069AADC519F2240C5C3",
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"36FA1DC7014D4C27B8244AAF0666B5AC": {
-			"id": "36FA1DC7014D4C27B8244AAF0666B5AC",
-			"asnIdentifier": "S2513753",
-			"position": 22000,
-			"depth": 2,
-			"statementNotation": "4.NBT.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/A/2"
-			],
-			"ancestorIds": [
-				"8F71E2792FBA4069AADC519F2240C5C3",
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"3387C59892D243F3855BBE9063A8A3DB": {
-			"id": "3387C59892D243F3855BBE9063A8A3DB",
-			"asnIdentifier": "S2513752",
-			"position": 21000,
-			"depth": 2,
-			"statementNotation": "4.NBT.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right.",
-			"comments": [
-				"For example, recognize that 700 ÷ 70 = 10 by applying concepts of place value and division."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/A/1"
-			],
-			"ancestorIds": [
-				"8F71E2792FBA4069AADC519F2240C5C3",
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"8F71E2792FBA4069AADC519F2240C5C3": {
-			"id": "8F71E2792FBA4069AADC519F2240C5C3",
-			"asnIdentifier": "S2513751",
-			"position": 20000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Generalize place value understanding for multi-digit whole numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/NBT/A"
-			],
-			"ancestorIds": [
-				"A25E717D01814040A5611B48DA9923D5"
-			]
-		},
-		"A25E717D01814040A5611B48DA9923D5": {
-			"id": "A25E717D01814040A5611B48DA9923D5",
-			"asnIdentifier": "S2513715",
-			"position": 19000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Number and Operations in Base Ten",
-			"comments": [
-				"Grade 4 expectations in this domain are limited to whole numbers less than or equal to 1,000,000."
-			],
-			"ancestorIds": [
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"2C701F2AD4EC485487E3C7EAE686E7F1": {
-			"id": "2C701F2AD4EC485487E3C7EAE686E7F1",
-			"asnIdentifier": "S2513709",
-			"position": 18000,
-			"depth": 2,
-			"statementNotation": "4.OA.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself.",
-			"comments": [
-				"For example, given the rule \"Add 3\" and the starting number 1, generate terms in the resulting sequence and observe that the terms appear to alternate between odd and even numbers. Explain informally why the numbers will continue to alternate in this way."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/C/5"
-			],
-			"ancestorIds": [
-				"331D2E70545342B488B1D578A597DF29",
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"331D2E70545342B488B1D578A597DF29": {
-			"id": "331D2E70545342B488B1D578A597DF29",
-			"asnIdentifier": "S2513708",
-			"position": 17000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Generate and analyze patterns.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/C"
-			],
-			"ancestorIds": [
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"D4F44B7A818043AC9BAFA89D82E1EBC6": {
-			"id": "D4F44B7A818043AC9BAFA89D82E1EBC6",
-			"asnIdentifier": "S2513707",
-			"position": 16000,
-			"depth": 2,
-			"statementNotation": "4.OA.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Find all factor pairs for a whole number in the range 1—100. Recognize that a whole number is a multiple of each of its factors. Determine whether a given whole number in the range 1—100 is a multiple of a given one-digit number. Determine whether a given whole number in the range 1—100 is prime or composite.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/B/4"
-			],
-			"ancestorIds": [
-				"55B0E947E8784C89B41BD63F7A2C9BBB",
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"55B0E947E8784C89B41BD63F7A2C9BBB": {
-			"id": "55B0E947E8784C89B41BD63F7A2C9BBB",
-			"asnIdentifier": "S2513706",
-			"position": 15000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Gain familiarity with factors and multiples.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/B"
-			],
-			"ancestorIds": [
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"25B0CDE62ACF40809AE3DE69CABCE093": {
-			"id": "25B0CDE62ACF40809AE3DE69CABCE093",
-			"asnIdentifier": "S2513705",
-			"position": 14000,
-			"depth": 2,
-			"statementNotation": "4.OA.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/A/3"
-			],
-			"ancestorIds": [
-				"E2DBC935CA274F39AD531B22AB6B6239",
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"ED595AAABB244B838524182F98FB8267": {
-			"id": "ED595AAABB244B838524182F98FB8267",
-			"asnIdentifier": "S2513704",
-			"position": 13000,
-			"depth": 2,
-			"statementNotation": "4.OA.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/A/2"
-			],
-			"ancestorIds": [
-				"E2DBC935CA274F39AD531B22AB6B6239",
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"0082914FEB454DE3A5F43BBBC71BDE91": {
-			"id": "0082914FEB454DE3A5F43BBBC71BDE91",
-			"asnIdentifier": "S2513703",
-			"position": 12000,
-			"depth": 2,
-			"statementNotation": "4.OA.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/A/1"
-			],
-			"ancestorIds": [
-				"E2DBC935CA274F39AD531B22AB6B6239",
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"E2DBC935CA274F39AD531B22AB6B6239": {
-			"id": "E2DBC935CA274F39AD531B22AB6B6239",
-			"asnIdentifier": "S2513702",
-			"position": 11000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Use the four operations with whole numbers to solve problems.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/4/OA/A"
-			],
-			"ancestorIds": [
-				"183A6910F05B411C91D8AEC48840A805"
-			]
-		},
-		"183A6910F05B411C91D8AEC48840A805": {
-			"id": "183A6910F05B411C91D8AEC48840A805",
-			"asnIdentifier": "S2513663",
-			"position": 10000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Operations and Algebraic Thinking",
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"2BDA140E78FF4A438CC96056640A3A6D": {
-			"id": "2BDA140E78FF4A438CC96056640A3A6D",
-			"asnIdentifier": "S2513648",
-			"position": 9000,
-			"depth": 1,
-			"statementNotation": "MP.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Look for and express regularity in repeated reasoning.",
-			"comments": [
-				"Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP8"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"F72772141B9246558106FA25B048D303": {
-			"id": "F72772141B9246558106FA25B048D303",
-			"asnIdentifier": "S2513647",
-			"position": 8000,
-			"depth": 1,
-			"statementNotation": "MP.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Look for and make use of structure.",
-			"comments": [
-				"Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP7"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"21F189B90CF94AA8899FE1D96199DADF": {
-			"id": "21F189B90CF94AA8899FE1D96199DADF",
-			"asnIdentifier": "S2513646",
-			"position": 7000,
-			"depth": 1,
-			"statementNotation": "MP.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Attend to precision.",
-			"comments": [
-				"Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP6"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"1875E1E883984FBD8ACD81C4D1D6B855": {
-			"id": "1875E1E883984FBD8ACD81C4D1D6B855",
-			"asnIdentifier": "S2513645",
-			"position": 6000,
-			"depth": 1,
-			"statementNotation": "MP.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use appropriate tools strategically.",
-			"comments": [
-				"Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP5"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"5D86D22B0D8B486582CB1DEB8A6D9A5C": {
-			"id": "5D86D22B0D8B486582CB1DEB8A6D9A5C",
-			"asnIdentifier": "S2513644",
-			"position": 5000,
-			"depth": 1,
-			"statementNotation": "MP.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Model with mathematics.",
-			"comments": [
-				"Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP4"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"E5AC7EE3DA7146AC99F3C6407345A0DF": {
-			"id": "E5AC7EE3DA7146AC99F3C6407345A0DF",
-			"asnIdentifier": "S2513643",
-			"position": 4000,
-			"depth": 1,
-			"statementNotation": "MP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Construct viable arguments and critique the reasoning of others.",
-			"comments": [
-				"Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP3"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"91855D54FD8348838E87E3BDB12D8656": {
-			"id": "91855D54FD8348838E87E3BDB12D8656",
-			"asnIdentifier": "S2513642",
-			"position": 3000,
-			"depth": 1,
-			"statementNotation": "MP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Reason abstractly and quantitatively.",
-			"comments": [
-				"Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP2"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"FDF946C5841F48128B716D6DE4827995": {
-			"id": "FDF946C5841F48128B716D6DE4827995",
-			"asnIdentifier": "S2513641",
-			"position": 2000,
-			"depth": 1,
-			"statementNotation": "MP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Make sense of problems and persevere in solving them.",
-			"comments": [
-				"Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP1"
-			],
-			"ancestorIds": [
-				"261E12FEF071458CBA68707A30C063FB"
-			]
-		},
-		"261E12FEF071458CBA68707A30C063FB": {
-			"id": "261E12FEF071458CBA68707A30C063FB",
-			"asnIdentifier": "S2513640",
-			"position": 1000,
-			"depth": 0,
-			"description": "Standards for Mathematical Practice",
-			"ancestorIds": []
-		}
+	{
+		"displayName": "4.NF.4",
+		"content": "Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.3",
+		"content": "Understand a fraction a/b with a > 1 as a sum of fractions 1/b.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.2",
+		"content": "Compare two fractions with different numerators and different denominators, e.g., by creating common denominators or numerators, or by comparing to a benchmark fraction such as 1/2. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Extend understanding of fraction equivalence and ordering.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.1",
+		"content": "Explain why a fraction a/b is equivalent to a fraction (n × a)/(n × b) by using visual fraction models, with attention to how the number and size of the parts differ even though the two fractions themselves are the same size. Use this principle to recognize and generate equivalent fractions.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Extend understanding of fraction equivalence and ordering.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.G.3",
+		"content": "Recognize a line of symmetry for a two-dimensional figure as a line across the figure such that the figure can be folded along the line into matching parts. Identify line-symmetric figures and draw lines of symmetry.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "4.G.2",
+		"content": "Classify two-dimensional figures based on the presence or absence of parallel or perpendicular lines, or the presence or absence of angles of a specified size. Recognize right triangles as a category, and identify right triangles. (Two-dimensional shapes should include special triangles, e.g., equilateral, isosceles, scalene, and special quadrilaterals, e.g., rhombus, square, rectangle, parallelogram, trapezoid.)",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "4.G.1",
+		"content": "Draw points, lines, line segments, rays, angles (right, acute, obtuse), and perpendicular and parallel lines. Identify these in two-dimensional figures.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Draw and identify lines and angles, and classify shapes by properties of their lines and angles.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "4.MD.7",
+		"content": "Recognize angle measure as additive. When an angle is decomposed into non-overlapping parts, the angle measure of the whole is the sum of the angle measures of the parts. Solve addition and subtraction problems to find unknown angles on a diagram in real world and mathematical problems, e.g., by using an equation with a symbol for the unknown angle measure.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Geometric measurement: understand concepts of angle and measure angles.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.MD.6",
+		"content": "Measure angles in whole-number degrees using a protractor. Sketch angles of specified measure.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Geometric measurement: understand concepts of angle and measure angles.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.MD.5",
+		"content": "Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement:",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Geometric measurement: understand concepts of angle and measure angles.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.MD.4",
+		"content": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Solve problems involving addition and subtraction of fractions by using information presented in line plots.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Represent and interpret data.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.MD.3",
+		"content": "Apply the area and perimeter formulas for rectangles in real world and mathematical problems.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.MD.2",
+		"content": "Use the four operations to solve word problems involving distances, intervals of time, liquid volumes, masses of objects, and money, including problems involving simple fractions or decimals, and problems that require expressing measurements given in a larger unit in terms of a smaller unit. Represent measurement quantities using diagrams such as number line diagrams that feature a measurement scale.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.MD.1",
+		"content": "Know relative sizes of measurement units within one system of units including km, m, cm; kg, g; lb, oz.; l, ml; hr, min, sec. Within a single system of measurement, express measurements in a larger unit in terms of a smaller unit. Record measurement equivalents in a two column table.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Solve problems involving measurement and conversion of measurements from a larger unit to a smaller unit.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.NBT.6",
+		"content": "Find whole-number quotients and remainders with up to four-digit dividends and one-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "4.NBT.5",
+		"content": "Multiply a whole number of up to four digits by a one-digit whole number, and multiply two two-digit numbers, using strategies based on place value and the properties of operations. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "4.NBT.4",
+		"content": "Fluently add and subtract multi-digit whole numbers using the standard algorithm.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "4.NBT.3",
+		"content": "Use place value understanding to round multi-digit whole numbers to any place.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Generalize place value understanding for multi-digit whole numbers.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "4.NBT.2",
+		"content": "Read and write multi-digit whole numbers using base-ten numerals, number names, and expanded form. Compare two multi-digit numbers based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Generalize place value understanding for multi-digit whole numbers.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "4.NBT.1",
+		"content": "Recognize that in a multi-digit whole number, a digit in one place represents ten times what it represents in the place to its right.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Generalize place value understanding for multi-digit whole numbers.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "4.OA.5",
+		"content": "Generate a number or shape pattern that follows a given rule. Identify apparent features of the pattern that were not explicit in the rule itself.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Generate and analyze patterns.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "4.OA.4",
+		"content": "Find all factor pairs for a whole number in the range 1—100. Recognize that a whole number is a multiple of each of its factors. Determine whether a given whole number in the range 1—100 is a multiple of a given one-digit number. Determine whether a given whole number in the range 1—100 is prime or composite.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Gain familiarity with factors and multiples.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "4.OA.3",
+		"content": "Solve multistep word problems posed with whole numbers and having whole-number answers using the four operations, including problems in which remainders must be interpreted. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Use the four operations with whole numbers to solve problems.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "4.OA.2",
+		"content": "Multiply or divide to solve word problems involving multiplicative comparison, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem, distinguishing multiplicative comparison from additive comparison.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Use the four operations with whole numbers to solve problems.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "4.OA.1",
+		"content": "Interpret a multiplication equation as a comparison, e.g., interpret 35 = 5 × 7 as a statement that 35 is 5 times as many as 7 and 7 times as many as 5. Represent verbal statements of multiplicative comparisons as multiplication equations.",
+		"tags": [
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Use the four operations with whole numbers to solve problems.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "4.NF.4.c",
+		"content": "Solve word problems involving multiplication of a fraction by a whole number, e.g., by using visual fraction models and equations to represent the problem.",
+		"tags": [
+			"4.nf.4",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.4.b",
+		"content": "Understand a multiple of a/b as a multiple of 1/b, and use this understanding to multiply a fraction by a whole number.",
+		"tags": [
+			"4.nf.4",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.4.a",
+		"content": "Understand a fraction a/b as a multiple of 1/b.",
+		"tags": [
+			"4.nf.4",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Apply and extend previous understandings of multiplication to multiply a fraction by a whole number.",
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.3.d",
+		"content": "Solve word problems involving addition and subtraction of fractions referring to the same whole and having like denominators, e.g., by using visual fraction models and equations to represent the problem.",
+		"tags": [
+			"4.nf.3",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Understand a fraction a/b with a > 1 as a sum of fractions 1/b.",
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.3.c",
+		"content": "Add and subtract mixed numbers with like denominators, e.g., by replacing each mixed number with an equivalent fraction, and/or by using properties of operations and the relationship between addition and subtraction.",
+		"tags": [
+			"4.nf.3",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Understand a fraction a/b with a > 1 as a sum of fractions 1/b.",
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.3.b",
+		"content": "Decompose a fraction into a sum of fractions with the same denominator in more than one way, recording each decomposition by an equation. Justify decompositions, e.g., by using a visual fraction model.",
+		"tags": [
+			"4.nf.3",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Understand a fraction a/b with a > 1 as a sum of fractions 1/b.",
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.NF.3.a",
+		"content": "Understand addition and subtraction of fractions as joining and separating parts referring to the same whole.",
+		"tags": [
+			"4.nf.3",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Understand a fraction a/b with a > 1 as a sum of fractions 1/b.",
+			"Build fractions from unit fractions by applying and extending previous understandings of operations on whole numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "4.MD.5.b",
+		"content": "An angle that turns through n one-degree angles is said to have an angle measure of n degrees.",
+		"tags": [
+			"4.md.5",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement:",
+			"Geometric measurement: understand concepts of angle and measure angles.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "4.MD.5.a",
+		"content": "An angle is measured with reference to a circle with its center at the common endpoint of the rays, by considering the fraction of the circular arc between the points where the two rays intersect the circle. An angle that turns through 1/360 of a circle is called a \"one-degree angle,\" and can be used to measure angles.",
+		"tags": [
+			"4.md.5",
+			"mathematics",
+			"grade 4"
+		],
+		"meta": [
+			"Recognize angles as geometric shapes that are formed wherever two rays share a common endpoint, and understand concepts of angle measurement:",
+			"Geometric measurement: understand concepts of angle and measure angles.",
+			"Measurement and Data"
+		]
 	}
-}
+]

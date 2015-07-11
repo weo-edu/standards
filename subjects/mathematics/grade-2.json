@@ -1,873 +1,354 @@
-{
-	"id": "B1339AB05F0347E79200FCA63240F3B2_D2513639_grade-02",
-	"title": "Grade 2",
-	"subject": "Mathematics",
-	"educationLevels": [
-		"02"
-	],
-	"license": {
-		"title": "CC BY 3.0 US",
-		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
-		"rightsHolder": "Desire2Learn Incorporated"
+[
+	{
+		"displayName": "2.G.3",
+		"content": "Partition circles and rectangles into two, three, or four equal shares, describe the shares using the words halves, thirds, half of, a third of, etc., and describe the whole as two halves, three thirds, four fourths. Recognize that equal shares of identical wholes need not have the same shape.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Reason with shapes and their attributes.",
+			"Geometry"
+		]
 	},
-	"rightsHolder": null,
-	"document": {
-		"id": "D2513639",
-		"valid": "2010",
-		"title": "California Common Core State Standards: Mathematics",
-		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf",
-		"asnIdentifier": "D2513639",
-		"publicationStatus": "Published"
+	{
+		"displayName": "2.G.2",
+		"content": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of them.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Reason with shapes and their attributes.",
+			"Geometry"
+		]
 	},
-	"jurisdiction": {
-		"id": "B1339AB05F0347E79200FCA63240F3B2",
-		"title": "California"
+	{
+		"displayName": "2.G.1",
+		"content": "Recognize and draw shapes having specified attributes, such as a given number of angles or a given number of equal faces. Identify triangles, quadrilaterals, pentagons, hexagons, and cubes.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Reason with shapes and their attributes.",
+			"Geometry"
+		]
 	},
-	"standards": {
-		"A6DF77284F8046A4A78E75BC6B578717": {
-			"id": "A6DF77284F8046A4A78E75BC6B578717",
-			"asnIdentifier": "S2513852",
-			"position": 52000,
-			"depth": 2,
-			"statementNotation": "2.G.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Partition circles and rectangles into two, three, or four equal shares, describe the shares using the words halves, thirds, half of, a third of, etc., and describe the whole as two halves, three thirds, four fourths. Recognize that equal shares of identical wholes need not have the same shape.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/G/A/3"
-			],
-			"ancestorIds": [
-				"C8C57F0580CB4A4C937F4840E51CF4D1",
-				"3CBACF8040CE466FAD28874991F53854"
-			]
-		},
-		"165CE4C4A5BC43009092A6C5FAB02A82": {
-			"id": "165CE4C4A5BC43009092A6C5FAB02A82",
-			"asnIdentifier": "S2513851",
-			"position": 51000,
-			"depth": 2,
-			"statementNotation": "2.G.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Partition a rectangle into rows and columns of same-size squares and count to find the total number of them.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/G/A/2"
-			],
-			"ancestorIds": [
-				"C8C57F0580CB4A4C937F4840E51CF4D1",
-				"3CBACF8040CE466FAD28874991F53854"
-			]
-		},
-		"21FCF47138C04230AFBCF4FB07325F2F": {
-			"id": "21FCF47138C04230AFBCF4FB07325F2F",
-			"asnIdentifier": "S2513850",
-			"position": 50000,
-			"depth": 2,
-			"statementNotation": "2.G.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Recognize and draw shapes having specified attributes, such as a given number of angles or a given number of equal faces. Identify triangles, quadrilaterals, pentagons, hexagons, and cubes.",
-			"comments": [
-				"Sizes are compared directly or visually, not compared by measuring."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/G/A/1"
-			],
-			"ancestorIds": [
-				"C8C57F0580CB4A4C937F4840E51CF4D1",
-				"3CBACF8040CE466FAD28874991F53854"
-			]
-		},
-		"C8C57F0580CB4A4C937F4840E51CF4D1": {
-			"id": "C8C57F0580CB4A4C937F4840E51CF4D1",
-			"asnIdentifier": "S2513849",
-			"position": 49000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Reason with shapes and their attributes.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/G/A"
-			],
-			"ancestorIds": [
-				"3CBACF8040CE466FAD28874991F53854"
-			]
-		},
-		"3CBACF8040CE466FAD28874991F53854": {
-			"id": "3CBACF8040CE466FAD28874991F53854",
-			"asnIdentifier": "S2513836",
-			"position": 48000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Geometry",
-			"ancestorIds": [
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"475DF34C1EC24DF7851D31C55EF43BED": {
-			"id": "475DF34C1EC24DF7851D31C55EF43BED",
-			"asnIdentifier": "S2513781",
-			"position": 47000,
-			"depth": 2,
-			"statementNotation": "2.MD.10",
-			"statementLabel": "Standard",
-			"listId": "10.",
-			"description": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and compare problems using information presented in a bar graph.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/D/10"
-			],
-			"ancestorIds": [
-				"32E750D953DB48799155660EB2057826",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"BE2FF415EA1E4FF18B77EABD7B7511E9": {
-			"id": "BE2FF415EA1E4FF18B77EABD7B7511E9",
-			"asnIdentifier": "S2513780",
-			"position": 46000,
-			"depth": 2,
-			"statementNotation": "2.MD.9",
-			"statementLabel": "Standard",
-			"listId": "9.",
-			"description": "Generate measurement data by measuring lengths of several objects to the nearest whole unit, or by making repeated measurements of the same object. Show the measurements by making a line plot, where the horizontal scale is marked off in whole-number units.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/D/9"
-			],
-			"ancestorIds": [
-				"32E750D953DB48799155660EB2057826",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"32E750D953DB48799155660EB2057826": {
-			"id": "32E750D953DB48799155660EB2057826",
-			"asnIdentifier": "S2513779",
-			"position": 45000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Represent and interpret data.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/D"
-			],
-			"ancestorIds": [
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"F9C22B3EEA914DE8A6AC4D694AB92622": {
-			"id": "F9C22B3EEA914DE8A6AC4D694AB92622",
-			"asnIdentifier": "S2513799",
-			"position": 44000,
-			"depth": 2,
-			"statementNotation": "2.MD.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Solve word problems involving dollar bills, quarters, dimes, nickels, and pennies, using $ and ¢ symbols appropriately.",
-			"comments": [
-				"Example: If you have 2 dimes and 3 pennies, how many cents do you have?"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/C/8"
-			],
-			"ancestorIds": [
-				"01E49AB3DE7C4CA8B7A2F59AA0C7F692",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"4DE4DE153C7341B1AE8D8567C2F1A07E": {
-			"id": "4DE4DE153C7341B1AE8D8567C2F1A07E",
-			"asnIdentifier": "S2513798",
-			"position": 43000,
-			"depth": 2,
-			"statementNotation": "2.MD.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m. Know relationships of time (e.g., minutes in an hour, days in a month, weeks in a year).",
-			"ancestorIds": [
-				"01E49AB3DE7C4CA8B7A2F59AA0C7F692",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"01E49AB3DE7C4CA8B7A2F59AA0C7F692": {
-			"id": "01E49AB3DE7C4CA8B7A2F59AA0C7F692",
-			"asnIdentifier": "S2513797",
-			"position": 42000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Work with time and money.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/C"
-			],
-			"ancestorIds": [
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"16E939BF0AA44762B40DAED1CF3AC9C4": {
-			"id": "16E939BF0AA44762B40DAED1CF3AC9C4",
-			"asnIdentifier": "S2513796",
-			"position": 41000,
-			"depth": 2,
-			"statementNotation": "2.MD.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Represent whole numbers as lengths from 0 on a number line diagram with equally spaced points corresponding to the numbers 0, 1, 2, …, and represent whole-number sums and differences within 100 on a number line diagram.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/B/6"
-			],
-			"ancestorIds": [
-				"4A83246B759145F08BF0E759C70AC1E1",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"1DE7DD1ABFF54518847687842BC5C10A": {
-			"id": "1DE7DD1ABFF54518847687842BC5C10A",
-			"asnIdentifier": "S2513795",
-			"position": 40000,
-			"depth": 2,
-			"statementNotation": "2.MD.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same units, e.g., by using drawings (such as drawings of rulers) and equations with a symbol for the unknown number to represent the problem.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/B/5"
-			],
-			"ancestorIds": [
-				"4A83246B759145F08BF0E759C70AC1E1",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"4A83246B759145F08BF0E759C70AC1E1": {
-			"id": "4A83246B759145F08BF0E759C70AC1E1",
-			"asnIdentifier": "S2513794",
-			"position": 39000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Relate addition and subtraction to length.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/B"
-			],
-			"ancestorIds": [
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"A389DDA57CEE45A59D1B87240158430F": {
-			"id": "A389DDA57CEE45A59D1B87240158430F",
-			"asnIdentifier": "S2513793",
-			"position": 38000,
-			"depth": 2,
-			"statementNotation": "2.MD.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/A/4"
-			],
-			"ancestorIds": [
-				"966B124E53FA47EC8367F25F1EFDAFF2",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"EF017C7BE8A147B0A3EB1176456B058E": {
-			"id": "EF017C7BE8A147B0A3EB1176456B058E",
-			"asnIdentifier": "S2513792",
-			"position": 37000,
-			"depth": 2,
-			"statementNotation": "2.MD.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Estimate lengths using units of inches, feet, centimeters, and meters.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/A/3"
-			],
-			"ancestorIds": [
-				"966B124E53FA47EC8367F25F1EFDAFF2",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"42EE528A8B1F47E09E96245F5E19FDDB": {
-			"id": "42EE528A8B1F47E09E96245F5E19FDDB",
-			"asnIdentifier": "S2513791",
-			"position": 36000,
-			"depth": 2,
-			"statementNotation": "2.MD.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Measure the length of an object twice, using length units of different lengths for the two measurements; describe how the two measurements relate to the size of the unit chosen.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/A/2"
-			],
-			"ancestorIds": [
-				"966B124E53FA47EC8367F25F1EFDAFF2",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"D7A22501163347A4AE4098CD1E86DFC6": {
-			"id": "D7A22501163347A4AE4098CD1E86DFC6",
-			"asnIdentifier": "S2513790",
-			"position": 35000,
-			"depth": 2,
-			"statementNotation": "2.MD.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Measure the length of an object by selecting and using appropriate tools such as rulers, yardsticks, meter sticks, and measuring tapes.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/A/1"
-			],
-			"ancestorIds": [
-				"966B124E53FA47EC8367F25F1EFDAFF2",
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"966B124E53FA47EC8367F25F1EFDAFF2": {
-			"id": "966B124E53FA47EC8367F25F1EFDAFF2",
-			"asnIdentifier": "S2513789",
-			"position": 34000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Measure and estimate lengths in standard units.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/MD/A"
-			],
-			"ancestorIds": [
-				"E416AA4FDD764171B24738F9A08A97A3"
-			]
-		},
-		"E416AA4FDD764171B24738F9A08A97A3": {
-			"id": "E416AA4FDD764171B24738F9A08A97A3",
-			"asnIdentifier": "S2513766",
-			"position": 33000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Measurement and Data",
-			"ancestorIds": [
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"D4AEF38BECF64277B08BA2473971FF8C": {
-			"id": "D4AEF38BECF64277B08BA2473971FF8C",
-			"asnIdentifier": "S2513742",
-			"position": 32000,
-			"depth": 2,
-			"statementNotation": "2.NBT.9",
-			"statementLabel": "Standard",
-			"listId": "9.",
-			"description": "Explain why addition and subtraction strategies work, using place value and the properties of operations.",
-			"comments": [
-				"Explanations may be supported by drawings or objects."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/B/9"
-			],
-			"ancestorIds": [
-				"C009259AC7604D2FA6C8188CD44B18F7",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"5A76D8CBC2A7404097CF7E57CCA82532": {
-			"id": "5A76D8CBC2A7404097CF7E57CCA82532",
-			"asnIdentifier": "S2513741",
-			"position": 31000,
-			"depth": 2,
-			"statementNotation": "2.NBT.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Mentally add 10 or 100 to a given number 100—900, and mentally subtract 10 or 100 from a given number 100—900.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/B/8"
-			],
-			"ancestorIds": [
-				"C009259AC7604D2FA6C8188CD44B18F7",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"61812C67CE134EB08C55C27C41CF61F7": {
-			"id": "61812C67CE134EB08C55C27C41CF61F7",
-			"asnIdentifier": "S2516573",
-			"position": 30000,
-			"depth": 2,
-			"statementNotation": "2.NBT.7.1",
-			"statementLabel": "Standard",
-			"listId": "7.1",
-			"description": "Use estimation strategies to make reasonable estimates in problem solving.",
-			"ancestorIds": [
-				"C009259AC7604D2FA6C8188CD44B18F7",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"CDF99CBEA647429AB00CE2135F3FFAA5": {
-			"id": "CDF99CBEA647429AB00CE2135F3FFAA5",
-			"asnIdentifier": "S2513740",
-			"position": 29000,
-			"depth": 2,
-			"statementNotation": "2.NBT.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Add and subtract within 1000, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method. Understand that in adding or subtracting three-digit numbers, one adds or subtracts hundreds and hundreds, tens and tens, ones and ones; and sometimes it is necessary to compose or decompose tens or hundreds.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/B/7"
-			],
-			"ancestorIds": [
-				"C009259AC7604D2FA6C8188CD44B18F7",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"A794CC8EE91341B0913A08C4A6B1C80C": {
-			"id": "A794CC8EE91341B0913A08C4A6B1C80C",
-			"asnIdentifier": "S2513739",
-			"position": 28000,
-			"depth": 2,
-			"statementNotation": "2.NBT.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Add up to four two-digit numbers using strategies based on place value and properties of operations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/B/6"
-			],
-			"ancestorIds": [
-				"C009259AC7604D2FA6C8188CD44B18F7",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"FAECAC3EA653479AAA7436B88201AB48": {
-			"id": "FAECAC3EA653479AAA7436B88201AB48",
-			"asnIdentifier": "S2513738",
-			"position": 27000,
-			"depth": 2,
-			"statementNotation": "2.NBT.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and/or the relationship between addition and subtraction.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/B/5"
-			],
-			"ancestorIds": [
-				"C009259AC7604D2FA6C8188CD44B18F7",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"C009259AC7604D2FA6C8188CD44B18F7": {
-			"id": "C009259AC7604D2FA6C8188CD44B18F7",
-			"asnIdentifier": "S2513737",
-			"position": 26000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Use place value understanding and properties of operations to add and subtract.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/B"
-			],
-			"ancestorIds": [
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"56794636CB5B4ECDB7D1E13A15E912DA": {
-			"id": "56794636CB5B4ECDB7D1E13A15E912DA",
-			"asnIdentifier": "S2513732",
-			"position": 25000,
-			"depth": 2,
-			"statementNotation": "2.NBT.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/A/4"
-			],
-			"ancestorIds": [
-				"F170942101384CD2A80F5E27E5737F08",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"AD128D5B174642A592F15A3FD397D9A4": {
-			"id": "AD128D5B174642A592F15A3FD397D9A4",
-			"asnIdentifier": "S2513731",
-			"position": 24000,
-			"depth": 2,
-			"statementNotation": "2.NBT.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Read and write numbers to 1000 using base-ten numerals, number names, and expanded form.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/A/3"
-			],
-			"ancestorIds": [
-				"F170942101384CD2A80F5E27E5737F08",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"6E6C26642D5C423581569691C229BBFF": {
-			"id": "6E6C26642D5C423581569691C229BBFF",
-			"asnIdentifier": "S2513730",
-			"position": 23000,
-			"depth": 2,
-			"statementNotation": "2.NBT.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Count within 1000; skip-count by 2s, 5s, 10s, and 100s.",
-			"ancestorIds": [
-				"F170942101384CD2A80F5E27E5737F08",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"443C6424A9E74C3BA1D72274339AEB45": {
-			"id": "443C6424A9E74C3BA1D72274339AEB45",
-			"asnIdentifier": "S2513729",
-			"position": 22000,
-			"depth": 3,
-			"statementNotation": "2.NBT.1.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "The numbers 100, 200, 300, 400, 500, 600, 700, 800, 900 refer to one, two, three, four, five, six, seven, eight, or nine hundreds (and 0 tens and 0 ones).",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/A/1/b"
-			],
-			"ancestorIds": [
-				"995F6BAB338B4A10BD5BE5E7DC959DAE",
-				"F170942101384CD2A80F5E27E5737F08",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"340A20CB6ABA408FB290D2FFCB99F701": {
-			"id": "340A20CB6ABA408FB290D2FFCB99F701",
-			"asnIdentifier": "S2513728",
-			"position": 21000,
-			"depth": 3,
-			"statementNotation": "2.NBT.1.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "100 can be thought of as a bundle of ten tens — called a \"hundred.\"",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/A/1/a"
-			],
-			"ancestorIds": [
-				"995F6BAB338B4A10BD5BE5E7DC959DAE",
-				"F170942101384CD2A80F5E27E5737F08",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"995F6BAB338B4A10BD5BE5E7DC959DAE": {
-			"id": "995F6BAB338B4A10BD5BE5E7DC959DAE",
-			"asnIdentifier": "S2513727",
-			"position": 20000,
-			"depth": 2,
-			"statementNotation": "2.NBT.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones. Understand the following as special cases:",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/A/1"
-			],
-			"ancestorIds": [
-				"F170942101384CD2A80F5E27E5737F08",
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"F170942101384CD2A80F5E27E5737F08": {
-			"id": "F170942101384CD2A80F5E27E5737F08",
-			"asnIdentifier": "S2513726",
-			"position": 19000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Understand place value.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/NBT/A"
-			],
-			"ancestorIds": [
-				"5205EE6D4BB04C318E00854B585C2169"
-			]
-		},
-		"5205EE6D4BB04C318E00854B585C2169": {
-			"id": "5205EE6D4BB04C318E00854B585C2169",
-			"asnIdentifier": "S2513715",
-			"position": 18000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Number and Operations in Base Ten",
-			"comments": [
-				"Grade 4 expectations in this domain are limited to whole numbers less than or equal to 1,000,000."
-			],
-			"ancestorIds": [
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"2CEEBBF0DA874F52B1079B87AE382237": {
-			"id": "2CEEBBF0DA874F52B1079B87AE382237",
-			"asnIdentifier": "S2513688",
-			"position": 17000,
-			"depth": 2,
-			"statementNotation": "2.OA.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and up to 5 columns; write an equation to express the total as a sum of equal addends.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/OA/C/4"
-			],
-			"ancestorIds": [
-				"BFD95196949046D085BE7CE291C2A7A2",
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"9EECEEDC17564015B0C30FD6EAEA3C6F": {
-			"id": "9EECEEDC17564015B0C30FD6EAEA3C6F",
-			"asnIdentifier": "S2513687",
-			"position": 16000,
-			"depth": 2,
-			"statementNotation": "2.OA.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Determine whether a group of objects (up to 20) has an odd or even number of members, e.g., by pairing objects or counting them by 2s; write an equation to express an even number as a sum of two equal addends.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/OA/C/3"
-			],
-			"ancestorIds": [
-				"BFD95196949046D085BE7CE291C2A7A2",
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"BFD95196949046D085BE7CE291C2A7A2": {
-			"id": "BFD95196949046D085BE7CE291C2A7A2",
-			"asnIdentifier": "S2513686",
-			"position": 15000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Work with equal groups of objects to gain foundations for multiplication.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/OA/C"
-			],
-			"ancestorIds": [
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"B1DD35D9BFE046FFAF46F46E64F8BC29": {
-			"id": "B1DD35D9BFE046FFAF46F46E64F8BC29",
-			"asnIdentifier": "S2513682",
-			"position": 14000,
-			"depth": 2,
-			"statementNotation": "2.OA.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Fluently add and subtract within 20 using mental strategies. By end of Grade 2, know from memory all sums of two one-digit numbers.",
-			"comments": [
-				"See standard 1.OA.6 for a list of mental strategies."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/OA/B/2"
-			],
-			"ancestorIds": [
-				"68AADFAB0475476A9E91DDA7BDA320FB",
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"68AADFAB0475476A9E91DDA7BDA320FB": {
-			"id": "68AADFAB0475476A9E91DDA7BDA320FB",
-			"asnIdentifier": "S2513681",
-			"position": 13000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Add and subtract within 20.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/OA/B"
-			],
-			"ancestorIds": [
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"510BD0F267C445CF975030BC3D8068B9": {
-			"id": "510BD0F267C445CF975030BC3D8068B9",
-			"asnIdentifier": "S2513674",
-			"position": 12000,
-			"depth": 2,
-			"statementNotation": "2.OA.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Use addition and subtraction within 100 to solve one- and two-step word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/OA/A/1"
-			],
-			"ancestorIds": [
-				"1FFC213D08B8495B92A5923E65C0FDC4",
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"1FFC213D08B8495B92A5923E65C0FDC4": {
-			"id": "1FFC213D08B8495B92A5923E65C0FDC4",
-			"asnIdentifier": "S2513673",
-			"position": 11000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Represent and solve problems involving addition and subtraction.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/2/OA/A"
-			],
-			"ancestorIds": [
-				"1FFC89406FBB46B0BE89AC708D9746C0"
-			]
-		},
-		"1FFC89406FBB46B0BE89AC708D9746C0": {
-			"id": "1FFC89406FBB46B0BE89AC708D9746C0",
-			"asnIdentifier": "S2513663",
-			"position": 10000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Operations and Algebraic Thinking",
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"77C8278B99114BF8A913624A88CF4E01": {
-			"id": "77C8278B99114BF8A913624A88CF4E01",
-			"asnIdentifier": "S2513648",
-			"position": 9000,
-			"depth": 1,
-			"statementNotation": "MP.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Look for and express regularity in repeated reasoning.",
-			"comments": [
-				"Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP8"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"A5F6E4EBC2C84C42A1FAC68A84B27689": {
-			"id": "A5F6E4EBC2C84C42A1FAC68A84B27689",
-			"asnIdentifier": "S2513647",
-			"position": 8000,
-			"depth": 1,
-			"statementNotation": "MP.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Look for and make use of structure.",
-			"comments": [
-				"Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP7"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"0D932741578245B5AE1D0CD91CC2443E": {
-			"id": "0D932741578245B5AE1D0CD91CC2443E",
-			"asnIdentifier": "S2513646",
-			"position": 7000,
-			"depth": 1,
-			"statementNotation": "MP.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Attend to precision.",
-			"comments": [
-				"Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP6"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"CB0A6BF55B644B819DA8B9F06925609E": {
-			"id": "CB0A6BF55B644B819DA8B9F06925609E",
-			"asnIdentifier": "S2513645",
-			"position": 6000,
-			"depth": 1,
-			"statementNotation": "MP.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use appropriate tools strategically.",
-			"comments": [
-				"Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP5"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"C135913F46B94F529F8D6A7221C986BB": {
-			"id": "C135913F46B94F529F8D6A7221C986BB",
-			"asnIdentifier": "S2513644",
-			"position": 5000,
-			"depth": 1,
-			"statementNotation": "MP.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Model with mathematics.",
-			"comments": [
-				"Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP4"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"4A1EDA78DA56493692FD24D6A1DDCE0E": {
-			"id": "4A1EDA78DA56493692FD24D6A1DDCE0E",
-			"asnIdentifier": "S2513643",
-			"position": 4000,
-			"depth": 1,
-			"statementNotation": "MP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Construct viable arguments and critique the reasoning of others.",
-			"comments": [
-				"Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP3"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"111D20D2B35D4543B0F0795E99F0CB83": {
-			"id": "111D20D2B35D4543B0F0795E99F0CB83",
-			"asnIdentifier": "S2513642",
-			"position": 3000,
-			"depth": 1,
-			"statementNotation": "MP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Reason abstractly and quantitatively.",
-			"comments": [
-				"Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP2"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"63E7BA63AA80482ABA025EEA4A80D2A2": {
-			"id": "63E7BA63AA80482ABA025EEA4A80D2A2",
-			"asnIdentifier": "S2513641",
-			"position": 2000,
-			"depth": 1,
-			"statementNotation": "MP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Make sense of problems and persevere in solving them.",
-			"comments": [
-				"Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP1"
-			],
-			"ancestorIds": [
-				"5F0F9AFFED8C48DE9F2F768633793257"
-			]
-		},
-		"5F0F9AFFED8C48DE9F2F768633793257": {
-			"id": "5F0F9AFFED8C48DE9F2F768633793257",
-			"asnIdentifier": "S2513640",
-			"position": 1000,
-			"depth": 0,
-			"description": "Standards for Mathematical Practice",
-			"ancestorIds": []
-		}
+	{
+		"displayName": "2.MD.10",
+		"content": "Draw a picture graph and a bar graph (with single-unit scale) to represent a data set with up to four categories. Solve simple put-together, take-apart, and compare problems using information presented in a bar graph.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Represent and interpret data.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.9",
+		"content": "Generate measurement data by measuring lengths of several objects to the nearest whole unit, or by making repeated measurements of the same object. Show the measurements by making a line plot, where the horizontal scale is marked off in whole-number units.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Represent and interpret data.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.8",
+		"content": "Solve word problems involving dollar bills, quarters, dimes, nickels, and pennies, using $ and ¢ symbols appropriately.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Work with time and money.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.7",
+		"content": "Tell and write time from analog and digital clocks to the nearest five minutes, using a.m. and p.m. Know relationships of time (e.g., minutes in an hour, days in a month, weeks in a year).",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Work with time and money.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.6",
+		"content": "Represent whole numbers as lengths from 0 on a number line diagram with equally spaced points corresponding to the numbers 0, 1, 2, …, and represent whole-number sums and differences within 100 on a number line diagram.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Relate addition and subtraction to length.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.5",
+		"content": "Use addition and subtraction within 100 to solve word problems involving lengths that are given in the same units, e.g., by using drawings (such as drawings of rulers) and equations with a symbol for the unknown number to represent the problem.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Relate addition and subtraction to length.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.4",
+		"content": "Measure to determine how much longer one object is than another, expressing the length difference in terms of a standard length unit.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Measure and estimate lengths in standard units.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.3",
+		"content": "Estimate lengths using units of inches, feet, centimeters, and meters.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Measure and estimate lengths in standard units.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.2",
+		"content": "Measure the length of an object twice, using length units of different lengths for the two measurements; describe how the two measurements relate to the size of the unit chosen.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Measure and estimate lengths in standard units.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.MD.1",
+		"content": "Measure the length of an object by selecting and using appropriate tools such as rulers, yardsticks, meter sticks, and measuring tapes.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Measure and estimate lengths in standard units.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "2.NBT.9",
+		"content": "Explain why addition and subtraction strategies work, using place value and the properties of operations.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to add and subtract.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.8",
+		"content": "Mentally add 10 or 100 to a given number 100—900, and mentally subtract 10 or 100 from a given number 100—900.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to add and subtract.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.7.1",
+		"content": "Use estimation strategies to make reasonable estimates in problem solving.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to add and subtract.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.7",
+		"content": "Add and subtract within 1000, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method. Understand that in adding or subtracting three-digit numbers, one adds or subtracts hundreds and hundreds, tens and tens, ones and ones; and sometimes it is necessary to compose or decompose tens or hundreds.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to add and subtract.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.6",
+		"content": "Add up to four two-digit numbers using strategies based on place value and properties of operations.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to add and subtract.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.5",
+		"content": "Fluently add and subtract within 100 using strategies based on place value, properties of operations, and/or the relationship between addition and subtraction.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to add and subtract.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.4",
+		"content": "Compare two three-digit numbers based on meanings of the hundreds, tens, and ones digits, using >, =, and < symbols to record the results of comparisons.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Understand place value.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.3",
+		"content": "Read and write numbers to 1000 using base-ten numerals, number names, and expanded form.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Understand place value.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.2",
+		"content": "Count within 1000; skip-count by 2s, 5s, 10s, and 100s.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Understand place value.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.1",
+		"content": "Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones. Understand the following as special cases:",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Understand place value.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.OA.4",
+		"content": "Use addition to find the total number of objects arranged in rectangular arrays with up to 5 rows and up to 5 columns; write an equation to express the total as a sum of equal addends.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Work with equal groups of objects to gain foundations for multiplication.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "2.OA.3",
+		"content": "Determine whether a group of objects (up to 20) has an odd or even number of members, e.g., by pairing objects or counting them by 2s; write an equation to express an even number as a sum of two equal addends.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Work with equal groups of objects to gain foundations for multiplication.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "2.OA.2",
+		"content": "Fluently add and subtract within 20 using mental strategies. By end of Grade 2, know from memory all sums of two one-digit numbers.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Add and subtract within 20.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "2.OA.1",
+		"content": "Use addition and subtraction within 100 to solve one- and two-step word problems involving situations of adding to, taking from, putting together, taking apart, and comparing, with unknowns in all positions, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.",
+		"tags": [
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Represent and solve problems involving addition and subtraction.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "2.NBT.1.b",
+		"content": "The numbers 100, 200, 300, 400, 500, 600, 700, 800, 900 refer to one, two, three, four, five, six, seven, eight, or nine hundreds (and 0 tens and 0 ones).",
+		"tags": [
+			"2.nbt.1",
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones. Understand the following as special cases:",
+			"Understand place value.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "2.NBT.1.a",
+		"content": "100 can be thought of as a bundle of ten tens — called a \"hundred.\"",
+		"tags": [
+			"2.nbt.1",
+			"mathematics",
+			"grade 2"
+		],
+		"meta": [
+			"Understand that the three digits of a three-digit number represent amounts of hundreds, tens, and ones; e.g., 706 equals 7 hundreds, 0 tens, and 6 ones. Understand the following as special cases:",
+			"Understand place value.",
+			"Number and Operations in Base Ten"
+		]
 	}
-}
+]

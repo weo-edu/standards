@@ -1,1039 +1,450 @@
-{
-	"id": "B1339AB05F0347E79200FCA63240F3B2_D2513639_grade-08",
-	"title": "Grade 8",
-	"subject": "Mathematics",
-	"educationLevels": [
-		"08"
-	],
-	"license": {
-		"title": "CC BY 3.0 US",
-		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
-		"rightsHolder": "Desire2Learn Incorporated"
+[
+	{
+		"displayName": "8.F.5",
+		"content": "Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Use functions to model relationships between quantities.",
+			"Functions"
+		]
 	},
-	"rightsHolder": null,
-	"document": {
-		"id": "D2513639",
-		"valid": "2010",
-		"title": "California Common Core State Standards: Mathematics",
-		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf",
-		"asnIdentifier": "D2513639",
-		"publicationStatus": "Published"
+	{
+		"displayName": "8.F.4",
+		"content": "Construct a function to model a linear relationship between two quantities. Determine the rate of change and initial value of the function from a description of a relationship or from two (x, y) values, including reading these from a table or from a graph. Interpret the rate of change and initial value of a linear function in terms of the situation it models, and in terms of its graph or a table of values.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Use functions to model relationships between quantities.",
+			"Functions"
+		]
 	},
-	"jurisdiction": {
-		"id": "B1339AB05F0347E79200FCA63240F3B2",
-		"title": "California"
+	{
+		"displayName": "8.F.3",
+		"content": "Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line; give examples of functions that are not linear.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Define, evaluate, and compare functions.",
+			"Functions"
+		]
 	},
-	"standards": {
-		"6F55BD82815E4CFA9D19FAFE6194DD7A": {
-			"id": "6F55BD82815E4CFA9D19FAFE6194DD7A",
-			"asnIdentifier": "S2514069",
-			"position": 60000,
-			"depth": 2,
-			"statementNotation": "8.F.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Describe qualitatively the functional relationship between two quantities by analyzing a graph (e.g., where the function is increasing or decreasing, linear or nonlinear). Sketch a graph that exhibits the qualitative features of a function that has been described verbally.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/F/B/5"
-			],
-			"ancestorIds": [
-				"B77C5CC74A7348C094E2C541CDC75731",
-				"0787442A9F704787A7F8DEAB01CE2E48"
-			]
-		},
-		"E288EBBD34B74B75B02D786030AA7CA3": {
-			"id": "E288EBBD34B74B75B02D786030AA7CA3",
-			"asnIdentifier": "S2514068",
-			"position": 59000,
-			"depth": 2,
-			"statementNotation": "8.F.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Construct a function to model a linear relationship between two quantities. Determine the rate of change and initial value of the function from a description of a relationship or from two (x, y) values, including reading these from a table or from a graph. Interpret the rate of change and initial value of a linear function in terms of the situation it models, and in terms of its graph or a table of values.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/F/B/4"
-			],
-			"ancestorIds": [
-				"B77C5CC74A7348C094E2C541CDC75731",
-				"0787442A9F704787A7F8DEAB01CE2E48"
-			]
-		},
-		"B77C5CC74A7348C094E2C541CDC75731": {
-			"id": "B77C5CC74A7348C094E2C541CDC75731",
-			"asnIdentifier": "S2514067",
-			"position": 58000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Use functions to model relationships between quantities.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/F/B"
-			],
-			"ancestorIds": [
-				"0787442A9F704787A7F8DEAB01CE2E48"
-			]
-		},
-		"30807ED30F0F4F18A137E7B8B5A08464": {
-			"id": "30807ED30F0F4F18A137E7B8B5A08464",
-			"asnIdentifier": "S2514066",
-			"position": 57000,
-			"depth": 2,
-			"statementNotation": "8.F.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Interpret the equation y = mx + b as defining a linear function, whose graph is a straight line; give examples of functions that are not linear.",
-			"comments": [
-				"For example, the function A = s² giving the area of a square as a function of its side length is not linear because its graph contains the points (1,1), (2,4) and (3,9), which are not on a straight line."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/F/A/3"
-			],
-			"ancestorIds": [
-				"57701690648A4F35BCCFF00C648258A5",
-				"0787442A9F704787A7F8DEAB01CE2E48"
-			]
-		},
-		"E97EE85D4BE747CA8D1CDF766BF7811F": {
-			"id": "E97EE85D4BE747CA8D1CDF766BF7811F",
-			"asnIdentifier": "S2514065",
-			"position": 56000,
-			"depth": 2,
-			"statementNotation": "8.F.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).",
-			"comments": [
-				"For example, given a linear function represented by a table of values and a linear function represented by an algebraic expression, determine which function has the greater rate of change."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/F/A/2"
-			],
-			"ancestorIds": [
-				"57701690648A4F35BCCFF00C648258A5",
-				"0787442A9F704787A7F8DEAB01CE2E48"
-			]
-		},
-		"85675C21AC2345409AB91D7C4B243EAD": {
-			"id": "85675C21AC2345409AB91D7C4B243EAD",
-			"asnIdentifier": "S2514064",
-			"position": 55000,
-			"depth": 2,
-			"statementNotation": "8.F.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output.",
-			"comments": [
-				"Function notation is not required in Grade 8."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/F/A/1"
-			],
-			"ancestorIds": [
-				"57701690648A4F35BCCFF00C648258A5",
-				"0787442A9F704787A7F8DEAB01CE2E48"
-			]
-		},
-		"57701690648A4F35BCCFF00C648258A5": {
-			"id": "57701690648A4F35BCCFF00C648258A5",
-			"asnIdentifier": "S2514063",
-			"position": 54000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Define, evaluate, and compare functions.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/F/A"
-			],
-			"ancestorIds": [
-				"0787442A9F704787A7F8DEAB01CE2E48"
-			]
-		},
-		"0787442A9F704787A7F8DEAB01CE2E48": {
-			"id": "0787442A9F704787A7F8DEAB01CE2E48",
-			"asnIdentifier": "S2514062",
-			"position": 53000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Functions",
-			"ancestorIds": [
-				"3B2D5E938D304BED9BAE6C438A1A605E"
-			]
-		},
-		"20DDBC2E9320425593ECF0D813EDB3DF": {
-			"id": "20DDBC2E9320425593ECF0D813EDB3DF",
-			"asnIdentifier": "S2514061",
-			"position": 52000,
-			"depth": 2,
-			"statementNotation": "8.SP.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Understand that patterns of association can also be seen in bivariate categorical data by displaying frequencies and relative frequencies in a two-way table. Construct and interpret a two-way table summarizing data on two categorical variables collected from the same subjects. Use relative frequencies calculated for rows or columns to describe possible association between the two variables.",
-			"comments": [
-				"For example, collect data from students in your class on whether or not they have a curfew on school nights and whether or not they have assigned chores at home. Is there evidence that those who have a curfew also tend to have chores?"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/SP/A/4"
-			],
-			"ancestorIds": [
-				"FB0A8245AC884784A50EAC9B9206F58A",
-				"3B2D5E938D304BED9BAE6C438A1A605E"
-			]
-		},
-		"C4541F8475264F94A3B5AAD6014F0959": {
-			"id": "C4541F8475264F94A3B5AAD6014F0959",
-			"asnIdentifier": "S2514060",
-			"position": 51000,
-			"depth": 2,
-			"statementNotation": "8.SP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Use the equation of a linear model to solve problems in the context of bivariate measurement data, interpreting the slope and intercept.",
-			"comments": [
-				"For example, in a linear model for a biology experiment, interpret a slope of 1.5 cm/hr as meaning that an additional hour of sunlight each day is associated with an additional 1.5 cm in mature plant height."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/SP/A/3"
-			],
-			"ancestorIds": [
-				"FB0A8245AC884784A50EAC9B9206F58A",
-				"3B2D5E938D304BED9BAE6C438A1A605E"
-			]
-		},
-		"1619580954C94AC88981E2524CDFC2C9": {
-			"id": "1619580954C94AC88981E2524CDFC2C9",
-			"asnIdentifier": "S2514059",
-			"position": 50000,
-			"depth": 2,
-			"statementNotation": "8.SP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Know that straight lines are widely used to model relationships between two quantitative variables. For scatter plots that suggest a linear association, informally fit a straight line, and informally assess the model fit by judging the closeness of the data points to the line.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/SP/A/2"
-			],
-			"ancestorIds": [
-				"FB0A8245AC884784A50EAC9B9206F58A",
-				"3B2D5E938D304BED9BAE6C438A1A605E"
-			]
-		},
-		"84BFC4E6EE6642658C4946AEB311632E": {
-			"id": "84BFC4E6EE6642658C4946AEB311632E",
-			"asnIdentifier": "S2514058",
-			"position": 49000,
-			"depth": 2,
-			"statementNotation": "8.SP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/SP/A/1"
-			],
-			"ancestorIds": [
-				"FB0A8245AC884784A50EAC9B9206F58A",
-				"3B2D5E938D304BED9BAE6C438A1A605E"
-			]
-		},
-		"FB0A8245AC884784A50EAC9B9206F58A": {
-			"id": "FB0A8245AC884784A50EAC9B9206F58A",
-			"asnIdentifier": "S2514057",
-			"position": 48000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Investigate patterns of association in bivariate data.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/SP/A"
-			],
-			"ancestorIds": [
-				"3B2D5E938D304BED9BAE6C438A1A605E"
-			]
-		},
-		"3B2D5E938D304BED9BAE6C438A1A605E": {
-			"id": "3B2D5E938D304BED9BAE6C438A1A605E",
-			"asnIdentifier": "S2514029",
-			"position": 47000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Statistics and Probability",
-			"ancestorIds": [
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"D06230BA3CB94216904BFB79AE0F59AC": {
-			"id": "D06230BA3CB94216904BFB79AE0F59AC",
-			"asnIdentifier": "S2514028",
-			"position": 46000,
-			"depth": 3,
-			"statementNotation": "8.EE.8.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Solve real-world and mathematical problems leading to two linear equations in two variables.",
-			"comments": [
-				"For example, given coordinates for two pairs of points, determine whether the line through the first pair of points intersects the line through the second pair."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C/8/c"
-			],
-			"ancestorIds": [
-				"3E2F4FAB65A24A5A8795737ED5F9A3A4",
-				"94D19183D6C84EAC96C6D86FC007DA03",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"6190E7B561874C9BAD2894DCAB2CFA0D": {
-			"id": "6190E7B561874C9BAD2894DCAB2CFA0D",
-			"asnIdentifier": "S2514027",
-			"position": 45000,
-			"depth": 3,
-			"statementNotation": "8.EE.8.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Solve systems of two linear equations in two variables algebraically, and estimate solutions by graphing the equations. Solve simple cases by inspection.",
-			"comments": [
-				"For example, 3x + 2y = 5 and 3x + 2y = 6 have no solution because 3x + 2y cannot simultaneously be 5 and 6."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C/8/b"
-			],
-			"ancestorIds": [
-				"3E2F4FAB65A24A5A8795737ED5F9A3A4",
-				"94D19183D6C84EAC96C6D86FC007DA03",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"6F5C09BD980C400F9FC59D558BED0F6B": {
-			"id": "6F5C09BD980C400F9FC59D558BED0F6B",
-			"asnIdentifier": "S2514026",
-			"position": 44000,
-			"depth": 3,
-			"statementNotation": "8.EE.8.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Understand that solutions to a system of two linear equations in two variables correspond to points of intersection of their graphs, because points of intersection satisfy both equations simultaneously.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C/8/a"
-			],
-			"ancestorIds": [
-				"3E2F4FAB65A24A5A8795737ED5F9A3A4",
-				"94D19183D6C84EAC96C6D86FC007DA03",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"3E2F4FAB65A24A5A8795737ED5F9A3A4": {
-			"id": "3E2F4FAB65A24A5A8795737ED5F9A3A4",
-			"asnIdentifier": "S2514025",
-			"position": 43000,
-			"depth": 2,
-			"statementNotation": "8.EE.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Analyze and solve pairs of simultaneous linear equations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C/8"
-			],
-			"ancestorIds": [
-				"94D19183D6C84EAC96C6D86FC007DA03",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"BE1C21BD0CBB443FAFF2112E91A8B85F": {
-			"id": "BE1C21BD0CBB443FAFF2112E91A8B85F",
-			"asnIdentifier": "S2514024",
-			"position": 42000,
-			"depth": 3,
-			"statementNotation": "8.EE.7.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Solve linear equations with rational number coefficients, including equations whose solutions require expanding expressions using the distributive property and collecting like terms.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C/7/b"
-			],
-			"ancestorIds": [
-				"2D8D67EE181B4351A22C519073FC92AC",
-				"94D19183D6C84EAC96C6D86FC007DA03",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"F556412CD7224876BF4F8A28FE460220": {
-			"id": "F556412CD7224876BF4F8A28FE460220",
-			"asnIdentifier": "S2514023",
-			"position": 41000,
-			"depth": 3,
-			"statementNotation": "8.EE.7.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Give examples of linear equations in one variable with one solution, infinitely many solutions, or no solutions. Show which of these possibilities is the case by successively transforming the given equation into simpler forms, until an equivalent equation of the form x = a, a = a, or a = b results (where a and b are different numbers).",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C/7/a"
-			],
-			"ancestorIds": [
-				"2D8D67EE181B4351A22C519073FC92AC",
-				"94D19183D6C84EAC96C6D86FC007DA03",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"2D8D67EE181B4351A22C519073FC92AC": {
-			"id": "2D8D67EE181B4351A22C519073FC92AC",
-			"asnIdentifier": "S2514022",
-			"position": 40000,
-			"depth": 2,
-			"statementNotation": "8.EE.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Solve linear equations in one variable.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C/7"
-			],
-			"ancestorIds": [
-				"94D19183D6C84EAC96C6D86FC007DA03",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"94D19183D6C84EAC96C6D86FC007DA03": {
-			"id": "94D19183D6C84EAC96C6D86FC007DA03",
-			"asnIdentifier": "S2514021",
-			"position": 39000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Analyze and solve linear equations and pairs of simultaneous linear equations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/C"
-			],
-			"ancestorIds": [
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"9347F0225B834F64994F406D336A1D18": {
-			"id": "9347F0225B834F64994F406D336A1D18",
-			"asnIdentifier": "S2514020",
-			"position": 38000,
-			"depth": 2,
-			"statementNotation": "8.EE.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Use similar triangles to explain why the slope m is the same between any two distinct points on a non-vertical line in the coordinate plane; derive the equation y = mx for a line through the origin and the equation y = mx + b for a line intercepting the vertical axis at b.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/B/6"
-			],
-			"ancestorIds": [
-				"3A0DD69196D24185910CA515E679D9D2",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"860C81734D6E4CA99CAA63B220FF65B7": {
-			"id": "860C81734D6E4CA99CAA63B220FF65B7",
-			"asnIdentifier": "S2514019",
-			"position": 37000,
-			"depth": 2,
-			"statementNotation": "8.EE.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Graph proportional relationships, interpreting the unit rate as the slope of the graph. Compare two different proportional relationships represented in different ways.",
-			"comments": [
-				"For example, compare a distance-time graph to a distance-time equation to determine which of two moving objects has greater speed."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/B/5"
-			],
-			"ancestorIds": [
-				"3A0DD69196D24185910CA515E679D9D2",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"3A0DD69196D24185910CA515E679D9D2": {
-			"id": "3A0DD69196D24185910CA515E679D9D2",
-			"asnIdentifier": "S2514018",
-			"position": 36000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Understand the connections between proportional relationships, lines, and linear equations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/B"
-			],
-			"ancestorIds": [
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"A2061627FC144D81B8280C446E178EFF": {
-			"id": "A2061627FC144D81B8280C446E178EFF",
-			"asnIdentifier": "S2514017",
-			"position": 35000,
-			"depth": 2,
-			"statementNotation": "8.EE.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Perform operations with numbers expressed in scientific notation, including problems where both decimal and scientific notation are used. Use scientific notation and choose units of appropriate size for measurements of very large or very small quantities (e.g., use millimeters per year for seafloor spreading). Interpret scientific notation that has been generated by technology.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/A/4"
-			],
-			"ancestorIds": [
-				"BB51B37A835E4C57B1694BEEC986C381",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"2F4055A85E604F9299A9E860222CE3B8": {
-			"id": "2F4055A85E604F9299A9E860222CE3B8",
-			"asnIdentifier": "S2514016",
-			"position": 34000,
-			"depth": 2,
-			"statementNotation": "8.EE.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much one is than the other.",
-			"comments": [
-				"For example, estimate the population of the United States as 3 × 10<sup>8</sup> and the population of the world as 7 × 10<sup>9</sup>, and determine that the world population is more than 20 times larger."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/A/3"
-			],
-			"ancestorIds": [
-				"BB51B37A835E4C57B1694BEEC986C381",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"D30E107101394C1CB4506CE38E3C0FAF": {
-			"id": "D30E107101394C1CB4506CE38E3C0FAF",
-			"asnIdentifier": "S2514015",
-			"position": 33000,
-			"depth": 2,
-			"statementNotation": "8.EE.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Use square root and cube root symbols to represent solutions to equations of the form x² = p and x³ = p, where p is a positive rational number. Evaluate square roots of small perfect squares and cube roots of small perfect cubes. Know that √2 is irrational.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/A/2"
-			],
-			"ancestorIds": [
-				"BB51B37A835E4C57B1694BEEC986C381",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"FEB70B1CF537402EA259CDE916E5A7C4": {
-			"id": "FEB70B1CF537402EA259CDE916E5A7C4",
-			"asnIdentifier": "S2514014",
-			"position": 32000,
-			"depth": 2,
-			"statementNotation": "8.EE.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Know and apply the properties of integer exponents to generate equivalent numerical expressions.",
-			"comments": [
-				"For example, 3² × 3<sup>-5</sup> = 3<sup>-3</sup> = 1/3³ = 1/27."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/A/1"
-			],
-			"ancestorIds": [
-				"BB51B37A835E4C57B1694BEEC986C381",
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"BB51B37A835E4C57B1694BEEC986C381": {
-			"id": "BB51B37A835E4C57B1694BEEC986C381",
-			"asnIdentifier": "S2514013",
-			"position": 31000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Work with radicals and integer exponents.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/EE/A"
-			],
-			"ancestorIds": [
-				"44D51F5A5C8443BCA0C948F4D3D9F211"
-			]
-		},
-		"44D51F5A5C8443BCA0C948F4D3D9F211": {
-			"id": "44D51F5A5C8443BCA0C948F4D3D9F211",
-			"asnIdentifier": "S2513989",
-			"position": 30000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Expressions and Equations",
-			"ancestorIds": [
-				"78711E480CC749F9933028098AA82869"
-			]
-		},
-		"B429525DABC44178A966DC7E67CAE38C": {
-			"id": "B429525DABC44178A966DC7E67CAE38C",
-			"asnIdentifier": "S2513988",
-			"position": 29000,
-			"depth": 2,
-			"statementNotation": "8.NS.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Use rational approximations of irrational numbers to compare the size of irrational numbers, locate them approximately on a number line diagram, and estimate the value of expressions (e.g., π²).",
-			"comments": [
-				"For example, by truncating the decimal expansion of √2, show that √2 is between 1 and 2, then between 1.4 and 1.5, and explain how to continue on to get better approximations."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/NS/A/2"
-			],
-			"ancestorIds": [
-				"516B28F5691E4567B232C47D2FF2233D",
-				"78711E480CC749F9933028098AA82869"
-			]
-		},
-		"905D30F068334BFAAFB397D2E1B67CA9": {
-			"id": "905D30F068334BFAAFB397D2E1B67CA9",
-			"asnIdentifier": "S2513987",
-			"position": 28000,
-			"depth": 2,
-			"statementNotation": "8.NS.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Know that numbers that are not rational are called irrational. Understand informally that every number has a decimal expansion; for rational numbers show that the decimal expansion repeats eventually, and convert a decimal expansion which repeats eventually into a rational number.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/NS/A/1"
-			],
-			"ancestorIds": [
-				"516B28F5691E4567B232C47D2FF2233D",
-				"78711E480CC749F9933028098AA82869"
-			]
-		},
-		"516B28F5691E4567B232C47D2FF2233D": {
-			"id": "516B28F5691E4567B232C47D2FF2233D",
-			"asnIdentifier": "S2513986",
-			"position": 27000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Know that there are numbers that are not rational, and approximate them by rational numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/NS/A"
-			],
-			"ancestorIds": [
-				"78711E480CC749F9933028098AA82869"
-			]
-		},
-		"78711E480CC749F9933028098AA82869": {
-			"id": "78711E480CC749F9933028098AA82869",
-			"asnIdentifier": "S2513955",
-			"position": 26000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "The Number System",
-			"ancestorIds": [
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"9AE847B4AC6E47ADA35134E168B1DB6F": {
-			"id": "9AE847B4AC6E47ADA35134E168B1DB6F",
-			"asnIdentifier": "S2513893",
-			"position": 25000,
-			"depth": 2,
-			"statementNotation": "8.G.9",
-			"statementLabel": "Standard",
-			"listId": "9.",
-			"description": "Know the formulas for the volumes of cones, cylinders, and spheres and use them to solve real-world and mathematical problems.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/C/9"
-			],
-			"ancestorIds": [
-				"B5FE7A210959467185B4BBD121BF2EF8",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"B5FE7A210959467185B4BBD121BF2EF8": {
-			"id": "B5FE7A210959467185B4BBD121BF2EF8",
-			"asnIdentifier": "S2513892",
-			"position": 24000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Solve real-world and mathematical problems involving volume of cylinders, cones, and spheres.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/C"
-			],
-			"ancestorIds": [
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"BAB0A59901194261988BA6C0680F44CD": {
-			"id": "BAB0A59901194261988BA6C0680F44CD",
-			"asnIdentifier": "S2513891",
-			"position": 23000,
-			"depth": 2,
-			"statementNotation": "8.G.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Apply the Pythagorean Theorem to find the distance between two points in a coordinate system.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/B/8"
-			],
-			"ancestorIds": [
-				"7A556E0981D243FF8A7EB03FCC16EE93",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"3CB549E697584724A442968C5DC43365": {
-			"id": "3CB549E697584724A442968C5DC43365",
-			"asnIdentifier": "S2513890",
-			"position": 22000,
-			"depth": 2,
-			"statementNotation": "8.G.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Apply the Pythagorean Theorem to determine unknown side lengths in right triangles in real-world and mathematical problems in two and three dimensions.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/B/7"
-			],
-			"ancestorIds": [
-				"7A556E0981D243FF8A7EB03FCC16EE93",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"2C6772E13CBA410DAA5D5190C7568D83": {
-			"id": "2C6772E13CBA410DAA5D5190C7568D83",
-			"asnIdentifier": "S2513889",
-			"position": 21000,
-			"depth": 2,
-			"statementNotation": "8.G.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Explain a proof of the Pythagorean Theorem and its converse.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/B/6"
-			],
-			"ancestorIds": [
-				"7A556E0981D243FF8A7EB03FCC16EE93",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"7A556E0981D243FF8A7EB03FCC16EE93": {
-			"id": "7A556E0981D243FF8A7EB03FCC16EE93",
-			"asnIdentifier": "S2513888",
-			"position": 20000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Understand and apply the Pythagorean Theorem.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/B"
-			],
-			"ancestorIds": [
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"B9BA3AA8E2C64AF5A974EEF2E44ACEAD": {
-			"id": "B9BA3AA8E2C64AF5A974EEF2E44ACEAD",
-			"asnIdentifier": "S2513887",
-			"position": 19000,
-			"depth": 2,
-			"statementNotation": "8.G.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use informal arguments to establish facts about the angle sum and exterior angle of triangles, about the angles created when parallel lines are cut by a transversal, and the angle-angle criterion for similarity of triangles.",
-			"comments": [
-				"For example, arrange three copies of the same triangle so that the sum of the three angles appears to form a line, and give an argument in terms of transversals why this is so."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/5"
-			],
-			"ancestorIds": [
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"5E12F29BE9494358B1D5CE99DF9924F2": {
-			"id": "5E12F29BE9494358B1D5CE99DF9924F2",
-			"asnIdentifier": "S2513886",
-			"position": 18000,
-			"depth": 2,
-			"statementNotation": "8.G.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Understand that a two-dimensional figure is similar to another if the second can be obtained from the first by a sequence of rotations, reflections, translations, and dilations; given two similar two-dimensional figures, describe a sequence that exhibits the similarity between them.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/4"
-			],
-			"ancestorIds": [
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"076FB407E0DF4067A11019A07078267A": {
-			"id": "076FB407E0DF4067A11019A07078267A",
-			"asnIdentifier": "S2513885",
-			"position": 17000,
-			"depth": 2,
-			"statementNotation": "8.G.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Describe the effect of dilations, translations, rotations, and reflections on two-dimensional figures using coordinates.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/3"
-			],
-			"ancestorIds": [
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"13C64078B32A43B3B9D45DD63275DA68": {
-			"id": "13C64078B32A43B3B9D45DD63275DA68",
-			"asnIdentifier": "S2513884",
-			"position": 16000,
-			"depth": 2,
-			"statementNotation": "8.G.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Understand that a two-dimensional figure is congruent to another if the second can be obtained from the first by a sequence of rotations, reflections, and translations; given two congruent figures, describe a sequence that exhibits the congruence between them.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/2"
-			],
-			"ancestorIds": [
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"CD5FCF1F62FC42A3B4EB8A366630216D": {
-			"id": "CD5FCF1F62FC42A3B4EB8A366630216D",
-			"asnIdentifier": "S2513883",
-			"position": 15000,
-			"depth": 3,
-			"statementNotation": "8.G.1.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Parallel lines are taken to parallel lines.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/1/c"
-			],
-			"ancestorIds": [
-				"C0A9188880234AED81A2B55A8714D08B",
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"58710256D9894C3380F28917BD4A4C95": {
-			"id": "58710256D9894C3380F28917BD4A4C95",
-			"asnIdentifier": "S2513882",
-			"position": 14000,
-			"depth": 3,
-			"statementNotation": "8.G.1.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Angles are taken to angles of the same measure.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/1/b"
-			],
-			"ancestorIds": [
-				"C0A9188880234AED81A2B55A8714D08B",
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"6B62A35A197842EBA48CA5B25578314D": {
-			"id": "6B62A35A197842EBA48CA5B25578314D",
-			"asnIdentifier": "S2513881",
-			"position": 13000,
-			"depth": 3,
-			"statementNotation": "8.G.1.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Lines are taken to lines, and line segments to line segments of the same length.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/1/a"
-			],
-			"ancestorIds": [
-				"C0A9188880234AED81A2B55A8714D08B",
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"C0A9188880234AED81A2B55A8714D08B": {
-			"id": "C0A9188880234AED81A2B55A8714D08B",
-			"asnIdentifier": "S2513880",
-			"position": 12000,
-			"depth": 2,
-			"statementNotation": "8.G.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Verify experimentally the properties of rotations, reflections, and translations:",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A/1"
-			],
-			"ancestorIds": [
-				"EA975A8EF6C64C13941FC17050914BDA",
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"EA975A8EF6C64C13941FC17050914BDA": {
-			"id": "EA975A8EF6C64C13941FC17050914BDA",
-			"asnIdentifier": "S2513879",
-			"position": 11000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Understand congruence and similarity using physical models, transparencies, or geometry software.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/8/G/A"
-			],
-			"ancestorIds": [
-				"87925CB08DF5400D950328AE47B140B3"
-			]
-		},
-		"87925CB08DF5400D950328AE47B140B3": {
-			"id": "87925CB08DF5400D950328AE47B140B3",
-			"asnIdentifier": "S2513836",
-			"position": 10000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Geometry",
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"1B084859BEA245858D0A8160ADE137D4": {
-			"id": "1B084859BEA245858D0A8160ADE137D4",
-			"asnIdentifier": "S2513648",
-			"position": 9000,
-			"depth": 1,
-			"statementNotation": "MP.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Look for and express regularity in repeated reasoning.",
-			"comments": [
-				"Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP8"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"D066FE1EFBDF484E8DC6E8F71A2F8AEE": {
-			"id": "D066FE1EFBDF484E8DC6E8F71A2F8AEE",
-			"asnIdentifier": "S2513647",
-			"position": 8000,
-			"depth": 1,
-			"statementNotation": "MP.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Look for and make use of structure.",
-			"comments": [
-				"Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP7"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"48C90ABD70AB48359FEB0EA30BF032FA": {
-			"id": "48C90ABD70AB48359FEB0EA30BF032FA",
-			"asnIdentifier": "S2513646",
-			"position": 7000,
-			"depth": 1,
-			"statementNotation": "MP.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Attend to precision.",
-			"comments": [
-				"Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP6"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"D070995E6E3D40649B2FE08F75389AEB": {
-			"id": "D070995E6E3D40649B2FE08F75389AEB",
-			"asnIdentifier": "S2513645",
-			"position": 6000,
-			"depth": 1,
-			"statementNotation": "MP.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use appropriate tools strategically.",
-			"comments": [
-				"Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP5"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"1F7445B51F58484BAFF9944D6C11BC82": {
-			"id": "1F7445B51F58484BAFF9944D6C11BC82",
-			"asnIdentifier": "S2513644",
-			"position": 5000,
-			"depth": 1,
-			"statementNotation": "MP.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Model with mathematics.",
-			"comments": [
-				"Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP4"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"BCC726F6B7194687A37B332973EB0110": {
-			"id": "BCC726F6B7194687A37B332973EB0110",
-			"asnIdentifier": "S2513643",
-			"position": 4000,
-			"depth": 1,
-			"statementNotation": "MP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Construct viable arguments and critique the reasoning of others.",
-			"comments": [
-				"Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP3"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"E9A4DE4CA6114DCAA6F14DC7EAB72CB8": {
-			"id": "E9A4DE4CA6114DCAA6F14DC7EAB72CB8",
-			"asnIdentifier": "S2513642",
-			"position": 3000,
-			"depth": 1,
-			"statementNotation": "MP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Reason abstractly and quantitatively.",
-			"comments": [
-				"Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP2"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"B38B798266C547198A7F3841BE337755": {
-			"id": "B38B798266C547198A7F3841BE337755",
-			"asnIdentifier": "S2513641",
-			"position": 2000,
-			"depth": 1,
-			"statementNotation": "MP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Make sense of problems and persevere in solving them.",
-			"comments": [
-				"Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP1"
-			],
-			"ancestorIds": [
-				"C257555EEEB7452689501B4C9A28D90C"
-			]
-		},
-		"C257555EEEB7452689501B4C9A28D90C": {
-			"id": "C257555EEEB7452689501B4C9A28D90C",
-			"asnIdentifier": "S2513640",
-			"position": 1000,
-			"depth": 0,
-			"description": "Standards for Mathematical Practice",
-			"ancestorIds": []
-		}
+	{
+		"displayName": "8.F.2",
+		"content": "Compare properties of two functions each represented in a different way (algebraically, graphically, numerically in tables, or by verbal descriptions).",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Define, evaluate, and compare functions.",
+			"Functions"
+		]
+	},
+	{
+		"displayName": "8.F.1",
+		"content": "Understand that a function is a rule that assigns to each input exactly one output. The graph of a function is the set of ordered pairs consisting of an input and the corresponding output.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Define, evaluate, and compare functions.",
+			"Functions"
+		]
+	},
+	{
+		"displayName": "8.SP.4",
+		"content": "Understand that patterns of association can also be seen in bivariate categorical data by displaying frequencies and relative frequencies in a two-way table. Construct and interpret a two-way table summarizing data on two categorical variables collected from the same subjects. Use relative frequencies calculated for rows or columns to describe possible association between the two variables.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Investigate patterns of association in bivariate data.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "8.SP.3",
+		"content": "Use the equation of a linear model to solve problems in the context of bivariate measurement data, interpreting the slope and intercept.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Investigate patterns of association in bivariate data.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "8.SP.2",
+		"content": "Know that straight lines are widely used to model relationships between two quantitative variables. For scatter plots that suggest a linear association, informally fit a straight line, and informally assess the model fit by judging the closeness of the data points to the line.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Investigate patterns of association in bivariate data.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "8.SP.1",
+		"content": "Construct and interpret scatter plots for bivariate measurement data to investigate patterns of association between two quantities. Describe patterns such as clustering, outliers, positive or negative association, linear association, and nonlinear association.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Investigate patterns of association in bivariate data.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "8.EE.8",
+		"content": "Analyze and solve pairs of simultaneous linear equations.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Analyze and solve linear equations and pairs of simultaneous linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.7",
+		"content": "Solve linear equations in one variable.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Analyze and solve linear equations and pairs of simultaneous linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.6",
+		"content": "Use similar triangles to explain why the slope m is the same between any two distinct points on a non-vertical line in the coordinate plane; derive the equation y = mx for a line through the origin and the equation y = mx + b for a line intercepting the vertical axis at b.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand the connections between proportional relationships, lines, and linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.5",
+		"content": "Graph proportional relationships, interpreting the unit rate as the slope of the graph. Compare two different proportional relationships represented in different ways.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand the connections between proportional relationships, lines, and linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.4",
+		"content": "Perform operations with numbers expressed in scientific notation, including problems where both decimal and scientific notation are used. Use scientific notation and choose units of appropriate size for measurements of very large or very small quantities (e.g., use millimeters per year for seafloor spreading). Interpret scientific notation that has been generated by technology.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Work with radicals and integer exponents.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.3",
+		"content": "Use numbers expressed in the form of a single digit times an integer power of 10 to estimate very large or very small quantities, and to express how many times as much one is than the other.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Work with radicals and integer exponents.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.2",
+		"content": "Use square root and cube root symbols to represent solutions to equations of the form x² = p and x³ = p, where p is a positive rational number. Evaluate square roots of small perfect squares and cube roots of small perfect cubes. Know that √2 is irrational.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Work with radicals and integer exponents.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.1",
+		"content": "Know and apply the properties of integer exponents to generate equivalent numerical expressions.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Work with radicals and integer exponents.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.NS.2",
+		"content": "Use rational approximations of irrational numbers to compare the size of irrational numbers, locate them approximately on a number line diagram, and estimate the value of expressions (e.g., π²).",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Know that there are numbers that are not rational, and approximate them by rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "8.NS.1",
+		"content": "Know that numbers that are not rational are called irrational. Understand informally that every number has a decimal expansion; for rational numbers show that the decimal expansion repeats eventually, and convert a decimal expansion which repeats eventually into a rational number.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Know that there are numbers that are not rational, and approximate them by rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "8.G.9",
+		"content": "Know the formulas for the volumes of cones, cylinders, and spheres and use them to solve real-world and mathematical problems.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Solve real-world and mathematical problems involving volume of cylinders, cones, and spheres.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.8",
+		"content": "Apply the Pythagorean Theorem to find the distance between two points in a coordinate system.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand and apply the Pythagorean Theorem.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.7",
+		"content": "Apply the Pythagorean Theorem to determine unknown side lengths in right triangles in real-world and mathematical problems in two and three dimensions.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand and apply the Pythagorean Theorem.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.6",
+		"content": "Explain a proof of the Pythagorean Theorem and its converse.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand and apply the Pythagorean Theorem.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.5",
+		"content": "Use informal arguments to establish facts about the angle sum and exterior angle of triangles, about the angles created when parallel lines are cut by a transversal, and the angle-angle criterion for similarity of triangles.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.4",
+		"content": "Understand that a two-dimensional figure is similar to another if the second can be obtained from the first by a sequence of rotations, reflections, translations, and dilations; given two similar two-dimensional figures, describe a sequence that exhibits the similarity between them.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.3",
+		"content": "Describe the effect of dilations, translations, rotations, and reflections on two-dimensional figures using coordinates.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.2",
+		"content": "Understand that a two-dimensional figure is congruent to another if the second can be obtained from the first by a sequence of rotations, reflections, and translations; given two congruent figures, describe a sequence that exhibits the congruence between them.",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.1",
+		"content": "Verify experimentally the properties of rotations, reflections, and translations:",
+		"tags": [
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.EE.8.c",
+		"content": "Solve real-world and mathematical problems leading to two linear equations in two variables.",
+		"tags": [
+			"8.ee.8",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Analyze and solve pairs of simultaneous linear equations.",
+			"Analyze and solve linear equations and pairs of simultaneous linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.8.b",
+		"content": "Solve systems of two linear equations in two variables algebraically, and estimate solutions by graphing the equations. Solve simple cases by inspection.",
+		"tags": [
+			"8.ee.8",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Analyze and solve pairs of simultaneous linear equations.",
+			"Analyze and solve linear equations and pairs of simultaneous linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.8.a",
+		"content": "Understand that solutions to a system of two linear equations in two variables correspond to points of intersection of their graphs, because points of intersection satisfy both equations simultaneously.",
+		"tags": [
+			"8.ee.8",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Analyze and solve pairs of simultaneous linear equations.",
+			"Analyze and solve linear equations and pairs of simultaneous linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.7.b",
+		"content": "Solve linear equations with rational number coefficients, including equations whose solutions require expanding expressions using the distributive property and collecting like terms.",
+		"tags": [
+			"8.ee.7",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Solve linear equations in one variable.",
+			"Analyze and solve linear equations and pairs of simultaneous linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.EE.7.a",
+		"content": "Give examples of linear equations in one variable with one solution, infinitely many solutions, or no solutions. Show which of these possibilities is the case by successively transforming the given equation into simpler forms, until an equivalent equation of the form x = a, a = a, or a = b results (where a and b are different numbers).",
+		"tags": [
+			"8.ee.7",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Solve linear equations in one variable.",
+			"Analyze and solve linear equations and pairs of simultaneous linear equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "8.G.1.c",
+		"content": "Parallel lines are taken to parallel lines.",
+		"tags": [
+			"8.g.1",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Verify experimentally the properties of rotations, reflections, and translations:",
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.1.b",
+		"content": "Angles are taken to angles of the same measure.",
+		"tags": [
+			"8.g.1",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Verify experimentally the properties of rotations, reflections, and translations:",
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "8.G.1.a",
+		"content": "Lines are taken to lines, and line segments to line segments of the same length.",
+		"tags": [
+			"8.g.1",
+			"mathematics",
+			"grade 8"
+		],
+		"meta": [
+			"Verify experimentally the properties of rotations, reflections, and translations:",
+			"Understand congruence and similarity using physical models, transparencies, or geometry software.",
+			"Geometry"
+		]
 	}
-}
+]

@@ -1,1085 +1,470 @@
-{
-	"id": "B1339AB05F0347E79200FCA63240F3B2_D2513639_grade-03",
-	"title": "Grade 3",
-	"subject": "Mathematics",
-	"educationLevels": [
-		"03"
-	],
-	"license": {
-		"title": "CC BY 3.0 US",
-		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
-		"rightsHolder": "Desire2Learn Incorporated"
+[
+	{
+		"displayName": "3.NF.3",
+		"content": "Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
 	},
-	"rightsHolder": null,
-	"document": {
-		"id": "D2513639",
-		"valid": "2010",
-		"title": "California Common Core State Standards: Mathematics",
-		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf",
-		"asnIdentifier": "D2513639",
-		"publicationStatus": "Published"
+	{
+		"displayName": "3.NF.2",
+		"content": "Understand a fraction as a number on the number line; represent fractions on a number line diagram.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
 	},
-	"jurisdiction": {
-		"id": "B1339AB05F0347E79200FCA63240F3B2",
-		"title": "California"
+	{
+		"displayName": "3.NF.1",
+		"content": "Understand a fraction 1/b as the quantity formed by 1 part when a whole is partitioned into b equal parts; understand a fraction a/b as the quantity formed by a parts of size 1/b.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
 	},
-	"standards": {
-		"D279D2DF521E498FAA0E6235AA04390F": {
-			"id": "D279D2DF521E498FAA0E6235AA04390F",
-			"asnIdentifier": "S2513904",
-			"position": 62000,
-			"depth": 3,
-			"statementNotation": "3.NF.3.d",
-			"statementLabel": "Component",
-			"listId": "d.",
-			"description": "Compare two fractions with the same numerator or the same denominator by reasoning about their size. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with the symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/3/d"
-			],
-			"ancestorIds": [
-				"95E9D3E53BE74C1C9B1D1D4FAEB03972",
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"8A24410511834B909D393DE0245C725C": {
-			"id": "8A24410511834B909D393DE0245C725C",
-			"asnIdentifier": "S2513903",
-			"position": 61000,
-			"depth": 3,
-			"statementNotation": "3.NF.3.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Express whole numbers as fractions, and recognize fractions that are equivalent to whole numbers.",
-			"comments": [
-				"Example: express 3 in the form 3 = 3/1; recognize that 6/1 = 6.",
-				"Example: locate 4/4 and 1 at the same point of a number line diagram."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/3/c"
-			],
-			"ancestorIds": [
-				"95E9D3E53BE74C1C9B1D1D4FAEB03972",
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"BCCF01AD34A34B0D97005F482CCBCB64": {
-			"id": "BCCF01AD34A34B0D97005F482CCBCB64",
-			"asnIdentifier": "S2513902",
-			"position": 60000,
-			"depth": 3,
-			"statementNotation": "3.NF.3.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Recognize and generate simple equivalent fractions, e.g., 1/2 = 2/4, 4/6 = 2/3). Explain why the fractions are equivalent, e.g., by using a visual fraction model.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/3/b"
-			],
-			"ancestorIds": [
-				"95E9D3E53BE74C1C9B1D1D4FAEB03972",
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"0F6D173B12574C93982BA1FC61F11EB4": {
-			"id": "0F6D173B12574C93982BA1FC61F11EB4",
-			"asnIdentifier": "S2513901",
-			"position": 59000,
-			"depth": 3,
-			"statementNotation": "3.NF.3.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Understand two fractions as equivalent (equal) if they are the same size, or the same point on a number line.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/3/a"
-			],
-			"ancestorIds": [
-				"95E9D3E53BE74C1C9B1D1D4FAEB03972",
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"95E9D3E53BE74C1C9B1D1D4FAEB03972": {
-			"id": "95E9D3E53BE74C1C9B1D1D4FAEB03972",
-			"asnIdentifier": "S2513900",
-			"position": 58000,
-			"depth": 2,
-			"statementNotation": "3.NF.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/3"
-			],
-			"ancestorIds": [
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"52793ACD92B04F859145C7E4FD067878": {
-			"id": "52793ACD92B04F859145C7E4FD067878",
-			"asnIdentifier": "S2513899",
-			"position": 57000,
-			"depth": 3,
-			"statementNotation": "3.NF.2.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Represent a fraction a/b on a number line diagram by marking off a lengths 1/b from 0. Recognize that the resulting interval has size a/b and that its endpoint locates the number a/b on the number line.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/2/b"
-			],
-			"ancestorIds": [
-				"6F00E8BA95A64109B863FB6DBE5502E6",
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"567F40B809744000983C0341371B4770": {
-			"id": "567F40B809744000983C0341371B4770",
-			"asnIdentifier": "S2513898",
-			"position": 56000,
-			"depth": 3,
-			"statementNotation": "3.NF.2.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Represent a fraction 1/b on a number line diagram by defining the interval from 0 to 1 as the whole and partitioning it into b equal parts. Recognize that each part has size 1/b and that the endpoint of the part based at 0 locates the number 1/b on the number line.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/2/a"
-			],
-			"ancestorIds": [
-				"6F00E8BA95A64109B863FB6DBE5502E6",
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"6F00E8BA95A64109B863FB6DBE5502E6": {
-			"id": "6F00E8BA95A64109B863FB6DBE5502E6",
-			"asnIdentifier": "S2513897",
-			"position": 55000,
-			"depth": 2,
-			"statementNotation": "3.NF.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Understand a fraction as a number on the number line; represent fractions on a number line diagram.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/2"
-			],
-			"ancestorIds": [
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"0D68CC9CD0C44C8780C8E6A89C1BD1EA": {
-			"id": "0D68CC9CD0C44C8780C8E6A89C1BD1EA",
-			"asnIdentifier": "S2513896",
-			"position": 54000,
-			"depth": 2,
-			"statementNotation": "3.NF.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Understand a fraction 1/b as the quantity formed by 1 part when a whole is partitioned into b equal parts; understand a fraction a/b as the quantity formed by a parts of size 1/b.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A/1"
-			],
-			"ancestorIds": [
-				"137AE179BE544F6F874828A7AB50C9FA",
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"137AE179BE544F6F874828A7AB50C9FA": {
-			"id": "137AE179BE544F6F874828A7AB50C9FA",
-			"asnIdentifier": "S2513895",
-			"position": 53000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Develop understanding of fractions as numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NF/A"
-			],
-			"ancestorIds": [
-				"7BD6987B8DB648CD82B653F1E6D7D84F"
-			]
-		},
-		"7BD6987B8DB648CD82B653F1E6D7D84F": {
-			"id": "7BD6987B8DB648CD82B653F1E6D7D84F",
-			"asnIdentifier": "S2513894",
-			"position": 52000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Number and Operations—Fractions",
-			"comments": [
-				"Grade 3 expectations in this domain are limited to fractions with denominators 2, 3, 4, 6, and 8.",
-				"Grade 4 expectations in this domain are limited to fractions with denominators 2, 3, 4, 5, 6, 8, 10, 12, and 100"
-			],
-			"ancestorIds": [
-				"B8E1FC3CAC2D4440AF1DDF4E9AE22850"
-			]
-		},
-		"AD01A2F1024049E3B3EA16891444D13F": {
-			"id": "AD01A2F1024049E3B3EA16891444D13F",
-			"asnIdentifier": "S2513855",
-			"position": 51000,
-			"depth": 2,
-			"statementNotation": "3.G.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Partition shapes into parts with equal areas. Express the area of each part as a unit fraction of the whole.",
-			"comments": [
-				"For example, partition a shape into 4 parts with equal area, and describe the area of each part as 1/4 of the area of the shape."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/G/A/2"
-			],
-			"ancestorIds": [
-				"E1534DEE9F1C4383A3BDBA55C2B348AD",
-				"B8E1FC3CAC2D4440AF1DDF4E9AE22850"
-			]
-		},
-		"33D2F4160EB242729ED6112892D9A4FE": {
-			"id": "33D2F4160EB242729ED6112892D9A4FE",
-			"asnIdentifier": "S2513854",
-			"position": 50000,
-			"depth": 2,
-			"statementNotation": "3.G.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Understand that shapes in different categories (e.g., rhombuses, rectangles, and others) may share attributes (e.g., having four sides), and that the shared attributes can define a larger category (e.g., quadrilaterals). Recognize rhombuses, rectangles, and squares as examples of quadrilaterals, and draw examples of quadrilaterals that do not belong to any of these subcategories.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/G/A/1"
-			],
-			"ancestorIds": [
-				"E1534DEE9F1C4383A3BDBA55C2B348AD",
-				"B8E1FC3CAC2D4440AF1DDF4E9AE22850"
-			]
-		},
-		"E1534DEE9F1C4383A3BDBA55C2B348AD": {
-			"id": "E1534DEE9F1C4383A3BDBA55C2B348AD",
-			"asnIdentifier": "S2513853",
-			"position": 49000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Reason with shapes and their attributes.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/G/A"
-			],
-			"ancestorIds": [
-				"B8E1FC3CAC2D4440AF1DDF4E9AE22850"
-			]
-		},
-		"B8E1FC3CAC2D4440AF1DDF4E9AE22850": {
-			"id": "B8E1FC3CAC2D4440AF1DDF4E9AE22850",
-			"asnIdentifier": "S2513836",
-			"position": 48000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Geometry",
-			"ancestorIds": [
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"8B388909C2D24E4CB4B0CA2FB3FDB646": {
-			"id": "8B388909C2D24E4CB4B0CA2FB3FDB646",
-			"asnIdentifier": "S2513814",
-			"position": 47000,
-			"depth": 2,
-			"statementNotation": "3.MD.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Solve real world and mathematical problems involving perimeters of polygons, including finding the perimeter given the side lengths, finding an unknown side length, and exhibiting rectangles with the same perimeter and different areas or with the same area and different perimeters.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/D/8"
-			],
-			"ancestorIds": [
-				"6F8285F2CA0045B19064F55C11C555CE",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"6F8285F2CA0045B19064F55C11C555CE": {
-			"id": "6F8285F2CA0045B19064F55C11C555CE",
-			"asnIdentifier": "S2513813",
-			"position": 46000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Geometric measurement: recognize perimeter as an attribute of plane figures and distinguish between linear and area measures.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/D"
-			],
-			"ancestorIds": [
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"36120C88E6574DCE853653F6B6B5EBD1": {
-			"id": "36120C88E6574DCE853653F6B6B5EBD1",
-			"asnIdentifier": "S2513812",
-			"position": 45000,
-			"depth": 3,
-			"statementNotation": "3.MD.7.d",
-			"statementLabel": "Component",
-			"listId": "d.",
-			"description": "Recognize area as additive. Find areas of rectilinear figures by decomposing them into non-overlapping rectangles and adding the areas of the non-overlapping parts, applying this technique to solve real world problems.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/7/d"
-			],
-			"ancestorIds": [
-				"6082751A5FFF4EEF9DA1D40718C77C36",
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"FF3AB0F6A7494077A5DE9ECEB611AE12": {
-			"id": "FF3AB0F6A7494077A5DE9ECEB611AE12",
-			"asnIdentifier": "S2513811",
-			"position": 44000,
-			"depth": 3,
-			"statementNotation": "3.MD.7.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Use tiling to show in a concrete case that the area of a rectangle with whole-number side lengths a and b + c is the sum of a × b and a × c. Use area models to represent the distributive property in mathematical reasoning.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/7/c"
-			],
-			"ancestorIds": [
-				"6082751A5FFF4EEF9DA1D40718C77C36",
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"27D6EC4273EA4B99BB55E9B2ECE05443": {
-			"id": "27D6EC4273EA4B99BB55E9B2ECE05443",
-			"asnIdentifier": "S2513810",
-			"position": 43000,
-			"depth": 3,
-			"statementNotation": "3.MD.7.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Multiply side lengths to find areas of rectangles with whole-number side lengths in the context of solving real world and mathematical problems, and represent whole-number products as rectangular areas in mathematical reasoning.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/7/b"
-			],
-			"ancestorIds": [
-				"6082751A5FFF4EEF9DA1D40718C77C36",
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"0DB6E803D6694AF5A055F8A0532B1EC9": {
-			"id": "0DB6E803D6694AF5A055F8A0532B1EC9",
-			"asnIdentifier": "S2513809",
-			"position": 42000,
-			"depth": 3,
-			"statementNotation": "3.MD.7.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Find the area of a rectangle with whole-number side lengths by tiling it, and show that the area is the same as would be found by multiplying the side lengths.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/7/a"
-			],
-			"ancestorIds": [
-				"6082751A5FFF4EEF9DA1D40718C77C36",
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"6082751A5FFF4EEF9DA1D40718C77C36": {
-			"id": "6082751A5FFF4EEF9DA1D40718C77C36",
-			"asnIdentifier": "S2513808",
-			"position": 41000,
-			"depth": 2,
-			"statementNotation": "3.MD.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Relate area to the operations of multiplication and addition.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/7"
-			],
-			"ancestorIds": [
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"3DD2EE70CCF94119BA1EF80F7C1614B6": {
-			"id": "3DD2EE70CCF94119BA1EF80F7C1614B6",
-			"asnIdentifier": "S2513807",
-			"position": 40000,
-			"depth": 2,
-			"statementNotation": "3.MD.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Measure areas by counting unit squares (square cm, square m, square in, square ft, and improvised units).",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/6"
-			],
-			"ancestorIds": [
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"5B99A1D0DF4E4DD4B12924855CECF797": {
-			"id": "5B99A1D0DF4E4DD4B12924855CECF797",
-			"asnIdentifier": "S2513806",
-			"position": 39000,
-			"depth": 3,
-			"statementNotation": "3.MD.5.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "A plane figure which can be covered without gaps or overlaps by n unit squares is said to have an area of n square units.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/5/b"
-			],
-			"ancestorIds": [
-				"A7D24EAABFA9400FA784D4CAFAB4C523",
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"646EE232A764464A9A405CB6F30DBD0E": {
-			"id": "646EE232A764464A9A405CB6F30DBD0E",
-			"asnIdentifier": "S2513805",
-			"position": 38000,
-			"depth": 3,
-			"statementNotation": "3.MD.5.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "A square with side length 1 unit, called \"a unit square,\" is said to have \"one square unit\" of area, and can be used to measure area.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/5/a"
-			],
-			"ancestorIds": [
-				"A7D24EAABFA9400FA784D4CAFAB4C523",
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"A7D24EAABFA9400FA784D4CAFAB4C523": {
-			"id": "A7D24EAABFA9400FA784D4CAFAB4C523",
-			"asnIdentifier": "S2513804",
-			"position": 37000,
-			"depth": 2,
-			"statementNotation": "3.MD.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Recognize area as an attribute of plane figures and understand concepts of area measurement.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C/5"
-			],
-			"ancestorIds": [
-				"4027DD7266CE426185EAE8456FC283C2",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"4027DD7266CE426185EAE8456FC283C2": {
-			"id": "4027DD7266CE426185EAE8456FC283C2",
-			"asnIdentifier": "S2513803",
-			"position": 36000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/C"
-			],
-			"ancestorIds": [
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"DCCCC714147543C99D33EA0BCAEA3C6E": {
-			"id": "DCCCC714147543C99D33EA0BCAEA3C6E",
-			"asnIdentifier": "S2513784",
-			"position": 35000,
-			"depth": 2,
-			"statementNotation": "3.MD.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Generate measurement data by measuring lengths using rulers marked with halves and fourths of an inch. Show the data by making a line plot, where the horizontal scale is marked off in appropriate units— whole numbers, halves, or quarters.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/B/4"
-			],
-			"ancestorIds": [
-				"A8C0C36AC25747FA9D86CBF472C4BCDB",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"BFCFEDFA9A004D829070F010A355956A": {
-			"id": "BFCFEDFA9A004D829070F010A355956A",
-			"asnIdentifier": "S2513783",
-			"position": 34000,
-			"depth": 2,
-			"statementNotation": "3.MD.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Draw a scaled picture graph and a scaled bar graph to represent a data set with several categories. Solve one- and two-step \"how many more\" and \"how many less\" problems using information presented in scaled bar graphs.",
-			"comments": [
-				"For example, draw a bar graph in which each square in the bar graph might represent 5 pets."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/B/3"
-			],
-			"ancestorIds": [
-				"A8C0C36AC25747FA9D86CBF472C4BCDB",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"A8C0C36AC25747FA9D86CBF472C4BCDB": {
-			"id": "A8C0C36AC25747FA9D86CBF472C4BCDB",
-			"asnIdentifier": "S2513782",
-			"position": 33000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Represent and interpret data.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/B"
-			],
-			"ancestorIds": [
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"EC554FED7CBD429F822E456E25C7062F": {
-			"id": "EC554FED7CBD429F822E456E25C7062F",
-			"asnIdentifier": "S2513802",
-			"position": 32000,
-			"depth": 2,
-			"statementNotation": "3.MD.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Measure and estimate liquid volumes and masses of objects using standard units of grams (g), kilograms (kg), and liters (l). Add, subtract, multiply, or divide to solve one-step word problems involving masses or volumes that are given in the same units, e.g., by using drawings (such as a beaker with a measurement scale) to represent the problem.",
-			"comments": [
-				"Excludes multiplicative comparison problems (problems involving notions of \"times as much\";",
-				"Excludes compound units such as cm³ and finding the geometric volume of a container."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/A/2"
-			],
-			"ancestorIds": [
-				"40C5061028B14198927F1AB59C3FAF7C",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"9C8C24D54B3D4CEC8224C26424A482F0": {
-			"id": "9C8C24D54B3D4CEC8224C26424A482F0",
-			"asnIdentifier": "S2513801",
-			"position": 31000,
-			"depth": 2,
-			"statementNotation": "3.MD.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Tell and write time to the nearest minute and measure time intervals in minutes. Solve word problems involving addition and subtraction of time intervals in minutes, e.g., by representing the problem on a number line diagram.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/A/1"
-			],
-			"ancestorIds": [
-				"40C5061028B14198927F1AB59C3FAF7C",
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"40C5061028B14198927F1AB59C3FAF7C": {
-			"id": "40C5061028B14198927F1AB59C3FAF7C",
-			"asnIdentifier": "S2513800",
-			"position": 30000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Solve problems involving measurement and estimation of intervals of time, liquid volumes, and masses of objects.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/MD/A"
-			],
-			"ancestorIds": [
-				"FE259FA262D441A98C97350559097732"
-			]
-		},
-		"FE259FA262D441A98C97350559097732": {
-			"id": "FE259FA262D441A98C97350559097732",
-			"asnIdentifier": "S2513766",
-			"position": 29000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Measurement and Data",
-			"ancestorIds": [
-				"48869EE79BA149378A5C8F7D6B1978AE"
-			]
-		},
-		"985BC2C5BE3445E0976C3469D5C44908": {
-			"id": "985BC2C5BE3445E0976C3469D5C44908",
-			"asnIdentifier": "S2513746",
-			"position": 28000,
-			"depth": 2,
-			"statementNotation": "3.NBT.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Multiply one-digit whole numbers by multiples of 10 in the range 10—90 (e.g., 9 × 80, 5 × 60) using strategies based on place value and properties of operations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NBT/A/3"
-			],
-			"ancestorIds": [
-				"FA1798E9F06041B7AB13C4CCFBDDA9FF",
-				"48869EE79BA149378A5C8F7D6B1978AE"
-			]
-		},
-		"9314F74097CA4E79A9E374A62818F1CD": {
-			"id": "9314F74097CA4E79A9E374A62818F1CD",
-			"asnIdentifier": "S2513745",
-			"position": 27000,
-			"depth": 2,
-			"statementNotation": "3.NBT.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Fluently add and subtract within 1000 using strategies and algorithms based on place value, properties of operations, and/or the relationship between addition and subtraction.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NBT/A/2"
-			],
-			"ancestorIds": [
-				"FA1798E9F06041B7AB13C4CCFBDDA9FF",
-				"48869EE79BA149378A5C8F7D6B1978AE"
-			]
-		},
-		"2B85236AEBD3478DBEAA8FAF9E058EF0": {
-			"id": "2B85236AEBD3478DBEAA8FAF9E058EF0",
-			"asnIdentifier": "S2513744",
-			"position": 26000,
-			"depth": 2,
-			"statementNotation": "3.NBT.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Use place value understanding to round whole numbers to the nearest 10 or 100.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NBT/A/1"
-			],
-			"ancestorIds": [
-				"FA1798E9F06041B7AB13C4CCFBDDA9FF",
-				"48869EE79BA149378A5C8F7D6B1978AE"
-			]
-		},
-		"FA1798E9F06041B7AB13C4CCFBDDA9FF": {
-			"id": "FA1798E9F06041B7AB13C4CCFBDDA9FF",
-			"asnIdentifier": "S2513743",
-			"position": 25000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Use place value understanding and properties of operations to perform multi-digit arithmetic.",
-			"comments": [
-				"A range of algorithms may be used."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/NBT/A"
-			],
-			"ancestorIds": [
-				"48869EE79BA149378A5C8F7D6B1978AE"
-			]
-		},
-		"48869EE79BA149378A5C8F7D6B1978AE": {
-			"id": "48869EE79BA149378A5C8F7D6B1978AE",
-			"asnIdentifier": "S2513715",
-			"position": 24000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Number and Operations in Base Ten",
-			"comments": [
-				"Grade 4 expectations in this domain are limited to whole numbers less than or equal to 1,000,000."
-			],
-			"ancestorIds": [
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"EB125ED09B1B4C178C805B7E10D11451": {
-			"id": "EB125ED09B1B4C178C805B7E10D11451",
-			"asnIdentifier": "S2513701",
-			"position": 23000,
-			"depth": 2,
-			"statementNotation": "3.OA.9",
-			"statementLabel": "Standard",
-			"listId": "9.",
-			"description": "Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations.",
-			"comments": [
-				"For example, observe that 4 times a number is always even, and explain why 4 times a number can be decomposed into two equal addends."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/D/9"
-			],
-			"ancestorIds": [
-				"5FB1DA8A585445D3910750A16FC908DD",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"1D8DA0347DBD47859291F99072ACC902": {
-			"id": "1D8DA0347DBD47859291F99072ACC902",
-			"asnIdentifier": "S2513700",
-			"position": 22000,
-			"depth": 2,
-			"statementNotation": "3.OA.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Solve two-step word problems using the four operations. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.",
-			"comments": [
-				"This standard is limited to problems posed with whole numbers and having whole-number answers; students should know how to perform operations in the conventional order when there are no parentheses to specify a particular order (Order of Operations)."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/D/8"
-			],
-			"ancestorIds": [
-				"5FB1DA8A585445D3910750A16FC908DD",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"5FB1DA8A585445D3910750A16FC908DD": {
-			"id": "5FB1DA8A585445D3910750A16FC908DD",
-			"asnIdentifier": "S2513699",
-			"position": 21000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Solve problems involving the four operations, and identify and explain patterns in arithmetic.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/D"
-			],
-			"ancestorIds": [
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"87A25D0106BB4D259F2CBD375AFF27C6": {
-			"id": "87A25D0106BB4D259F2CBD375AFF27C6",
-			"asnIdentifier": "S2513698",
-			"position": 20000,
-			"depth": 2,
-			"statementNotation": "3.OA.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division (e.g., knowing that 8 × 5 = 40, one knows 40 ÷ 5 = 8) or properties of operations. By the end of Grade 3, know from memory all products of two one-digit numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/C/7"
-			],
-			"ancestorIds": [
-				"C4DA68838D4F4FD1B5A8F2328683C01A",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"C4DA68838D4F4FD1B5A8F2328683C01A": {
-			"id": "C4DA68838D4F4FD1B5A8F2328683C01A",
-			"asnIdentifier": "S2513697",
-			"position": 19000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Multiply and divide within 100.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/C"
-			],
-			"ancestorIds": [
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"17519DB64D404072801C515E0159881B": {
-			"id": "17519DB64D404072801C515E0159881B",
-			"asnIdentifier": "S2513696",
-			"position": 18000,
-			"depth": 2,
-			"statementNotation": "3.OA.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Understand division as an unknown-factor problem.",
-			"comments": [
-				"For example, find 32 ÷ 8 by finding the number that makes 32 when multiplied by 8."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/B/6"
-			],
-			"ancestorIds": [
-				"08356712EE2E4AFD9DACE657614AC1C0",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"DAA5BAAB172047D385EBC1EFC9013ED5": {
-			"id": "DAA5BAAB172047D385EBC1EFC9013ED5",
-			"asnIdentifier": "S2513695",
-			"position": 17000,
-			"depth": 2,
-			"statementNotation": "3.OA.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Apply properties of operations as strategies to multiply and divide.",
-			"comments": [
-				"Students need not use formal terms for these properties.",
-				"Example: Knowing that 8 × 5 = 40 and 8 × 2 = 16, one can find 8 × 7 as 8 × (5 + 2) = (8 × 5) + (8 × 2) = 40 + 16 = 56. (Distributive property.)",
-				"Example: If 6 × 4 = 24 is known, then 4 × 6 = 24 is also known (Commutative property of multiplication.) 3 × 5 × 2 can be found by 3 × 5 = 15, then 15 × 2 = 30, or by 5 × 2 = 10, then 3 × 10 = 30. (Associative property of multiplication.)"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/B/5"
-			],
-			"ancestorIds": [
-				"08356712EE2E4AFD9DACE657614AC1C0",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"08356712EE2E4AFD9DACE657614AC1C0": {
-			"id": "08356712EE2E4AFD9DACE657614AC1C0",
-			"asnIdentifier": "S2513694",
-			"position": 16000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Understand properties of multiplication and the relationship between multiplication and division.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/B"
-			],
-			"ancestorIds": [
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"82F7C1208CA64DBE891C3FB03766DC11": {
-			"id": "82F7C1208CA64DBE891C3FB03766DC11",
-			"asnIdentifier": "S2513693",
-			"position": 15000,
-			"depth": 2,
-			"statementNotation": "3.OA.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Determine the unknown whole number in a multiplication or division equation relating three whole numbers.",
-			"comments": [
-				"For example, determine the unknown number that makes the equation true in each of the equations 8 × ? = 48, 5 = <img src=\"http://purl.org/ASN/resources/images/rectangle_vertical.gif\" style=\"vertical-align: middle;\" /> ÷ 3, 6 × 6 = ?."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/A/4"
-			],
-			"ancestorIds": [
-				"4B482EB8DC934A62AD0FB15A71535444",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"EA8D5746881449659DDF75C2FE5656CC": {
-			"id": "EA8D5746881449659DDF75C2FE5656CC",
-			"asnIdentifier": "S2513692",
-			"position": 14000,
-			"depth": 2,
-			"statementNotation": "3.OA.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/A/3"
-			],
-			"ancestorIds": [
-				"4B482EB8DC934A62AD0FB15A71535444",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"3F6C5D396E8C4C2CA1E42518611C2E81": {
-			"id": "3F6C5D396E8C4C2CA1E42518611C2E81",
-			"asnIdentifier": "S2513691",
-			"position": 13000,
-			"depth": 2,
-			"statementNotation": "3.OA.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Interpret whole-number quotients of whole numbers, e.g., interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each.",
-			"comments": [
-				"For example, describe a context in which a number of shares or a number of groups can be expressed as 56 ÷ 8."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/A/2"
-			],
-			"ancestorIds": [
-				"4B482EB8DC934A62AD0FB15A71535444",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"6A5063C0BFEE46ACAEE96D39C08797C9": {
-			"id": "6A5063C0BFEE46ACAEE96D39C08797C9",
-			"asnIdentifier": "S2513690",
-			"position": 12000,
-			"depth": 2,
-			"statementNotation": "3.OA.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each.",
-			"comments": [
-				"For example, describe a context in which a total number of objects can be expressed as 5 × 7."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/A/1"
-			],
-			"ancestorIds": [
-				"4B482EB8DC934A62AD0FB15A71535444",
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"4B482EB8DC934A62AD0FB15A71535444": {
-			"id": "4B482EB8DC934A62AD0FB15A71535444",
-			"asnIdentifier": "S2513689",
-			"position": 11000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Represent and solve problems involving multiplication and division.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/3/OA/A"
-			],
-			"ancestorIds": [
-				"D32D8650D0554BA986F60145CB1882BC"
-			]
-		},
-		"D32D8650D0554BA986F60145CB1882BC": {
-			"id": "D32D8650D0554BA986F60145CB1882BC",
-			"asnIdentifier": "S2513663",
-			"position": 10000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Operations and Algebraic Thinking",
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"228344A377964FD0A6291338CA23EA30": {
-			"id": "228344A377964FD0A6291338CA23EA30",
-			"asnIdentifier": "S2513648",
-			"position": 9000,
-			"depth": 1,
-			"statementNotation": "MP.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Look for and express regularity in repeated reasoning.",
-			"comments": [
-				"Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP8"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"55C1CDC580714D9B9F8C24F3350D4BD5": {
-			"id": "55C1CDC580714D9B9F8C24F3350D4BD5",
-			"asnIdentifier": "S2513647",
-			"position": 8000,
-			"depth": 1,
-			"statementNotation": "MP.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Look for and make use of structure.",
-			"comments": [
-				"Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP7"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"FADBFEEB07474381AD3CE5D0E8C9DA59": {
-			"id": "FADBFEEB07474381AD3CE5D0E8C9DA59",
-			"asnIdentifier": "S2513646",
-			"position": 7000,
-			"depth": 1,
-			"statementNotation": "MP.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Attend to precision.",
-			"comments": [
-				"Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP6"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"F0332C1C0BE44C62881AF59D724D8C4E": {
-			"id": "F0332C1C0BE44C62881AF59D724D8C4E",
-			"asnIdentifier": "S2513645",
-			"position": 6000,
-			"depth": 1,
-			"statementNotation": "MP.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use appropriate tools strategically.",
-			"comments": [
-				"Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP5"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"6838757434CB43AE8928D09BF2CF4BFC": {
-			"id": "6838757434CB43AE8928D09BF2CF4BFC",
-			"asnIdentifier": "S2513644",
-			"position": 5000,
-			"depth": 1,
-			"statementNotation": "MP.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Model with mathematics.",
-			"comments": [
-				"Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP4"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"1152C33FA2E84BC49E27C1AD5BCC5803": {
-			"id": "1152C33FA2E84BC49E27C1AD5BCC5803",
-			"asnIdentifier": "S2513643",
-			"position": 4000,
-			"depth": 1,
-			"statementNotation": "MP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Construct viable arguments and critique the reasoning of others.",
-			"comments": [
-				"Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP3"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"6FA45039A2344B64BC158021A55CE42C": {
-			"id": "6FA45039A2344B64BC158021A55CE42C",
-			"asnIdentifier": "S2513642",
-			"position": 3000,
-			"depth": 1,
-			"statementNotation": "MP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Reason abstractly and quantitatively.",
-			"comments": [
-				"Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP2"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"E14E861CD2524D8D8CDCD970BA7E4628": {
-			"id": "E14E861CD2524D8D8CDCD970BA7E4628",
-			"asnIdentifier": "S2513641",
-			"position": 2000,
-			"depth": 1,
-			"statementNotation": "MP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Make sense of problems and persevere in solving them.",
-			"comments": [
-				"Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP1"
-			],
-			"ancestorIds": [
-				"788138FE95FE4B1B83D93B02E4689E28"
-			]
-		},
-		"788138FE95FE4B1B83D93B02E4689E28": {
-			"id": "788138FE95FE4B1B83D93B02E4689E28",
-			"asnIdentifier": "S2513640",
-			"position": 1000,
-			"depth": 0,
-			"description": "Standards for Mathematical Practice",
-			"ancestorIds": []
-		}
+	{
+		"displayName": "3.G.2",
+		"content": "Partition shapes into parts with equal areas. Express the area of each part as a unit fraction of the whole.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Reason with shapes and their attributes.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "3.G.1",
+		"content": "Understand that shapes in different categories (e.g., rhombuses, rectangles, and others) may share attributes (e.g., having four sides), and that the shared attributes can define a larger category (e.g., quadrilaterals). Recognize rhombuses, rectangles, and squares as examples of quadrilaterals, and draw examples of quadrilaterals that do not belong to any of these subcategories.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Reason with shapes and their attributes.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "3.MD.8",
+		"content": "Solve real world and mathematical problems involving perimeters of polygons, including finding the perimeter given the side lengths, finding an unknown side length, and exhibiting rectangles with the same perimeter and different areas or with the same area and different perimeters.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Geometric measurement: recognize perimeter as an attribute of plane figures and distinguish between linear and area measures.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.7",
+		"content": "Relate area to the operations of multiplication and addition.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.6",
+		"content": "Measure areas by counting unit squares (square cm, square m, square in, square ft, and improvised units).",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.5",
+		"content": "Recognize area as an attribute of plane figures and understand concepts of area measurement.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.4",
+		"content": "Generate measurement data by measuring lengths using rulers marked with halves and fourths of an inch. Show the data by making a line plot, where the horizontal scale is marked off in appropriate units— whole numbers, halves, or quarters.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Represent and interpret data.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.3",
+		"content": "Draw a scaled picture graph and a scaled bar graph to represent a data set with several categories. Solve one- and two-step \"how many more\" and \"how many less\" problems using information presented in scaled bar graphs.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Represent and interpret data.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.2",
+		"content": "Measure and estimate liquid volumes and masses of objects using standard units of grams (g), kilograms (kg), and liters (l). Add, subtract, multiply, or divide to solve one-step word problems involving masses or volumes that are given in the same units, e.g., by using drawings (such as a beaker with a measurement scale) to represent the problem.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Solve problems involving measurement and estimation of intervals of time, liquid volumes, and masses of objects.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.1",
+		"content": "Tell and write time to the nearest minute and measure time intervals in minutes. Solve word problems involving addition and subtraction of time intervals in minutes, e.g., by representing the problem on a number line diagram.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Solve problems involving measurement and estimation of intervals of time, liquid volumes, and masses of objects.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.NBT.3",
+		"content": "Multiply one-digit whole numbers by multiples of 10 in the range 10—90 (e.g., 9 × 80, 5 × 60) using strategies based on place value and properties of operations.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "3.NBT.2",
+		"content": "Fluently add and subtract within 1000 using strategies and algorithms based on place value, properties of operations, and/or the relationship between addition and subtraction.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "3.NBT.1",
+		"content": "Use place value understanding to round whole numbers to the nearest 10 or 100.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Use place value understanding and properties of operations to perform multi-digit arithmetic.",
+			"Number and Operations in Base Ten"
+		]
+	},
+	{
+		"displayName": "3.OA.9",
+		"content": "Identify arithmetic patterns (including patterns in the addition table or multiplication table), and explain them using properties of operations.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Solve problems involving the four operations, and identify and explain patterns in arithmetic.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.8",
+		"content": "Solve two-step word problems using the four operations. Represent these problems using equations with a letter standing for the unknown quantity. Assess the reasonableness of answers using mental computation and estimation strategies including rounding.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Solve problems involving the four operations, and identify and explain patterns in arithmetic.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.7",
+		"content": "Fluently multiply and divide within 100, using strategies such as the relationship between multiplication and division (e.g., knowing that 8 × 5 = 40, one knows 40 ÷ 5 = 8) or properties of operations. By the end of Grade 3, know from memory all products of two one-digit numbers.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Multiply and divide within 100.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.6",
+		"content": "Understand division as an unknown-factor problem.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Understand properties of multiplication and the relationship between multiplication and division.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.5",
+		"content": "Apply properties of operations as strategies to multiply and divide.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Understand properties of multiplication and the relationship between multiplication and division.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.4",
+		"content": "Determine the unknown whole number in a multiplication or division equation relating three whole numbers.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Represent and solve problems involving multiplication and division.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.3",
+		"content": "Use multiplication and division within 100 to solve word problems in situations involving equal groups, arrays, and measurement quantities, e.g., by using drawings and equations with a symbol for the unknown number to represent the problem.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Represent and solve problems involving multiplication and division.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.2",
+		"content": "Interpret whole-number quotients of whole numbers, e.g., interpret 56 ÷ 8 as the number of objects in each share when 56 objects are partitioned equally into 8 shares, or as a number of shares when 56 objects are partitioned into equal shares of 8 objects each.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Represent and solve problems involving multiplication and division.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.OA.1",
+		"content": "Interpret products of whole numbers, e.g., interpret 5 × 7 as the total number of objects in 5 groups of 7 objects each.",
+		"tags": [
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Represent and solve problems involving multiplication and division.",
+			"Operations and Algebraic Thinking"
+		]
+	},
+	{
+		"displayName": "3.NF.3.d",
+		"content": "Compare two fractions with the same numerator or the same denominator by reasoning about their size. Recognize that comparisons are valid only when the two fractions refer to the same whole. Record the results of comparisons with the symbols >, =, or <, and justify the conclusions, e.g., by using a visual fraction model.",
+		"tags": [
+			"3.nf.3",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.",
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "3.NF.3.c",
+		"content": "Express whole numbers as fractions, and recognize fractions that are equivalent to whole numbers.",
+		"tags": [
+			"3.nf.3",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.",
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "3.NF.3.b",
+		"content": "Recognize and generate simple equivalent fractions, e.g., 1/2 = 2/4, 4/6 = 2/3). Explain why the fractions are equivalent, e.g., by using a visual fraction model.",
+		"tags": [
+			"3.nf.3",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.",
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "3.NF.3.a",
+		"content": "Understand two fractions as equivalent (equal) if they are the same size, or the same point on a number line.",
+		"tags": [
+			"3.nf.3",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Explain equivalence of fractions in special cases, and compare fractions by reasoning about their size.",
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "3.NF.2.b",
+		"content": "Represent a fraction a/b on a number line diagram by marking off a lengths 1/b from 0. Recognize that the resulting interval has size a/b and that its endpoint locates the number a/b on the number line.",
+		"tags": [
+			"3.nf.2",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Understand a fraction as a number on the number line; represent fractions on a number line diagram.",
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "3.NF.2.a",
+		"content": "Represent a fraction 1/b on a number line diagram by defining the interval from 0 to 1 as the whole and partitioning it into b equal parts. Recognize that each part has size 1/b and that the endpoint of the part based at 0 locates the number 1/b on the number line.",
+		"tags": [
+			"3.nf.2",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Understand a fraction as a number on the number line; represent fractions on a number line diagram.",
+			"Develop understanding of fractions as numbers.",
+			"Number and Operations—Fractions"
+		]
+	},
+	{
+		"displayName": "3.MD.7.d",
+		"content": "Recognize area as additive. Find areas of rectilinear figures by decomposing them into non-overlapping rectangles and adding the areas of the non-overlapping parts, applying this technique to solve real world problems.",
+		"tags": [
+			"3.md.7",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Relate area to the operations of multiplication and addition.",
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.7.c",
+		"content": "Use tiling to show in a concrete case that the area of a rectangle with whole-number side lengths a and b + c is the sum of a × b and a × c. Use area models to represent the distributive property in mathematical reasoning.",
+		"tags": [
+			"3.md.7",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Relate area to the operations of multiplication and addition.",
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.7.b",
+		"content": "Multiply side lengths to find areas of rectangles with whole-number side lengths in the context of solving real world and mathematical problems, and represent whole-number products as rectangular areas in mathematical reasoning.",
+		"tags": [
+			"3.md.7",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Relate area to the operations of multiplication and addition.",
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.7.a",
+		"content": "Find the area of a rectangle with whole-number side lengths by tiling it, and show that the area is the same as would be found by multiplying the side lengths.",
+		"tags": [
+			"3.md.7",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Relate area to the operations of multiplication and addition.",
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.5.b",
+		"content": "A plane figure which can be covered without gaps or overlaps by n unit squares is said to have an area of n square units.",
+		"tags": [
+			"3.md.5",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Recognize area as an attribute of plane figures and understand concepts of area measurement.",
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
+	},
+	{
+		"displayName": "3.MD.5.a",
+		"content": "A square with side length 1 unit, called \"a unit square,\" is said to have \"one square unit\" of area, and can be used to measure area.",
+		"tags": [
+			"3.md.5",
+			"mathematics",
+			"grade 3"
+		],
+		"meta": [
+			"Recognize area as an attribute of plane figures and understand concepts of area measurement.",
+			"Geometric measurement: understand concepts of area and relate area to multiplication and to addition.",
+			"Measurement and Data"
+		]
 	}
-}
+]

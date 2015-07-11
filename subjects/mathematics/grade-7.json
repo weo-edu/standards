@@ -1,1164 +1,556 @@
-{
-	"id": "B1339AB05F0347E79200FCA63240F3B2_D2513639_grade-07",
-	"title": "Grade 7",
-	"subject": "Mathematics",
-	"educationLevels": [
-		"07"
-	],
-	"license": {
-		"title": "CC BY 3.0 US",
-		"URL": "http://creativecommons.org/licenses/by/3.0/us/",
-		"rightsHolder": "Desire2Learn Incorporated"
+[
+	{
+		"displayName": "7.SP.8",
+		"content": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
 	},
-	"rightsHolder": null,
-	"document": {
-		"id": "D2513639",
-		"valid": "2010",
-		"title": "California Common Core State Standards: Mathematics",
-		"sourceURL": "http://www.cde.ca.gov/be/st/ss/documents/ccssmathstandardaug2013.pdf",
-		"asnIdentifier": "D2513639",
-		"publicationStatus": "Published"
+	{
+		"displayName": "7.SP.7",
+		"content": "Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
 	},
-	"jurisdiction": {
-		"id": "B1339AB05F0347E79200FCA63240F3B2",
-		"title": "California"
+	{
+		"displayName": "7.SP.6",
+		"content": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
 	},
-	"standards": {
-		"B1F4E801E8674BA885CE3DF8FFE5D05D": {
-			"id": "B1F4E801E8674BA885CE3DF8FFE5D05D",
-			"asnIdentifier": "S2514056",
-			"position": 66000,
-			"depth": 3,
-			"statementNotation": "7.SP.8.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Design and use a simulation to generate frequencies for compound events.",
-			"comments": [
-				"For example, use random digits as a simulation tool to approximate the answer to the question: If 40% of donors have type A blood, what is the probability that it will take at least 4 donors to find one with type A blood?"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/8/c"
-			],
-			"ancestorIds": [
-				"2BBC5F538FF14F92B4C0728B18B200AD",
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"D47F475687D84439A5341D26F08A5641": {
-			"id": "D47F475687D84439A5341D26F08A5641",
-			"asnIdentifier": "S2514055",
-			"position": 65000,
-			"depth": 3,
-			"statementNotation": "7.SP.8.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., \"rolling double sixes\"), identify the outcomes in the sample space which compose the event.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/8/b"
-			],
-			"ancestorIds": [
-				"2BBC5F538FF14F92B4C0728B18B200AD",
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"DBFA5BF10AE34351AA531DAF5F9D83CB": {
-			"id": "DBFA5BF10AE34351AA531DAF5F9D83CB",
-			"asnIdentifier": "S2514054",
-			"position": 64000,
-			"depth": 3,
-			"statementNotation": "7.SP.8.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/8/a"
-			],
-			"ancestorIds": [
-				"2BBC5F538FF14F92B4C0728B18B200AD",
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"2BBC5F538FF14F92B4C0728B18B200AD": {
-			"id": "2BBC5F538FF14F92B4C0728B18B200AD",
-			"asnIdentifier": "S2514053",
-			"position": 63000,
-			"depth": 2,
-			"statementNotation": "7.SP.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/8"
-			],
-			"ancestorIds": [
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"AF8D16DF097D4EB580AFF40F583B486B": {
-			"id": "AF8D16DF097D4EB580AFF40F583B486B",
-			"asnIdentifier": "S2514052",
-			"position": 62000,
-			"depth": 3,
-			"statementNotation": "7.SP.7.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process.",
-			"comments": [
-				"For example, find the approximate probability that a spinning penny will land heads up or that a tossed paper cup will land open-end down. Do the outcomes for the spinning penny appear to be equally likely based on the observed frequencies?"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/7/b"
-			],
-			"ancestorIds": [
-				"656486A4A4D84D5789D334C3DF74C431",
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"9263684EE5024C86B67CA72C052FA54A": {
-			"id": "9263684EE5024C86B67CA72C052FA54A",
-			"asnIdentifier": "S2514051",
-			"position": 61000,
-			"depth": 3,
-			"statementNotation": "7.SP.7.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events.",
-			"comments": [
-				"For example, if a student is selected at random from a class, find the probability that Jane will be selected and the probability that a girl will be selected."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/7/a"
-			],
-			"ancestorIds": [
-				"656486A4A4D84D5789D334C3DF74C431",
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"656486A4A4D84D5789D334C3DF74C431": {
-			"id": "656486A4A4D84D5789D334C3DF74C431",
-			"asnIdentifier": "S2514050",
-			"position": 60000,
-			"depth": 2,
-			"statementNotation": "7.SP.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
-			"ancestorIds": [
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"042964A827FB4555A85A845919BD2256": {
-			"id": "042964A827FB4555A85A845919BD2256",
-			"asnIdentifier": "S2514049",
-			"position": 59000,
-			"depth": 2,
-			"statementNotation": "7.SP.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability.",
-			"comments": [
-				"For example, when rolling a number cube 600 times, predict that a 3 or 6 would be rolled roughly 200 times, but probably not exactly 200 times."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/6"
-			],
-			"ancestorIds": [
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"BD453AC549384C3FA0962F01A1AE0B8E": {
-			"id": "BD453AC549384C3FA0962F01A1AE0B8E",
-			"asnIdentifier": "S2514048",
-			"position": 58000,
-			"depth": 2,
-			"statementNotation": "7.SP.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C/5"
-			],
-			"ancestorIds": [
-				"A74279A333304BDDA07DC70809A455B6",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"A74279A333304BDDA07DC70809A455B6": {
-			"id": "A74279A333304BDDA07DC70809A455B6",
-			"asnIdentifier": "S2514047",
-			"position": 57000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Investigate chance processes and develop, use, and evaluate probability models.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/C"
-			],
-			"ancestorIds": [
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"E1D4108FB1CB43D1A2BBECE8976197F7": {
-			"id": "E1D4108FB1CB43D1A2BBECE8976197F7",
-			"asnIdentifier": "S2514046",
-			"position": 56000,
-			"depth": 2,
-			"statementNotation": "7.SP.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations.",
-			"comments": [
-				"For example, decide whether the words in a chapter of a seventh-grade science book are generally longer than the words in a chapter of a fourth-grade science book."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/B/4"
-			],
-			"ancestorIds": [
-				"B003EE103DD34F90823C35DF6C1543AD",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"AD6608EED857456DB2E5B737C10498F4": {
-			"id": "AD6608EED857456DB2E5B737C10498F4",
-			"asnIdentifier": "S2514045",
-			"position": 55000,
-			"depth": 2,
-			"statementNotation": "7.SP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by expressing it as a multiple of a measure of variability.",
-			"comments": [
-				"For example, the mean height of players on the basketball team is 10 cm greater than the mean height of players on the soccer team, about twice the variability (mean absolute deviation) on either team; on a dot plot, the separation between the two distributions of heights is noticeable."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/B/3"
-			],
-			"ancestorIds": [
-				"B003EE103DD34F90823C35DF6C1543AD",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"B003EE103DD34F90823C35DF6C1543AD": {
-			"id": "B003EE103DD34F90823C35DF6C1543AD",
-			"asnIdentifier": "S2514044",
-			"position": 54000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Draw informal comparative inferences about two populations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/B"
-			],
-			"ancestorIds": [
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"1DAD0C190F224ECB89D4E51DD29CAB53": {
-			"id": "1DAD0C190F224ECB89D4E51DD29CAB53",
-			"asnIdentifier": "S2514043",
-			"position": 53000,
-			"depth": 2,
-			"statementNotation": "7.SP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions.",
-			"comments": [
-				"For example, estimate the mean word length in a book by randomly sampling words from the book; predict the winner of a school election based on randomly sampled survey data. Gauge how far off the estimate or prediction might be."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/A/2"
-			],
-			"ancestorIds": [
-				"F8570F340C034D58BEE2FB9039D4CD00",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"9E26B4461AAA4DA3986E210D25D0FA88": {
-			"id": "9E26B4461AAA4DA3986E210D25D0FA88",
-			"asnIdentifier": "S2514042",
-			"position": 52000,
-			"depth": 2,
-			"statementNotation": "7.SP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/A/1"
-			],
-			"ancestorIds": [
-				"F8570F340C034D58BEE2FB9039D4CD00",
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"F8570F340C034D58BEE2FB9039D4CD00": {
-			"id": "F8570F340C034D58BEE2FB9039D4CD00",
-			"asnIdentifier": "S2514041",
-			"position": 51000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Use random sampling to draw inferences about a population.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/SP/A"
-			],
-			"ancestorIds": [
-				"D132CB55A55C4A80B6E7A68EBC93CC5A"
-			]
-		},
-		"D132CB55A55C4A80B6E7A68EBC93CC5A": {
-			"id": "D132CB55A55C4A80B6E7A68EBC93CC5A",
-			"asnIdentifier": "S2514029",
-			"position": 50000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Statistics and Probability",
-			"ancestorIds": [
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"4BC0F1356A2B40CDB5C5DB6201746ABF": {
-			"id": "4BC0F1356A2B40CDB5C5DB6201746ABF",
-			"asnIdentifier": "S2514012",
-			"position": 49000,
-			"depth": 3,
-			"statementNotation": "7.EE.4.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Solve word problems leading to inequalities of the form px + q > r or px + q < r, where p, q, and r are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem.",
-			"comments": [
-				"For example: As a salesperson, you are paid $50 per week plus $3 per sale. This week you want your pay to be at least $100. Write an inequality for the number of sales you need to make, and describe the solutions."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/B/4/b"
-			],
-			"ancestorIds": [
-				"C5432351C12F4609972E4034B34FE3D9",
-				"1BF206BC7B504E8CBCC6DDE08CD3DCAC",
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"C050BC3541744FC4A11E1404CE4D7AA4": {
-			"id": "C050BC3541744FC4A11E1404CE4D7AA4",
-			"asnIdentifier": "S2514011",
-			"position": 48000,
-			"depth": 3,
-			"statementNotation": "7.EE.4.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Solve word problems leading to equations of the form px + q = r and p(x + q) = r, where p, q, and r are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach.",
-			"comments": [
-				"For example, the perimeter of a rectangle is 54 cm. Its length is 6 cm. What is its width?"
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/B/4/a"
-			],
-			"ancestorIds": [
-				"C5432351C12F4609972E4034B34FE3D9",
-				"1BF206BC7B504E8CBCC6DDE08CD3DCAC",
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"C5432351C12F4609972E4034B34FE3D9": {
-			"id": "C5432351C12F4609972E4034B34FE3D9",
-			"asnIdentifier": "S2514010",
-			"position": 47000,
-			"depth": 2,
-			"statementNotation": "7.EE.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/B/4"
-			],
-			"ancestorIds": [
-				"1BF206BC7B504E8CBCC6DDE08CD3DCAC",
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"11470CBBFE78411BA38420E8CC41F2E9": {
-			"id": "11470CBBFE78411BA38420E8CC41F2E9",
-			"asnIdentifier": "S2514009",
-			"position": 46000,
-			"depth": 2,
-			"statementNotation": "7.EE.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies.",
-			"comments": [
-				"For example: If a woman making $25 an hour gets a 10% raise, she will make an additional 1/10 of her salary an hour, or $2.50, for a new salary of $27.50. If you want to place a towel bar 9 3/4 inches long in the center of a door that is 27 1/2 inches wide, you will need to place the bar about 9 inches from each edge; this estimate can be used as a check on the exact computation."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/B/3"
-			],
-			"ancestorIds": [
-				"1BF206BC7B504E8CBCC6DDE08CD3DCAC",
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"1BF206BC7B504E8CBCC6DDE08CD3DCAC": {
-			"id": "1BF206BC7B504E8CBCC6DDE08CD3DCAC",
-			"asnIdentifier": "S2514008",
-			"position": 45000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/B"
-			],
-			"ancestorIds": [
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"25BC924C87944B1AB233FC1332DC0B6A": {
-			"id": "25BC924C87944B1AB233FC1332DC0B6A",
-			"asnIdentifier": "S2514007",
-			"position": 44000,
-			"depth": 2,
-			"statementNotation": "7.EE.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related.",
-			"comments": [
-				"For example, a + 0.05a = 1.05a means that \"increase by 5%\" is the same as \"multiply by 1.05.\""
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/A/2"
-			],
-			"ancestorIds": [
-				"4D10A803725B43BF87D1B7517F874643",
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"FA6DF0EA17C943B38ED02F6BEBF6A824": {
-			"id": "FA6DF0EA17C943B38ED02F6BEBF6A824",
-			"asnIdentifier": "S2514006",
-			"position": 43000,
-			"depth": 2,
-			"statementNotation": "7.EE.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/A/1"
-			],
-			"ancestorIds": [
-				"4D10A803725B43BF87D1B7517F874643",
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"4D10A803725B43BF87D1B7517F874643": {
-			"id": "4D10A803725B43BF87D1B7517F874643",
-			"asnIdentifier": "S2514005",
-			"position": 42000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Use properties of operations to generate equivalent expressions.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/EE/A"
-			],
-			"ancestorIds": [
-				"B93C4717CD5B462C91F50A53D8B3124C"
-			]
-		},
-		"B93C4717CD5B462C91F50A53D8B3124C": {
-			"id": "B93C4717CD5B462C91F50A53D8B3124C",
-			"asnIdentifier": "S2513989",
-			"position": 41000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Expressions and Equations",
-			"ancestorIds": [
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"B6A477AC02FD4D6C8737406943877AD5": {
-			"id": "B6A477AC02FD4D6C8737406943877AD5",
-			"asnIdentifier": "S2513985",
-			"position": 40000,
-			"depth": 2,
-			"statementNotation": "7.NS.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
-			"comments": [
-				"Computations with rational numbers extend the rules for manipulating fractions to complex fractions."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/3"
-			],
-			"ancestorIds": [
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"52B77A034ECC483F9D20B81C5D3D5B46": {
-			"id": "52B77A034ECC483F9D20B81C5D3D5B46",
-			"asnIdentifier": "S2513984",
-			"position": 39000,
-			"depth": 3,
-			"statementNotation": "7.NS.2.d",
-			"statementLabel": "Component",
-			"listId": "d.",
-			"description": "Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/2/d"
-			],
-			"ancestorIds": [
-				"0D3A1DE6758245F385EE8B13D8C03C97",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"9A561449F62D4E44B2144E4C755431AC": {
-			"id": "9A561449F62D4E44B2144E4C755431AC",
-			"asnIdentifier": "S2513983",
-			"position": 38000,
-			"depth": 3,
-			"statementNotation": "7.NS.2.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Apply properties of operations as strategies to multiply and divide rational numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/2/c"
-			],
-			"ancestorIds": [
-				"0D3A1DE6758245F385EE8B13D8C03C97",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"8625E54497584E36A03F8B91C5D3C109": {
-			"id": "8625E54497584E36A03F8B91C5D3C109",
-			"asnIdentifier": "S2513982",
-			"position": 37000,
-			"depth": 3,
-			"statementNotation": "7.NS.2.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If p and q are integers, then -(p/q) = (-p)/q = p/(-q). Interpret quotients of rational numbers by describing real-world contexts.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/2/b"
-			],
-			"ancestorIds": [
-				"0D3A1DE6758245F385EE8B13D8C03C97",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"13EC46D020134C7ABDA8D56F243BC0F0": {
-			"id": "13EC46D020134C7ABDA8D56F243BC0F0",
-			"asnIdentifier": "S2513981",
-			"position": 36000,
-			"depth": 3,
-			"statementNotation": "7.NS.2.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/2/a"
-			],
-			"ancestorIds": [
-				"0D3A1DE6758245F385EE8B13D8C03C97",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"0D3A1DE6758245F385EE8B13D8C03C97": {
-			"id": "0D3A1DE6758245F385EE8B13D8C03C97",
-			"asnIdentifier": "S2513980",
-			"position": 35000,
-			"depth": 2,
-			"statementNotation": "7.NS.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/2"
-			],
-			"ancestorIds": [
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"8DCC01262EB042318016729E88E63691": {
-			"id": "8DCC01262EB042318016729E88E63691",
-			"asnIdentifier": "S2513979",
-			"position": 34000,
-			"depth": 3,
-			"statementNotation": "7.NS.1.d",
-			"statementLabel": "Component",
-			"listId": "d.",
-			"description": "Apply properties of operations as strategies to add and subtract rational numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/1/d"
-			],
-			"ancestorIds": [
-				"494DFE5C435546679161C64032520954",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"0BEC1C4D79A04AF18F715FF7BED5F2FB": {
-			"id": "0BEC1C4D79A04AF18F715FF7BED5F2FB",
-			"asnIdentifier": "S2513978",
-			"position": 33000,
-			"depth": 3,
-			"statementNotation": "7.NS.1.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Understand subtraction of rational numbers as adding the additive inverse, p - q = p + (-q). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/1/c"
-			],
-			"ancestorIds": [
-				"494DFE5C435546679161C64032520954",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"EB7E54A8849A44DBB543CF34ACC4F6F4": {
-			"id": "EB7E54A8849A44DBB543CF34ACC4F6F4",
-			"asnIdentifier": "S2513977",
-			"position": 32000,
-			"depth": 3,
-			"statementNotation": "7.NS.1.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Understand p + q as the number located a distance |q| from p, in the positive or negative direction depending on whether q is positive or negative. Show that a number and its opposite have a sum of 0 (are additive inverses). Interpret sums of rational numbers by describing real-world contexts.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/1/b"
-			],
-			"ancestorIds": [
-				"494DFE5C435546679161C64032520954",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"212492FB667C4F3087A4C8DA12FCCAC9": {
-			"id": "212492FB667C4F3087A4C8DA12FCCAC9",
-			"asnIdentifier": "S2513976",
-			"position": 31000,
-			"depth": 3,
-			"statementNotation": "7.NS.1.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Describe situations in which opposite quantities combine to make 0.",
-			"comments": [
-				"For example, a hydrogen atom has 0 charge because its two constituents are oppositely charged."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/1/a"
-			],
-			"ancestorIds": [
-				"494DFE5C435546679161C64032520954",
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"494DFE5C435546679161C64032520954": {
-			"id": "494DFE5C435546679161C64032520954",
-			"asnIdentifier": "S2513975",
-			"position": 30000,
-			"depth": 2,
-			"statementNotation": "7.NS.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A/1"
-			],
-			"ancestorIds": [
-				"6187272F6A7B4A68828CCC42A955AEB7",
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"6187272F6A7B4A68828CCC42A955AEB7": {
-			"id": "6187272F6A7B4A68828CCC42A955AEB7",
-			"asnIdentifier": "S2513974",
-			"position": 29000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/NS/A"
-			],
-			"ancestorIds": [
-				"0D1B207BBB6B4560824A9DEA65D2419E"
-			]
-		},
-		"0D1B207BBB6B4560824A9DEA65D2419E": {
-			"id": "0D1B207BBB6B4560824A9DEA65D2419E",
-			"asnIdentifier": "S2513955",
-			"position": 28000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "The Number System",
-			"ancestorIds": [
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"37A56C6240D4436EA3F3DF5782CC3C97": {
-			"id": "37A56C6240D4436EA3F3DF5782CC3C97",
-			"asnIdentifier": "S2513954",
-			"position": 27000,
-			"depth": 2,
-			"statementNotation": "7.RP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Use proportional relationships to solve multistep ratio and percent problems.",
-			"comments": [
-				"Examples: simple interest, tax, markups and markdowns, gratuities and commissions, fees, percent increase and decrease, percent error."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A/3"
-			],
-			"ancestorIds": [
-				"B440E961137045E8AD5CF27E5340F546",
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"D913B05BAD8741C689EA68FBE44B576B": {
-			"id": "D913B05BAD8741C689EA68FBE44B576B",
-			"asnIdentifier": "S2513953",
-			"position": 26000,
-			"depth": 3,
-			"statementNotation": "7.RP.2.d",
-			"statementLabel": "Component",
-			"listId": "d.",
-			"description": "Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, r) where r is the unit rate.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A/2/d"
-			],
-			"ancestorIds": [
-				"6F07FA62EB4E4073AA76C0169B25329E",
-				"B440E961137045E8AD5CF27E5340F546",
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"B90C8FFB88BE4EA7AA8099B87E5A842C": {
-			"id": "B90C8FFB88BE4EA7AA8099B87E5A842C",
-			"asnIdentifier": "S2513952",
-			"position": 25000,
-			"depth": 3,
-			"statementNotation": "7.RP.2.c",
-			"statementLabel": "Component",
-			"listId": "c.",
-			"description": "Represent proportional relationships by equations.",
-			"comments": [
-				"For example, if total cost t is proportional to the number n of items purchased at a constant price p, the relationship between the total cost and the number of items can be expressed as t = pn."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A/2/c"
-			],
-			"ancestorIds": [
-				"6F07FA62EB4E4073AA76C0169B25329E",
-				"B440E961137045E8AD5CF27E5340F546",
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"70FC9E56D1814FC693F78C833EA494D8": {
-			"id": "70FC9E56D1814FC693F78C833EA494D8",
-			"asnIdentifier": "S2513951",
-			"position": 24000,
-			"depth": 3,
-			"statementNotation": "7.RP.2.b",
-			"statementLabel": "Component",
-			"listId": "b.",
-			"description": "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A/2/b"
-			],
-			"ancestorIds": [
-				"6F07FA62EB4E4073AA76C0169B25329E",
-				"B440E961137045E8AD5CF27E5340F546",
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"512DAAEE458E4E95B2941BFBBFEFFBFD": {
-			"id": "512DAAEE458E4E95B2941BFBBFEFFBFD",
-			"asnIdentifier": "S2513950",
-			"position": 23000,
-			"depth": 3,
-			"statementNotation": "7.RP.2.a",
-			"statementLabel": "Component",
-			"listId": "a.",
-			"description": "Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A/2/a"
-			],
-			"ancestorIds": [
-				"6F07FA62EB4E4073AA76C0169B25329E",
-				"B440E961137045E8AD5CF27E5340F546",
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"6F07FA62EB4E4073AA76C0169B25329E": {
-			"id": "6F07FA62EB4E4073AA76C0169B25329E",
-			"asnIdentifier": "S2513949",
-			"position": 22000,
-			"depth": 2,
-			"statementNotation": "7.RP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Recognize and represent proportional relationships between quantities.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A/2"
-			],
-			"ancestorIds": [
-				"B440E961137045E8AD5CF27E5340F546",
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"AAA1F4337CDA45F38D50568FF3B6C8B5": {
-			"id": "AAA1F4337CDA45F38D50568FF3B6C8B5",
-			"asnIdentifier": "S2513948",
-			"position": 21000,
-			"depth": 2,
-			"statementNotation": "7.RP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units.",
-			"comments": [
-				"For example, if a person walks 1/2 mile in each 1/4 hour, compute the unit rate as the complex fraction <sup>1/2</sup>/<sub>1/4</sub> miles per hour, equivalently 2 miles per hour."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A/1"
-			],
-			"ancestorIds": [
-				"B440E961137045E8AD5CF27E5340F546",
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"B440E961137045E8AD5CF27E5340F546": {
-			"id": "B440E961137045E8AD5CF27E5340F546",
-			"asnIdentifier": "S2513947",
-			"position": 20000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/RP/A"
-			],
-			"ancestorIds": [
-				"4FD2604808684ED3832B24CC5292A127"
-			]
-		},
-		"4FD2604808684ED3832B24CC5292A127": {
-			"id": "4FD2604808684ED3832B24CC5292A127",
-			"asnIdentifier": "S2513938",
-			"position": 19000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Ratios and Proportional Relationships",
-			"ancestorIds": [
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"E8A83845F607412CAB1096AF52DD8E46": {
-			"id": "E8A83845F607412CAB1096AF52DD8E46",
-			"asnIdentifier": "S2513878",
-			"position": 18000,
-			"depth": 2,
-			"statementNotation": "7.G.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/B/6"
-			],
-			"ancestorIds": [
-				"871810382CC140A8BCD18DBAD7442697",
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"207F3713334D4E1AB6B47AF83A8B9513": {
-			"id": "207F3713334D4E1AB6B47AF83A8B9513",
-			"asnIdentifier": "S2513877",
-			"position": 17000,
-			"depth": 2,
-			"statementNotation": "7.G.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/B/5"
-			],
-			"ancestorIds": [
-				"871810382CC140A8BCD18DBAD7442697",
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"960BF6799252496E8F1F41CA05F81E02": {
-			"id": "960BF6799252496E8F1F41CA05F81E02",
-			"asnIdentifier": "S2513876",
-			"position": 16000,
-			"depth": 2,
-			"statementNotation": "7.G.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/B/4"
-			],
-			"ancestorIds": [
-				"871810382CC140A8BCD18DBAD7442697",
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"871810382CC140A8BCD18DBAD7442697": {
-			"id": "871810382CC140A8BCD18DBAD7442697",
-			"asnIdentifier": "S2513875",
-			"position": 15000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/B"
-			],
-			"ancestorIds": [
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"7D56750DAAB440C8AE734325F5884FC6": {
-			"id": "7D56750DAAB440C8AE734325F5884FC6",
-			"asnIdentifier": "S2513874",
-			"position": 14000,
-			"depth": 2,
-			"statementNotation": "7.G.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/A/3"
-			],
-			"ancestorIds": [
-				"93C0E0ABD8FC4CB7BFC2E1BCAC235CBE",
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"4B756907ED574A5D9D3711F2E674D825": {
-			"id": "4B756907ED574A5D9D3711F2E674D825",
-			"asnIdentifier": "S2513873",
-			"position": 13000,
-			"depth": 2,
-			"statementNotation": "7.G.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Draw (freehand, with ruler and protractor, and with technology) geometric shapes with given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/A/2"
-			],
-			"ancestorIds": [
-				"93C0E0ABD8FC4CB7BFC2E1BCAC235CBE",
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"F5CEB98E9D3C4CC6AE86D98ACC4440D0": {
-			"id": "F5CEB98E9D3C4CC6AE86D98ACC4440D0",
-			"asnIdentifier": "S2513872",
-			"position": 12000,
-			"depth": 2,
-			"statementNotation": "7.G.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/A/1"
-			],
-			"ancestorIds": [
-				"93C0E0ABD8FC4CB7BFC2E1BCAC235CBE",
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"93C0E0ABD8FC4CB7BFC2E1BCAC235CBE": {
-			"id": "93C0E0ABD8FC4CB7BFC2E1BCAC235CBE",
-			"asnIdentifier": "S2513871",
-			"position": 11000,
-			"depth": 1,
-			"statementLabel": "Cluster",
-			"description": "Draw, construct, and describe geometrical figures and describe the relationships between them.",
-			"exactMatch": [
-				"http://corestandards.org/Math/Content/7/G/A"
-			],
-			"ancestorIds": [
-				"6234E36C45024D19B0EB13741C9C8F46"
-			]
-		},
-		"6234E36C45024D19B0EB13741C9C8F46": {
-			"id": "6234E36C45024D19B0EB13741C9C8F46",
-			"asnIdentifier": "S2513836",
-			"position": 10000,
-			"depth": 0,
-			"statementLabel": "Domain",
-			"description": "Geometry",
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"8F42AF3D087749B687A43BE00C5C0A0B": {
-			"id": "8F42AF3D087749B687A43BE00C5C0A0B",
-			"asnIdentifier": "S2513648",
-			"position": 9000,
-			"depth": 1,
-			"statementNotation": "MP.8",
-			"statementLabel": "Standard",
-			"listId": "8.",
-			"description": "Look for and express regularity in repeated reasoning.",
-			"comments": [
-				"Mathematically proficient students notice if calculations are repeated, and look both for general methods and for shortcuts. Upper elementary students might notice when dividing 25 by 11 that they are repeating the same calculations over and over again, and conclude they have a repeating decimal. By paying attention to the calculation of slope as they repeatedly check whether points are on the line through (1, 2) with slope 3, middle school students might abstract the equation (y – 2)/(x – 1) = 3. Noticing the regularity in the way terms cancel when expanding (x – 1)(x + 1), (x – 1)(x² + x + 1), and (x – 1)(x³ + x² + x + 1) might lead them to the general formula for the sum of a geometric series. As they work to solve a problem, mathematically proficient students maintain oversight of the process, while attending to the details. They continually evaluate the reasonableness of their intermediate results."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP8"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"1A138982E6814F70B3E22E027035C5BD": {
-			"id": "1A138982E6814F70B3E22E027035C5BD",
-			"asnIdentifier": "S2513647",
-			"position": 8000,
-			"depth": 1,
-			"statementNotation": "MP.7",
-			"statementLabel": "Standard",
-			"listId": "7.",
-			"description": "Look for and make use of structure.",
-			"comments": [
-				"Mathematically proficient students look closely to discern a pattern or structure. Young students, for example, might notice that three and seven more is the same amount as seven and three more, or they may sort a collection of shapes according to how many sides the shapes have. Later, students will see 7 × 8 equals the well remembered 7 × 5 + 7 × 3, in preparation for learning about the distributive property. In the expression x² + 9x + 14, older students can see the 14 as 2 × 7 and the 9 as 2 + 7. They recognize the significance of an existing line in a geometric figure and can use the strategy of drawing an auxiliary line for solving problems. They also can step back for an overview and shift perspective. They can see complicated things, such as some algebraic expressions, as single objects or as being composed of several objects. For example, they can see 5 – 3(x – y)² as 5 minus a positive number times a square and use that to realize that its value cannot be more than 5 for any real numbers x and y."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP7"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"7340B19E2C1C464A9BCF1F0050DFF6CC": {
-			"id": "7340B19E2C1C464A9BCF1F0050DFF6CC",
-			"asnIdentifier": "S2513646",
-			"position": 7000,
-			"depth": 1,
-			"statementNotation": "MP.6",
-			"statementLabel": "Standard",
-			"listId": "6.",
-			"description": "Attend to precision.",
-			"comments": [
-				"Mathematically proficient students try to communicate precisely to others. They try to use clear definitions in discussion with others and in their own reasoning. They state the meaning of the symbols they choose, including using the equal sign consistently and appropriately. They are careful about specifying units of measure, and labeling axes to clarify the correspondence with quantities in a problem. They calculate accurately and efficiently, express numerical answers with a degree of precision appropriate for the problem context. In the elementary grades, students give carefully formulated explanations to each other. By the time they reach high school they have learned to examine claims and make explicit use of definitions."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP6"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"002052824B654AC5AF7065AAD280FA2F": {
-			"id": "002052824B654AC5AF7065AAD280FA2F",
-			"asnIdentifier": "S2513645",
-			"position": 6000,
-			"depth": 1,
-			"statementNotation": "MP.5",
-			"statementLabel": "Standard",
-			"listId": "5.",
-			"description": "Use appropriate tools strategically.",
-			"comments": [
-				"Mathematically proficient students consider the available tools when solving a mathematical problem. These tools might include pencil and paper, concrete models, a ruler, a protractor, a calculator, a spreadsheet, a computer algebra system, a statistical package, or dynamic geometry software. Proficient students are sufficiently familiar with tools appropriate for their grade or course to make sound decisions about when each of these tools might be helpful, recognizing both the insight to be gained and their limitations. For example, mathematically proficient high school students analyze graphs of functions and solutions generated using a graphing calculator. They detect possible errors by strategically using estimation and other mathematical knowledge. When making mathematical models, they know that technology can enable them to visualize the results of varying assumptions, explore consequences, and compare predictions with data. Mathematically proficient students at various grade levels are able to identify relevant external mathematical resources, such as digital content located on a website, and use them to pose or solve problems. They are able to use technological tools to explore and deepen their understanding of concepts."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP5"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"231EC39876174CECA601EAEEBD6E98F4": {
-			"id": "231EC39876174CECA601EAEEBD6E98F4",
-			"asnIdentifier": "S2513644",
-			"position": 5000,
-			"depth": 1,
-			"statementNotation": "MP.4",
-			"statementLabel": "Standard",
-			"listId": "4.",
-			"description": "Model with mathematics.",
-			"comments": [
-				"Mathematically proficient students can apply the mathematics they know to solve problems arising in everyday life, society, and the workplace. In early grades, this might be as simple as writing an addition equation to describe a situation. In middle grades, a student might apply proportional reasoning to plan a school event or analyze a problem in the community. By high school, a student might use geometry to solve a design problem or use a function to describe how one quantity of interest depends on another. Mathematically proficient students who can apply what they know are comfortable making assumptions and approximations to simplify a complicated situation, realizing that these may need revision later. They are able to identify important quantities in a practical situation and map their relationships using such tools as diagrams, two-way tables, graphs, flowcharts and formulas. They can analyze those relationships mathematically to draw conclusions. They routinely interpret their mathematical results in the context of the situation and reflect on whether the results make sense, possibly improving the model if it has not served its purpose."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP4"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"4769DC8B3F964042BECFDF51C09A3470": {
-			"id": "4769DC8B3F964042BECFDF51C09A3470",
-			"asnIdentifier": "S2513643",
-			"position": 4000,
-			"depth": 1,
-			"statementNotation": "MP.3",
-			"statementLabel": "Standard",
-			"listId": "3.",
-			"description": "Construct viable arguments and critique the reasoning of others.",
-			"comments": [
-				"Mathematically proficient students understand and use stated assumptions, definitions, and previously established results in constructing arguments. They make conjectures and build a logical progression of statements to explore the truth of their conjectures. They are able to analyze situations by breaking them into cases, and can recognize and use counterexamples. They justify their conclusions, communicate them to others, and respond to the arguments of others. They reason inductively about data, making plausible arguments that take into account the context from which the data arose. Mathematically proficient students are also able to compare the effectiveness of two plausible arguments, distinguish correct logic or reasoning from that which is flawed, and—if there is a flaw in an argument—explain what it is. Elementary students can construct arguments using concrete referents such as objects, drawings, diagrams, and actions. Such arguments can make sense and be correct, even though they are not generalized or made formal until later grades. Later, students learn to determine domains to which an argument applies. Students at all grades can listen or read the arguments of others, decide whether they make sense, and ask useful questions to clarify or improve the arguments."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP3"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"1B1FC38FF75C4D9593AEC4E7A1CA387E": {
-			"id": "1B1FC38FF75C4D9593AEC4E7A1CA387E",
-			"asnIdentifier": "S2513642",
-			"position": 3000,
-			"depth": 1,
-			"statementNotation": "MP.2",
-			"statementLabel": "Standard",
-			"listId": "2.",
-			"description": "Reason abstractly and quantitatively.",
-			"comments": [
-				"Mathematically proficient students make sense of quantities and their relationships in problem situations. They bring two complementary abilities to bear on problems involving quantitative relationships: the ability to decontextualize—to abstract a given situation and represent it symbolically and manipulate the representing symbols as if they have a life of their own, without necessarily attending to their referents—and the ability to contextualize, to pause as needed during the manipulation process in order to probe into the referents for the symbols involved. Quantitative reasoning entails habits of creating a coherent representation of the problem at hand; considering the units involved; attending to the meaning of quantities, not just how to compute them; and knowing and flexibly using different properties of operations and objects."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP2"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"E32C080A87634E748F413EF0E66E5D7B": {
-			"id": "E32C080A87634E748F413EF0E66E5D7B",
-			"asnIdentifier": "S2513641",
-			"position": 2000,
-			"depth": 1,
-			"statementNotation": "MP.1",
-			"statementLabel": "Standard",
-			"listId": "1.",
-			"description": "Make sense of problems and persevere in solving them.",
-			"comments": [
-				"Mathematically proficient students start by explaining to themselves the meaning of a problem and looking for entry points to its solution. They analyze givens, constraints, relationships, and goals. They make conjectures about the form and meaning of the solution and plan a solution pathway rather than simply jumping into a solution attempt. They consider analogous problems, and try special cases and simpler forms of the original problem in order to gain insight into its solution. They monitor and evaluate their progress and change course if necessary. Older students might, depending on the context of the problem, transform algebraic expressions or change the viewing window on their graphing calculator to get the information they need. Mathematically proficient students can explain correspondences between equations, verbal descriptions, tables, and graphs or draw diagrams of important features and relationships, graph data, and search for regularity or trends. Younger students might rely on using concrete objects or pictures to help conceptualize and solve a problem. Mathematically proficient students check their answers to problems using a different method, and they continually ask themselves, \"Does this make sense?\" They can understand the approaches of others to solving complex problems and identify correspondences between different approaches."
-			],
-			"exactMatch": [
-				"http://corestandards.org/Math/Practice/MP1"
-			],
-			"ancestorIds": [
-				"7DB57FD9800145C38D039840EF9841F0"
-			]
-		},
-		"7DB57FD9800145C38D039840EF9841F0": {
-			"id": "7DB57FD9800145C38D039840EF9841F0",
-			"asnIdentifier": "S2513640",
-			"position": 1000,
-			"depth": 0,
-			"description": "Standards for Mathematical Practice",
-			"ancestorIds": []
-		}
+	{
+		"displayName": "7.SP.5",
+		"content": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.4",
+		"content": "Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Draw informal comparative inferences about two populations.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.3",
+		"content": "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by expressing it as a multiple of a measure of variability.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Draw informal comparative inferences about two populations.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.2",
+		"content": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Use random sampling to draw inferences about a population.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.1",
+		"content": "Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Use random sampling to draw inferences about a population.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.EE.4",
+		"content": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "7.EE.3",
+		"content": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "7.EE.2",
+		"content": "Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Use properties of operations to generate equivalent expressions.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "7.EE.1",
+		"content": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Use properties of operations to generate equivalent expressions.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "7.NS.3",
+		"content": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.2",
+		"content": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.1",
+		"content": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.RP.3",
+		"content": "Use proportional relationships to solve multistep ratio and percent problems.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+			"Ratios and Proportional Relationships"
+		]
+	},
+	{
+		"displayName": "7.RP.2",
+		"content": "Recognize and represent proportional relationships between quantities.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+			"Ratios and Proportional Relationships"
+		]
+	},
+	{
+		"displayName": "7.RP.1",
+		"content": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+			"Ratios and Proportional Relationships"
+		]
+	},
+	{
+		"displayName": "7.G.6",
+		"content": "Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "7.G.5",
+		"content": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "7.G.4",
+		"content": "Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "7.G.3",
+		"content": "Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Draw, construct, and describe geometrical figures and describe the relationships between them.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "7.G.2",
+		"content": "Draw (freehand, with ruler and protractor, and with technology) geometric shapes with given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Draw, construct, and describe geometrical figures and describe the relationships between them.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "7.G.1",
+		"content": "Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.",
+		"tags": [
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Draw, construct, and describe geometrical figures and describe the relationships between them.",
+			"Geometry"
+		]
+	},
+	{
+		"displayName": "7.SP.8.c",
+		"content": "Design and use a simulation to generate frequencies for compound events.",
+		"tags": [
+			"7.sp.8",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.8.b",
+		"content": "Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., \"rolling double sixes\"), identify the outcomes in the sample space which compose the event.",
+		"tags": [
+			"7.sp.8",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.8.a",
+		"content": "Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.",
+		"tags": [
+			"7.sp.8",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.7.b",
+		"content": "Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process.",
+		"tags": [
+			"7.sp.7",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.SP.7.a",
+		"content": "Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events.",
+		"tags": [
+			"7.sp.7",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
+			"Investigate chance processes and develop, use, and evaluate probability models.",
+			"Statistics and Probability"
+		]
+	},
+	{
+		"displayName": "7.EE.4.b",
+		"content": "Solve word problems leading to inequalities of the form px + q > r or px + q < r, where p, q, and r are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem.",
+		"tags": [
+			"7.ee.4",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "7.EE.4.a",
+		"content": "Solve word problems leading to equations of the form px + q = r and p(x + q) = r, where p, q, and r are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach.",
+		"tags": [
+			"7.ee.4",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+			"Expressions and Equations"
+		]
+	},
+	{
+		"displayName": "7.NS.2.d",
+		"content": "Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.",
+		"tags": [
+			"7.ns.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.2.c",
+		"content": "Apply properties of operations as strategies to multiply and divide rational numbers.",
+		"tags": [
+			"7.ns.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.2.b",
+		"content": "Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If p and q are integers, then -(p/q) = (-p)/q = p/(-q). Interpret quotients of rational numbers by describing real-world contexts.",
+		"tags": [
+			"7.ns.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.2.a",
+		"content": "Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.",
+		"tags": [
+			"7.ns.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.1.d",
+		"content": "Apply properties of operations as strategies to add and subtract rational numbers.",
+		"tags": [
+			"7.ns.1",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.1.c",
+		"content": "Understand subtraction of rational numbers as adding the additive inverse, p - q = p + (-q). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.",
+		"tags": [
+			"7.ns.1",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.1.b",
+		"content": "Understand p + q as the number located a distance |q| from p, in the positive or negative direction depending on whether q is positive or negative. Show that a number and its opposite have a sum of 0 (are additive inverses). Interpret sums of rational numbers by describing real-world contexts.",
+		"tags": [
+			"7.ns.1",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.NS.1.a",
+		"content": "Describe situations in which opposite quantities combine to make 0.",
+		"tags": [
+			"7.ns.1",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+			"The Number System"
+		]
+	},
+	{
+		"displayName": "7.RP.2.d",
+		"content": "Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, r) where r is the unit rate.",
+		"tags": [
+			"7.rp.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Recognize and represent proportional relationships between quantities.",
+			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+			"Ratios and Proportional Relationships"
+		]
+	},
+	{
+		"displayName": "7.RP.2.c",
+		"content": "Represent proportional relationships by equations.",
+		"tags": [
+			"7.rp.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Recognize and represent proportional relationships between quantities.",
+			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+			"Ratios and Proportional Relationships"
+		]
+	},
+	{
+		"displayName": "7.RP.2.b",
+		"content": "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.",
+		"tags": [
+			"7.rp.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Recognize and represent proportional relationships between quantities.",
+			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+			"Ratios and Proportional Relationships"
+		]
+	},
+	{
+		"displayName": "7.RP.2.a",
+		"content": "Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.",
+		"tags": [
+			"7.rp.2",
+			"mathematics",
+			"grade 7"
+		],
+		"meta": [
+			"Recognize and represent proportional relationships between quantities.",
+			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+			"Ratios and Proportional Relationships"
+		]
 	}
-}
+]

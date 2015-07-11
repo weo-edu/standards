@@ -10,6 +10,9 @@ let slug = require('slug')
 let fs = require('fs')
 let path = require('path')
 
+let transform = require('../lib/transform')
+let subjects = require('../lib/subjects')
+
 let apiKey = 'VrJoAKmDGmvjTw9ZTGy2tcrZ'
 let apiUrl = 'http://api.commonstandardsproject.com/api/'
 
@@ -27,15 +30,25 @@ co(function* () {
 
   for (var i = 0; i < standards.length; i++) {
     let standardSet = standards[i]
+    let subject = slug(standardSet.subject.toLowerCase())
+    if (!R.find(R.eq(subject))(subjects))
+      continue
+
     let s = yield(standard(standardSet.id))
     s = s.data
-    let dir = path.join(root, slug(s.subject.toLowerCase()))
+
+    let dir = path.join(root, subject)
     mkdirp.sync(dir)
     let file = path.join(dir, slug(s.title.toLowerCase())) + '.json'
+
+    s = transform(s)
+
     fs.writeFileSync(file, JSON.stringify(s, null, '\t'))
     console.log('wrote to:', file)
   }
 
+}).catch(function(err) {
+  console.error(err.stack)
 })
 function standard(id) {
   return fetch(url('/standard_sets/' + id + '/')).then(parseJSON)
