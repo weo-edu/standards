@@ -4,7 +4,7 @@
   "repository": "git://github.com/weo-edu/standards.git",
   "version": "0.1.0",
   "license": "MIT",
-  "files": "subjects",
+  "mian": "index",
   "dependencies": {},
   "devDependencies": {
     "co": "^4.5.4",
