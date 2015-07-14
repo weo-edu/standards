@@ -13,7 +13,6 @@
     "es6-promisify": "^2.0.0",
     "isomorphic-fetch": "^2.1.0",
     "mkdirp": "^0.5.1",
-    "mocha": "2.x",
     "promisify": "0.0.3",
     "ramda": "^0.15.1",
     "schema-tag": "weo-edu/schema-tag",
