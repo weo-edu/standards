@@ -1,4 +1,5 @@
-var standards = [
+var merge = require("../../lib/utils").merge
+module.exports = merge([
   require("./grade-1.json"),
   require("./grade-2.json"),
   require("./grade-3.json"),
@@ -10,7 +11,4 @@ var standards = [
   require("./grade-k.json"),
   require("./grades-11-12.json"),
   require("./grades-9-10.json"),
-]
-standards = standards.concat.apply(standards, standards)
-
-module.exports = standards
+])

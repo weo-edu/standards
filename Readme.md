@@ -1,6 +1,8 @@
 
 # standards
 
+[ ![Codeship Status for weo-edu/standards](https://img.shields.io/codeship/357377b0-0c01-0133-bd4c-02e67aca5f06/master.svg)](https://codeship.com/projects/90971)
+
 Common Core Standards JSON
 
 ## Installation
@@ -10,7 +12,7 @@ Common Core Standards JSON
 ## Example
 
 ```js
-require('subjects/mathematics')
+var standards = require('@weo-edu/standards')
 ```
 
 ## License

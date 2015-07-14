@@ -14,7 +14,7 @@ let transform = require('../lib/transform')
 let subjects = require('../lib/subjects')
 
 let apiKey = 'VrJoAKmDGmvjTw9ZTGy2tcrZ'
-let apiUrl = 'http://api.commonstandardsproject.com/api/'
+let apiUrl = 'http://api.commonstandardsproject.com/api/v1/'
 
 let root = 'subjects'
 

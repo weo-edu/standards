@@ -624,7 +624,7 @@
 		]
 	},
 	{
-		"displayName": "CCSS.ELA-Literacy.RI.4.4",
+		"displayName": "RI.4.4",
 		"content": "Determine the meaning of general academic and domain-specific words or phrases in a text relevant to a grade 4 topic or subject area. (See grade 4 Language standards 4–6 for additional expectations.)",
 		"tags": [
 			"english language arts & literacy",
@@ -698,17 +698,6 @@
 	{
 		"displayName": "RL.4.7",
 		"content": "Make connections between the text of a story or drama and a visual or oral presentation of the text, identifying where each version reflects specific descriptions and directions in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"content": "(Not applicable to literature)",
 		"tags": [
 			"english language arts & literacy",
 			"grade 4"

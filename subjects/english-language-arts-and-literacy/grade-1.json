@@ -36,17 +36,6 @@
 		]
 	},
 	{
-		"content": "(Begins in grade 2)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 1"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
 		"displayName": "L.1.2",
 		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
 		"tags": [
@@ -287,28 +276,6 @@
 		]
 	},
 	{
-		"content": "(Begins in grade 2)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 1"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"content": "(Begins in grade 4)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 1"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
 		"displayName": "W.1.8",
 		"content": "With guidance and support from adults, recall information from experiences or gather information from provided sources to answer a question.",
 		"tags": [
@@ -347,17 +314,6 @@
 	{
 		"displayName": "W.1.5",
 		"content": "With guidance and support from adults, focus on a topic, respond to questions and suggestions from peers, and add details to strengthen writing as needed.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 1"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"content": "(Begins in grade 2)",
 		"tags": [
 			"english language arts & literacy",
 			"grade 1"
@@ -718,17 +674,6 @@
 	{
 		"displayName": "RL.1.7",
 		"content": "Use illustrations and details in a story to describe its characters, setting, or events.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 1"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"content": "(Not applicable to literature)",
 		"tags": [
 			"english language arts & literacy",
 			"grade 1"

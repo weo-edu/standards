@@ -1,8 +1,6 @@
-var standards = [
+var merge = require("./lib/utils").merge
+module.exports = merge([
   require("./subjects/mathematics"),
   require("./subjects/science"),
   require("./subjects/english-language-arts-and-literacy"),
-]
-standards = standards.concat.apply(standards, standards)
-
-module.exports = standards
+])

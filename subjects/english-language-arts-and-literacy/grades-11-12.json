@@ -1131,18 +1131,6 @@
 		]
 	},
 	{
-		"content": "(Not applicable to literature)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
 		"displayName": "RL.11-12.6",
 		"content": "Analyze a case in which grasping point of view requires distinguishing what is directly stated in a text from what is really meant (e.g., satire, sarcasm, irony, or understatement).",
 		"tags": [
@@ -1546,7 +1534,7 @@
 		]
 	},
 	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1d",
+		"displayName": "SL.11-12.1d",
 		"content": "Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task.",
 		"tags": [
 			"sl.11-12.1",
@@ -1561,7 +1549,7 @@
 		]
 	},
 	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1c",
+		"displayName": "SL.11-12.1c",
 		"content": "Propel conversations by posing and responding to questions that probe reasoning and evidence; ensure a hearing for a full range of positions on a topic or issue; clarify, verify, or challenge ideas and conclusions; and promote divergent and creative perspectives.",
 		"tags": [
 			"sl.11-12.1",
@@ -1576,7 +1564,7 @@
 		]
 	},
 	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1b",
+		"displayName": "SL.11-12.1b",
 		"content": "Work with peers to promote civil, democratic discussions and decision-making, set clear goals and deadlines, and establish individual roles as needed.",
 		"tags": [
 			"sl.11-12.1",
@@ -1591,7 +1579,7 @@
 		]
 	},
 	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1a",
+		"displayName": "SL.11-12.1a",
 		"content": "Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas.",
 		"tags": [
 			"sl.11-12.1",

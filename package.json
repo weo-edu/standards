@@ -7,6 +7,8 @@
   "mian": "index",
   "dependencies": {},
   "devDependencies": {
+    "@weo-edu/schema-tag": "weo-edu/schema-tag",
+    "@weo-edu/validate": "weo-edu/validate",
     "co": "^4.5.4",
     "es6-promisify": "^2.0.0",
     "isomorphic-fetch": "^2.1.0",
@@ -14,6 +16,7 @@
     "mocha": "2.x",
     "promisify": "0.0.3",
     "ramda": "^0.15.1",
+    "schema-tag": "weo-edu/schema-tag",
     "sliced": "0.0.5",
     "slug": "^0.9.1",
     "standard": "^4.0.0",

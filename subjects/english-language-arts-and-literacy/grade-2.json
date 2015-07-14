@@ -300,17 +300,6 @@
 		]
 	},
 	{
-		"content": "(Begins in grade 4)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 2"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
 		"displayName": "W.2.8",
 		"content": "Recall information from experiences or gather information from provided sources to answer a question.",
 		"tags": [
@@ -361,17 +350,6 @@
 	{
 		"displayName": "W.2.4",
 		"content": "With guidance and support from adults, produce writing in which the development and organization are appropriate to task and purpose. (Grade-specific expectations for writing types are defined in standards 1–3 above.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 2"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"content": "(Begins in grade 2)",
 		"tags": [
 			"english language arts & literacy",
 			"grade 2"
@@ -708,17 +686,6 @@
 	{
 		"displayName": "RL.2.7",
 		"content": "Use information gained from the illustrations and words in a print or digital text to demonstrate understanding of its characters, setting, or plot.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 2"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"content": "(Not applicable to literature)",
 		"tags": [
 			"english language arts & literacy",
 			"grade 2"

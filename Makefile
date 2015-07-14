@@ -15,6 +15,9 @@ build: node_modules
 	@${BIN}/scrape.js
 	@${BIN}/indexes.js
 
+validate:
+	@${BIN}/validate.js
+
 clean:
 	@rm -rf subjects
 

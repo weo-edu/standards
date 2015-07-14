@@ -6,6 +6,7 @@ let path = require('path')
 let subjects = require('../lib/subjects')
 
 let root = 'subjects'
+let utils = './lib/utils'
 
 let dirs = fs.readdirSync(root)
 
@@ -18,16 +19,18 @@ makeIndex('./index.js', subjects.map(function(subject) {
 }))
 
 
-function makeIndex(path, requires) {
+function makeIndex(location, requires) {
   let lines = []
   let l = lines.push.bind(lines)
-  l('var standards = [')
+
+  var utilsRel = path.relative(path.dirname(location), utils)
+  if (utilsRel.indexOf('.') !== 0)
+    utilsRel = './' + utilsRel
+  l('var merge = require("' + utilsRel + '").merge')
+  l('module.exports = merge([')
   requires.forEach(function(requires, idx) {
     l('  require("./' + requires + '")' + (idx === requires.length - 1 ? '': ','))
   })
-  l(']')
-  l('standards = standards.concat.apply(standards, standards)')
-  l('')
-  l('module.exports = standards')
-  fs.writeFileSync(path, lines.join('\n'))
+  l('])')
+  fs.writeFileSync(location, lines.join('\n'))
 }

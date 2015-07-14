@@ -36,17 +36,6 @@
 		]
 	},
 	{
-		"content": "(Begins in grade 2)",
-		"tags": [
-			"english language arts & literacy",
-			"grade k"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
 		"displayName": "L.K.2",
 		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
 		"tags": [
@@ -287,28 +276,6 @@
 		]
 	},
 	{
-		"content": "(Begins in grade 2)",
-		"tags": [
-			"english language arts & literacy",
-			"grade k"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"content": "(Begins in grade 4)",
-		"tags": [
-			"english language arts & literacy",
-			"grade k"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
 		"displayName": "W.K.8",
 		"content": "With guidance and support from adults, recall information from experiences or gather information from provided sources to answer a question.",
 		"tags": [
@@ -347,17 +314,6 @@
 	{
 		"displayName": "W.K.5",
 		"content": "With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen writing as needed.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"content": "(Begins in grade 2)",
 		"tags": [
 			"english language arts & literacy",
 			"grade k"
@@ -706,17 +662,6 @@
 	{
 		"displayName": "RL.K.9",
 		"content": "With prompting and support, compare and contrast the adventures and experiences of characters in familiar stories.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"content": "(Not applicable to literature)",
 		"tags": [
 			"english language arts & literacy",
 			"grade k"
