@@ -36,15 +36,6 @@
 		"meta": []
 	},
 	{
-		"displayName": "K-2-ETS1",
-		"content": "Engineering Design",
-		"tags": [
-			"science",
-			"grade 1"
-		],
-		"meta": []
-	},
-	{
 		"displayName": "1-PS4-4",
 		"content": "Use tools and materials to design and build a device that uses light or sound to solve the problem of communicating over a distance.",
 		"tags": [
@@ -150,42 +141,6 @@
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "K-2-ETS1-3",
-		"content": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
-		"tags": [
-			"k-2-ets1",
-			"science",
-			"grade 1"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "K-2-ETS1-2",
-		"content": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
-		"tags": [
-			"k-2-ets1",
-			"science",
-			"grade 1"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "K-2-ETS1-1",
-		"content": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
-		"tags": [
-			"k-2-ets1",
-			"science",
-			"grade 1"
-		],
-		"meta": [
-			"Engineering Design"
 		]
 	}
 ]

@@ -3,6 +3,7 @@
 #
 
 BIN = node ./bin
+NODEBIN = ./node_modules/.bin
 
 #
 # Tasks
@@ -11,14 +12,14 @@ BIN = node ./bin
 node_modules: package.json
 	@npm install
 
-build: node_modules
+build: clean node_modules
 	@${BIN}/scrape.js
 	@${BIN}/indexes.js
 
-validate:
-	@${BIN}/validate.js
+test: node_modules
+	@${NODEBIN}/mocha --reporter spec
 
 clean:
 	@rm -rf subjects
 
-.PHONY: build
+.PHONY: build clean test

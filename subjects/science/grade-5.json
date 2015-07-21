@@ -72,15 +72,6 @@
 		"meta": []
 	},
 	{
-		"displayName": "3-5-ETS1",
-		"content": "Engineering Design",
-		"tags": [
-			"science",
-			"grade 5"
-		],
-		"meta": []
-	},
-	{
 		"displayName": "5-PS3-1",
 		"content": "Use models to describe that energy in animals' food (used for body repair, growth, motion, and to maintain body warmth) was once energy from the sun.",
 		"tags": [
@@ -234,42 +225,6 @@
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "3-5-ETS1-3",
-		"content": "Plan and carry out fair tests in which variables are controlled and failure points are considered to identify aspects of a model or prototype that can be improved.",
-		"tags": [
-			"3-5-ets1",
-			"science",
-			"grade 5"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "3-5-ETS1-2",
-		"content": "Generate and compare multiple possible solutions to a problem based on how well each is likely to meet the criteria and constraints of the problem.",
-		"tags": [
-			"3-5-ets1",
-			"science",
-			"grade 5"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "3-5-ETS1-1",
-		"content": "Define a simple design problem reflecting a need or a want that includes specified criteria for success and constraints on materials, time, or cost.",
-		"tags": [
-			"3-5-ets1",
-			"science",
-			"grade 5"
-		],
-		"meta": [
-			"Engineering Design"
 		]
 	}
 ]

@@ -45,15 +45,6 @@
 		"meta": []
 	},
 	{
-		"displayName": "K-2-ETS1",
-		"content": "Engineering Design",
-		"tags": [
-			"science",
-			"grade 2"
-		],
-		"meta": []
-	},
-	{
 		"displayName": "2-PS1-4",
 		"content": "Construct an argument with evidence that some changes caused by heating or cooling can be reversed and some cannot.",
 		"tags": [
@@ -183,42 +174,6 @@
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "K-2-ETS1-3",
-		"content": "Analyze data from tests of two objects designed to solve the same problem to compare the strengths and weaknesses of how each performs.",
-		"tags": [
-			"k-2-ets1",
-			"science",
-			"grade 2"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "K-2-ETS1-2",
-		"content": "Develop a simple sketch, drawing, or physical model to illustrate how the shape of an object helps it function as needed to solve a given problem.",
-		"tags": [
-			"k-2-ets1",
-			"science",
-			"grade 2"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "K-2-ETS1-1",
-		"content": "Ask questions, make observations, and gather information about a situation people want to change to define a simple problem that can be solved through the development of a new or improved object or tool.",
-		"tags": [
-			"k-2-ets1",
-			"science",
-			"grade 2"
-		],
-		"meta": [
-			"Engineering Design"
 		]
 	}
 ]

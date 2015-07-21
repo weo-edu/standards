@@ -78,97 +78,6 @@
 		]
 	},
 	{
-		"displayName": "L.CCR.6",
-		"content": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.6",
-		"content": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.3",
-		"content": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
 		"displayName": "SL.11-12.6",
 		"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
 		"tags": [
@@ -244,84 +153,6 @@
 		"meta": [
 			"Comprehension and Collaboration",
 			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.CCR.6",
-		"content": "Adapt speech to a variety of contexts and communicative tasks, demonstrating command of formal English when indicated or appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.5",
-		"content": "Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.4",
-		"content": "Present information, findings, and supporting evidence such that listeners can follow the line of reasoning and the organization, development, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.3",
-		"content": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.2",
-		"content": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.1",
-		"content": "Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others' ideas and expressing their own clearly and persuasively.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
 		]
 	},
 	{
@@ -569,136 +400,6 @@
 		"meta": [
 			"Text Types and Purposes",
 			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.CCR.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Range of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.8",
-		"content": "Gather relevant information from multiple print and digital sources, assess the credibility and accuracy of each source, and integrate the information while avoiding plagiarism.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.7",
-		"content": "Conduct short as well as more sustained research projects based on focused questions, demonstrating understanding of the subject under investigation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.6",
-		"content": "Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.5",
-		"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.2",
-		"content": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.1",
-		"content": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"College and Career Readiness Anchor Standards for Writing"
 		]
 	},
 	{
@@ -1209,136 +910,6 @@
 		]
 	},
 	{
-		"displayName": "R.CCR.10",
-		"content": "Read and comprehend complex literary and informational texts independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.9",
-		"content": "Analyze how two or more texts address similar themes or topics in order to build knowledge or to compare the approaches the authors take.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.8",
-		"content": "Delineate and evaluate the argument and specific claims in a text, including the validity of the reasoning as well as the relevance and sufficiency of the evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.7",
-		"content": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.6",
-		"content": "Assess how point of view or purpose shapes the content and style of a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Craft and Structure",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.5",
-		"content": "Analyze the structure of texts, including how specific sentences, paragraphs, and larger portions of the text (e.g., a section, chapter, scene, or stanza) relate to each other and the whole.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Craft and Structure",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.4",
-		"content": "Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Craft and Structure",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.3",
-		"content": "Analyze how and why individuals, events, and ideas develop and interact over the course of a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.2",
-		"content": "Determine central ideas or themes of a text and analyze their development; summarize the key supporting details and ideas.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.1",
-		"content": "Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
 		"displayName": "L.11-12.5b",
 		"content": "Analyze nuances in the meaning of words with similar denotations.",
 		"tags": [
@@ -1534,7 +1105,7 @@
 		]
 	},
 	{
-		"displayName": "SL.11-12.1d",
+		"displayName": "CCSS.ELA-Literacy.SL.11-12.1d",
 		"content": "Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task.",
 		"tags": [
 			"sl.11-12.1",
@@ -1549,7 +1120,7 @@
 		]
 	},
 	{
-		"displayName": "SL.11-12.1c",
+		"displayName": "CCSS.ELA-Literacy.SL.11-12.1c",
 		"content": "Propel conversations by posing and responding to questions that probe reasoning and evidence; ensure a hearing for a full range of positions on a topic or issue; clarify, verify, or challenge ideas and conclusions; and promote divergent and creative perspectives.",
 		"tags": [
 			"sl.11-12.1",
@@ -1564,7 +1135,7 @@
 		]
 	},
 	{
-		"displayName": "SL.11-12.1b",
+		"displayName": "CCSS.ELA-Literacy.SL.11-12.1b",
 		"content": "Work with peers to promote civil, democratic discussions and decision-making, set clear goals and deadlines, and establish individual roles as needed.",
 		"tags": [
 			"sl.11-12.1",
@@ -1579,7 +1150,7 @@
 		]
 	},
 	{
-		"displayName": "SL.11-12.1a",
+		"displayName": "CCSS.ELA-Literacy.SL.11-12.1a",
 		"content": "Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas.",
 		"tags": [
 			"sl.11-12.1",
