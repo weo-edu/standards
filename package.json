@@ -7,6 +7,7 @@
   "mian": "index",
   "dependencies": {},
   "devDependencies": {
+    "@weo-edu/grades": "^0.1.3",
     "@weo-edu/schema-tag": "weo-edu/schema-tag",
     "@weo-edu/validate": "weo-edu/validate",
     "co": "^4.5.4",

@@ -5,6 +5,7 @@
 		"tags": [
 			"science",
 			"grade k",
+			"kindergarten",
 			"grade 1",
 			"grade 2"
 		],
@@ -15,7 +16,8 @@
 		"content": "Energy",
 		"tags": [
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": []
 	},
@@ -24,7 +26,8 @@
 		"content": "Motion and Stability: Forces and Interactions",
 		"tags": [
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": []
 	},
@@ -33,7 +36,8 @@
 		"content": "Earth and Human Activity",
 		"tags": [
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": []
 	},
@@ -42,7 +46,8 @@
 		"content": "Earth's Systems",
 		"tags": [
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": []
 	},
@@ -51,7 +56,8 @@
 		"content": "From Molecules to Organisms: Structures and Processes",
 		"tags": [
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": []
 	},
@@ -62,6 +68,7 @@
 			"k-2-ets1",
 			"science",
 			"grade k",
+			"kindergarten",
 			"grade 1",
 			"grade 2"
 		],
@@ -76,6 +83,7 @@
 			"k-2-ets1",
 			"science",
 			"grade k",
+			"kindergarten",
 			"grade 1",
 			"grade 2"
 		],
@@ -90,6 +98,7 @@
 			"k-2-ets1",
 			"science",
 			"grade k",
+			"kindergarten",
 			"grade 1",
 			"grade 2"
 		],
@@ -103,7 +112,8 @@
 		"tags": [
 			"k-ps3",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Energy"
@@ -115,7 +125,8 @@
 		"tags": [
 			"k-ps3",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Energy"
@@ -127,7 +138,8 @@
 		"tags": [
 			"k-ps2",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -139,7 +151,8 @@
 		"tags": [
 			"k-ps2",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -151,7 +164,8 @@
 		"tags": [
 			"k-ess3",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -163,7 +177,8 @@
 		"tags": [
 			"k-ess3",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -175,7 +190,8 @@
 		"tags": [
 			"k-ess3",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -187,7 +203,8 @@
 		"tags": [
 			"k-ess2",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -199,7 +216,8 @@
 		"tags": [
 			"k-ess2",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -211,7 +229,8 @@
 		"tags": [
 			"k-ls1",
 			"science",
-			"grade k"
+			"grade k",
+			"kindergarten"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
