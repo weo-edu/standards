@@ -5,6 +5,7 @@
 		"tags": [
 			"science",
 			"grade 3",
+			"3-5-ets1",
 			"grade 4",
 			"grade 5"
 		],
@@ -15,7 +16,8 @@
 		"content": "Motion and Stability: Forces and Interactions",
 		"tags": [
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ps2"
 		],
 		"meta": []
 	},
@@ -24,7 +26,8 @@
 		"content": "Earth and Human Activity",
 		"tags": [
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ess3"
 		],
 		"meta": []
 	},
@@ -33,7 +36,8 @@
 		"content": "Earth's Systems",
 		"tags": [
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ess2"
 		],
 		"meta": []
 	},
@@ -42,7 +46,8 @@
 		"content": "Biological Evolution: Unity and Diversity",
 		"tags": [
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls4"
 		],
 		"meta": []
 	},
@@ -51,7 +56,8 @@
 		"content": "Heredity: Inheritance and Variation of Traits",
 		"tags": [
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls3"
 		],
 		"meta": []
 	},
@@ -60,7 +66,8 @@
 		"content": "Ecosystems: Interactions, Energy, and Dynamics",
 		"tags": [
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls2"
 		],
 		"meta": []
 	},
@@ -69,7 +76,8 @@
 		"content": "From Molecules to Organisms: Structures and Processes",
 		"tags": [
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls1"
 		],
 		"meta": []
 	},
@@ -80,6 +88,7 @@
 			"3-5-ets1",
 			"science",
 			"grade 3",
+			"3-5-ets1-3",
 			"grade 4",
 			"grade 5"
 		],
@@ -94,6 +103,7 @@
 			"3-5-ets1",
 			"science",
 			"grade 3",
+			"3-5-ets1-2",
 			"grade 4",
 			"grade 5"
 		],
@@ -108,6 +118,7 @@
 			"3-5-ets1",
 			"science",
 			"grade 3",
+			"3-5-ets1-1",
 			"grade 4",
 			"grade 5"
 		],
@@ -121,7 +132,8 @@
 		"tags": [
 			"3-ps2",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ps2-4"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -133,7 +145,8 @@
 		"tags": [
 			"3-ps2",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ps2-3"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -145,7 +158,8 @@
 		"tags": [
 			"3-ps2",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ps2-2"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -157,7 +171,8 @@
 		"tags": [
 			"3-ps2",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ps2-1"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -169,7 +184,8 @@
 		"tags": [
 			"3-ess3",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ess3-1"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -181,7 +197,8 @@
 		"tags": [
 			"3-ess2",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ess2-2"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -193,7 +210,8 @@
 		"tags": [
 			"3-ess2",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ess2-1"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -205,7 +223,8 @@
 		"tags": [
 			"3-ls4",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls4-4"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -217,7 +236,8 @@
 		"tags": [
 			"3-ls4",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls4-3"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -229,7 +249,8 @@
 		"tags": [
 			"3-ls4",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls4-2"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -241,7 +262,8 @@
 		"tags": [
 			"3-ls4",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls4-1"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -253,7 +275,8 @@
 		"tags": [
 			"3-ls3",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls3-2"
 		],
 		"meta": [
 			"Heredity: Inheritance and Variation of Traits"
@@ -265,7 +288,8 @@
 		"tags": [
 			"3-ls3",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls3-1"
 		],
 		"meta": [
 			"Heredity: Inheritance and Variation of Traits"
@@ -277,7 +301,8 @@
 		"tags": [
 			"3-ls2",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls2-1"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -289,7 +314,8 @@
 		"tags": [
 			"3-ls1",
 			"science",
-			"grade 3"
+			"grade 3",
+			"3-ls1-1"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"

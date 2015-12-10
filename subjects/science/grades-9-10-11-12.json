@@ -7,7 +7,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ets1"
 		],
 		"meta": []
 	},
@@ -19,7 +20,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps4"
 		],
 		"meta": []
 	},
@@ -31,7 +33,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps3"
 		],
 		"meta": []
 	},
@@ -43,7 +46,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps2"
 		],
 		"meta": []
 	},
@@ -55,7 +59,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1"
 		],
 		"meta": []
 	},
@@ -67,7 +72,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess3"
 		],
 		"meta": []
 	},
@@ -79,7 +85,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2"
 		],
 		"meta": []
 	},
@@ -91,7 +98,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess1"
 		],
 		"meta": []
 	},
@@ -103,7 +111,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls4"
 		],
 		"meta": []
 	},
@@ -115,7 +124,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls3"
 		],
 		"meta": []
 	},
@@ -127,7 +137,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2"
 		],
 		"meta": []
 	},
@@ -139,7 +150,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1"
 		],
 		"meta": []
 	},
@@ -152,7 +164,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ets1-4"
 		],
 		"meta": [
 			"Engineering Design"
@@ -167,7 +180,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ets1-3"
 		],
 		"meta": [
 			"Engineering Design"
@@ -182,7 +196,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ets1-2"
 		],
 		"meta": [
 			"Engineering Design"
@@ -197,7 +212,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ets1-1"
 		],
 		"meta": [
 			"Engineering Design"
@@ -212,7 +228,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps4-5"
 		],
 		"meta": [
 			"Waves and Their Applications in Technologies for Information Transfer"
@@ -227,7 +244,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps4-4"
 		],
 		"meta": [
 			"Waves and Their Applications in Technologies for Information Transfer"
@@ -242,7 +260,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps4-3"
 		],
 		"meta": [
 			"Waves and Their Applications in Technologies for Information Transfer"
@@ -257,7 +276,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps4-2"
 		],
 		"meta": [
 			"Waves and Their Applications in Technologies for Information Transfer"
@@ -272,7 +292,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps4-1"
 		],
 		"meta": [
 			"Waves and Their Applications in Technologies for Information Transfer"
@@ -287,7 +308,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps3-5"
 		],
 		"meta": [
 			"Energy"
@@ -302,7 +324,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps3-4"
 		],
 		"meta": [
 			"Energy"
@@ -317,7 +340,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps3-3"
 		],
 		"meta": [
 			"Energy"
@@ -332,7 +356,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps3-2"
 		],
 		"meta": [
 			"Energy"
@@ -347,7 +372,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps3-1"
 		],
 		"meta": [
 			"Energy"
@@ -362,7 +388,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps2-6"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -377,7 +404,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps2-5"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -392,7 +420,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps2-4"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -407,7 +436,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps2-3"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -422,7 +452,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps2-2"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -437,7 +468,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps2-1"
 		],
 		"meta": [
 			"Motion and Stability: Forces and Interactions"
@@ -452,7 +484,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-8"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -467,7 +500,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-7"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -482,7 +516,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-6"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -497,7 +532,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-5"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -512,7 +548,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-4"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -527,7 +564,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-3"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -542,7 +580,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-2"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -557,7 +596,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ps1-1"
 		],
 		"meta": [
 			"Matter and Its Interactions"
@@ -572,7 +612,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess3-6"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -587,7 +628,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess3-5"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -602,7 +644,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess3-4"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -617,7 +660,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess3-3"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -632,7 +676,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess3-2"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -647,7 +692,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess3-1"
 		],
 		"meta": [
 			"Earth and Human Activity"
@@ -662,7 +708,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2-7"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -677,7 +724,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2-6"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -692,7 +740,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2-5"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -707,7 +756,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2-4"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -722,7 +772,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2-3"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -737,7 +788,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2-2"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -752,7 +804,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess2-1"
 		],
 		"meta": [
 			"Earth's Systems"
@@ -767,7 +820,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess1-6"
 		],
 		"meta": [
 			"Earth's Place in the Universe"
@@ -782,7 +836,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess1-5"
 		],
 		"meta": [
 			"Earth's Place in the Universe"
@@ -797,7 +852,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess1-4"
 		],
 		"meta": [
 			"Earth's Place in the Universe"
@@ -812,7 +868,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess1-3"
 		],
 		"meta": [
 			"Earth's Place in the Universe"
@@ -827,7 +884,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess1-2"
 		],
 		"meta": [
 			"Earth's Place in the Universe"
@@ -842,7 +900,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ess1-1"
 		],
 		"meta": [
 			"Earth's Place in the Universe"
@@ -857,7 +916,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls4-6"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -872,7 +932,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls4-5"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -887,7 +948,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls4-4"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -902,7 +964,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls4-3"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -917,7 +980,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls4-2"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -932,7 +996,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls4-1"
 		],
 		"meta": [
 			"Biological Evolution: Unity and Diversity"
@@ -947,7 +1012,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls3-3"
 		],
 		"meta": [
 			"Heredity: Inheritance and Variation of Traits"
@@ -962,7 +1028,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls3-2"
 		],
 		"meta": [
 			"Heredity: Inheritance and Variation of Traits"
@@ -977,7 +1044,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls3-1"
 		],
 		"meta": [
 			"Heredity: Inheritance and Variation of Traits"
@@ -992,7 +1060,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-8"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1007,7 +1076,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-7"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1022,7 +1092,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-6"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1037,7 +1108,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-5"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1052,7 +1124,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-4"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1067,7 +1140,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-3"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1082,7 +1156,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-2"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1097,7 +1172,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls2-1"
 		],
 		"meta": [
 			"Ecosystems: Interactions, Energy, and Dynamics"
@@ -1112,7 +1188,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1-7"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
@@ -1127,7 +1204,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1-6"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
@@ -1142,7 +1220,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1-5"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
@@ -1157,7 +1236,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1-4"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
@@ -1172,7 +1252,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1-3"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
@@ -1187,7 +1268,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1-2"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
@@ -1202,7 +1284,8 @@
 			"grade 9",
 			"grade 10",
 			"grade 11",
-			"grade 12"
+			"grade 12",
+			"hs-ls1-1"
 		],
 		"meta": [
 			"From Molecules to Organisms: Structures and Processes"
