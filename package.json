@@ -2,7 +2,7 @@
   "name": "@weo-edu/standards",
   "description": "common core standards json",
   "repository": "git://github.com/weo-edu/standards.git",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "license": "MIT",
   "mian": "index",
   "dependencies": {},
