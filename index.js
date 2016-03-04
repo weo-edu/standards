@@ -1,6 +1,5 @@
-var merge = require("./lib/utils").merge
-module.exports = merge([
-  require("./subjects/mathematics"),
-  require("./subjects/science"),
-  require("./subjects/english-language-arts-and-literacy"),
-])
+module.exports = {
+  'Math': require("./subjects/mathematics"),
+  'Science': require("./subjects/science"),
+  'English Language Arts': require("./subjects/english-language-arts-and-literacy")
+}

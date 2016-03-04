@@ -1,13 +1,12 @@
-var merge = require("../../lib/utils").merge
-module.exports = merge([
-  require("./grade-1.json"),
-  require("./grade-2.json"),
-  require("./grade-3.json"),
-  require("./grade-4.json"),
-  require("./grade-5.json"),
-  require("./grade-6.json"),
-  require("./grade-7.json"),
-  require("./grade-8.json"),
-  require("./grade-k.json"),
-  require("./grades-9-10-11-12.json"),
-])
+module.exports = {
+  "Kindergarten": require("./grade-k.json"),
+  "1st": require("./grade-1.json"),
+  "2nd": require("./grade-2.json"),
+  "3rd": require("./grade-3.json"),
+  "4th": require("./grade-4.json"),
+  "5th": require("./grade-5.json"),
+  "6th": require("./grade-6.json"),
+  "7th": require("./grade-7.json"),
+  "8th": require("./grade-8.json"),
+  "9th - 12th": require("./grades-9-10-11-12.json")
+}
