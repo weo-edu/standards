@@ -1,1757 +1,1789 @@
-[
-	{
-		"displayName": "L.6.6",
-		"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"l66"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"l65"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"l64"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.3",
-		"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"l63"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"l62"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"l61"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.6",
-		"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"sl66"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.5",
-		"content": "Include multimedia components (e.g., graphics, images, music, sound) and visual displays in presentations to clarify information.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"sl65"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.4",
-		"content": "Present claims and findings (e.g., argument, narrative, informative, response to literature presentations), sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate main ideas or themes; use appropriate eye contact, adequate volume, and clear pronunciation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"sl64"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.3",
-		"content": "Delineate a speaker's argument and specific claims, distinguishing claims that are supported by reasons and evidence from claims that are not.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"sl63"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.2",
-		"content": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"sl62"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.1",
-		"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"sl61"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.10",
-		"content": "Write routinely over extended time frames (time for reflection and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-810",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.9",
-		"content": "Draw evidence from informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-89",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.8",
-		"content": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-88",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.7",
-		"content": "Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused questions that allow for multiple avenues of exploration.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-87",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.5",
-		"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-85",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.6",
-		"content": "Use technology, including the Internet, to produce and publish writing and present the relationships between information and ideas clearly and efficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-86",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-84",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.2",
-		"content": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-82",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.1",
-		"content": "Write arguments focused on discipline-specific content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-81",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "W.6.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w610"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w69"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.8",
-		"content": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w68"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.7",
-		"content": "Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w67"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.6",
-		"content": "Use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of three pages in a single sitting.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w66"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.5",
-		"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w65"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w64"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w63"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.2",
-		"content": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w62"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.1",
-		"content": "Write arguments to support claims with clear reasons and relevant evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"w61"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RST.6-8.10",
-		"content": "By the end of grade 8, read and comprehend science/technical texts in the grades 6—8 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-810",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.9",
-		"content": "Compare and contrast the information gained from experiments, simulations, video, or multimedia sources with that gained from reading a text on the same topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-89",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.8",
-		"content": "Distinguish among facts, reasoned judgment based on research findings, and speculation in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-88",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.7",
-		"content": "Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-87",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.6",
-		"content": "Analyze the author's purpose in providing an explanation, describing a procedure, or discussing an experiment in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-86",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.5",
-		"content": "Analyze the structure an author uses to organize a text, including how the major sections contribute to the whole and to an understanding of the topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-85",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.4",
-		"content": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 6—8 texts and topics.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-84",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.3",
-		"content": "Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-83",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.2",
-		"content": "Determine the central ideas or conclusions of a text; provide an accurate summary of the text distinct from prior knowledge or opinions.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-82",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.6-8.1",
-		"content": "Cite specific textual evidence to support analysis of science and technical texts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rst6-81",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.10",
-		"content": "By the end of grade 8, read and comprehend history/social studies texts in the grades 6—8 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-810",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.9",
-		"content": "Analyze the relationship between a primary and secondary source on the same topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-89",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.8",
-		"content": "Distinguish among fact, opinion, and reasoned judgment in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-88",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.7",
-		"content": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-87",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.6",
-		"content": "Identify aspects of a text that reveal an author's point of view or purpose (e.g., loaded language, inclusion or avoidance of particular facts).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-86",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.5",
-		"content": "Describe how a text presents information (e.g., sequentially, comparatively, causally).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-85",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including vocabulary specific to domains related to history/social studies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-84",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.3",
-		"content": "Identify key steps in a text's description of a process related to history/social studies (e.g., how a bill becomes law, how interest rates are raised or lowered).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-83",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.2",
-		"content": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary of the source distinct from prior knowledge or opinions.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-82",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.6-8.1",
-		"content": "Cite specific textual evidence to support analysis of primary and secondary sources.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rh6-81",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RI.6.10",
-		"content": "By the end of the year, read and comprehend literary nonfiction in the grades 6—8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri610"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.9",
-		"content": "Compare and contrast one author's presentation of events with that of another (e.g., a memoir written by and a biography on the same person).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri69"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.8",
-		"content": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri68"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.7",
-		"content": "Integrate information presented in different media or formats (e.g., visually, quantitatively) as well as in words to develop a coherent understanding of a topic or issue.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri67"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.6",
-		"content": "Determine an author's point of view or purpose in a text and explain how it is conveyed in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri66"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.5",
-		"content": "Analyze how a particular sentence, paragraph, chapter, or section fits into the overall structure of a text and contributes to the development of the ideas.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri65"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings. (See grade 6 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri64"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.3",
-		"content": "Analyze in detail how a key individual, event, or idea is introduced, illustrated, and elaborated in a text (e.g., through examples or anecdotes).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri63"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.2",
-		"content": "Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri62"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.6.1",
-		"content": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"ri61"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.6.10",
-		"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poems, in the grades 6—8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl610"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.9",
-		"content": "Compare and contrast texts in different forms or genres (e.g., stories and poems; historical novels and fantasy stories) in terms of their approaches to similar themes and topics.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl69"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.7",
-		"content": "Compare and contrast the experience of reading a story, drama, or poem to listening to or viewing an audio, video, or live version of the text, including contrasting what they \"see\" and \"hear\" when reading the text to what they perceive when they listen or watch.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl67"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.6",
-		"content": "Explain how an author develops the point of view of the narrator or speaker in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl66"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.5",
-		"content": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl65"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of a specific word choice on meaning and tone. (See grade 6 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl64"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.3",
-		"content": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl63"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.2",
-		"content": "Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl62"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.6.1",
-		"content": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 6",
-			"rl61"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.6.5c",
-		"content": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., stingy, scrimping, economical, unwasteful, thrifty).",
-		"tags": [
-			"l.6.5",
-			"english language arts & literacy",
-			"grade 6",
-			"l65c"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.5b",
-		"content": "Use the relationship between particular words (e.g., cause/effect, part/whole, item/category) to better understand each of the words.",
-		"tags": [
-			"l.6.5",
-			"english language arts & literacy",
-			"grade 6",
-			"l65b"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.5a",
-		"content": "Interpret figures of speech (e.g., personification) in context.",
-		"tags": [
-			"l.6.5",
-			"english language arts & literacy",
-			"grade 6",
-			"l65a"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.4d",
-		"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
-		"tags": [
-			"l.6.4",
-			"english language arts & literacy",
-			"grade 6",
-			"l64d"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.4c",
-		"content": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech.",
-		"tags": [
-			"l.6.4",
-			"english language arts & literacy",
-			"grade 6",
-			"l64c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.4b",
-		"content": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., audience, auditory, audible).",
-		"tags": [
-			"l.6.4",
-			"english language arts & literacy",
-			"grade 6",
-			"l64b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.4a",
-		"content": "Use context (e.g., the overall meaning of a sentence or paragraph; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.6.4",
-			"english language arts & literacy",
-			"grade 6",
-			"l64a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.3b",
-		"content": "Maintain consistency in style and tone.",
-		"tags": [
-			"l.6.3",
-			"english language arts & literacy",
-			"grade 6",
-			"l63b"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.3a",
-		"content": "Vary sentence patterns for meaning, reader/listener interest, and style.",
-		"tags": [
-			"l.6.3",
-			"english language arts & literacy",
-			"grade 6",
-			"l63a"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.2b",
-		"content": "Spell correctly.",
-		"tags": [
-			"l.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"l62b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.2a",
-		"content": "Use punctuation (commas, parentheses, dashes) to set off nonrestrictive/parenthetical elements.",
-		"tags": [
-			"l.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"l62a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.1e",
-		"content": "Recognize variations from standard English in their own and others' writing and speaking, and identify and use strategies to improve expression in conventional language.",
-		"tags": [
-			"l.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"l61e"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.1d",
-		"content": "Recognize and correct vague pronouns (i.e., ones with unclear or ambiguous antecedents).",
-		"tags": [
-			"l.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"l61d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.1c",
-		"content": "Recognize and correct inappropriate shifts in pronoun number and person.",
-		"tags": [
-			"l.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"l61c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.1b",
-		"content": "Use all pronouns, including intensive pronouns (e.g., myself, ourselves) correctly.",
-		"tags": [
-			"l.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"l61b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.6.1a",
-		"content": "Ensure that pronouns are in the proper case (subjective, objective, possessive).",
-		"tags": [
-			"l.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"l61a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.4a",
-		"content": "Plan and deliver an informative/explanatory presentation that: develops a topic with relevant facts, definitions, and concrete details; uses appropriate transitions to clarify relationships; uses precise language and domain specific vocabulary; and provides a strong conclusion.",
-		"tags": [
-			"sl.6.4",
-			"english language arts & literacy",
-			"grade 6",
-			"sl64a"
-		],
-		"meta": [
-			"Present claims and findings (e.g., argument, narrative, informative, response to literature presentations), sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate main ideas or themes; use appropriate eye contact, adequate volume, and clear pronunciation.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.1d",
-		"content": "Review the key ideas expressed and demonstrate understanding of multiple perspectives through reflection and paraphrasing.",
-		"tags": [
-			"sl.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"sl61d"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.1c",
-		"content": "Pose and respond to specific questions with elaboration and detail by making comments that contribute to the topic, text, or issue under discussion.",
-		"tags": [
-			"sl.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"sl61c"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.1b",
-		"content": "Follow rules for collegial discussions, set specific goals and deadlines, and define individual roles as needed.",
-		"tags": [
-			"sl.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"sl61b"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.6.1a",
-		"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.",
-		"tags": [
-			"sl.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"sl61a"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.2f",
-		"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented.",
-		"tags": [
-			"whst.6-8.2",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-82f",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.2e",
-		"content": "Establish and maintain a formal style and objective tone.",
-		"tags": [
-			"whst.6-8.2",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-82e",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.2d",
-		"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-		"tags": [
-			"whst.6-8.2",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-82d",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.2c",
-		"content": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas and concepts.",
-		"tags": [
-			"whst.6-8.2",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-82c",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.2b",
-		"content": "Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples.",
-		"tags": [
-			"whst.6-8.2",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-82b",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.2a",
-		"content": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories as appropriate to achieving purpose; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"whst.6-8.2",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-82a",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.1e",
-		"content": "Provide a concluding statement or section that follows from or supports the argument presented.",
-		"tags": [
-			"whst.6-8.1",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-81e",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.1d",
-		"content": "Establish and maintain a formal style.",
-		"tags": [
-			"whst.6-8.1",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-81d",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.1c",
-		"content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence.",
-		"tags": [
-			"whst.6-8.1",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-81c",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.1b",
-		"content": "Support claim(s) with logical reasoning and relevant, accurate data and evidence that demonstrate an understanding of the topic or text, using credible sources.",
-		"tags": [
-			"whst.6-8.1",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-81b",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.6-8.1a",
-		"content": "Introduce claim(s) about a topic or issue, acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically.",
-		"tags": [
-			"whst.6-8.1",
-			"english language arts & literacy",
-			"grade 6",
-			"whst6-81a",
-			"grade 7",
-			"grade 8"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "W.6.9b",
-		"content": "Apply grade 6 Reading standards to literary nonfiction (e.g., \"Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not\").",
-		"tags": [
-			"w.6.9",
-			"english language arts & literacy",
-			"grade 6",
-			"w69b"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.9a",
-		"content": "Apply grade 6 Reading standards to literature (e.g., \"Compare and contrast texts in different forms or genres [e.g., stories and poems; historical novels and fantasy stories] in terms of their approaches to similar themes and topics\").",
-		"tags": [
-			"w.6.9",
-			"english language arts & literacy",
-			"grade 6",
-			"w69a"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.3e",
-		"content": "Provide a conclusion that follows from the narrated experiences or events.",
-		"tags": [
-			"w.6.3",
-			"english language arts & literacy",
-			"grade 6",
-			"w63e"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.3d",
-		"content": "Use precise words and phrases, relevant descriptive details, and sensory language to convey experiences and events.",
-		"tags": [
-			"w.6.3",
-			"english language arts & literacy",
-			"grade 6",
-			"w63d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.3c",
-		"content": "Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time frame or setting to another.",
-		"tags": [
-			"w.6.3",
-			"english language arts & literacy",
-			"grade 6",
-			"w63c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.3b",
-		"content": "Use narrative techniques, such as dialogue, pacing, and description, to develop experiences, events, and/or characters.",
-		"tags": [
-			"w.6.3",
-			"english language arts & literacy",
-			"grade 6",
-			"w63b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.3a",
-		"content": "Engage and orient the reader by establishing a context and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically.",
-		"tags": [
-			"w.6.3",
-			"english language arts & literacy",
-			"grade 6",
-			"w63a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.2f",
-		"content": "Provide a concluding statement or section that follows from the information or explanation presented.",
-		"tags": [
-			"w.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"w62f"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.2e",
-		"content": "Establish and maintain a formal style.",
-		"tags": [
-			"w.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"w62e"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.2d",
-		"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-		"tags": [
-			"w.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"w62d"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.2c",
-		"content": "Use appropriate transitions to clarify the relationships among ideas and concepts.",
-		"tags": [
-			"w.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"w62c"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.2b",
-		"content": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples.",
-		"tags": [
-			"w.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"w62b"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.2a",
-		"content": "Introduce a topic or thesis statement; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"w.6.2",
-			"english language arts & literacy",
-			"grade 6",
-			"w62a"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.1e",
-		"content": "Provide a concluding statement or section that follows from the argument presented.",
-		"tags": [
-			"w.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"w61e"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.1d",
-		"content": "Establish and maintain a formal style.",
-		"tags": [
-			"w.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"w61d"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.1c",
-		"content": "Use words, phrases, and clauses to clarify the relationships among claim(s) and reasons.",
-		"tags": [
-			"w.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"w61c"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.1b",
-		"content": "Support claim(s) with clear reasons and relevant evidence, using credible sources and demonstrating an understanding of the topic or text.",
-		"tags": [
-			"w.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"w61b"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.6.1a",
-		"content": "Introduce claim(s) and organize the reasons and evidence clearly.",
-		"tags": [
-			"w.6.1",
-			"english language arts & literacy",
-			"grade 6",
-			"w61a"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RI.6.5a",
-		"content": "Analyze the use of text features (e.g., graphics, headers, captions) in popular media.",
-		"tags": [
-			"ri.6.5",
-			"english language arts & literacy",
-			"grade 6",
-			"ri65a"
-		],
-		"meta": [
-			"Analyze how a particular sentence, paragraph, chapter, or section fits into the overall structure of a text and contributes to the development of the ideas.",
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.6.6",
+			"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"l66"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"l65"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"l64"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.3",
+			"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"l63"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"l62"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"l61"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.6.6",
+			"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"sl66"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.5",
+			"content": "Include multimedia components (e.g., graphics, images, music, sound) and visual displays in presentations to clarify information.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"sl65"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.4",
+			"content": "Present claims and findings (e.g., argument, narrative, informative, response to literature presentations), sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate main ideas or themes; use appropriate eye contact, adequate volume, and clear pronunciation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"sl64"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.3",
+			"content": "Delineate a speaker's argument and specific claims, distinguishing claims that are supported by reasons and evidence from claims that are not.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"sl63"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.2",
+			"content": "Interpret information presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how it contributes to a topic, text, or issue under study.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"sl62"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.1",
+			"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"sl61"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12": [
+		{
+			"displayName": "WHST.6-8.10",
+			"content": "Write routinely over extended time frames (time for reflection and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-810",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.9",
+			"content": "Draw evidence from informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-89",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.8",
+			"content": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-88",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.7",
+			"content": "Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused questions that allow for multiple avenues of exploration.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-87",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.5",
+			"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-85",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.6",
+			"content": "Use technology, including the Internet, to produce and publish writing and present the relationships between information and ideas clearly and efficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-86",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-84",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.2",
+			"content": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-82",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.1",
+			"content": "Write arguments focused on discipline-specific content.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-81",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.6.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w610"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w69"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.8",
+			"content": "Gather relevant information from multiple print and digital sources; assess the credibility of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and providing basic bibliographic information for sources.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w68"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.7",
+			"content": "Conduct short research projects to answer a question, drawing on several sources and refocusing the inquiry when appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w67"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.6",
+			"content": "Use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of three pages in a single sitting.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w66"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.5",
+			"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w65"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w64"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w63"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.2",
+			"content": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w62"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.1",
+			"content": "Write arguments to support claims with clear reasons and relevant evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"w61"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards for Literacy in Science and Technical Subjects 6—12": [
+		{
+			"displayName": "RST.6-8.10",
+			"content": "By the end of grade 8, read and comprehend science/technical texts in the grades 6—8 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-810",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.9",
+			"content": "Compare and contrast the information gained from experiments, simulations, video, or multimedia sources with that gained from reading a text on the same topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-89",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.8",
+			"content": "Distinguish among facts, reasoned judgment based on research findings, and speculation in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-88",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.7",
+			"content": "Integrate quantitative or technical information expressed in words in a text with a version of that information expressed visually (e.g., in a flowchart, diagram, model, graph, or table).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-87",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.6",
+			"content": "Analyze the author's purpose in providing an explanation, describing a procedure, or discussing an experiment in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-86",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.5",
+			"content": "Analyze the structure an author uses to organize a text, including how the major sections contribute to the whole and to an understanding of the topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-85",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.4",
+			"content": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 6—8 texts and topics.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-84",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.3",
+			"content": "Follow precisely a multistep procedure when carrying out experiments, taking measurements, or performing technical tasks.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-83",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.2",
+			"content": "Determine the central ideas or conclusions of a text; provide an accurate summary of the text distinct from prior knowledge or opinions.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-82",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.6-8.1",
+			"content": "Cite specific textual evidence to support analysis of science and technical texts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rst6-81",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		}
+	],
+	"Reading Standards for Literacy in History/Social Studies 6—12": [
+		{
+			"displayName": "RH.6-8.10",
+			"content": "By the end of grade 8, read and comprehend history/social studies texts in the grades 6—8 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-810",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.9",
+			"content": "Analyze the relationship between a primary and secondary source on the same topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-89",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.8",
+			"content": "Distinguish among fact, opinion, and reasoned judgment in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-88",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.7",
+			"content": "Integrate visual information (e.g., in charts, graphs, photographs, videos, or maps) with other information in print and digital texts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-87",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.6",
+			"content": "Identify aspects of a text that reveal an author's point of view or purpose (e.g., loaded language, inclusion or avoidance of particular facts).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-86",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.5",
+			"content": "Describe how a text presents information (e.g., sequentially, comparatively, causally).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-85",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including vocabulary specific to domains related to history/social studies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-84",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.3",
+			"content": "Identify key steps in a text's description of a process related to history/social studies (e.g., how a bill becomes law, how interest rates are raised or lowered).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-83",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.2",
+			"content": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary of the source distinct from prior knowledge or opinions.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-82",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.6-8.1",
+			"content": "Cite specific textual evidence to support analysis of primary and secondary sources.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rh6-81",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.6.10",
+			"content": "By the end of the year, read and comprehend literary nonfiction in the grades 6—8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri610"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.9",
+			"content": "Compare and contrast one author's presentation of events with that of another (e.g., a memoir written by and a biography on the same person).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri69"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.8",
+			"content": "Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri68"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.7",
+			"content": "Integrate information presented in different media or formats (e.g., visually, quantitatively) as well as in words to develop a coherent understanding of a topic or issue.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri67"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.6",
+			"content": "Determine an author's point of view or purpose in a text and explain how it is conveyed in the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri66"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.5",
+			"content": "Analyze how a particular sentence, paragraph, chapter, or section fits into the overall structure of a text and contributes to the development of the ideas.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri65"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings. (See grade 6 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri64"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.3",
+			"content": "Analyze in detail how a key individual, event, or idea is introduced, illustrated, and elaborated in a text (e.g., through examples or anecdotes).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri63"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.2",
+			"content": "Determine a central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri62"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.6.1",
+			"content": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"ri61"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.6.10",
+			"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poems, in the grades 6—8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl610"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.9",
+			"content": "Compare and contrast texts in different forms or genres (e.g., stories and poems; historical novels and fantasy stories) in terms of their approaches to similar themes and topics.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl69"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.7",
+			"content": "Compare and contrast the experience of reading a story, drama, or poem to listening to or viewing an audio, video, or live version of the text, including contrasting what they \"see\" and \"hear\" when reading the text to what they perceive when they listen or watch.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl67"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.6",
+			"content": "Explain how an author develops the point of view of the narrator or speaker in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl66"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.5",
+			"content": "Analyze how a particular sentence, chapter, scene, or stanza fits into the overall structure of a text and contributes to the development of the theme, setting, or plot.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl65"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of a specific word choice on meaning and tone. (See grade 6 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl64"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.3",
+			"content": "Describe how a particular story's or drama's plot unfolds in a series of episodes as well as how the characters respond or change as the plot moves toward a resolution.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl63"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.2",
+			"content": "Determine a theme or central idea of a text and how it is conveyed through particular details; provide a summary of the text distinct from personal opinions or judgments.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl62"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.6.1",
+			"content": "Cite textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 6",
+				"rl61"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.6.5c",
+			"content": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., stingy, scrimping, economical, unwasteful, thrifty).",
+			"tags": [
+				"l.6.5",
+				"english language arts & literacy",
+				"grade 6",
+				"l65c"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.5b",
+			"content": "Use the relationship between particular words (e.g., cause/effect, part/whole, item/category) to better understand each of the words.",
+			"tags": [
+				"l.6.5",
+				"english language arts & literacy",
+				"grade 6",
+				"l65b"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.5a",
+			"content": "Interpret figures of speech (e.g., personification) in context.",
+			"tags": [
+				"l.6.5",
+				"english language arts & literacy",
+				"grade 6",
+				"l65a"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.4d",
+			"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
+			"tags": [
+				"l.6.4",
+				"english language arts & literacy",
+				"grade 6",
+				"l64d"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.4c",
+			"content": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech.",
+			"tags": [
+				"l.6.4",
+				"english language arts & literacy",
+				"grade 6",
+				"l64c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.4b",
+			"content": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., audience, auditory, audible).",
+			"tags": [
+				"l.6.4",
+				"english language arts & literacy",
+				"grade 6",
+				"l64b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.4a",
+			"content": "Use context (e.g., the overall meaning of a sentence or paragraph; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.6.4",
+				"english language arts & literacy",
+				"grade 6",
+				"l64a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 6 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.6.3b",
+			"content": "Maintain consistency in style and tone.",
+			"tags": [
+				"l.6.3",
+				"english language arts & literacy",
+				"grade 6",
+				"l63b"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.3a",
+			"content": "Vary sentence patterns for meaning, reader/listener interest, and style.",
+			"tags": [
+				"l.6.3",
+				"english language arts & literacy",
+				"grade 6",
+				"l63a"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.6.2b",
+			"content": "Spell correctly.",
+			"tags": [
+				"l.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"l62b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.2a",
+			"content": "Use punctuation (commas, parentheses, dashes) to set off nonrestrictive/parenthetical elements.",
+			"tags": [
+				"l.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"l62a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.1e",
+			"content": "Recognize variations from standard English in their own and others' writing and speaking, and identify and use strategies to improve expression in conventional language.",
+			"tags": [
+				"l.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"l61e"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.1d",
+			"content": "Recognize and correct vague pronouns (i.e., ones with unclear or ambiguous antecedents).",
+			"tags": [
+				"l.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"l61d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.1c",
+			"content": "Recognize and correct inappropriate shifts in pronoun number and person.",
+			"tags": [
+				"l.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"l61c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.1b",
+			"content": "Use all pronouns, including intensive pronouns (e.g., myself, ourselves) correctly.",
+			"tags": [
+				"l.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"l61b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.6.1a",
+			"content": "Ensure that pronouns are in the proper case (subjective, objective, possessive).",
+			"tags": [
+				"l.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"l61a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.6.4a",
+			"content": "Plan and deliver an informative/explanatory presentation that: develops a topic with relevant facts, definitions, and concrete details; uses appropriate transitions to clarify relationships; uses precise language and domain specific vocabulary; and provides a strong conclusion.",
+			"tags": [
+				"sl.6.4",
+				"english language arts & literacy",
+				"grade 6",
+				"sl64a"
+			],
+			"meta": [
+				"Present claims and findings (e.g., argument, narrative, informative, response to literature presentations), sequencing ideas logically and using pertinent descriptions, facts, and details to accentuate main ideas or themes; use appropriate eye contact, adequate volume, and clear pronunciation.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.6.1d",
+			"content": "Review the key ideas expressed and demonstrate understanding of multiple perspectives through reflection and paraphrasing.",
+			"tags": [
+				"sl.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"sl61d"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.1c",
+			"content": "Pose and respond to specific questions with elaboration and detail by making comments that contribute to the topic, text, or issue under discussion.",
+			"tags": [
+				"sl.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"sl61c"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.1b",
+			"content": "Follow rules for collegial discussions, set specific goals and deadlines, and define individual roles as needed.",
+			"tags": [
+				"sl.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"sl61b"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.6.1a",
+			"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.",
+			"tags": [
+				"sl.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"sl61a"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 6 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "WHST.6-8.2f",
+			"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented.",
+			"tags": [
+				"whst.6-8.2",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-82f",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.2e",
+			"content": "Establish and maintain a formal style and objective tone.",
+			"tags": [
+				"whst.6-8.2",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-82e",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.2d",
+			"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+			"tags": [
+				"whst.6-8.2",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-82d",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.2c",
+			"content": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas and concepts.",
+			"tags": [
+				"whst.6-8.2",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-82c",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.2b",
+			"content": "Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples.",
+			"tags": [
+				"whst.6-8.2",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-82b",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.2a",
+			"content": "Introduce a topic clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories as appropriate to achieving purpose; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"whst.6-8.2",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-82a",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.1e",
+			"content": "Provide a concluding statement or section that follows from or supports the argument presented.",
+			"tags": [
+				"whst.6-8.1",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-81e",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.1d",
+			"content": "Establish and maintain a formal style.",
+			"tags": [
+				"whst.6-8.1",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-81d",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.1c",
+			"content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence.",
+			"tags": [
+				"whst.6-8.1",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-81c",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.1b",
+			"content": "Support claim(s) with logical reasoning and relevant, accurate data and evidence that demonstrate an understanding of the topic or text, using credible sources.",
+			"tags": [
+				"whst.6-8.1",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-81b",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.6-8.1a",
+			"content": "Introduce claim(s) about a topic or issue, acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically.",
+			"tags": [
+				"whst.6-8.1",
+				"english language arts & literacy",
+				"grade 6",
+				"whst6-81a",
+				"grade 7",
+				"grade 8"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "W.6.3e",
+			"content": "Provide a conclusion that follows from the narrated experiences or events.",
+			"tags": [
+				"w.6.3",
+				"english language arts & literacy",
+				"grade 6",
+				"w63e"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.3d",
+			"content": "Use precise words and phrases, relevant descriptive details, and sensory language to convey experiences and events.",
+			"tags": [
+				"w.6.3",
+				"english language arts & literacy",
+				"grade 6",
+				"w63d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.3c",
+			"content": "Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time frame or setting to another.",
+			"tags": [
+				"w.6.3",
+				"english language arts & literacy",
+				"grade 6",
+				"w63c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.3b",
+			"content": "Use narrative techniques, such as dialogue, pacing, and description, to develop experiences, events, and/or characters.",
+			"tags": [
+				"w.6.3",
+				"english language arts & literacy",
+				"grade 6",
+				"w63b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.3a",
+			"content": "Engage and orient the reader by establishing a context and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically.",
+			"tags": [
+				"w.6.3",
+				"english language arts & literacy",
+				"grade 6",
+				"w63a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.2f",
+			"content": "Provide a concluding statement or section that follows from the information or explanation presented.",
+			"tags": [
+				"w.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"w62f"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.2e",
+			"content": "Establish and maintain a formal style.",
+			"tags": [
+				"w.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"w62e"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.2d",
+			"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+			"tags": [
+				"w.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"w62d"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.2c",
+			"content": "Use appropriate transitions to clarify the relationships among ideas and concepts.",
+			"tags": [
+				"w.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"w62c"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.2b",
+			"content": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples.",
+			"tags": [
+				"w.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"w62b"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.2a",
+			"content": "Introduce a topic or thesis statement; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"w.6.2",
+				"english language arts & literacy",
+				"grade 6",
+				"w62a"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.1e",
+			"content": "Provide a concluding statement or section that follows from the argument presented.",
+			"tags": [
+				"w.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"w61e"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.1d",
+			"content": "Establish and maintain a formal style.",
+			"tags": [
+				"w.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"w61d"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.1c",
+			"content": "Use words, phrases, and clauses to clarify the relationships among claim(s) and reasons.",
+			"tags": [
+				"w.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"w61c"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.1b",
+			"content": "Support claim(s) with clear reasons and relevant evidence, using credible sources and demonstrating an understanding of the topic or text.",
+			"tags": [
+				"w.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"w61b"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.1a",
+			"content": "Introduce claim(s) and organize the reasons and evidence clearly.",
+			"tags": [
+				"w.6.1",
+				"english language arts & literacy",
+				"grade 6",
+				"w61a"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Research to Build and Present Knowledge": [
+		{
+			"displayName": "W.6.9b",
+			"content": "Apply grade 6 Reading standards to literary nonfiction (e.g., \"Trace and evaluate the argument and specific claims in a text, distinguishing claims that are supported by reasons and evidence from claims that are not\").",
+			"tags": [
+				"w.6.9",
+				"english language arts & literacy",
+				"grade 6",
+				"w69b"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.6.9a",
+			"content": "Apply grade 6 Reading standards to literature (e.g., \"Compare and contrast texts in different forms or genres [e.g., stories and poems; historical novels and fantasy stories] in terms of their approaches to similar themes and topics\").",
+			"tags": [
+				"w.6.9",
+				"english language arts & literacy",
+				"grade 6",
+				"w69a"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		}
+	],
+	"Craft and Structure": [
+		{
+			"displayName": "RI.6.5a",
+			"content": "Analyze the use of text features (e.g., graphics, headers, captions) in popular media.",
+			"tags": [
+				"ri.6.5",
+				"english language arts & literacy",
+				"grade 6",
+				"ri65a"
+			],
+			"meta": [
+				"Analyze how a particular sentence, paragraph, chapter, or section fits into the overall structure of a text and contributes to the development of the ideas.",
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		}
+	]
+}

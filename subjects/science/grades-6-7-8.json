@@ -1,1031 +1,1033 @@
-[
-	{
-		"displayName": "MS-PS4",
-		"content": "Waves and Their Applications in Technologies for Information Transfer",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps4"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-PS2",
-		"content": "Motion and Stability: Forces and Interactions",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps2"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-ESS1",
-		"content": "Earth's Place in the Universe",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-LS4",
-		"content": "Biological Evolution: Unity and Diversity",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls4"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-PS1",
-		"content": "Matter and Its Interactions",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-LS2",
-		"content": "Ecosystems: Interactions, Energy, and Dynamics",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls2"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-ETS1",
-		"content": "Engineering Design",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ets1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-PS3",
-		"content": "Energy",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps3"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-ESS3",
-		"content": "Earth and Human Activity",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess3"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-ESS2",
-		"content": "Earth's Systems",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess2"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-LS3",
-		"content": "Heredity: Inheritance and Variation of Traits",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls3"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-LS1",
-		"content": "From Molecules to Organisms: Structures and Processes",
-		"tags": [
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "MS-PS4-3",
-		"content": "Integrate qualitative scientific and technical information to support the claim that digitized signals (sent as wave pulses) are a more reliable way to encode and transmit information.",
-		"tags": [
-			"ms-ps4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps4-3"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "MS-PS4-2",
-		"content": "Develop and use a model to describe that waves are reflected, absorbed, or transmitted through various materials.",
-		"tags": [
-			"ms-ps4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps4-2"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "MS-PS4-1",
-		"content": "Use mathematical representations to describe a simple model for waves that includes how the amplitude of a wave is related to the energy in a wave.",
-		"tags": [
-			"ms-ps4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps4-1"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "MS-PS2-5",
-		"content": "Conduct an investigation and evaluate the experimental design to provide evidence that fields exist between objects exerting forces on each other even though the objects are not in contact.",
-		"tags": [
-			"ms-ps2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps2-5"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS2-4",
-		"content": "Construct and present arguments using evidence to support the claim that gravitational interactions are attractive and depend on the masses of interacting objects.",
-		"tags": [
-			"ms-ps2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps2-4"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS2-3",
-		"content": "Ask questions about data to determine the factors that affect the strength of electric and magnetic forces.",
-		"tags": [
-			"ms-ps2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps2-3"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS2-2",
-		"content": "Plan an investigation to provide evidence that the change in an object's motion depends on the sum of the forces on the object and the mass of the object.",
-		"tags": [
-			"ms-ps2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps2-2"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS2-1",
-		"content": "Apply Newton's Third Law to design a solution to a problem involving the motion of two colliding objects.",
-		"tags": [
-			"ms-ps2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps2-1"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "MS-ESS1-4",
-		"content": "Construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used to organize Earth's 4.6-billion-year-old history.",
-		"tags": [
-			"ms-ess1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess1-4"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "MS-ESS1-3",
-		"content": "Analyze and interpret data to determine scale properties of objects in the solar system.",
-		"tags": [
-			"ms-ess1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess1-3"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "MS-ESS1-2",
-		"content": "Develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.",
-		"tags": [
-			"ms-ess1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess1-2"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "MS-ESS1-1",
-		"content": "Develop and use a model of the Earth-sun-moon system to describe the cyclic patterns of lunar phases, eclipses of the sun and moon, and seasons.",
-		"tags": [
-			"ms-ess1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess1-1"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "MS-LS4-6",
-		"content": "Use mathematical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time.",
-		"tags": [
-			"ms-ls4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls4-6"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "MS-LS4-5",
-		"content": "Gather and synthesize information about the technologies that have changed the way humans influence the inheritance of desired traits in organisms.",
-		"tags": [
-			"ms-ls4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls4-5"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "MS-LS4-4",
-		"content": "Construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing in a specific environment.",
-		"tags": [
-			"ms-ls4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls4-4"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "MS-LS4-3",
-		"content": "Analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in the fully formed anatomy.",
-		"tags": [
-			"ms-ls4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls4-3"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "MS-LS4-2",
-		"content": "Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern organisms and between modern and fossil organisms to infer evolutionary relationships.",
-		"tags": [
-			"ms-ls4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls4-2"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "MS-LS4-1",
-		"content": "Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change of life forms throughout the history of life on Earth under the assumption that natural laws operate today as in the past.",
-		"tags": [
-			"ms-ls4",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls4-1"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "MS-PS1-6",
-		"content": "Undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy by chemical processes.",
-		"tags": [
-			"ms-ps1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps1-6"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS1-5",
-		"content": "Develop and use a model to describe how the total number of atoms does not change in a chemical reaction and thus mass is conserved.",
-		"tags": [
-			"ms-ps1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps1-5"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS1-4",
-		"content": "Develop a model that predicts and describes changes in particle motion, temperature, and state of a pure substance when thermal energy is added or removed.",
-		"tags": [
-			"ms-ps1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps1-4"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS1-3",
-		"content": "Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.",
-		"tags": [
-			"ms-ps1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps1-3"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS1-2",
-		"content": "Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
-		"tags": [
-			"ms-ps1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps1-2"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "MS-PS1-1",
-		"content": "Develop models to describe the atomic composition of simple molecules and extended structures.",
-		"tags": [
-			"ms-ps1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps1-1"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "MS-LS2-5",
-		"content": "Evaluate competing design solutions for maintaining biodiversity and ecosystem services.",
-		"tags": [
-			"ms-ls2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls2-5"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "MS-LS2-4",
-		"content": "Construct an argument supported by empirical evidence that changes to physical or biological components of an ecosystem affect populations.",
-		"tags": [
-			"ms-ls2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls2-4"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "MS-LS2-3",
-		"content": "Develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an ecosystem.",
-		"tags": [
-			"ms-ls2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls2-3"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "MS-LS2-2",
-		"content": "Construct an explanation that predicts patterns of interactions among organisms across multiple ecosystems.",
-		"tags": [
-			"ms-ls2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls2-2"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "MS-LS2-1",
-		"content": "Analyze and interpret data to provide evidence for the effects of resource availability on organisms and populations of organisms in an ecosystem.",
-		"tags": [
-			"ms-ls2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls2-1"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "MS-ETS1-4",
-		"content": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process such that an optimal design can be achieved.",
-		"tags": [
-			"ms-ets1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ets1-4"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "MS-ETS1-3",
-		"content": "Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success.",
-		"tags": [
-			"ms-ets1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ets1-3"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "MS-ETS1-2",
-		"content": "Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem.",
-		"tags": [
-			"ms-ets1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ets1-2"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "MS-ETS1-1",
-		"content": "Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions.",
-		"tags": [
-			"ms-ets1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ets1-1"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "MS-PS3-5",
-		"content": "Construct, use, and present arguments to support the claim that when the motion energy of an object changes, energy is transferred to or from the object.",
-		"tags": [
-			"ms-ps3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps3-5"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "MS-PS3-4",
-		"content": "Plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass, and the change in the average kinetic energy of the particles as measured by the temperature of the sample.",
-		"tags": [
-			"ms-ps3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps3-4"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "MS-PS3-3",
-		"content": "Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal energy transfer.",
-		"tags": [
-			"ms-ps3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps3-3"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "MS-PS3-2",
-		"content": "Develop a model to describe that when the arrangement of objects interacting at a distance changes, different amounts of potential energy are stored in the system.",
-		"tags": [
-			"ms-ps3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps3-2"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "MS-PS3-1",
-		"content": "Construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an object and to the speed of an object.",
-		"tags": [
-			"ms-ps3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ps3-1"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "MS-ESS3-5",
-		"content": "Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century.",
-		"tags": [
-			"ms-ess3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess3-5"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "MS-ESS3-4",
-		"content": "Construct an argument supported by evidence for how increases in human population and per-capita consumption of natural resources impact Earth's systems.",
-		"tags": [
-			"ms-ess3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess3-4"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "MS-ESS3-3",
-		"content": "Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.",
-		"tags": [
-			"ms-ess3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess3-3"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "MS-ESS3-2",
-		"content": "Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects.",
-		"tags": [
-			"ms-ess3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess3-2"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "MS-ESS3-1",
-		"content": "Construct a scientific explanation based on evidence for how the uneven distributions of Earth's mineral, energy, and groundwater resources are the result of past and current geoscience processes.",
-		"tags": [
-			"ms-ess3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess3-1"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "MS-ESS2-6",
-		"content": "Develop and use a model to describe how unequal heating and rotation of the Earth cause patterns of atmospheric and oceanic circulation that determine regional climates.",
-		"tags": [
-			"ms-ess2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess2-6"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "MS-ESS2-5",
-		"content": "Collect data to provide evidence for how the motions and complex interactions of air masses results in changes in weather conditions.",
-		"tags": [
-			"ms-ess2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess2-5"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "MS-ESS2-4",
-		"content": "Develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the force of gravity.",
-		"tags": [
-			"ms-ess2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess2-4"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "MS-ESS2-3",
-		"content": "Analyze and interpret data on the distribution of fossils and rocks, continental shapes, and seafloor structures to provide evidence of the past plate motions.",
-		"tags": [
-			"ms-ess2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess2-3"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "MS-ESS2-2",
-		"content": "Construct an explanation based on evidence for how geoscience processes have changed Earth's surface at varying time and spatial scales.",
-		"tags": [
-			"ms-ess2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess2-2"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "MS-ESS2-1",
-		"content": "Develop a model to describe the cycling of Earth's materials and the flow of energy that drives this process.",
-		"tags": [
-			"ms-ess2",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ess2-1"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "MS-LS3-1",
-		"content": "Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the organism.",
-		"tags": [
-			"ms-ls3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls3-1"
-		],
-		"meta": [
-			"Heredity: Inheritance and Variation of Traits"
-		]
-	},
-	{
-		"displayName": "MS-LS3-2",
-		"content": "Develop and use a model to describe why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with genetic variation.",
-		"tags": [
-			"ms-ls3",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls3-2"
-		],
-		"meta": [
-			"Heredity: Inheritance and Variation of Traits"
-		]
-	},
-	{
-		"displayName": "MS-LS1-8",
-		"content": "Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain for immediate behavior or storage as memories.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-8"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "MS-LS1-7",
-		"content": "Develop a model to describe how food is rearranged through chemical reactions forming new molecules that support growth and/or release energy as this matter moves through an organism.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-7"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "MS-LS1-6",
-		"content": "Construct a scientific explanation based on evidence for the role of photosynthesis in the cycling of matter and flow of energy into and out of organisms.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-6"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "MS-LS1-5",
-		"content": "Construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth of organisms.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-5"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "MS-LS1-4",
-		"content": "Use argument based on empirical evidence and scientific reasoning to support an explanation for how characteristic animal behaviors and specialized plant structures affect the probability of successful reproduction of animals and plants respectively.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-4"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "MS-LS1-3",
-		"content": "Use argument supported by evidence for how the body is a system of interacting subsystems composed of groups of cells.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-3"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "MS-LS1-2",
-		"content": "Develop and use a model to describe the function of a cell as a whole and ways parts of cells contribute to the function.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-2"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "MS-LS1-1",
-		"content": "Conduct an investigation to provide evidence that living things are made of cells, either one cell or many different numbers and types of cells.",
-		"tags": [
-			"ms-ls1",
-			"science",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"ms-ls1-1"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	}
-]
+{
+	"undefined": [
+		{
+			"displayName": "MS-PS4",
+			"content": "Waves and Their Applications in Technologies for Information Transfer",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps4"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-PS2",
+			"content": "Motion and Stability: Forces and Interactions",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps2"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-ESS1",
+			"content": "Earth's Place in the Universe",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-LS4",
+			"content": "Biological Evolution: Unity and Diversity",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls4"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-PS1",
+			"content": "Matter and Its Interactions",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-LS2",
+			"content": "Ecosystems: Interactions, Energy, and Dynamics",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls2"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-ETS1",
+			"content": "Engineering Design",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ets1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-PS3",
+			"content": "Energy",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps3"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-ESS3",
+			"content": "Earth and Human Activity",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess3"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-ESS2",
+			"content": "Earth's Systems",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess2"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-LS3",
+			"content": "Heredity: Inheritance and Variation of Traits",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls3"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-LS1",
+			"content": "From Molecules to Organisms: Structures and Processes",
+			"tags": [
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "MS-PS4-3",
+			"content": "Integrate qualitative scientific and technical information to support the claim that digitized signals (sent as wave pulses) are a more reliable way to encode and transmit information.",
+			"tags": [
+				"ms-ps4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps4-3"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "MS-PS4-2",
+			"content": "Develop and use a model to describe that waves are reflected, absorbed, or transmitted through various materials.",
+			"tags": [
+				"ms-ps4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps4-2"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "MS-PS4-1",
+			"content": "Use mathematical representations to describe a simple model for waves that includes how the amplitude of a wave is related to the energy in a wave.",
+			"tags": [
+				"ms-ps4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps4-1"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "MS-PS2-5",
+			"content": "Conduct an investigation and evaluate the experimental design to provide evidence that fields exist between objects exerting forces on each other even though the objects are not in contact.",
+			"tags": [
+				"ms-ps2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps2-5"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS2-4",
+			"content": "Construct and present arguments using evidence to support the claim that gravitational interactions are attractive and depend on the masses of interacting objects.",
+			"tags": [
+				"ms-ps2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps2-4"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS2-3",
+			"content": "Ask questions about data to determine the factors that affect the strength of electric and magnetic forces.",
+			"tags": [
+				"ms-ps2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps2-3"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS2-2",
+			"content": "Plan an investigation to provide evidence that the change in an object's motion depends on the sum of the forces on the object and the mass of the object.",
+			"tags": [
+				"ms-ps2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps2-2"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS2-1",
+			"content": "Apply Newton's Third Law to design a solution to a problem involving the motion of two colliding objects.",
+			"tags": [
+				"ms-ps2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps2-1"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "MS-ESS1-4",
+			"content": "Construct a scientific explanation based on evidence from rock strata for how the geologic time scale is used to organize Earth's 4.6-billion-year-old history.",
+			"tags": [
+				"ms-ess1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess1-4"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "MS-ESS1-3",
+			"content": "Analyze and interpret data to determine scale properties of objects in the solar system.",
+			"tags": [
+				"ms-ess1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess1-3"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "MS-ESS1-2",
+			"content": "Develop and use a model to describe the role of gravity in the motions within galaxies and the solar system.",
+			"tags": [
+				"ms-ess1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess1-2"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "MS-ESS1-1",
+			"content": "Develop and use a model of the Earth-sun-moon system to describe the cyclic patterns of lunar phases, eclipses of the sun and moon, and seasons.",
+			"tags": [
+				"ms-ess1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess1-1"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "MS-LS4-6",
+			"content": "Use mathematical representations to support explanations of how natural selection may lead to increases and decreases of specific traits in populations over time.",
+			"tags": [
+				"ms-ls4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls4-6"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "MS-LS4-5",
+			"content": "Gather and synthesize information about the technologies that have changed the way humans influence the inheritance of desired traits in organisms.",
+			"tags": [
+				"ms-ls4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls4-5"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "MS-LS4-4",
+			"content": "Construct an explanation based on evidence that describes how genetic variations of traits in a population increase some individuals' probability of surviving and reproducing in a specific environment.",
+			"tags": [
+				"ms-ls4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls4-4"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "MS-LS4-3",
+			"content": "Analyze displays of pictorial data to compare patterns of similarities in the embryological development across multiple species to identify relationships not evident in the fully formed anatomy.",
+			"tags": [
+				"ms-ls4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls4-3"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "MS-LS4-2",
+			"content": "Apply scientific ideas to construct an explanation for the anatomical similarities and differences among modern organisms and between modern and fossil organisms to infer evolutionary relationships.",
+			"tags": [
+				"ms-ls4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls4-2"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "MS-LS4-1",
+			"content": "Analyze and interpret data for patterns in the fossil record that document the existence, diversity, extinction, and change of life forms throughout the history of life on Earth under the assumption that natural laws operate today as in the past.",
+			"tags": [
+				"ms-ls4",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls4-1"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "MS-PS1-6",
+			"content": "Undertake a design project to construct, test, and modify a device that either releases or absorbs thermal energy by chemical processes.",
+			"tags": [
+				"ms-ps1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps1-6"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS1-5",
+			"content": "Develop and use a model to describe how the total number of atoms does not change in a chemical reaction and thus mass is conserved.",
+			"tags": [
+				"ms-ps1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps1-5"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS1-4",
+			"content": "Develop a model that predicts and describes changes in particle motion, temperature, and state of a pure substance when thermal energy is added or removed.",
+			"tags": [
+				"ms-ps1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps1-4"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS1-3",
+			"content": "Gather and make sense of information to describe that synthetic materials come from natural resources and impact society.",
+			"tags": [
+				"ms-ps1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps1-3"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS1-2",
+			"content": "Analyze and interpret data on the properties of substances before and after the substances interact to determine if a chemical reaction has occurred.",
+			"tags": [
+				"ms-ps1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps1-2"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "MS-PS1-1",
+			"content": "Develop models to describe the atomic composition of simple molecules and extended structures.",
+			"tags": [
+				"ms-ps1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps1-1"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "MS-LS2-5",
+			"content": "Evaluate competing design solutions for maintaining biodiversity and ecosystem services.",
+			"tags": [
+				"ms-ls2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls2-5"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "MS-LS2-4",
+			"content": "Construct an argument supported by empirical evidence that changes to physical or biological components of an ecosystem affect populations.",
+			"tags": [
+				"ms-ls2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls2-4"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "MS-LS2-3",
+			"content": "Develop a model to describe the cycling of matter and flow of energy among living and nonliving parts of an ecosystem.",
+			"tags": [
+				"ms-ls2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls2-3"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "MS-LS2-2",
+			"content": "Construct an explanation that predicts patterns of interactions among organisms across multiple ecosystems.",
+			"tags": [
+				"ms-ls2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls2-2"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "MS-LS2-1",
+			"content": "Analyze and interpret data to provide evidence for the effects of resource availability on organisms and populations of organisms in an ecosystem.",
+			"tags": [
+				"ms-ls2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls2-1"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "MS-ETS1-4",
+			"content": "Develop a model to generate data for iterative testing and modification of a proposed object, tool, or process such that an optimal design can be achieved.",
+			"tags": [
+				"ms-ets1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ets1-4"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "MS-ETS1-3",
+			"content": "Analyze data from tests to determine similarities and differences among several design solutions to identify the best characteristics of each that can be combined into a new solution to better meet the criteria for success.",
+			"tags": [
+				"ms-ets1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ets1-3"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "MS-ETS1-2",
+			"content": "Evaluate competing design solutions using a systematic process to determine how well they meet the criteria and constraints of the problem.",
+			"tags": [
+				"ms-ets1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ets1-2"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "MS-ETS1-1",
+			"content": "Define the criteria and constraints of a design problem with sufficient precision to ensure a successful solution, taking into account relevant scientific principles and potential impacts on people and the natural environment that may limit possible solutions.",
+			"tags": [
+				"ms-ets1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ets1-1"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "MS-PS3-5",
+			"content": "Construct, use, and present arguments to support the claim that when the kinetic energy of an object changes, energy is transferred to or from the object.",
+			"tags": [
+				"ms-ps3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps3-5"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "MS-PS3-4",
+			"content": "Plan an investigation to determine the relationships among the energy transferred, the type of matter, the mass, and the change in the average kinetic energy of the particles as measured by the temperature of the sample.",
+			"tags": [
+				"ms-ps3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps3-4"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "MS-PS3-3",
+			"content": "Apply scientific principles to design, construct, and test a device that either minimizes or maximizes thermal energy transfer.",
+			"tags": [
+				"ms-ps3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps3-3"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "MS-PS3-2",
+			"content": "Develop a model to describe that when the arrangement of objects interacting at a distance changes, different amounts of potential energy are stored in the system.",
+			"tags": [
+				"ms-ps3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps3-2"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "MS-PS3-1",
+			"content": "Construct and interpret graphical displays of data to describe the relationships of kinetic energy to the mass of an object and to the speed of an object.",
+			"tags": [
+				"ms-ps3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ps3-1"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "MS-ESS3-5",
+			"content": "Ask questions to clarify evidence of the factors that have caused the rise in global temperatures over the past century.",
+			"tags": [
+				"ms-ess3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess3-5"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "MS-ESS3-4",
+			"content": "Construct an argument supported by evidence for how increases in human population and per-capita consumption of natural resources impact Earth's systems.",
+			"tags": [
+				"ms-ess3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess3-4"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "MS-ESS3-3",
+			"content": "Apply scientific principles to design a method for monitoring and minimizing a human impact on the environment.",
+			"tags": [
+				"ms-ess3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess3-3"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "MS-ESS3-2",
+			"content": "Analyze and interpret data on natural hazards to forecast future catastrophic events and inform the development of technologies to mitigate their effects.",
+			"tags": [
+				"ms-ess3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess3-2"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "MS-ESS3-1",
+			"content": "Construct a scientific explanation based on evidence for how the uneven distributions of Earth's mineral, energy, and groundwater resources are the result of past and current geoscience processes.",
+			"tags": [
+				"ms-ess3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess3-1"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "MS-ESS2-6",
+			"content": "Develop and use a model to describe how unequal heating and rotation of the Earth cause patterns of atmospheric and oceanic circulation that determine regional climates.",
+			"tags": [
+				"ms-ess2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess2-6"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "MS-ESS2-5",
+			"content": "Collect data to provide evidence for how the motions and complex interactions of air masses results in changes in weather conditions.",
+			"tags": [
+				"ms-ess2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess2-5"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "MS-ESS2-4",
+			"content": "Develop a model to describe the cycling of water through Earth's systems driven by energy from the sun and the force of gravity.",
+			"tags": [
+				"ms-ess2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess2-4"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "MS-ESS2-3",
+			"content": "Analyze and interpret data on the distribution of fossils and rocks, continental shapes, and seafloor structures to provide evidence of the past plate motions.",
+			"tags": [
+				"ms-ess2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess2-3"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "MS-ESS2-2",
+			"content": "Construct an explanation based on evidence for how geoscience processes have changed Earth's surface at varying time and spatial scales.",
+			"tags": [
+				"ms-ess2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess2-2"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "MS-ESS2-1",
+			"content": "Develop a model to describe the cycling of Earth's materials and the flow of energy that drives this process.",
+			"tags": [
+				"ms-ess2",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ess2-1"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "MS-LS3-1",
+			"content": "Develop and use a model to describe why structural changes to genes (mutations) located on chromosomes may affect proteins and may result in harmful, beneficial, or neutral effects to the structure and function of the organism.",
+			"tags": [
+				"ms-ls3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls3-1"
+			],
+			"meta": [
+				"Heredity: Inheritance and Variation of Traits"
+			]
+		},
+		{
+			"displayName": "MS-LS3-2",
+			"content": "Develop and use a model to describe why asexual reproduction results in offspring with identical genetic information and sexual reproduction results in offspring with genetic variation.",
+			"tags": [
+				"ms-ls3",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls3-2"
+			],
+			"meta": [
+				"Heredity: Inheritance and Variation of Traits"
+			]
+		},
+		{
+			"displayName": "MS-LS1-8",
+			"content": "Gather and synthesize information that sensory receptors respond to stimuli by sending messages to the brain for immediate behavior or storage as memories.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-8"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "MS-LS1-7",
+			"content": "Develop a model to describe how food is rearranged through chemical reactions forming new molecules that support growth and/or release energy as this matter moves through an organism.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-7"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "MS-LS1-6",
+			"content": "Construct a scientific explanation based on evidence for the role of photosynthesis in the cycling of matter and flow of energy into and out of organisms.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-6"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "MS-LS1-5",
+			"content": "Construct a scientific explanation based on evidence for how environmental and genetic factors influence the growth of organisms.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-5"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "MS-LS1-4",
+			"content": "Use argument based on empirical evidence and scientific reasoning to support an explanation for how characteristic animal behaviors and specialized plant structures affect the probability of successful reproduction of animals and plants respectively.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-4"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "MS-LS1-3",
+			"content": "Use argument supported by evidence for how the body is a system of interacting subsystems composed of groups of cells.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-3"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "MS-LS1-2",
+			"content": "Develop and use a model to describe the function of a cell as a whole and ways parts of cells contribute to the function.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-2"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "MS-LS1-1",
+			"content": "Conduct an investigation to provide evidence that living things are made of cells, either one cell or many different numbers and types of cells.",
+			"tags": [
+				"ms-ls1",
+				"science",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"ms-ls1-1"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		}
+	]
+}

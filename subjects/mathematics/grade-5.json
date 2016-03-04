@@ -1,563 +1,579 @@
-[
-	{
-		"displayName": "5.NF.7",
-		"content": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nf7"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.6",
-		"content": "Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nf6"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.5",
-		"content": "Interpret multiplication as scaling (resizing), by:",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nf5"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.4",
-		"content": "Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nf4"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.3",
-		"content": "Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nf3"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.2",
-		"content": "Solve word problems involving addition and subtraction of fractions referring to the same whole, including cases of unlike denominators, e.g., by using visual fraction models or equations to represent the problem. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of answers.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nf2"
-		],
-		"meta": [
-			"Use equivalent fractions as a strategy to add and subtract fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.1",
-		"content": "Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an equivalent sum or difference of fractions with like denominators.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nf1"
-		],
-		"meta": [
-			"Use equivalent fractions as a strategy to add and subtract fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.G.4",
-		"content": "Classify two-dimensional figures in a hierarchy based on properties.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5g4"
-		],
-		"meta": [
-			"Classify two-dimensional figures into categories based on their properties.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "5.G.3",
-		"content": "Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5g3"
-		],
-		"meta": [
-			"Classify two-dimensional figures into categories based on their properties.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "5.G.2",
-		"content": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the context of the situation.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5g2"
-		],
-		"meta": [
-			"Graph points on the coordinate plane to solve real-world and mathematical problems.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "5.G.1",
-		"content": "Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on each line and a given point in the plane located by using an ordered pair of numbers, called its coordinates. Understand that the first number indicates how far to travel from the origin in the direction of one axis, and the second number indicates how far to travel in the direction of the second axis, with the convention that the names of the two axes and the coordinates correspond (e.g., x-axis and x-coordinate, y-axis and y-coordinate).",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5g1"
-		],
-		"meta": [
-			"Graph points on the coordinate plane to solve real-world and mathematical problems.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "5.MD.5",
-		"content": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5md5"
-		],
-		"meta": [
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.4",
-		"content": "Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and improvised units.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5md4"
-		],
-		"meta": [
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.3",
-		"content": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5md3"
-		],
-		"meta": [
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.2",
-		"content": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Use operations on fractions for this grade to solve problems involving information presented in line plots.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5md2"
-		],
-		"meta": [
-			"Represent and interpret data.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.1",
-		"content": "Convert among different-sized standard measurement units within a given measurement system (e.g., convert 5 cm to 0.05 m), and use these conversions in solving multi-step, real world problems.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5md1"
-		],
-		"meta": [
-			"Convert like measurement units within a given measurement system.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.NBT.7",
-		"content": "Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nbt7"
-		],
-		"meta": [
-			"Perform operations with multi-digit whole numbers and with decimals to hundredths.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.NBT.6",
-		"content": "Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nbt6"
-		],
-		"meta": [
-			"Perform operations with multi-digit whole numbers and with decimals to hundredths.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.NBT.5",
-		"content": "Fluently multiply multi-digit whole numbers using the standard algorithm.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nbt5"
-		],
-		"meta": [
-			"Perform operations with multi-digit whole numbers and with decimals to hundredths.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.NBT.4",
-		"content": "Use place value understanding to round decimals to any place.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nbt4"
-		],
-		"meta": [
-			"Understand the place value system.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.NBT.3",
-		"content": "Read, write, and compare decimals to thousandths.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nbt3"
-		],
-		"meta": [
-			"Understand the place value system.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.NBT.2",
-		"content": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nbt2"
-		],
-		"meta": [
-			"Understand the place value system.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.NBT.1",
-		"content": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5nbt1"
-		],
-		"meta": [
-			"Understand the place value system.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.OA.3",
-		"content": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5oa3"
-		],
-		"meta": [
-			"Analyze patterns and relationships.",
-			"Operations and Algebraic Thinking"
-		]
-	},
-	{
-		"displayName": "5.OA.2.1",
-		"content": "Express a whole number in the range 2–50 as a product of its prime factors. For example, find the prime factors of 24 and express 24 as 2 × 2 × 2 × 3.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5oa21"
-		],
-		"meta": [
-			"Write and interpret numerical expressions.",
-			"Operations and Algebraic Thinking"
-		]
-	},
-	{
-		"displayName": "5.OA.2",
-		"content": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5oa2"
-		],
-		"meta": [
-			"Write and interpret numerical expressions.",
-			"Operations and Algebraic Thinking"
-		]
-	},
-	{
-		"displayName": "5.OA.1",
-		"content": "Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.",
-		"tags": [
-			"mathematics",
-			"grade 5",
-			"5oa1"
-		],
-		"meta": [
-			"Write and interpret numerical expressions.",
-			"Operations and Algebraic Thinking"
-		]
-	},
-	{
-		"displayName": "5.NF.7.c",
-		"content": "Solve real world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem.",
-		"tags": [
-			"5.nf.7",
-			"mathematics",
-			"grade 5",
-			"5nf7c"
-		],
-		"meta": [
-			"Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.7.b",
-		"content": "Interpret division of a whole number by a unit fraction, and compute such quotients.",
-		"tags": [
-			"5.nf.7",
-			"mathematics",
-			"grade 5",
-			"5nf7b"
-		],
-		"meta": [
-			"Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.7.a",
-		"content": "Interpret division of a unit fraction by a non-zero whole number, and compute such quotients.",
-		"tags": [
-			"5.nf.7",
-			"mathematics",
-			"grade 5",
-			"5nf7a"
-		],
-		"meta": [
-			"Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.5.b",
-		"content": "Explaining why multiplying a given number by a fraction greater than 1 results in a product greater than the given number (recognizing multiplication by whole numbers greater than 1 as a familiar case); explaining why multiplying a given number by a fraction less than 1 results in a product smaller than the given number; and relating the principle of fraction equivalence a/b = (n×a)/(n×b) to the effect of multiplying a/b by 1.",
-		"tags": [
-			"5.nf.5",
-			"mathematics",
-			"grade 5",
-			"5nf5b"
-		],
-		"meta": [
-			"Interpret multiplication as scaling (resizing), by:",
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.5.a",
-		"content": "Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication.",
-		"tags": [
-			"5.nf.5",
-			"mathematics",
-			"grade 5",
-			"5nf5a"
-		],
-		"meta": [
-			"Interpret multiplication as scaling (resizing), by:",
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.4.b",
-		"content": "Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas.",
-		"tags": [
-			"5.nf.4",
-			"mathematics",
-			"grade 5",
-			"5nf4b"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.NF.4.a",
-		"content": "Interpret the product (a/b) × q as a parts of a partition of q into b equal parts; equivalently, as the result of a sequence of operations a × q ÷ b.",
-		"tags": [
-			"5.nf.4",
-			"mathematics",
-			"grade 5",
-			"5nf4a"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
-			"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
-			"Number and Operations—Fractions"
-		]
-	},
-	{
-		"displayName": "5.MD.5.c",
-		"content": "Recognize volume as additive. Find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real world problems.",
-		"tags": [
-			"5.md.5",
-			"mathematics",
-			"grade 5",
-			"5md5c"
-		],
-		"meta": [
-			"Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.5.b",
-		"content": "Apply the formulas V = l × w × h and V = b × h for rectangular prisms to find volumes of right rectangular prisms with whole-number edge lengths in the context of solving real world and mathematical problems.",
-		"tags": [
-			"5.md.5",
-			"mathematics",
-			"grade 5",
-			"5md5b"
-		],
-		"meta": [
-			"Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.5.a",
-		"content": "Find the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication.",
-		"tags": [
-			"5.md.5",
-			"mathematics",
-			"grade 5",
-			"5md5a"
-		],
-		"meta": [
-			"Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.3.b",
-		"content": "A solid figure which can be packed without gaps or overlaps using n unit cubes is said to have a volume of n cubic units.",
-		"tags": [
-			"5.md.3",
-			"mathematics",
-			"grade 5",
-			"5md3b"
-		],
-		"meta": [
-			"Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.MD.3.a",
-		"content": "A cube with side length 1 unit, called a \"unit cube,\" is said to have \"one cubic unit\" of volume, and can be used to measure volume.",
-		"tags": [
-			"5.md.3",
-			"mathematics",
-			"grade 5",
-			"5md3a"
-		],
-		"meta": [
-			"Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
-			"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
-			"Measurement and Data"
-		]
-	},
-	{
-		"displayName": "5.NBT.3.b",
-		"content": "Compare two decimals to thousandths based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.",
-		"tags": [
-			"5.nbt.3",
-			"mathematics",
-			"grade 5",
-			"5nbt3b"
-		],
-		"meta": [
-			"Read, write, and compare decimals to thousandths.",
-			"Understand the place value system.",
-			"Number and Operations in Base Ten"
-		]
-	},
-	{
-		"displayName": "5.NBT.3.a",
-		"content": "Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., 347.392 = 3 × 100 + 4 × 10 + 7 × 1 + 3 × (1/10) + 9 × (1/100) + 2 × (1/1000).",
-		"tags": [
-			"5.nbt.3",
-			"mathematics",
-			"grade 5",
-			"5nbt3a"
-		],
-		"meta": [
-			"Read, write, and compare decimals to thousandths.",
-			"Understand the place value system.",
-			"Number and Operations in Base Ten"
-		]
-	}
-]
+{
+	"Number and Operations—Fractions": [
+		{
+			"displayName": "5.NF.7",
+			"content": "Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nf7"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.6",
+			"content": "Solve real world problems involving multiplication of fractions and mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nf6"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.5",
+			"content": "Interpret multiplication as scaling (resizing), by:",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nf5"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.4",
+			"content": "Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nf4"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.3",
+			"content": "Interpret a fraction as division of the numerator by the denominator (a/b = a ÷ b). Solve word problems involving division of whole numbers leading to answers in the form of fractions or mixed numbers, e.g., by using visual fraction models or equations to represent the problem.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nf3"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.2",
+			"content": "Solve word problems involving addition and subtraction of fractions referring to the same whole, including cases of unlike denominators, e.g., by using visual fraction models or equations to represent the problem. Use benchmark fractions and number sense of fractions to estimate mentally and assess the reasonableness of answers.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nf2"
+			],
+			"meta": [
+				"Use equivalent fractions as a strategy to add and subtract fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.1",
+			"content": "Add and subtract fractions with unlike denominators (including mixed numbers) by replacing given fractions with equivalent fractions in such a way as to produce an equivalent sum or difference of fractions with like denominators.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nf1"
+			],
+			"meta": [
+				"Use equivalent fractions as a strategy to add and subtract fractions.",
+				"Number and Operations—Fractions"
+			]
+		}
+	],
+	"Geometry": [
+		{
+			"displayName": "5.G.4",
+			"content": "Classify two-dimensional figures in a hierarchy based on properties.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5g4"
+			],
+			"meta": [
+				"Classify two-dimensional figures into categories based on their properties.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "5.G.3",
+			"content": "Understand that attributes belonging to a category of two-dimensional figures also belong to all subcategories of that category.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5g3"
+			],
+			"meta": [
+				"Classify two-dimensional figures into categories based on their properties.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "5.G.2",
+			"content": "Represent real world and mathematical problems by graphing points in the first quadrant of the coordinate plane, and interpret coordinate values of points in the context of the situation.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5g2"
+			],
+			"meta": [
+				"Graph points on the coordinate plane to solve real-world and mathematical problems.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "5.G.1",
+			"content": "Use a pair of perpendicular number lines, called axes, to define a coordinate system, with the intersection of the lines (the origin) arranged to coincide with the 0 on each line and a given point in the plane located by using an ordered pair of numbers, called its coordinates. Understand that the first number indicates how far to travel from the origin in the direction of one axis, and the second number indicates how far to travel in the direction of the second axis, with the convention that the names of the two axes and the coordinates correspond (e.g., x-axis and x-coordinate, y-axis and y-coordinate).",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5g1"
+			],
+			"meta": [
+				"Graph points on the coordinate plane to solve real-world and mathematical problems.",
+				"Geometry"
+			]
+		}
+	],
+	"Measurement and Data": [
+		{
+			"displayName": "5.MD.5",
+			"content": "Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5md5"
+			],
+			"meta": [
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.4",
+			"content": "Measure volumes by counting unit cubes, using cubic cm, cubic in, cubic ft, and improvised units.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5md4"
+			],
+			"meta": [
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.3",
+			"content": "Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5md3"
+			],
+			"meta": [
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.2",
+			"content": "Make a line plot to display a data set of measurements in fractions of a unit (1/2, 1/4, 1/8). Use operations on fractions for this grade to solve problems involving information presented in line plots.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5md2"
+			],
+			"meta": [
+				"Represent and interpret data.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.1",
+			"content": "Convert among different-sized standard measurement units within a given measurement system (e.g., convert 5 cm to 0.05 m), and use these conversions in solving multi-step, real world problems.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5md1"
+			],
+			"meta": [
+				"Convert like measurement units within a given measurement system.",
+				"Measurement and Data"
+			]
+		}
+	],
+	"Number and Operations in Base Ten": [
+		{
+			"displayName": "5.NBT.7",
+			"content": "Add, subtract, multiply, and divide decimals to hundredths, using concrete models or drawings and strategies based on place value, properties of operations, and/or the relationship between addition and subtraction; relate the strategy to a written method and explain the reasoning used.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nbt7"
+			],
+			"meta": [
+				"Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+				"Number and Operations in Base Ten"
+			]
+		},
+		{
+			"displayName": "5.NBT.6",
+			"content": "Find whole-number quotients of whole numbers with up to four-digit dividends and two-digit divisors, using strategies based on place value, the properties of operations, and/or the relationship between multiplication and division. Illustrate and explain the calculation by using equations, rectangular arrays, and/or area models.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nbt6"
+			],
+			"meta": [
+				"Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+				"Number and Operations in Base Ten"
+			]
+		},
+		{
+			"displayName": "5.NBT.5",
+			"content": "Fluently multiply multi-digit whole numbers using the standard algorithm.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nbt5"
+			],
+			"meta": [
+				"Perform operations with multi-digit whole numbers and with decimals to hundredths.",
+				"Number and Operations in Base Ten"
+			]
+		},
+		{
+			"displayName": "5.NBT.4",
+			"content": "Use place value understanding to round decimals to any place.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nbt4"
+			],
+			"meta": [
+				"Understand the place value system.",
+				"Number and Operations in Base Ten"
+			]
+		},
+		{
+			"displayName": "5.NBT.3",
+			"content": "Read, write, and compare decimals to thousandths.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nbt3"
+			],
+			"meta": [
+				"Understand the place value system.",
+				"Number and Operations in Base Ten"
+			]
+		},
+		{
+			"displayName": "5.NBT.2",
+			"content": "Explain patterns in the number of zeros of the product when multiplying a number by powers of 10, and explain patterns in the placement of the decimal point when a decimal is multiplied or divided by a power of 10. Use whole-number exponents to denote powers of 10.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nbt2"
+			],
+			"meta": [
+				"Understand the place value system.",
+				"Number and Operations in Base Ten"
+			]
+		},
+		{
+			"displayName": "5.NBT.1",
+			"content": "Recognize that in a multi-digit number, a digit in one place represents 10 times as much as it represents in the place to its right and 1/10 of what it represents in the place to its left.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5nbt1"
+			],
+			"meta": [
+				"Understand the place value system.",
+				"Number and Operations in Base Ten"
+			]
+		}
+	],
+	"Operations and Algebraic Thinking": [
+		{
+			"displayName": "5.OA.3",
+			"content": "Generate two numerical patterns using two given rules. Identify apparent relationships between corresponding terms. Form ordered pairs consisting of corresponding terms from the two patterns, and graph the ordered pairs on a coordinate plane.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5oa3"
+			],
+			"meta": [
+				"Analyze patterns and relationships.",
+				"Operations and Algebraic Thinking"
+			]
+		},
+		{
+			"displayName": "5.OA.2.1",
+			"content": "Express a whole number in the range 2–50 as a product of its prime factors. For example, find the prime factors of 24 and express 24 as 2 × 2 × 2 × 3.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5oa21"
+			],
+			"meta": [
+				"Write and interpret numerical expressions.",
+				"Operations and Algebraic Thinking"
+			]
+		},
+		{
+			"displayName": "5.OA.2",
+			"content": "Write simple expressions that record calculations with numbers, and interpret numerical expressions without evaluating them.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5oa2"
+			],
+			"meta": [
+				"Write and interpret numerical expressions.",
+				"Operations and Algebraic Thinking"
+			]
+		},
+		{
+			"displayName": "5.OA.1",
+			"content": "Use parentheses, brackets, or braces in numerical expressions, and evaluate expressions with these symbols.",
+			"tags": [
+				"mathematics",
+				"grade 5",
+				"5oa1"
+			],
+			"meta": [
+				"Write and interpret numerical expressions.",
+				"Operations and Algebraic Thinking"
+			]
+		}
+	],
+	"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.": [
+		{
+			"displayName": "5.NF.7.c",
+			"content": "Solve real world problems involving division of unit fractions by non-zero whole numbers and division of whole numbers by unit fractions, e.g., by using visual fraction models and equations to represent the problem.",
+			"tags": [
+				"5.nf.7",
+				"mathematics",
+				"grade 5",
+				"5nf7c"
+			],
+			"meta": [
+				"Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.7.b",
+			"content": "Interpret division of a whole number by a unit fraction, and compute such quotients.",
+			"tags": [
+				"5.nf.7",
+				"mathematics",
+				"grade 5",
+				"5nf7b"
+			],
+			"meta": [
+				"Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.7.a",
+			"content": "Interpret division of a unit fraction by a non-zero whole number, and compute such quotients.",
+			"tags": [
+				"5.nf.7",
+				"mathematics",
+				"grade 5",
+				"5nf7a"
+			],
+			"meta": [
+				"Apply and extend previous understandings of division to divide unit fractions by whole numbers and whole numbers by unit fractions.",
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.5.b",
+			"content": "Explaining why multiplying a given number by a fraction greater than 1 results in a product greater than the given number (recognizing multiplication by whole numbers greater than 1 as a familiar case); explaining why multiplying a given number by a fraction less than 1 results in a product smaller than the given number; and relating the principle of fraction equivalence a/b = (n×a)/(n×b) to the effect of multiplying a/b by 1.",
+			"tags": [
+				"5.nf.5",
+				"mathematics",
+				"grade 5",
+				"5nf5b"
+			],
+			"meta": [
+				"Interpret multiplication as scaling (resizing), by:",
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.5.a",
+			"content": "Comparing the size of a product to the size of one factor on the basis of the size of the other factor, without performing the indicated multiplication.",
+			"tags": [
+				"5.nf.5",
+				"mathematics",
+				"grade 5",
+				"5nf5a"
+			],
+			"meta": [
+				"Interpret multiplication as scaling (resizing), by:",
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.4.b",
+			"content": "Find the area of a rectangle with fractional side lengths by tiling it with unit squares of the appropriate unit fraction side lengths, and show that the area is the same as would be found by multiplying the side lengths. Multiply fractional side lengths to find areas of rectangles, and represent fraction products as rectangular areas.",
+			"tags": [
+				"5.nf.4",
+				"mathematics",
+				"grade 5",
+				"5nf4b"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		},
+		{
+			"displayName": "5.NF.4.a",
+			"content": "Interpret the product (a/b) × q as a parts of a partition of q into b equal parts; equivalently, as the result of a sequence of operations a × q ÷ b.",
+			"tags": [
+				"5.nf.4",
+				"mathematics",
+				"grade 5",
+				"5nf4a"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication to multiply a fraction or whole number by a fraction.",
+				"Apply and extend previous understandings of multiplication and division to multiply and divide fractions.",
+				"Number and Operations—Fractions"
+			]
+		}
+	],
+	"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.": [
+		{
+			"displayName": "5.MD.5.c",
+			"content": "Recognize volume as additive. Find volumes of solid figures composed of two non-overlapping right rectangular prisms by adding the volumes of the non-overlapping parts, applying this technique to solve real world problems.",
+			"tags": [
+				"5.md.5",
+				"mathematics",
+				"grade 5",
+				"5md5c"
+			],
+			"meta": [
+				"Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.5.b",
+			"content": "Apply the formulas V = l × w × h and V = b × h for rectangular prisms to find volumes of right rectangular prisms with whole-number edge lengths in the context of solving real world and mathematical problems.",
+			"tags": [
+				"5.md.5",
+				"mathematics",
+				"grade 5",
+				"5md5b"
+			],
+			"meta": [
+				"Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.5.a",
+			"content": "Find the volume of a right rectangular prism with whole-number side lengths by packing it with unit cubes, and show that the volume is the same as would be found by multiplying the edge lengths, equivalently by multiplying the height by the area of the base. Represent threefold whole-number products as volumes, e.g., to represent the associative property of multiplication.",
+			"tags": [
+				"5.md.5",
+				"mathematics",
+				"grade 5",
+				"5md5a"
+			],
+			"meta": [
+				"Relate volume to the operations of multiplication and addition and solve real world and mathematical problems involving volume.",
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.3.b",
+			"content": "A solid figure which can be packed without gaps or overlaps using n unit cubes is said to have a volume of n cubic units.",
+			"tags": [
+				"5.md.3",
+				"mathematics",
+				"grade 5",
+				"5md3b"
+			],
+			"meta": [
+				"Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		},
+		{
+			"displayName": "5.MD.3.a",
+			"content": "A cube with side length 1 unit, called a \"unit cube,\" is said to have \"one cubic unit\" of volume, and can be used to measure volume.",
+			"tags": [
+				"5.md.3",
+				"mathematics",
+				"grade 5",
+				"5md3a"
+			],
+			"meta": [
+				"Recognize volume as an attribute of solid figures and understand concepts of volume measurement.",
+				"Geometric measurement: understand concepts of volume and relate volume to multiplication and to addition.",
+				"Measurement and Data"
+			]
+		}
+	],
+	"Understand the place value system.": [
+		{
+			"displayName": "5.NBT.3.b",
+			"content": "Compare two decimals to thousandths based on meanings of the digits in each place, using >, =, and < symbols to record the results of comparisons.",
+			"tags": [
+				"5.nbt.3",
+				"mathematics",
+				"grade 5",
+				"5nbt3b"
+			],
+			"meta": [
+				"Read, write, and compare decimals to thousandths.",
+				"Understand the place value system.",
+				"Number and Operations in Base Ten"
+			]
+		},
+		{
+			"displayName": "5.NBT.3.a",
+			"content": "Read and write decimals to thousandths using base-ten numerals, number names, and expanded form, e.g., 347.392 = 3 × 100 + 4 × 10 + 7 × 1 + 3 × (1/10) + 9 × (1/100) + 2 × (1/1000).",
+			"tags": [
+				"5.nbt.3",
+				"mathematics",
+				"grade 5",
+				"5nbt3a"
+			],
+			"meta": [
+				"Read, write, and compare decimals to thousandths.",
+				"Understand the place value system.",
+				"Number and Operations in Base Ten"
+			]
+		}
+	]
+}

@@ -1,1734 +1,1766 @@
-[
-	{
-		"displayName": "L.11-12.6",
-		"content": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-126"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-125"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-124"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.3",
-		"content": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-123"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-122"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-121"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.6",
-		"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-126"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.5",
-		"content": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-125"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.4",
-		"content": "Present information, findings, and supporting evidence (e.g., reflective, historical investigation, response to literature presentations), conveying a clear and distinct perspective and a logical argument, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks. Use appropriate eye contact, adequate volume, and clear pronunciation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-124"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.3",
-		"content": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric, assessing the stance, premises, links among ideas, word choice, points of emphasis, and tone used.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-123"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.2",
-		"content": "Integrate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, orally) in order to make informed decisions and solve problems, evaluating the credibility and accuracy of each source and noting any discrepancies among the data.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-122"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.1",
-		"content": "Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-121"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.10",
-		"content": "Write routinely over extended time frames (time for reflection and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-1210"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.9",
-		"content": "Draw evidence from informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-129"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.8",
-		"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and over-reliance on any one source and following a standard format for citation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-128"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.7",
-		"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-127"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.6",
-		"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-126"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.5",
-		"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-125"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-124"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.2",
-		"content": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-122"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.1",
-		"content": "Write arguments focused on discipline-specific content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-121"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "W.11-12.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-1210"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-129"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.8",
-		"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and over-reliance on any one source and following a standard format for citation including footnotes and endnotes.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-128"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.7",
-		"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-127"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.6",
-		"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-126"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.5",
-		"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-125"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-124"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-123"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.2",
-		"content": "Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-122"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.1",
-		"content": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-121"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RST.11-12.10",
-		"content": "By the end of grade 12, read and comprehend science/technical texts in the grades 11—CCR text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-1210"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.9",
-		"content": "Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-129"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.8",
-		"content": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-128"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.7",
-		"content": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-127"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.6",
-		"content": "Analyze the author's purpose in providing an explanation, describing a procedure, or discussing an experiment in a text, identifying important issues that remain unresolved.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-126"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.5",
-		"content": "Analyze how the text structures information or ideas into categories or hierarchies, demonstrating understanding of the information or ideas.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-125"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.4",
-		"content": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 11—12 texts and topics.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-124"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.3",
-		"content": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks; analyze the specific results based on explanations in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-123"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.2",
-		"content": "Determine the central ideas or conclusions of a text; summarize complex concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-122"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.11-12.1",
-		"content": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rst11-121"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.10",
-		"content": "By the end of grade 12, read and comprehend history/social studies texts in the grades 11—CCR text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-1210"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.9",
-		"content": "Integrate information from diverse sources, both primary and secondary, into a coherent understanding of an idea or event, noting discrepancies among sources.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-129"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.8",
-		"content": "Evaluate an author's premises, claims, and evidence by corroborating or challenging them with other information.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-128"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.7",
-		"content": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, as well as in words) in order to address a question or solve a problem.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-127"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.6",
-		"content": "Evaluate authors' differing points of view on the same historical event or issue by assessing the authors' claims, reasoning, and evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-126"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.5",
-		"content": "Analyze in detail how a complex primary source is structured, including how key sentences, paragraphs, and larger portions of the text contribute to the whole.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-125"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including analyzing how an author uses and refines the meaning of a key term over the course of a text (e.g., how Madison defines faction in Federalist No. 10).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-124"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.3",
-		"content": "Evaluate various explanations for actions or events and determine which explanation best accords with textual evidence, acknowledging where the text leaves matters uncertain.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-123"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.2",
-		"content": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary that makes clear the relationships among the key details and ideas.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-122"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.11-12.1",
-		"content": "Cite specific textual evidence to support analysis of primary and secondary sources, connecting insights gained from specific details to an understanding of the text as a whole.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rh11-121"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RI.11-12.10",
-		"content": "By the end of grade 11, read and comprehend literary nonfiction in the grades 11—CCR text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 12, read and comprehend literary nonfiction at the high end of the grades 11—CCR text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-1210"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.9",
-		"content": "Analyze seventeenth-, eighteenth-, and nineteenth-century foundational U.S. documents of historical and literary significance (including The Declaration of Independence, the Preamble to the Constitution, the Bill of Rights, and Lincoln's Second Inaugural Address) for their themes, purposes, and rhetorical features.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-129"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.8",
-		"content": "Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning (e.g., in U.S. Supreme Court majority opinions and dissents) and the premises, purposes, and arguments in works of public advocacy (e.g., The Federalist, presidential addresses).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-128"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.7",
-		"content": "Integrate and evaluate multiple sources of information presented in different media or formats (e.g., visually, quantitatively) as well as in words in order to address a question or solve a problem.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-127"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.6",
-		"content": "Determine an author's point of view or purpose in a text in which the rhetoric is particularly effective, analyzing how style and content contribute to the power, persuasiveness, or beauty of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-126"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.5",
-		"content": "Analyze and evaluate the effectiveness of the structure an author uses in his or her exposition or argument, including whether the structure makes points clear, convincing, and engaging.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-125"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze how an author uses and refines the meaning of a key term or terms over the course of a text (e.g., how Madison defines faction in Federalist No. 10). (See grade 11–12 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-124"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.3",
-		"content": "Analyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-123"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.2",
-		"content": "Determine two or more central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to provide a complex analysis; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-122"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.11-12.1",
-		"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-121"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.11-12.10",
-		"content": "By the end of grade 11, read and comprehend literature, including stories, dramas, and poems, in the grades 11—CCR text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 12, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 11—CCR text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-1210"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.9",
-		"content": "Demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-129"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.7",
-		"content": "Analyze multiple interpretations of a story, drama, or poem (e.g., recorded or live production of a play or recorded novel or poetry), evaluating how each version interprets the source text. (Include at least one play by Shakespeare and one play by an American dramatist.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-127"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.6",
-		"content": "Analyze a case in which grasping point of view requires distinguishing what is directly stated in a text from what is really meant (e.g., satire, sarcasm, irony, or understatement).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-126"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.5",
-		"content": "Analyze how an author's choices concerning how to structure specific parts of a text (e.g., the choice of where to begin or end a story, the choice to provide a comedic or tragic resolution) contribute to its overall structure and meaning as well as its aesthetic impact.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-125"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.4",
-		"content": "Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including words with multiple meanings or language that is particularly fresh, engaging, or beautiful. (Include Shakespeare as well as other authors.) (See grade 11–12 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-124"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.3",
-		"content": "Analyze the impact of the author's choices regarding how to develop and relate elements of a story or drama (e.g., where a story is set, how the action is ordered, how the characters/archetypes are introduced and developed).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-123"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.2",
-		"content": "Determine two or more themes or central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to produce a complex account; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-122"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.11-12.1",
-		"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"rl11-121"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.11-12.5b",
-		"content": "Analyze nuances in the meaning of words with similar denotations.",
-		"tags": [
-			"l.11-12.5",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-125b"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.5a",
-		"content": "Interpret figures of speech (e.g., hyperbole, paradox) in context and analyze their role in the text.",
-		"tags": [
-			"l.11-12.5",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-125a"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.4d",
-		"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
-		"tags": [
-			"l.11-12.4",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-124d"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.4c",
-		"content": "Consult general and specialized reference materials (e.g., college-level dictionaries, rhyming dictionaries, bilingual dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, its etymology, or its standard usage.",
-		"tags": [
-			"l.11-12.4",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-124c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.4b",
-		"content": "Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (e.g., conceive, conception, conceivable). Apply knowledge of Greek, Latin, and Anglo-Saxon roots and affixes to draw inferences concerning the meaning of scientific and mathematical terminology.",
-		"tags": [
-			"l.11-12.4",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-124b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.4a",
-		"content": "Use context (e.g., the overall meaning of a sentence, paragraph, or text; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.11-12.4",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-124a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.3a",
-		"content": "Vary syntax for effect, consulting references (e.g., Tufte's Artful Sentences) for guidance as needed; apply an understanding of syntax to the study of complex texts when reading.",
-		"tags": [
-			"l.11-12.3",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-123a"
-		],
-		"meta": [
-			"Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "11-12.2b",
-		"content": "Spell correctly.",
-		"tags": [
-			"l.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"11-122b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.2a",
-		"content": "Observe hyphenation conventions.",
-		"tags": [
-			"l.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-122a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.1b",
-		"content": "Resolve issues of complex or contested usage, consulting references (e.g., Merriam-Webster's Dictionary of English Usage, Garner's Modern American Usage) as needed.",
-		"tags": [
-			"l.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-121b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.11-12.1a",
-		"content": "Apply the understanding that usage is a matter of convention, can change over time, and is sometimes contested.",
-		"tags": [
-			"l.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"l11-121a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.4b",
-		"content": "Plan and present an argument that: supports a precise claim; provides a logical sequence for claims, counterclaims, and evidence; uses rhetorical devices to support assertions (e.g., analogy, appeal to logic through reasoning, appeal to emotion or ethical belief); uses varied syntax to link major sections of the presentation to create cohesion and clarity; and provides a concluding statement that supports the argument presented. (11th or 12th grade)",
-		"tags": [
-			"sl.11-12.4",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-124b"
-		],
-		"meta": [
-			"Present information, findings, and supporting evidence (e.g., reflective, historical investigation, response to literature presentations), conveying a clear and distinct perspective and a logical argument, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks. Use appropriate eye contact, adequate volume, and clear pronunciation.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.11-12.4a",
-		"content": "Plan and deliver a reflective narrative that: explores the significance of a personal experience, event, or concern; uses sensory language to convey a vivid picture; includes appropriate narrative techniques (e.g., dialogue, pacing, description); and draws comparisons between the specific incident and broader themes. (11th or 12th grade)",
-		"tags": [
-			"sl.11-12.4",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"sl11-124a"
-		],
-		"meta": [
-			"Present information, findings, and supporting evidence (e.g., reflective, historical investigation, response to literature presentations), conveying a clear and distinct perspective and a logical argument, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks. Use appropriate eye contact, adequate volume, and clear pronunciation.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1d",
-		"content": "Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task.",
-		"tags": [
-			"sl.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ccssela-literacysl11-121d"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1c",
-		"content": "Propel conversations by posing and responding to questions that probe reasoning and evidence; ensure a hearing for a full range of positions on a topic or issue; clarify, verify, or challenge ideas and conclusions; and promote divergent and creative perspectives.",
-		"tags": [
-			"sl.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ccssela-literacysl11-121c"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1b",
-		"content": "Work with peers to promote civil, democratic discussions and decision-making, set clear goals and deadlines, and establish individual roles as needed.",
-		"tags": [
-			"sl.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ccssela-literacysl11-121b"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "CCSS.ELA-Literacy.SL.11-12.1a",
-		"content": "Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas.",
-		"tags": [
-			"sl.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ccssela-literacysl11-121a"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.2e",
-		"content": "Provide a concluding statement or section that follows from and supports the information or explanation provided (e.g., articulating implications or the significance of the topic).",
-		"tags": [
-			"whst.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-122e"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.2d",
-		"content": "Use precise language, domain-specific vocabulary and techniques such as metaphor, simile, and analogy to manage the complexity of the topic; convey a knowledgeable stance in a style that responds to the discipline and context as well as to the expertise of likely readers.",
-		"tags": [
-			"whst.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-122d"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.2c",
-		"content": "Use varied transitions and sentence structures to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.",
-		"tags": [
-			"whst.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-122c"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.2b",
-		"content": "Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
-		"tags": [
-			"whst.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-122b"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.2a",
-		"content": "Introduce a topic and organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"whst.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-122a"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.1e",
-		"content": "Provide a concluding statement or section that follows from or supports the argument presented.",
-		"tags": [
-			"whst.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-121e"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.1d",
-		"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
-		"tags": [
-			"whst.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-121d"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.1c",
-		"content": "Use words, phrases, and clauses as well as varied syntax to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
-		"tags": [
-			"whst.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-121c"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.1b",
-		"content": "Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant data and evidence for each while pointing out the strengths and limitations of both claim(s) and counterclaims in a discipline-appropriate form that anticipates the audience's knowledge level, concerns, values, and possible biases.",
-		"tags": [
-			"whst.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-121b"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.11-12.1a",
-		"content": "Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences the claim(s), counterclaims, reasons, and evidence.",
-		"tags": [
-			"whst.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"whst11-121a"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "W.11-12.9b",
-		"content": "Apply grades 11—12 Reading standards to literary nonfiction (e.g., \"Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning [e.g., in U.S. Supreme Court Case majority opinions and dissents] and the premises, purposes, and arguments in works of public advocacy [e.g., The Federalist, presidential addresses]\").",
-		"tags": [
-			"w.11-12.9",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-129b"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.9a",
-		"content": "Apply grades 11—12 Reading standards to literature (e.g., \"Demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics\").",
-		"tags": [
-			"w.11-12.9",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-129a"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.3e",
-		"content": "Provide a conclusion that follows from and reflects on what is experienced, observed, or resolved over the course of the narrative.",
-		"tags": [
-			"w.11-12.3",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-123e"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.3d",
-		"content": "Use precise words and phrases, telling details, and sensory language to convey a vivid picture of the experiences, events, setting, and/or characters.",
-		"tags": [
-			"w.11-12.3",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-123d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.3c",
-		"content": "Use a variety of techniques to sequence events so that they build on one another to create a coherent whole and build toward a particular tone and outcome (e.g., a sense of mystery, suspense, growth, or resolution).",
-		"tags": [
-			"w.11-12.3",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-123c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.3b",
-		"content": "Use narrative techniques, such as dialogue, pacing, description, reflection, and multiple plot lines, to develop experiences, events, and/or characters.",
-		"tags": [
-			"w.11-12.3",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-123b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.3a",
-		"content": "Engage and orient the reader by setting out a problem, situation, or observation and its significance, establishing one or multiple point(s) of view, and introducing a narrator and/or characters; create a smooth progression of experiences or events.",
-		"tags": [
-			"w.11-12.3",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-123a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.2f",
-		"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic).",
-		"tags": [
-			"w.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-122f"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.2e",
-		"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
-		"tags": [
-			"w.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-122e"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.2d",
-		"content": "Use precise language, domain-specific vocabulary, and techniques such as metaphor, simile, and analogy to manage the complexity of the topic.",
-		"tags": [
-			"w.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-122d"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.2c",
-		"content": "Use appropriate and varied transitions and syntax to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.",
-		"tags": [
-			"w.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-122c"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.2b",
-		"content": "Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
-		"tags": [
-			"w.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-122b"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.2a",
-		"content": "Introduce a topic or thesis statement; organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"w.11-12.2",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-122a"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.1f",
-		"content": "Use specific rhetorical devices to support assertions (e.g., appeal to logic through reasoning; appeal to emotion or ethical belief; relate a personal anecdote, case study, or analogy).",
-		"tags": [
-			"w.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-121f"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.1e",
-		"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
-		"tags": [
-			"w.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-121e"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.1d",
-		"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
-		"tags": [
-			"w.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-121d"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.1c",
-		"content": "Use words, phrases, and clauses as well as varied syntax to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
-		"tags": [
-			"w.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-121c"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.1b",
-		"content": "Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level, concerns, values, and possible biases.",
-		"tags": [
-			"w.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-121b"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.11-12.1a",
-		"content": "Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences claim(s), counterclaims, reasons, and evidence.",
-		"tags": [
-			"w.11-12.1",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"w11-121a"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RI.11-12.5a",
-		"content": "Analyze the use of text features (e.g., graphics, headers, captions) in public documents.",
-		"tags": [
-			"ri.11-12.5",
-			"english language arts & literacy",
-			"grade 11",
-			"grade 12",
-			"ri11-125a"
-		],
-		"meta": [
-			"Analyze and evaluate the effectiveness of the structure an author uses in his or her exposition or argument, including whether the structure makes points clear, convincing, and engaging.",
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.11-12.6",
+			"content": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-126"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-125"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-124"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.3",
+			"content": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-123"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-122"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-121"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.11-12.6",
+			"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-126"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.5",
+			"content": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-125"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.4",
+			"content": "Present information, findings, and supporting evidence (e.g., reflective, historical investigation, response to literature presentations), conveying a clear and distinct perspective and a logical argument, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks. Use appropriate eye contact, adequate volume, and clear pronunciation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-124"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.3",
+			"content": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric, assessing the stance, premises, links among ideas, word choice, points of emphasis, and tone used.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-123"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.2",
+			"content": "Integrate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, orally) in order to make informed decisions and solve problems, evaluating the credibility and accuracy of each source and noting any discrepancies among the data.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-122"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.1",
+			"content": "Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-121"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12": [
+		{
+			"displayName": "WHST.11-12.10",
+			"content": "Write routinely over extended time frames (time for reflection and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-1210"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.9",
+			"content": "Draw evidence from informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-129"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.8",
+			"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the specific task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and over-reliance on any one source and following a standard format for citation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-128"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.7",
+			"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-127"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.6",
+			"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-126"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.5",
+			"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-125"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-124"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.2",
+			"content": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-122"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.1",
+			"content": "Write arguments focused on discipline-specific content.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-121"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.11-12.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-1210"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-129"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.8",
+			"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the strengths and limitations of each source in terms of the task, purpose, and audience; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and over-reliance on any one source and following a standard format for citation including footnotes and endnotes.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-128"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.7",
+			"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-127"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.6",
+			"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products in response to ongoing feedback, including new arguments or information.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-126"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.5",
+			"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-125"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-124"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-123"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.2",
+			"content": "Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-122"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.1",
+			"content": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-121"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards for Literacy in Science and Technical Subjects 6—12": [
+		{
+			"displayName": "RST.11-12.10",
+			"content": "By the end of grade 12, read and comprehend science/technical texts in the grades 11—CCR text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-1210"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.9",
+			"content": "Synthesize information from a range of sources (e.g., texts, experiments, simulations) into a coherent understanding of a process, phenomenon, or concept, resolving conflicting information when possible.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-129"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.8",
+			"content": "Evaluate the hypotheses, data, analysis, and conclusions in a science or technical text, verifying the data when possible and corroborating or challenging conclusions with other sources of information.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-128"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.7",
+			"content": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., quantitative data, video, multimedia) in order to address a question or solve a problem.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-127"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.6",
+			"content": "Analyze the author's purpose in providing an explanation, describing a procedure, or discussing an experiment in a text, identifying important issues that remain unresolved.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-126"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.5",
+			"content": "Analyze how the text structures information or ideas into categories or hierarchies, demonstrating understanding of the information or ideas.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-125"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.4",
+			"content": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 11—12 texts and topics.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-124"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.3",
+			"content": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks; analyze the specific results based on explanations in the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-123"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.2",
+			"content": "Determine the central ideas or conclusions of a text; summarize complex concepts, processes, or information presented in a text by paraphrasing them in simpler but still accurate terms.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-122"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.11-12.1",
+			"content": "Cite specific textual evidence to support analysis of science and technical texts, attending to important distinctions the author makes and to any gaps or inconsistencies in the account.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rst11-121"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		}
+	],
+	"Reading Standards for Literacy in History/Social Studies 6—12": [
+		{
+			"displayName": "RH.11-12.10",
+			"content": "By the end of grade 12, read and comprehend history/social studies texts in the grades 11—CCR text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-1210"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.9",
+			"content": "Integrate information from diverse sources, both primary and secondary, into a coherent understanding of an idea or event, noting discrepancies among sources.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-129"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.8",
+			"content": "Evaluate an author's premises, claims, and evidence by corroborating or challenging them with other information.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-128"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.7",
+			"content": "Integrate and evaluate multiple sources of information presented in diverse formats and media (e.g., visually, quantitatively, as well as in words) in order to address a question or solve a problem.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-127"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.6",
+			"content": "Evaluate authors' differing points of view on the same historical event or issue by assessing the authors' claims, reasoning, and evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-126"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.5",
+			"content": "Analyze in detail how a complex primary source is structured, including how key sentences, paragraphs, and larger portions of the text contribute to the whole.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-125"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including analyzing how an author uses and refines the meaning of a key term over the course of a text (e.g., how Madison defines faction in Federalist No. 10).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-124"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.3",
+			"content": "Evaluate various explanations for actions or events and determine which explanation best accords with textual evidence, acknowledging where the text leaves matters uncertain.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-123"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.2",
+			"content": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary that makes clear the relationships among the key details and ideas.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-122"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.11-12.1",
+			"content": "Cite specific textual evidence to support analysis of primary and secondary sources, connecting insights gained from specific details to an understanding of the text as a whole.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rh11-121"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.11-12.10",
+			"content": "By the end of grade 11, read and comprehend literary nonfiction in the grades 11—CCR text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 12, read and comprehend literary nonfiction at the high end of the grades 11—CCR text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-1210"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.9",
+			"content": "Analyze seventeenth-, eighteenth-, and nineteenth-century foundational U.S. documents of historical and literary significance (including The Declaration of Independence, the Preamble to the Constitution, the Bill of Rights, and Lincoln's Second Inaugural Address) for their themes, purposes, and rhetorical features.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-129"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.8",
+			"content": "Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning (e.g., in U.S. Supreme Court majority opinions and dissents) and the premises, purposes, and arguments in works of public advocacy (e.g., The Federalist, presidential addresses).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-128"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.7",
+			"content": "Integrate and evaluate multiple sources of information presented in different media or formats (e.g., visually, quantitatively) as well as in words in order to address a question or solve a problem.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-127"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.6",
+			"content": "Determine an author's point of view or purpose in a text in which the rhetoric is particularly effective, analyzing how style and content contribute to the power, persuasiveness, or beauty of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-126"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.5",
+			"content": "Analyze and evaluate the effectiveness of the structure an author uses in his or her exposition or argument, including whether the structure makes points clear, convincing, and engaging.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-125"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze how an author uses and refines the meaning of a key term or terms over the course of a text (e.g., how Madison defines faction in Federalist No. 10). (See grade 11–12 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-124"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.3",
+			"content": "Analyze a complex set of ideas or sequence of events and explain how specific individuals, ideas, or events interact and develop over the course of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-123"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.2",
+			"content": "Determine two or more central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to provide a complex analysis; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-122"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.11-12.1",
+			"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-121"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.11-12.10",
+			"content": "By the end of grade 11, read and comprehend literature, including stories, dramas, and poems, in the grades 11—CCR text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 12, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 11—CCR text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-1210"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.9",
+			"content": "Demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-129"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.7",
+			"content": "Analyze multiple interpretations of a story, drama, or poem (e.g., recorded or live production of a play or recorded novel or poetry), evaluating how each version interprets the source text. (Include at least one play by Shakespeare and one play by an American dramatist.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-127"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.6",
+			"content": "Analyze a case in which grasping point of view requires distinguishing what is directly stated in a text from what is really meant (e.g., satire, sarcasm, irony, or understatement).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-126"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.5",
+			"content": "Analyze how an author's choices concerning how to structure specific parts of a text (e.g., the choice of where to begin or end a story, the choice to provide a comedic or tragic resolution) contribute to its overall structure and meaning as well as its aesthetic impact.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-125"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.4",
+			"content": "Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including words with multiple meanings or language that is particularly fresh, engaging, or beautiful. (Include Shakespeare as well as other authors.) (See grade 11–12 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-124"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.3",
+			"content": "Analyze the impact of the author's choices regarding how to develop and relate elements of a story or drama (e.g., where a story is set, how the action is ordered, how the characters/archetypes are introduced and developed).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-123"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.2",
+			"content": "Determine two or more themes or central ideas of a text and analyze their development over the course of the text, including how they interact and build on one another to produce a complex account; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-122"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.11-12.1",
+			"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text, including determining where the text leaves matters uncertain.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"rl11-121"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.11-12.5b",
+			"content": "Analyze nuances in the meaning of words with similar denotations.",
+			"tags": [
+				"l.11-12.5",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-125b"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.5a",
+			"content": "Interpret figures of speech (e.g., hyperbole, paradox) in context and analyze their role in the text.",
+			"tags": [
+				"l.11-12.5",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-125a"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.4d",
+			"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
+			"tags": [
+				"l.11-12.4",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-124d"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.4c",
+			"content": "Consult general and specialized reference materials (e.g., college-level dictionaries, rhyming dictionaries, bilingual dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, its etymology, or its standard usage.",
+			"tags": [
+				"l.11-12.4",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-124c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.4b",
+			"content": "Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (e.g., conceive, conception, conceivable). Apply knowledge of Greek, Latin, and Anglo-Saxon roots and affixes to draw inferences concerning the meaning of scientific and mathematical terminology.",
+			"tags": [
+				"l.11-12.4",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-124b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.4a",
+			"content": "Use context (e.g., the overall meaning of a sentence, paragraph, or text; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.11-12.4",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-124a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 11—12 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.11-12.3a",
+			"content": "Vary syntax for effect, consulting references (e.g., Tufte's Artful Sentences) for guidance as needed; apply an understanding of syntax to the study of complex texts when reading.",
+			"tags": [
+				"l.11-12.3",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-123a"
+			],
+			"meta": [
+				"Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "11-12.2b",
+			"content": "Spell correctly.",
+			"tags": [
+				"l.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"11-122b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.2a",
+			"content": "Observe hyphenation conventions.",
+			"tags": [
+				"l.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-122a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.1b",
+			"content": "Resolve issues of complex or contested usage, consulting references (e.g., Merriam-Webster's Dictionary of English Usage, Garner's Modern American Usage) as needed.",
+			"tags": [
+				"l.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-121b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.11-12.1a",
+			"content": "Apply the understanding that usage is a matter of convention, can change over time, and is sometimes contested.",
+			"tags": [
+				"l.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"l11-121a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.11-12.4b",
+			"content": "Plan and present an argument that: supports a precise claim; provides a logical sequence for claims, counterclaims, and evidence; uses rhetorical devices to support assertions (e.g., analogy, appeal to logic through reasoning, appeal to emotion or ethical belief); uses varied syntax to link major sections of the presentation to create cohesion and clarity; and provides a concluding statement that supports the argument presented. (11th or 12th grade)",
+			"tags": [
+				"sl.11-12.4",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-124b"
+			],
+			"meta": [
+				"Present information, findings, and supporting evidence (e.g., reflective, historical investigation, response to literature presentations), conveying a clear and distinct perspective and a logical argument, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks. Use appropriate eye contact, adequate volume, and clear pronunciation.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.4a",
+			"content": "Plan and deliver a reflective narrative that: explores the significance of a personal experience, event, or concern; uses sensory language to convey a vivid picture; includes appropriate narrative techniques (e.g., dialogue, pacing, description); and draws comparisons between the specific incident and broader themes. (11th or 12th grade)",
+			"tags": [
+				"sl.11-12.4",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-124a"
+			],
+			"meta": [
+				"Present information, findings, and supporting evidence (e.g., reflective, historical investigation, response to literature presentations), conveying a clear and distinct perspective and a logical argument, such that listeners can follow the line of reasoning, alternative or opposing perspectives are addressed, and the organization, development, substance, and style are appropriate to purpose, audience, and a range of formal and informal tasks. Use appropriate eye contact, adequate volume, and clear pronunciation.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.11-12.1.d",
+			"content": "Respond thoughtfully to diverse perspectives; synthesize comments, claims, and evidence made on all sides of an issue; resolve contradictions when possible; and determine what additional information or research is required to deepen the investigation or complete the task.",
+			"tags": [
+				"sl.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-121d"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.1.c",
+			"content": "Propel conversations by posing and responding to questions that probe reasoning and evidence; ensure a hearing for a full range of positions on a topic or issue; clarify, verify, or challenge ideas and conclusions; and promote divergent and creative perspectives.",
+			"tags": [
+				"sl.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-121c"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.1.b",
+			"content": "Work with peers to promote civil, democratic discussions and decision-making, set clear goals and deadlines, and establish individual roles as needed.",
+			"tags": [
+				"sl.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-121b"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.11-12.1.a",
+			"content": "Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas.",
+			"tags": [
+				"sl.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"sl11-121a"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 11—12 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "WHST.11-12.2e",
+			"content": "Provide a concluding statement or section that follows from and supports the information or explanation provided (e.g., articulating implications or the significance of the topic).",
+			"tags": [
+				"whst.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-122e"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.2d",
+			"content": "Use precise language, domain-specific vocabulary and techniques such as metaphor, simile, and analogy to manage the complexity of the topic; convey a knowledgeable stance in a style that responds to the discipline and context as well as to the expertise of likely readers.",
+			"tags": [
+				"whst.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-122d"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.2c",
+			"content": "Use varied transitions and sentence structures to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.",
+			"tags": [
+				"whst.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-122c"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.2b",
+			"content": "Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
+			"tags": [
+				"whst.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-122b"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.2a",
+			"content": "Introduce a topic and organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"whst.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-122a"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.1e",
+			"content": "Provide a concluding statement or section that follows from or supports the argument presented.",
+			"tags": [
+				"whst.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-121e"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.1d",
+			"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
+			"tags": [
+				"whst.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-121d"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.1c",
+			"content": "Use words, phrases, and clauses as well as varied syntax to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
+			"tags": [
+				"whst.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-121c"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.1b",
+			"content": "Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant data and evidence for each while pointing out the strengths and limitations of both claim(s) and counterclaims in a discipline-appropriate form that anticipates the audience's knowledge level, concerns, values, and possible biases.",
+			"tags": [
+				"whst.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-121b"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.11-12.1a",
+			"content": "Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences the claim(s), counterclaims, reasons, and evidence.",
+			"tags": [
+				"whst.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"whst11-121a"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "W.11-12.3e",
+			"content": "Provide a conclusion that follows from and reflects on what is experienced, observed, or resolved over the course of the narrative.",
+			"tags": [
+				"w.11-12.3",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-123e"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.3d",
+			"content": "Use precise words and phrases, telling details, and sensory language to convey a vivid picture of the experiences, events, setting, and/or characters.",
+			"tags": [
+				"w.11-12.3",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-123d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.3c",
+			"content": "Use a variety of techniques to sequence events so that they build on one another to create a coherent whole and build toward a particular tone and outcome (e.g., a sense of mystery, suspense, growth, or resolution).",
+			"tags": [
+				"w.11-12.3",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-123c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.3b",
+			"content": "Use narrative techniques, such as dialogue, pacing, description, reflection, and multiple plot lines, to develop experiences, events, and/or characters.",
+			"tags": [
+				"w.11-12.3",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-123b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.3a",
+			"content": "Engage and orient the reader by setting out a problem, situation, or observation and its significance, establishing one or multiple point(s) of view, and introducing a narrator and/or characters; create a smooth progression of experiences or events.",
+			"tags": [
+				"w.11-12.3",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-123a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.2f",
+			"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic).",
+			"tags": [
+				"w.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-122f"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.2e",
+			"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
+			"tags": [
+				"w.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-122e"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.2d",
+			"content": "Use precise language, domain-specific vocabulary, and techniques such as metaphor, simile, and analogy to manage the complexity of the topic.",
+			"tags": [
+				"w.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-122d"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.2c",
+			"content": "Use appropriate and varied transitions and syntax to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.",
+			"tags": [
+				"w.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-122c"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.2b",
+			"content": "Develop the topic thoroughly by selecting the most significant and relevant facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
+			"tags": [
+				"w.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-122b"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.2a",
+			"content": "Introduce a topic or thesis statement; organize complex ideas, concepts, and information so that each new element builds on that which precedes it to create a unified whole; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"w.11-12.2",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-122a"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.1f",
+			"content": "Use specific rhetorical devices to support assertions (e.g., appeal to logic through reasoning; appeal to emotion or ethical belief; relate a personal anecdote, case study, or analogy).",
+			"tags": [
+				"w.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-121f"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.1e",
+			"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
+			"tags": [
+				"w.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-121e"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.1d",
+			"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
+			"tags": [
+				"w.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-121d"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.1c",
+			"content": "Use words, phrases, and clauses as well as varied syntax to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
+			"tags": [
+				"w.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-121c"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.1b",
+			"content": "Develop claim(s) and counterclaims fairly and thoroughly, supplying the most relevant evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level, concerns, values, and possible biases.",
+			"tags": [
+				"w.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-121b"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.1a",
+			"content": "Introduce precise, knowledgeable claim(s), establish the significance of the claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that logically sequences claim(s), counterclaims, reasons, and evidence.",
+			"tags": [
+				"w.11-12.1",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-121a"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Research to Build and Present Knowledge": [
+		{
+			"displayName": "W.11-12.9b",
+			"content": "Apply grades 11—12 Reading standards to literary nonfiction (e.g., \"Delineate and evaluate the reasoning in seminal U.S. texts, including the application of constitutional principles and use of legal reasoning [e.g., in U.S. Supreme Court Case majority opinions and dissents] and the premises, purposes, and arguments in works of public advocacy [e.g., The Federalist, presidential addresses]\").",
+			"tags": [
+				"w.11-12.9",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-129b"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.11-12.9a",
+			"content": "Apply grades 11—12 Reading standards to literature (e.g., \"Demonstrate knowledge of eighteenth-, nineteenth- and early-twentieth-century foundational works of American literature, including how two or more texts from the same period treat similar themes or topics\").",
+			"tags": [
+				"w.11-12.9",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"w11-129a"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		}
+	],
+	"Craft and Structure": [
+		{
+			"displayName": "RI.11-12.5a",
+			"content": "Analyze the use of text features (e.g., graphics, headers, captions) in public documents.",
+			"tags": [
+				"ri.11-12.5",
+				"english language arts & literacy",
+				"grade 11",
+				"grade 12",
+				"ri11-125a"
+			],
+			"meta": [
+				"Analyze and evaluate the effectiveness of the structure an author uses in his or her exposition or argument, including whether the structure makes points clear, convincing, and engaging.",
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		}
+	]
+}

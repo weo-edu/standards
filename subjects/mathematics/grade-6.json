@@ -1,649 +1,667 @@
-[
-	{
-		"displayName": "6.SP.5",
-		"content": "Summarize numerical data sets in relation to their context, such as by:",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6sp5"
-		],
-		"meta": [
-			"Summarize and describe distributions.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.SP.4",
-		"content": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6sp4"
-		],
-		"meta": [
-			"Summarize and describe distributions.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.SP.3",
-		"content": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6sp3"
-		],
-		"meta": [
-			"Develop understanding of statistical variability.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.SP.2",
-		"content": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6sp2"
-		],
-		"meta": [
-			"Develop understanding of statistical variability.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.SP.1",
-		"content": "Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6sp1"
-		],
-		"meta": [
-			"Develop understanding of statistical variability.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.EE.9",
-		"content": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationship between the dependent and independent variables using graphs and tables, and relate these to the equation.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee9"
-		],
-		"meta": [
-			"Represent and analyze quantitative relationships between dependent and independent variables.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.8",
-		"content": "Write an inequality of the form x > c or x < c to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form x > c or x < c have infinitely many solutions; represent solutions of such inequalities on number line diagrams.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee8"
-		],
-		"meta": [
-			"Reason about and solve one-variable equations and inequalities.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.7",
-		"content": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q and x are all nonnegative rational numbers.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee7"
-		],
-		"meta": [
-			"Reason about and solve one-variable equations and inequalities.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.6",
-		"content": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee6"
-		],
-		"meta": [
-			"Reason about and solve one-variable equations and inequalities.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.5",
-		"content": "Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use substitution to determine whether a given number in a specified set makes an equation or inequality true.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee5"
-		],
-		"meta": [
-			"Reason about and solve one-variable equations and inequalities.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.4",
-		"content": "Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them).",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee4"
-		],
-		"meta": [
-			"Apply and extend previous understandings of arithmetic to algebraic expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.3",
-		"content": "Apply the properties of operations to generate equivalent expressions.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee3"
-		],
-		"meta": [
-			"Apply and extend previous understandings of arithmetic to algebraic expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.2",
-		"content": "Write, read, and evaluate expressions in which letters stand for numbers.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee2"
-		],
-		"meta": [
-			"Apply and extend previous understandings of arithmetic to algebraic expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.1",
-		"content": "Write and evaluate numerical expressions involving whole-number exponents.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ee1"
-		],
-		"meta": [
-			"Apply and extend previous understandings of arithmetic to algebraic expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.NS.8",
-		"content": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns8"
-		],
-		"meta": [
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.7",
-		"content": "Understand ordering and absolute value of rational numbers.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns7"
-		],
-		"meta": [
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.6",
-		"content": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns6"
-		],
-		"meta": [
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.5",
-		"content": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns5"
-		],
-		"meta": [
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.4",
-		"content": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12. Use the distributive property to express a sum of two whole numbers 1—100 with a common factor as a multiple of a sum of two whole numbers with no common factor.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns4"
-		],
-		"meta": [
-			"Compute fluently with multi-digit numbers and find common factors and multiples.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.3",
-		"content": "Fluently add, subtract, multiply, and divide multi-digit decimals using the standard algorithm for each operation.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns3"
-		],
-		"meta": [
-			"Compute fluently with multi-digit numbers and find common factors and multiples.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.2",
-		"content": "Fluently divide multi-digit numbers using the standard algorithm.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns2"
-		],
-		"meta": [
-			"Compute fluently with multi-digit numbers and find common factors and multiples.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.1",
-		"content": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6ns1"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division to divide fractions by fractions.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.RP.3",
-		"content": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6rp3"
-		],
-		"meta": [
-			"Understand ratio concepts and use ratio reasoning to solve problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "6.RP.2",
-		"content": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6rp2"
-		],
-		"meta": [
-			"Understand ratio concepts and use ratio reasoning to solve problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "6.RP.1",
-		"content": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6rp1"
-		],
-		"meta": [
-			"Understand ratio concepts and use ratio reasoning to solve problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "6.G.4",
-		"content": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures. Apply these techniques in the context of solving real-world and mathematical problems.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6g4"
-		],
-		"meta": [
-			"Solve real-world and mathematical problems involving area, surface area, and volume.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "6.G.3",
-		"content": "Draw polygons in the coordinate plane given coordinates for the vertices; use coordinates to find the length of a side joining points with the same first coordinate or the same second coordinate. Apply these techniques in the context of solving real-world and mathematical problems.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6g3"
-		],
-		"meta": [
-			"Solve real-world and mathematical problems involving area, surface area, and volume.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "6.G.2",
-		"content": "Find the volume of a right rectangular prism with fractional edge lengths by packing it with unit cubes of the appropriate unit fraction edge lengths, and show that the volume is the same as would be found by multiplying the edge lengths of the prism. Apply the formulas V = l w h and V = b h to find volumes of right rectangular prisms with fractional edge lengths in the context of solving real-world and mathematical problems.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6g2"
-		],
-		"meta": [
-			"Solve real-world and mathematical problems involving area, surface area, and volume.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "6.G.1",
-		"content": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing into rectangles or decomposing into triangles and other shapes; apply these techniques in the context of solving real-world and mathematical problems.",
-		"tags": [
-			"mathematics",
-			"grade 6",
-			"6g1"
-		],
-		"meta": [
-			"Solve real-world and mathematical problems involving area, surface area, and volume.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "6.SP.5.d",
-		"content": "Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered.",
-		"tags": [
-			"6.sp.5",
-			"mathematics",
-			"grade 6",
-			"6sp5d"
-		],
-		"meta": [
-			"Summarize numerical data sets in relation to their context, such as by:",
-			"Summarize and describe distributions.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.SP.5.c",
-		"content": "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.",
-		"tags": [
-			"6.sp.5",
-			"mathematics",
-			"grade 6",
-			"6sp5c"
-		],
-		"meta": [
-			"Summarize numerical data sets in relation to their context, such as by:",
-			"Summarize and describe distributions.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.SP.5.b",
-		"content": "Describing the nature of the attribute under investigation, including how it was measured and its units of measurement.",
-		"tags": [
-			"6.sp.5",
-			"mathematics",
-			"grade 6",
-			"6sp5b"
-		],
-		"meta": [
-			"Summarize numerical data sets in relation to their context, such as by:",
-			"Summarize and describe distributions.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.SP.5.a",
-		"content": "Reporting the number of observations.",
-		"tags": [
-			"6.sp.5",
-			"mathematics",
-			"grade 6",
-			"6sp5a"
-		],
-		"meta": [
-			"Summarize numerical data sets in relation to their context, such as by:",
-			"Summarize and describe distributions.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "6.EE.2.c",
-		"content": "Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order when there are no parentheses to specify a particular order (Order of Operations).",
-		"tags": [
-			"6.ee.2",
-			"mathematics",
-			"grade 6",
-			"6ee2c"
-		],
-		"meta": [
-			"Write, read, and evaluate expressions in which letters stand for numbers.",
-			"Apply and extend previous understandings of arithmetic to algebraic expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.2.b",
-		"content": "Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity.",
-		"tags": [
-			"6.ee.2",
-			"mathematics",
-			"grade 6",
-			"6ee2b"
-		],
-		"meta": [
-			"Write, read, and evaluate expressions in which letters stand for numbers.",
-			"Apply and extend previous understandings of arithmetic to algebraic expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.EE.2.a",
-		"content": "Write expressions that record operations with numbers and with letters standing for numbers.",
-		"tags": [
-			"6.ee.2",
-			"mathematics",
-			"grade 6",
-			"6ee2a"
-		],
-		"meta": [
-			"Write, read, and evaluate expressions in which letters stand for numbers.",
-			"Apply and extend previous understandings of arithmetic to algebraic expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "6.NS.7.d",
-		"content": "Distinguish comparisons of absolute value from statements about order.",
-		"tags": [
-			"6.ns.7",
-			"mathematics",
-			"grade 6",
-			"6ns7d"
-		],
-		"meta": [
-			"Understand ordering and absolute value of rational numbers.",
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.7.c",
-		"content": "Understand the absolute value of a rational number as its distance from 0 on the number line; interpret absolute value as magnitude for a positive or negative quantity in a real-world situation.",
-		"tags": [
-			"6.ns.7",
-			"mathematics",
-			"grade 6",
-			"6ns7c"
-		],
-		"meta": [
-			"Understand ordering and absolute value of rational numbers.",
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.7.b",
-		"content": "Write, interpret, and explain statements of order for rational numbers in real-world contexts.",
-		"tags": [
-			"6.ns.7",
-			"mathematics",
-			"grade 6",
-			"6ns7b"
-		],
-		"meta": [
-			"Understand ordering and absolute value of rational numbers.",
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.7.a",
-		"content": "Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram.",
-		"tags": [
-			"6.ns.7",
-			"mathematics",
-			"grade 6",
-			"6ns7a"
-		],
-		"meta": [
-			"Understand ordering and absolute value of rational numbers.",
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.6.c",
-		"content": "Find and position integers and other rational numbers on a horizontal or vertical number line diagram; find and position pairs of integers and other rational numbers on a coordinate plane.",
-		"tags": [
-			"6.ns.6",
-			"mathematics",
-			"grade 6",
-			"6ns6c"
-		],
-		"meta": [
-			"Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.6.b",
-		"content": "Understand signs of numbers in ordered pairs as indicating locations in quadrants of the coordinate plane; recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes.",
-		"tags": [
-			"6.ns.6",
-			"mathematics",
-			"grade 6",
-			"6ns6b"
-		],
-		"meta": [
-			"Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.NS.6.a",
-		"content": "Recognize opposite signs of numbers as indicating locations on opposite sides of 0 on the number line; recognize that the opposite of the opposite of a number is the number itself, e.g., -(-3) = 3, and that 0 is its own opposite.",
-		"tags": [
-			"6.ns.6",
-			"mathematics",
-			"grade 6",
-			"6ns6a"
-		],
-		"meta": [
-			"Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
-			"Apply and extend previous understandings of numbers to the system of rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "6.RP.3.d",
-		"content": "Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.",
-		"tags": [
-			"6.rp.3",
-			"mathematics",
-			"grade 6",
-			"6rp3d"
-		],
-		"meta": [
-			"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
-			"Understand ratio concepts and use ratio reasoning to solve problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "6.RP.3.c",
-		"content": "Find a percent of a quantity as a rate per 100 (e.g., 30% of a quantity means 30/100 times the quantity); solve problems involving finding the whole, given a part and the percent.",
-		"tags": [
-			"6.rp.3",
-			"mathematics",
-			"grade 6",
-			"6rp3c"
-		],
-		"meta": [
-			"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
-			"Understand ratio concepts and use ratio reasoning to solve problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "6.RP.3.b",
-		"content": "Solve unit rate problems including those involving unit pricing and constant speed.",
-		"tags": [
-			"6.rp.3",
-			"mathematics",
-			"grade 6",
-			"6rp3b"
-		],
-		"meta": [
-			"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
-			"Understand ratio concepts and use ratio reasoning to solve problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "6.RP.3.a",
-		"content": "Make tables of equivalent ratios relating quantities with whole number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.",
-		"tags": [
-			"6.rp.3",
-			"mathematics",
-			"grade 6",
-			"6rp3a"
-		],
-		"meta": [
-			"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
-			"Understand ratio concepts and use ratio reasoning to solve problems.",
-			"Ratios and Proportional Relationships"
-		]
-	}
-]
+{
+	"Statistics and Probability": [
+		{
+			"displayName": "6.SP.5",
+			"content": "Summarize numerical data sets in relation to their context, such as by:",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6sp5"
+			],
+			"meta": [
+				"Summarize and describe distributions.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "6.SP.4",
+			"content": "Display numerical data in plots on a number line, including dot plots, histograms, and box plots.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6sp4"
+			],
+			"meta": [
+				"Summarize and describe distributions.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "6.SP.3",
+			"content": "Recognize that a measure of center for a numerical data set summarizes all of its values with a single number, while a measure of variation describes how its values vary with a single number.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6sp3"
+			],
+			"meta": [
+				"Develop understanding of statistical variability.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "6.SP.2",
+			"content": "Understand that a set of data collected to answer a statistical question has a distribution which can be described by its center, spread, and overall shape.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6sp2"
+			],
+			"meta": [
+				"Develop understanding of statistical variability.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "6.SP.1",
+			"content": "Recognize a statistical question as one that anticipates variability in the data related to the question and accounts for it in the answers.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6sp1"
+			],
+			"meta": [
+				"Develop understanding of statistical variability.",
+				"Statistics and Probability"
+			]
+		}
+	],
+	"Expressions and Equations": [
+		{
+			"displayName": "6.EE.9",
+			"content": "Use variables to represent two quantities in a real-world problem that change in relationship to one another; write an equation to express one quantity, thought of as the dependent variable, in terms of the other quantity, thought of as the independent variable. Analyze the relationship between the dependent and independent variables using graphs and tables, and relate these to the equation.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee9"
+			],
+			"meta": [
+				"Represent and analyze quantitative relationships between dependent and independent variables.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.8",
+			"content": "Write an inequality of the form x > c or x < c to represent a constraint or condition in a real-world or mathematical problem. Recognize that inequalities of the form x > c or x < c have infinitely many solutions; represent solutions of such inequalities on number line diagrams.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee8"
+			],
+			"meta": [
+				"Reason about and solve one-variable equations and inequalities.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.7",
+			"content": "Solve real-world and mathematical problems by writing and solving equations of the form x + p = q and px = q for cases in which p, q and x are all nonnegative rational numbers.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee7"
+			],
+			"meta": [
+				"Reason about and solve one-variable equations and inequalities.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.6",
+			"content": "Use variables to represent numbers and write expressions when solving a real-world or mathematical problem; understand that a variable can represent an unknown number, or, depending on the purpose at hand, any number in a specified set.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee6"
+			],
+			"meta": [
+				"Reason about and solve one-variable equations and inequalities.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.5",
+			"content": "Understand solving an equation or inequality as a process of answering a question: which values from a specified set, if any, make the equation or inequality true? Use substitution to determine whether a given number in a specified set makes an equation or inequality true.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee5"
+			],
+			"meta": [
+				"Reason about and solve one-variable equations and inequalities.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.4",
+			"content": "Identify when two expressions are equivalent (i.e., when the two expressions name the same number regardless of which value is substituted into them).",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee4"
+			],
+			"meta": [
+				"Apply and extend previous understandings of arithmetic to algebraic expressions.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.3",
+			"content": "Apply the properties of operations to generate equivalent expressions.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee3"
+			],
+			"meta": [
+				"Apply and extend previous understandings of arithmetic to algebraic expressions.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.2",
+			"content": "Write, read, and evaluate expressions in which letters stand for numbers.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee2"
+			],
+			"meta": [
+				"Apply and extend previous understandings of arithmetic to algebraic expressions.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.1",
+			"content": "Write and evaluate numerical expressions involving whole-number exponents.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ee1"
+			],
+			"meta": [
+				"Apply and extend previous understandings of arithmetic to algebraic expressions.",
+				"Expressions and Equations"
+			]
+		}
+	],
+	"The Number System": [
+		{
+			"displayName": "6.NS.8",
+			"content": "Solve real-world and mathematical problems by graphing points in all four quadrants of the coordinate plane. Include use of coordinates and absolute value to find distances between points with the same first coordinate or the same second coordinate.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns8"
+			],
+			"meta": [
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.7",
+			"content": "Understand ordering and absolute value of rational numbers.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns7"
+			],
+			"meta": [
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.6",
+			"content": "Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns6"
+			],
+			"meta": [
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.5",
+			"content": "Understand that positive and negative numbers are used together to describe quantities having opposite directions or values (e.g., temperature above/below zero, elevation above/below sea level, credits/debits, positive/negative electric charge); use positive and negative numbers to represent quantities in real-world contexts, explaining the meaning of 0 in each situation.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns5"
+			],
+			"meta": [
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.4",
+			"content": "Find the greatest common factor of two whole numbers less than or equal to 100 and the least common multiple of two whole numbers less than or equal to 12. Use the distributive property to express a sum of two whole numbers 1—100 with a common factor as a multiple of a sum of two whole numbers with no common factor.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns4"
+			],
+			"meta": [
+				"Compute fluently with multi-digit numbers and find common factors and multiples.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.3",
+			"content": "Fluently add, subtract, multiply, and divide multi-digit decimals using the standard algorithm for each operation.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns3"
+			],
+			"meta": [
+				"Compute fluently with multi-digit numbers and find common factors and multiples.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.2",
+			"content": "Fluently divide multi-digit numbers using the standard algorithm.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns2"
+			],
+			"meta": [
+				"Compute fluently with multi-digit numbers and find common factors and multiples.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.1",
+			"content": "Interpret and compute quotients of fractions, and solve word problems involving division of fractions by fractions, e.g., by using visual fraction models and equations to represent the problem.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6ns1"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division to divide fractions by fractions.",
+				"The Number System"
+			]
+		}
+	],
+	"Ratios and Proportional Relationships": [
+		{
+			"displayName": "6.RP.3",
+			"content": "Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6rp3"
+			],
+			"meta": [
+				"Understand ratio concepts and use ratio reasoning to solve problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "6.RP.2",
+			"content": "Understand the concept of a unit rate a/b associated with a ratio a:b with b ≠ 0, and use rate language in the context of a ratio relationship.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6rp2"
+			],
+			"meta": [
+				"Understand ratio concepts and use ratio reasoning to solve problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "6.RP.1",
+			"content": "Understand the concept of a ratio and use ratio language to describe a ratio relationship between two quantities.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6rp1"
+			],
+			"meta": [
+				"Understand ratio concepts and use ratio reasoning to solve problems.",
+				"Ratios and Proportional Relationships"
+			]
+		}
+	],
+	"Geometry": [
+		{
+			"displayName": "6.G.4",
+			"content": "Represent three-dimensional figures using nets made up of rectangles and triangles, and use the nets to find the surface area of these figures. Apply these techniques in the context of solving real-world and mathematical problems.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6g4"
+			],
+			"meta": [
+				"Solve real-world and mathematical problems involving area, surface area, and volume.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "6.G.3",
+			"content": "Draw polygons in the coordinate plane given coordinates for the vertices; use coordinates to find the length of a side joining points with the same first coordinate or the same second coordinate. Apply these techniques in the context of solving real-world and mathematical problems.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6g3"
+			],
+			"meta": [
+				"Solve real-world and mathematical problems involving area, surface area, and volume.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "6.G.2",
+			"content": "Find the volume of a right rectangular prism with fractional edge lengths by packing it with unit cubes of the appropriate unit fraction edge lengths, and show that the volume is the same as would be found by multiplying the edge lengths of the prism. Apply the formulas V = l w h and V = b h to find volumes of right rectangular prisms with fractional edge lengths in the context of solving real-world and mathematical problems.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6g2"
+			],
+			"meta": [
+				"Solve real-world and mathematical problems involving area, surface area, and volume.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "6.G.1",
+			"content": "Find the area of right triangles, other triangles, special quadrilaterals, and polygons by composing into rectangles or decomposing into triangles and other shapes; apply these techniques in the context of solving real-world and mathematical problems.",
+			"tags": [
+				"mathematics",
+				"grade 6",
+				"6g1"
+			],
+			"meta": [
+				"Solve real-world and mathematical problems involving area, surface area, and volume.",
+				"Geometry"
+			]
+		}
+	],
+	"Summarize and describe distributions.": [
+		{
+			"displayName": "6.SP.5.d",
+			"content": "Relating the choice of measures of center and variability to the shape of the data distribution and the context in which the data were gathered.",
+			"tags": [
+				"6.sp.5",
+				"mathematics",
+				"grade 6",
+				"6sp5d"
+			],
+			"meta": [
+				"Summarize numerical data sets in relation to their context, such as by:",
+				"Summarize and describe distributions.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "6.SP.5.c",
+			"content": "Giving quantitative measures of center (median and/or mean) and variability (interquartile range and/or mean absolute deviation), as well as describing any overall pattern and any striking deviations from the overall pattern with reference to the context in which the data were gathered.",
+			"tags": [
+				"6.sp.5",
+				"mathematics",
+				"grade 6",
+				"6sp5c"
+			],
+			"meta": [
+				"Summarize numerical data sets in relation to their context, such as by:",
+				"Summarize and describe distributions.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "6.SP.5.b",
+			"content": "Describing the nature of the attribute under investigation, including how it was measured and its units of measurement.",
+			"tags": [
+				"6.sp.5",
+				"mathematics",
+				"grade 6",
+				"6sp5b"
+			],
+			"meta": [
+				"Summarize numerical data sets in relation to their context, such as by:",
+				"Summarize and describe distributions.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "6.SP.5.a",
+			"content": "Reporting the number of observations.",
+			"tags": [
+				"6.sp.5",
+				"mathematics",
+				"grade 6",
+				"6sp5a"
+			],
+			"meta": [
+				"Summarize numerical data sets in relation to their context, such as by:",
+				"Summarize and describe distributions.",
+				"Statistics and Probability"
+			]
+		}
+	],
+	"Apply and extend previous understandings of arithmetic to algebraic expressions.": [
+		{
+			"displayName": "6.EE.2.c",
+			"content": "Evaluate expressions at specific values of their variables. Include expressions that arise from formulas used in real-world problems. Perform arithmetic operations, including those involving whole-number exponents, in the conventional order when there are no parentheses to specify a particular order (Order of Operations).",
+			"tags": [
+				"6.ee.2",
+				"mathematics",
+				"grade 6",
+				"6ee2c"
+			],
+			"meta": [
+				"Write, read, and evaluate expressions in which letters stand for numbers.",
+				"Apply and extend previous understandings of arithmetic to algebraic expressions.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.2.b",
+			"content": "Identify parts of an expression using mathematical terms (sum, term, product, factor, quotient, coefficient); view one or more parts of an expression as a single entity.",
+			"tags": [
+				"6.ee.2",
+				"mathematics",
+				"grade 6",
+				"6ee2b"
+			],
+			"meta": [
+				"Write, read, and evaluate expressions in which letters stand for numbers.",
+				"Apply and extend previous understandings of arithmetic to algebraic expressions.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "6.EE.2.a",
+			"content": "Write expressions that record operations with numbers and with letters standing for numbers.",
+			"tags": [
+				"6.ee.2",
+				"mathematics",
+				"grade 6",
+				"6ee2a"
+			],
+			"meta": [
+				"Write, read, and evaluate expressions in which letters stand for numbers.",
+				"Apply and extend previous understandings of arithmetic to algebraic expressions.",
+				"Expressions and Equations"
+			]
+		}
+	],
+	"Apply and extend previous understandings of numbers to the system of rational numbers.": [
+		{
+			"displayName": "6.NS.7.d",
+			"content": "Distinguish comparisons of absolute value from statements about order.",
+			"tags": [
+				"6.ns.7",
+				"mathematics",
+				"grade 6",
+				"6ns7d"
+			],
+			"meta": [
+				"Understand ordering and absolute value of rational numbers.",
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.7.c",
+			"content": "Understand the absolute value of a rational number as its distance from 0 on the number line; interpret absolute value as magnitude for a positive or negative quantity in a real-world situation.",
+			"tags": [
+				"6.ns.7",
+				"mathematics",
+				"grade 6",
+				"6ns7c"
+			],
+			"meta": [
+				"Understand ordering and absolute value of rational numbers.",
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.7.b",
+			"content": "Write, interpret, and explain statements of order for rational numbers in real-world contexts.",
+			"tags": [
+				"6.ns.7",
+				"mathematics",
+				"grade 6",
+				"6ns7b"
+			],
+			"meta": [
+				"Understand ordering and absolute value of rational numbers.",
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.7.a",
+			"content": "Interpret statements of inequality as statements about the relative position of two numbers on a number line diagram.",
+			"tags": [
+				"6.ns.7",
+				"mathematics",
+				"grade 6",
+				"6ns7a"
+			],
+			"meta": [
+				"Understand ordering and absolute value of rational numbers.",
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.6.c",
+			"content": "Find and position integers and other rational numbers on a horizontal or vertical number line diagram; find and position pairs of integers and other rational numbers on a coordinate plane.",
+			"tags": [
+				"6.ns.6",
+				"mathematics",
+				"grade 6",
+				"6ns6c"
+			],
+			"meta": [
+				"Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.6.b",
+			"content": "Understand signs of numbers in ordered pairs as indicating locations in quadrants of the coordinate plane; recognize that when two ordered pairs differ only by signs, the locations of the points are related by reflections across one or both axes.",
+			"tags": [
+				"6.ns.6",
+				"mathematics",
+				"grade 6",
+				"6ns6b"
+			],
+			"meta": [
+				"Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "6.NS.6.a",
+			"content": "Recognize opposite signs of numbers as indicating locations on opposite sides of 0 on the number line; recognize that the opposite of the opposite of a number is the number itself, e.g., -(-3) = 3, and that 0 is its own opposite.",
+			"tags": [
+				"6.ns.6",
+				"mathematics",
+				"grade 6",
+				"6ns6a"
+			],
+			"meta": [
+				"Understand a rational number as a point on the number line. Extend number line diagrams and coordinate axes familiar from previous grades to represent points on the line and in the plane with negative number coordinates.",
+				"Apply and extend previous understandings of numbers to the system of rational numbers.",
+				"The Number System"
+			]
+		}
+	],
+	"Understand ratio concepts and use ratio reasoning to solve problems.": [
+		{
+			"displayName": "6.RP.3.d",
+			"content": "Use ratio reasoning to convert measurement units; manipulate and transform units appropriately when multiplying or dividing quantities.",
+			"tags": [
+				"6.rp.3",
+				"mathematics",
+				"grade 6",
+				"6rp3d"
+			],
+			"meta": [
+				"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+				"Understand ratio concepts and use ratio reasoning to solve problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "6.RP.3.c",
+			"content": "Find a percent of a quantity as a rate per 100 (e.g., 30% of a quantity means 30/100 times the quantity); solve problems involving finding the whole, given a part and the percent.",
+			"tags": [
+				"6.rp.3",
+				"mathematics",
+				"grade 6",
+				"6rp3c"
+			],
+			"meta": [
+				"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+				"Understand ratio concepts and use ratio reasoning to solve problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "6.RP.3.b",
+			"content": "Solve unit rate problems including those involving unit pricing and constant speed.",
+			"tags": [
+				"6.rp.3",
+				"mathematics",
+				"grade 6",
+				"6rp3b"
+			],
+			"meta": [
+				"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+				"Understand ratio concepts and use ratio reasoning to solve problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "6.RP.3.a",
+			"content": "Make tables of equivalent ratios relating quantities with whole number measurements, find missing values in the tables, and plot the pairs of values on the coordinate plane. Use tables to compare ratios.",
+			"tags": [
+				"6.rp.3",
+				"mathematics",
+				"grade 6",
+				"6rp3a"
+			],
+			"meta": [
+				"Use ratio and rate reasoning to solve real-world and mathematical problems, e.g., by reasoning about tables of equivalent ratios, tape diagrams, double number line diagrams, or equations.",
+				"Understand ratio concepts and use ratio reasoning to solve problems.",
+				"Ratios and Proportional Relationships"
+			]
+		}
+	]
+}

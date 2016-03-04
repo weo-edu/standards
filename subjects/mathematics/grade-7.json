@@ -1,599 +1,617 @@
-[
-	{
-		"displayName": "7.SP.8",
-		"content": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp8"
-		],
-		"meta": [
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.7",
-		"content": "Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp7"
-		],
-		"meta": [
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.6",
-		"content": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp6"
-		],
-		"meta": [
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.5",
-		"content": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp5"
-		],
-		"meta": [
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.4",
-		"content": "Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp4"
-		],
-		"meta": [
-			"Draw informal comparative inferences about two populations.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.3",
-		"content": "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by expressing it as a multiple of a measure of variability.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp3"
-		],
-		"meta": [
-			"Draw informal comparative inferences about two populations.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.2",
-		"content": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp2"
-		],
-		"meta": [
-			"Use random sampling to draw inferences about a population.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.1",
-		"content": "Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7sp1"
-		],
-		"meta": [
-			"Use random sampling to draw inferences about a population.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.EE.4",
-		"content": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7ee4"
-		],
-		"meta": [
-			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "7.EE.3",
-		"content": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7ee3"
-		],
-		"meta": [
-			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "7.EE.2",
-		"content": "Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7ee2"
-		],
-		"meta": [
-			"Use properties of operations to generate equivalent expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "7.EE.1",
-		"content": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7ee1"
-		],
-		"meta": [
-			"Use properties of operations to generate equivalent expressions.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "7.NS.3",
-		"content": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7ns3"
-		],
-		"meta": [
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.2",
-		"content": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7ns2"
-		],
-		"meta": [
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.1",
-		"content": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7ns1"
-		],
-		"meta": [
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.RP.3",
-		"content": "Use proportional relationships to solve multistep ratio and percent problems.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7rp3"
-		],
-		"meta": [
-			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "7.RP.2",
-		"content": "Recognize and represent proportional relationships between quantities.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7rp2"
-		],
-		"meta": [
-			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "7.RP.1",
-		"content": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7rp1"
-		],
-		"meta": [
-			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "7.G.6",
-		"content": "Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7g6"
-		],
-		"meta": [
-			"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "7.G.5",
-		"content": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7g5"
-		],
-		"meta": [
-			"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "7.G.4",
-		"content": "Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7g4"
-		],
-		"meta": [
-			"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "7.G.3",
-		"content": "Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7g3"
-		],
-		"meta": [
-			"Draw, construct, and describe geometrical figures and describe the relationships between them.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "7.G.2",
-		"content": "Draw (freehand, with ruler and protractor, and with technology) geometric shapes with given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7g2"
-		],
-		"meta": [
-			"Draw, construct, and describe geometrical figures and describe the relationships between them.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "7.G.1",
-		"content": "Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.",
-		"tags": [
-			"mathematics",
-			"grade 7",
-			"7g1"
-		],
-		"meta": [
-			"Draw, construct, and describe geometrical figures and describe the relationships between them.",
-			"Geometry"
-		]
-	},
-	{
-		"displayName": "7.SP.8.c",
-		"content": "Design and use a simulation to generate frequencies for compound events.",
-		"tags": [
-			"7.sp.8",
-			"mathematics",
-			"grade 7",
-			"7sp8c"
-		],
-		"meta": [
-			"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.8.b",
-		"content": "Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., \"rolling double sixes\"), identify the outcomes in the sample space which compose the event.",
-		"tags": [
-			"7.sp.8",
-			"mathematics",
-			"grade 7",
-			"7sp8b"
-		],
-		"meta": [
-			"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.8.a",
-		"content": "Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.",
-		"tags": [
-			"7.sp.8",
-			"mathematics",
-			"grade 7",
-			"7sp8a"
-		],
-		"meta": [
-			"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.7.b",
-		"content": "Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process.",
-		"tags": [
-			"7.sp.7",
-			"mathematics",
-			"grade 7",
-			"7sp7b"
-		],
-		"meta": [
-			"Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.SP.7.a",
-		"content": "Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events.",
-		"tags": [
-			"7.sp.7",
-			"mathematics",
-			"grade 7",
-			"7sp7a"
-		],
-		"meta": [
-			"Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
-			"Investigate chance processes and develop, use, and evaluate probability models.",
-			"Statistics and Probability"
-		]
-	},
-	{
-		"displayName": "7.EE.4.b",
-		"content": "Solve word problems leading to inequalities of the form px + q > r or px + q < r, where p, q, and r are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem.",
-		"tags": [
-			"7.ee.4",
-			"mathematics",
-			"grade 7",
-			"7ee4b"
-		],
-		"meta": [
-			"Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
-			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "7.EE.4.a",
-		"content": "Solve word problems leading to equations of the form px + q = r and p(x + q) = r, where p, q, and r are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach.",
-		"tags": [
-			"7.ee.4",
-			"mathematics",
-			"grade 7",
-			"7ee4a"
-		],
-		"meta": [
-			"Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
-			"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
-			"Expressions and Equations"
-		]
-	},
-	{
-		"displayName": "7.NS.2.d",
-		"content": "Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.",
-		"tags": [
-			"7.ns.2",
-			"mathematics",
-			"grade 7",
-			"7ns2d"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.2.c",
-		"content": "Apply properties of operations as strategies to multiply and divide rational numbers.",
-		"tags": [
-			"7.ns.2",
-			"mathematics",
-			"grade 7",
-			"7ns2c"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.2.b",
-		"content": "Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If p and q are integers, then -(p/q) = (-p)/q = p/(-q). Interpret quotients of rational numbers by describing real-world contexts.",
-		"tags": [
-			"7.ns.2",
-			"mathematics",
-			"grade 7",
-			"7ns2b"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.2.a",
-		"content": "Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.",
-		"tags": [
-			"7.ns.2",
-			"mathematics",
-			"grade 7",
-			"7ns2a"
-		],
-		"meta": [
-			"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.1.d",
-		"content": "Apply properties of operations as strategies to add and subtract rational numbers.",
-		"tags": [
-			"7.ns.1",
-			"mathematics",
-			"grade 7",
-			"7ns1d"
-		],
-		"meta": [
-			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.1.c",
-		"content": "Understand subtraction of rational numbers as adding the additive inverse, p - q = p + (-q). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.",
-		"tags": [
-			"7.ns.1",
-			"mathematics",
-			"grade 7",
-			"7ns1c"
-		],
-		"meta": [
-			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.1.b",
-		"content": "Understand p + q as the number located a distance |q| from p, in the positive or negative direction depending on whether q is positive or negative. Show that a number and its opposite have a sum of 0 (are additive inverses). Interpret sums of rational numbers by describing real-world contexts.",
-		"tags": [
-			"7.ns.1",
-			"mathematics",
-			"grade 7",
-			"7ns1b"
-		],
-		"meta": [
-			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.NS.1.a",
-		"content": "Describe situations in which opposite quantities combine to make 0.",
-		"tags": [
-			"7.ns.1",
-			"mathematics",
-			"grade 7",
-			"7ns1a"
-		],
-		"meta": [
-			"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
-			"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
-			"The Number System"
-		]
-	},
-	{
-		"displayName": "7.RP.2.d",
-		"content": "Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, r) where r is the unit rate.",
-		"tags": [
-			"7.rp.2",
-			"mathematics",
-			"grade 7",
-			"7rp2d"
-		],
-		"meta": [
-			"Recognize and represent proportional relationships between quantities.",
-			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "7.RP.2.c",
-		"content": "Represent proportional relationships by equations.",
-		"tags": [
-			"7.rp.2",
-			"mathematics",
-			"grade 7",
-			"7rp2c"
-		],
-		"meta": [
-			"Recognize and represent proportional relationships between quantities.",
-			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "7.RP.2.b",
-		"content": "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.",
-		"tags": [
-			"7.rp.2",
-			"mathematics",
-			"grade 7",
-			"7rp2b"
-		],
-		"meta": [
-			"Recognize and represent proportional relationships between quantities.",
-			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"Ratios and Proportional Relationships"
-		]
-	},
-	{
-		"displayName": "7.RP.2.a",
-		"content": "Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.",
-		"tags": [
-			"7.rp.2",
-			"mathematics",
-			"grade 7",
-			"7rp2a"
-		],
-		"meta": [
-			"Recognize and represent proportional relationships between quantities.",
-			"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
-			"Ratios and Proportional Relationships"
-		]
-	}
-]
+{
+	"Statistics and Probability": [
+		{
+			"displayName": "7.SP.8",
+			"content": "Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp8"
+			],
+			"meta": [
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.7",
+			"content": "Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp7"
+			],
+			"meta": [
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.6",
+			"content": "Approximate the probability of a chance event by collecting data on the chance process that produces it and observing its long-run relative frequency, and predict the approximate relative frequency given the probability.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp6"
+			],
+			"meta": [
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.5",
+			"content": "Understand that the probability of a chance event is a number between 0 and 1 that expresses the likelihood of the event occurring. Larger numbers indicate greater likelihood. A probability near 0 indicates an unlikely event, a probability around 1/2 indicates an event that is neither unlikely nor likely, and a probability near 1 indicates a likely event.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp5"
+			],
+			"meta": [
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.4",
+			"content": "Use measures of center and measures of variability for numerical data from random samples to draw informal comparative inferences about two populations.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp4"
+			],
+			"meta": [
+				"Draw informal comparative inferences about two populations.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.3",
+			"content": "Informally assess the degree of visual overlap of two numerical data distributions with similar variabilities, measuring the difference between the centers by expressing it as a multiple of a measure of variability.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp3"
+			],
+			"meta": [
+				"Draw informal comparative inferences about two populations.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.2",
+			"content": "Use data from a random sample to draw inferences about a population with an unknown characteristic of interest. Generate multiple samples (or simulated samples) of the same size to gauge the variation in estimates or predictions.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp2"
+			],
+			"meta": [
+				"Use random sampling to draw inferences about a population.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.1",
+			"content": "Understand that statistics can be used to gain information about a population by examining a sample of the population; generalizations about a population from a sample are valid only if the sample is representative of that population. Understand that random sampling tends to produce representative samples and support valid inferences.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7sp1"
+			],
+			"meta": [
+				"Use random sampling to draw inferences about a population.",
+				"Statistics and Probability"
+			]
+		}
+	],
+	"Expressions and Equations": [
+		{
+			"displayName": "7.EE.4",
+			"content": "Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7ee4"
+			],
+			"meta": [
+				"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "7.EE.3",
+			"content": "Solve multi-step real-life and mathematical problems posed with positive and negative rational numbers in any form (whole numbers, fractions, and decimals), using tools strategically. Apply properties of operations to calculate with numbers in any form; convert between forms as appropriate; and assess the reasonableness of answers using mental computation and estimation strategies.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7ee3"
+			],
+			"meta": [
+				"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "7.EE.2",
+			"content": "Understand that rewriting an expression in different forms in a problem context can shed light on the problem and how the quantities in it are related.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7ee2"
+			],
+			"meta": [
+				"Use properties of operations to generate equivalent expressions.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "7.EE.1",
+			"content": "Apply properties of operations as strategies to add, subtract, factor, and expand linear expressions with rational coefficients.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7ee1"
+			],
+			"meta": [
+				"Use properties of operations to generate equivalent expressions.",
+				"Expressions and Equations"
+			]
+		}
+	],
+	"The Number System": [
+		{
+			"displayName": "7.NS.3",
+			"content": "Solve real-world and mathematical problems involving the four operations with rational numbers.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7ns3"
+			],
+			"meta": [
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.2",
+			"content": "Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7ns2"
+			],
+			"meta": [
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.1",
+			"content": "Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7ns1"
+			],
+			"meta": [
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		}
+	],
+	"Ratios and Proportional Relationships": [
+		{
+			"displayName": "7.RP.3",
+			"content": "Use proportional relationships to solve multistep ratio and percent problems.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7rp3"
+			],
+			"meta": [
+				"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "7.RP.2",
+			"content": "Recognize and represent proportional relationships between quantities.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7rp2"
+			],
+			"meta": [
+				"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "7.RP.1",
+			"content": "Compute unit rates associated with ratios of fractions, including ratios of lengths, areas and other quantities measured in like or different units.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7rp1"
+			],
+			"meta": [
+				"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+				"Ratios and Proportional Relationships"
+			]
+		}
+	],
+	"Geometry": [
+		{
+			"displayName": "7.G.6",
+			"content": "Solve real-world and mathematical problems involving area, volume and surface area of two- and three-dimensional objects composed of triangles, quadrilaterals, polygons, cubes, and right prisms.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7g6"
+			],
+			"meta": [
+				"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "7.G.5",
+			"content": "Use facts about supplementary, complementary, vertical, and adjacent angles in a multi-step problem to write and solve simple equations for an unknown angle in a figure.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7g5"
+			],
+			"meta": [
+				"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "7.G.4",
+			"content": "Know the formulas for the area and circumference of a circle and use them to solve problems; give an informal derivation of the relationship between the circumference and area of a circle.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7g4"
+			],
+			"meta": [
+				"Solve real-life and mathematical problems involving angle measure, area, surface area, and volume.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "7.G.3",
+			"content": "Describe the two-dimensional figures that result from slicing three-dimensional figures, as in plane sections of right rectangular prisms and right rectangular pyramids.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7g3"
+			],
+			"meta": [
+				"Draw, construct, and describe geometrical figures and describe the relationships between them.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "7.G.2",
+			"content": "Draw (freehand, with ruler and protractor, and with technology) geometric shapes with given conditions. Focus on constructing triangles from three measures of angles or sides, noticing when the conditions determine a unique triangle, more than one triangle, or no triangle.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7g2"
+			],
+			"meta": [
+				"Draw, construct, and describe geometrical figures and describe the relationships between them.",
+				"Geometry"
+			]
+		},
+		{
+			"displayName": "7.G.1",
+			"content": "Solve problems involving scale drawings of geometric figures, including computing actual lengths and areas from a scale drawing and reproducing a scale drawing at a different scale.",
+			"tags": [
+				"mathematics",
+				"grade 7",
+				"7g1"
+			],
+			"meta": [
+				"Draw, construct, and describe geometrical figures and describe the relationships between them.",
+				"Geometry"
+			]
+		}
+	],
+	"Investigate chance processes and develop, use, and evaluate probability models.": [
+		{
+			"displayName": "7.SP.8.c",
+			"content": "Design and use a simulation to generate frequencies for compound events.",
+			"tags": [
+				"7.sp.8",
+				"mathematics",
+				"grade 7",
+				"7sp8c"
+			],
+			"meta": [
+				"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.8.b",
+			"content": "Represent sample spaces for compound events using methods such as organized lists, tables and tree diagrams. For an event described in everyday language (e.g., \"rolling double sixes\"), identify the outcomes in the sample space which compose the event.",
+			"tags": [
+				"7.sp.8",
+				"mathematics",
+				"grade 7",
+				"7sp8b"
+			],
+			"meta": [
+				"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.8.a",
+			"content": "Understand that, just as with simple events, the probability of a compound event is the fraction of outcomes in the sample space for which the compound event occurs.",
+			"tags": [
+				"7.sp.8",
+				"mathematics",
+				"grade 7",
+				"7sp8a"
+			],
+			"meta": [
+				"Find probabilities of compound events using organized lists, tables, tree diagrams, and simulation.",
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.7.b",
+			"content": "Develop a probability model (which may not be uniform) by observing frequencies in data generated from a chance process.",
+			"tags": [
+				"7.sp.7",
+				"mathematics",
+				"grade 7",
+				"7sp7b"
+			],
+			"meta": [
+				"Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		},
+		{
+			"displayName": "7.SP.7.a",
+			"content": "Develop a uniform probability model by assigning equal probability to all outcomes, and use the model to determine probabilities of events.",
+			"tags": [
+				"7.sp.7",
+				"mathematics",
+				"grade 7",
+				"7sp7a"
+			],
+			"meta": [
+				"Develop a probability model and use it to find probabilities of events. Compare probabilities from a model to observed frequencies; if the agreement is not good, explain possible sources of the discrepancy.",
+				"Investigate chance processes and develop, use, and evaluate probability models.",
+				"Statistics and Probability"
+			]
+		}
+	],
+	"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.": [
+		{
+			"displayName": "7.EE.4.b",
+			"content": "Solve word problems leading to inequalities of the form px + q > r or px + q < r, where p, q, and r are specific rational numbers. Graph the solution set of the inequality and interpret it in the context of the problem.",
+			"tags": [
+				"7.ee.4",
+				"mathematics",
+				"grade 7",
+				"7ee4b"
+			],
+			"meta": [
+				"Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+				"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+				"Expressions and Equations"
+			]
+		},
+		{
+			"displayName": "7.EE.4.a",
+			"content": "Solve word problems leading to equations of the form px + q = r and p(x + q) = r, where p, q, and r are specific rational numbers. Solve equations of these forms fluently. Compare an algebraic solution to an arithmetic solution, identifying the sequence of the operations used in each approach.",
+			"tags": [
+				"7.ee.4",
+				"mathematics",
+				"grade 7",
+				"7ee4a"
+			],
+			"meta": [
+				"Use variables to represent quantities in a real-world or mathematical problem, and construct simple equations and inequalities to solve problems by reasoning about the quantities.",
+				"Solve real-life and mathematical problems using numerical and algebraic expressions and equations.",
+				"Expressions and Equations"
+			]
+		}
+	],
+	"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.": [
+		{
+			"displayName": "7.NS.2.d",
+			"content": "Convert a rational number to a decimal using long division; know that the decimal form of a rational number terminates in 0s or eventually repeats.",
+			"tags": [
+				"7.ns.2",
+				"mathematics",
+				"grade 7",
+				"7ns2d"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.2.c",
+			"content": "Apply properties of operations as strategies to multiply and divide rational numbers.",
+			"tags": [
+				"7.ns.2",
+				"mathematics",
+				"grade 7",
+				"7ns2c"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.2.b",
+			"content": "Understand that integers can be divided, provided that the divisor is not zero, and every quotient of integers (with non-zero divisor) is a rational number. If p and q are integers, then -(p/q) = (-p)/q = p/(-q). Interpret quotients of rational numbers by describing real-world contexts.",
+			"tags": [
+				"7.ns.2",
+				"mathematics",
+				"grade 7",
+				"7ns2b"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.2.a",
+			"content": "Understand that multiplication is extended from fractions to rational numbers by requiring that operations continue to satisfy the properties of operations, particularly the distributive property, leading to products such as (-1)(-1) = 1 and the rules for multiplying signed numbers. Interpret products of rational numbers by describing real-world contexts.",
+			"tags": [
+				"7.ns.2",
+				"mathematics",
+				"grade 7",
+				"7ns2a"
+			],
+			"meta": [
+				"Apply and extend previous understandings of multiplication and division and of fractions to multiply and divide rational numbers.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.1.d",
+			"content": "Apply properties of operations as strategies to add and subtract rational numbers.",
+			"tags": [
+				"7.ns.1",
+				"mathematics",
+				"grade 7",
+				"7ns1d"
+			],
+			"meta": [
+				"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.1.c",
+			"content": "Understand subtraction of rational numbers as adding the additive inverse, p - q = p + (-q). Show that the distance between two rational numbers on the number line is the absolute value of their difference, and apply this principle in real-world contexts.",
+			"tags": [
+				"7.ns.1",
+				"mathematics",
+				"grade 7",
+				"7ns1c"
+			],
+			"meta": [
+				"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.1.b",
+			"content": "Understand p + q as the number located a distance |q| from p, in the positive or negative direction depending on whether q is positive or negative. Show that a number and its opposite have a sum of 0 (are additive inverses). Interpret sums of rational numbers by describing real-world contexts.",
+			"tags": [
+				"7.ns.1",
+				"mathematics",
+				"grade 7",
+				"7ns1b"
+			],
+			"meta": [
+				"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		},
+		{
+			"displayName": "7.NS.1.a",
+			"content": "Describe situations in which opposite quantities combine to make 0.",
+			"tags": [
+				"7.ns.1",
+				"mathematics",
+				"grade 7",
+				"7ns1a"
+			],
+			"meta": [
+				"Apply and extend previous understandings of addition and subtraction to add and subtract rational numbers; represent addition and subtraction on a horizontal or vertical number line diagram.",
+				"Apply and extend previous understandings of operations with fractions to add, subtract, multiply, and divide rational numbers.",
+				"The Number System"
+			]
+		}
+	],
+	"Analyze proportional relationships and use them to solve real-world and mathematical problems.": [
+		{
+			"displayName": "7.RP.2.d",
+			"content": "Explain what a point (x, y) on the graph of a proportional relationship means in terms of the situation, with special attention to the points (0, 0) and (1, r) where r is the unit rate.",
+			"tags": [
+				"7.rp.2",
+				"mathematics",
+				"grade 7",
+				"7rp2d"
+			],
+			"meta": [
+				"Recognize and represent proportional relationships between quantities.",
+				"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "7.RP.2.c",
+			"content": "Represent proportional relationships by equations.",
+			"tags": [
+				"7.rp.2",
+				"mathematics",
+				"grade 7",
+				"7rp2c"
+			],
+			"meta": [
+				"Recognize and represent proportional relationships between quantities.",
+				"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "7.RP.2.b",
+			"content": "Identify the constant of proportionality (unit rate) in tables, graphs, equations, diagrams, and verbal descriptions of proportional relationships.",
+			"tags": [
+				"7.rp.2",
+				"mathematics",
+				"grade 7",
+				"7rp2b"
+			],
+			"meta": [
+				"Recognize and represent proportional relationships between quantities.",
+				"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+				"Ratios and Proportional Relationships"
+			]
+		},
+		{
+			"displayName": "7.RP.2.a",
+			"content": "Decide whether two quantities are in a proportional relationship, e.g., by testing for equivalent ratios in a table or graphing on a coordinate plane and observing whether the graph is a straight line through the origin.",
+			"tags": [
+				"7.rp.2",
+				"mathematics",
+				"grade 7",
+				"7rp2a"
+			],
+			"meta": [
+				"Recognize and represent proportional relationships between quantities.",
+				"Analyze proportional relationships and use them to solve real-world and mathematical problems.",
+				"Ratios and Proportional Relationships"
+			]
+		}
+	]
+}

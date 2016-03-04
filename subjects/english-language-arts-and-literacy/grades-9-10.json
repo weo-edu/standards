@@ -1,1750 +1,1782 @@
-[
-	{
-		"displayName": "L.9-10.6",
-		"content": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-106"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-105"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-104"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.3",
-		"content": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-103"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-102"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-101"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.6",
-		"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-106"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.5",
-		"content": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-105"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.4",
-		"content": "Present information, findings, and supporting evidence clearly, concisely, and logically (using appropriate eye contact, adequate volume, and clear pronunciation) such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose (e.g., argument, narrative, informative, response to literature presentations), audience, and task.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-104"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.3",
-		"content": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric, identifying any fallacious reasoning or exaggerated or distorted evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-103"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.2",
-		"content": "Integrate multiple sources of information presented in diverse media or formats (e.g., visually, quantitatively, orally) evaluating the credibility and accuracy of each source.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-102"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.1",
-		"content": "Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-101"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.10",
-		"content": "Write routinely over extended time frames (time for reflection and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-1010"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.9",
-		"content": "Draw evidence from informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-109"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.8",
-		"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the usefulness of each source in answering the research question; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and following a standard format for citation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-108"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.7",
-		"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-107"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.6",
-		"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products, taking advantage of technology's capacity to link to other information and to display information flexibly and dynamically.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-106"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-104"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.5",
-		"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-105"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.2",
-		"content": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-102"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.1",
-		"content": "Write arguments focused on discipline-specific content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-101"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "W.9-10.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-1010"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-109"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.8",
-		"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the usefulness of each source in answering the research question; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and following a standard format for citation including footnotes and endnotes.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-108"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.7",
-		"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-107"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.6",
-		"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products, taking advantage of technology's capacity to link to other information and to display information flexibly and dynamically.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-106"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.5",
-		"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-105"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-104"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-103"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.2",
-		"content": "Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-102"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.1",
-		"content": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-101"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RST.9-10.10",
-		"content": "By the end of grade 10, read and comprehend science/technical texts in the grades 9—10 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-1010"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.9",
-		"content": "Compare and contrast findings presented in a text to those from other sources (including their own experiments), noting when the findings support or contradict previous explanations or accounts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-109"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.8",
-		"content": "Assess the extent to which the reasoning and evidence in a text support the author's claim or a recommendation for solving a scientific or technical problem.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-108"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.7",
-		"content": "Translate quantitative or technical information expressed in words in a text into visual form (e.g., a table or chart) and translate information expressed visually or mathematically (e.g., in an equation) into words.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-107"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.6",
-		"content": "Analyze the author's purpose in providing an explanation, describing a procedure, or discussing an experiment in a text, defining the question the author seeks to address.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-106"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.5",
-		"content": "Analyze the structure of the relationships among concepts in a text, including relationships among key terms (e.g., force, friction, reaction force, energy).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-105"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.4",
-		"content": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 9—10 texts and topics.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-104"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.3",
-		"content": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks, attending to special cases or exceptions defined in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-103"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.2",
-		"content": "Determine the central ideas or conclusions of a text; trace the text's explanation or depiction of a complex process, phenomenon, or concept; provide an accurate summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-102"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RST.9-10.1",
-		"content": "Cite specific textual evidence to support analysis of science and technical texts, attending to the precise details of explanations or descriptions.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rst9-101"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in Science and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.10",
-		"content": "By the end of grade 10, read and comprehend history/social studies texts in the grades 9—10 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-1010"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.9",
-		"content": "Compare and contrast treatments of the same topic in several primary and secondary sources.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-109"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.8",
-		"content": "Assess the extent to which the reasoning and evidence in a text support the author's claims.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-108"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.7",
-		"content": "Integrate quantitative or technical analysis (e.g., charts, research data) with qualitative analysis in print or digital text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-107"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.6",
-		"content": "Compare the point of view of two or more authors for how they treat the same or similar topics, including which details they include and emphasize in their respective accounts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-106"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.5",
-		"content": "Analyze how a text uses structure to emphasize key points or advance an explanation or analysis",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-105"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including vocabulary describing political, social, or economic aspects of history/social studies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-104"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.3",
-		"content": "Analyze in detail a series of events described in a text; determine whether earlier events caused later ones or simply preceded them.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-103"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.2",
-		"content": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary of how key events or ideas develop over the course of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-102"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RH.9-10.1",
-		"content": "Cite specific textual evidence to support analysis of primary and secondary sources, attending to such features as the date and origin of the information.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rh9-101"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literacy in History/Social Studies 6—12"
-		]
-	},
-	{
-		"displayName": "RI.9-10.10",
-		"content": "By the end of grade 9, read and comprehend literary nonfiction in the grades 9—10 text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 10, read and comprehend literary nonfiction at the high end of the grades 9—10 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-1010"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.9",
-		"content": "Analyze seminal U.S. documents of historical and literary significance (e.g., Washington's Farewell Address, the Gettysburg Address, Roosevelt's Four Freedoms speech, King's \"Letter from Birmingham Jail\"), including how they address related themes and concepts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-109"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.8",
-		"content": "Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is valid and the evidence is relevant and sufficient; identify false statements and fallacious reasoning.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-108"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.7",
-		"content": "Analyze various accounts of a subject told in different mediums (e.g., a person's life story in both print and multimedia), determining which details are emphasized in each account.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-107"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.6",
-		"content": "Determine an author's point of view or purpose in a text and analyze how an author uses rhetoric to advance that point of view or purpose.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-106"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.5",
-		"content": "Analyze in detail how an author's ideas or claims are developed and refined by particular sentences, paragraphs, or larger portions of a text (e.g., a section or chapter).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-105"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the cumulative impact of specific word choices on meaning and tone (e.g., how the language of a court opinion differs from that of a newspaper). (See grade 9–10 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-104"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.3",
-		"content": "Analyze how the author unfolds an analysis or series of ideas or events, including the order in which the points are made, how they are introduced and developed, and the connections that are drawn between them.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-103"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.2",
-		"content": "Determine a central idea of a text and analyze its development over the course of the text, including how it emerges and is shaped and refined by specific details; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-102"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.9-10.1",
-		"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-101"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.9-10.10",
-		"content": "By the end of grade 9, read and comprehend literature, including stories, dramas, and poems, in the grades 9—10 text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 10, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 9—10 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-1010"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.9",
-		"content": "Analyze how an author draws on and transforms source material in a specific work (e.g., how Shakespeare treats a theme or topic from Ovid or the Bible or how a later author draws on a play by Shakespeare).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-109"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.7",
-		"content": "Analyze the representation of a subject or a key scene in two different artistic mediums, including what is emphasized or absent in each treatment (e.g., Auden's \"Musée des Beaux Arts\" and Breughel's Landscape with the Fall of Icarus).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-107"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.6",
-		"content": "Analyze a particular point of view or cultural experience reflected in a work of literature from outside the United States, drawing on a wide reading of world literature.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-106"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.5",
-		"content": "Analyze how an author's choices concerning how to structure a text, order events within it (e.g., parallel plots), and manipulate time (e.g., pacing, flashbacks) create such effects as mystery, tension, or surprise.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-105"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.4",
-		"content": "Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings; analyze the cumulative impact of specific word choices on meaning and tone (e.g., how the language evokes a sense of time and place; how it sets a formal or informal tone). (See grade 9–10 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-104"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.3",
-		"content": "Analyze how complex characters (e.g., those with multiple or conflicting motivations) develop over the course of a text, interact with other characters, and advance the plot or develop the theme.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-103"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.2",
-		"content": "Determine a theme or central idea of a text and analyze in detail its development over the course of the text, including how it emerges and is shaped and refined by specific details; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-102"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.9-10.1",
-		"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"rl9-101"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.9-10.5b",
-		"content": "Analyze nuances in the meaning of words with similar denotations.",
-		"tags": [
-			"l.9-10.5",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-105b"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.5a",
-		"content": "Interpret figures of speech (e.g., euphemism, oxymoron) in context and analyze their role in the text.",
-		"tags": [
-			"l.9-10.5",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-105a"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.4d",
-		"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
-		"tags": [
-			"l.9-10.4",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-104d"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.4c",
-		"content": "Consult general and specialized reference materials (e.g., college-level dictionaries, rhyming dictionaries, bilingual dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, or its etymology.",
-		"tags": [
-			"l.9-10.4",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-104c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.4b",
-		"content": "Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (e.g., analyze, analysis, analytical; advocate, advocacy) and continue to apply knowledge of Greek and Latin roots and affixes.",
-		"tags": [
-			"l.9-10.4",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-104b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.4a",
-		"content": "Use context (e.g., the overall meaning of a sentence, paragraph, or text; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.9-10.4",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-104a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.3a",
-		"content": "Write and edit work so that it conforms to the guidelines in a style manual (e.g., MLA Handbook, Turabian's Manual for Writers) appropriate for the discipline and writing type.",
-		"tags": [
-			"l.9-10.3",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-103a"
-		],
-		"meta": [
-			"Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.2c",
-		"content": "Spell correctly.",
-		"tags": [
-			"l.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-102c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.2b",
-		"content": "Use a colon to introduce a list or quotation.",
-		"tags": [
-			"l.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-102b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.2a",
-		"content": "Use a semicolon (and perhaps a conjunctive adverb) to link two or more closely related independent clauses.",
-		"tags": [
-			"l.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-102a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.1b",
-		"content": "Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.",
-		"tags": [
-			"l.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-101b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.9-10.1a",
-		"content": "Use parallel structure.",
-		"tags": [
-			"l.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"l9-101a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.4b",
-		"content": "Plan, memorize, and present a recitation (e.g., poem, selection from a speech or dramatic soliloquy) that: conveys the meaning of the selection and includes appropriate performance techniques (e.g., tone, rate, voice modulation) to achieve the desired aesthetic effect. (9th or 10th grade)",
-		"tags": [
-			"sl.9-10.4",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-104b"
-		],
-		"meta": [
-			"Present information, findings, and supporting evidence clearly, concisely, and logically (using appropriate eye contact, adequate volume, and clear pronunciation) such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose (e.g., argument, narrative, informative, response to literature presentations), audience, and task.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.4a",
-		"content": "Plan and deliver an informative/explanatory presentation that: presents evidence in support of a thesis, conveys information from primary and secondary sources coherently, uses domain specific vocabulary, and provides a conclusion that summarizes the main points. (9th or 10th grade)",
-		"tags": [
-			"sl.9-10.4",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-104a"
-		],
-		"meta": [
-			"Present information, findings, and supporting evidence clearly, concisely, and logically (using appropriate eye contact, adequate volume, and clear pronunciation) such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose (e.g., argument, narrative, informative, response to literature presentations), audience, and task.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.1d",
-		"content": "Respond thoughtfully to diverse perspectives, summarize points of agreement and disagreement, and, when warranted, qualify or justify their own views and understanding and make new connections in light of the evidence and reasoning presented.",
-		"tags": [
-			"sl.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-101d"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.1c",
-		"content": "Propel conversations by posing and responding to questions that relate the current discussion to broader themes or larger ideas; actively incorporate others into the discussion; and clarify, verify, or challenge ideas and conclusions.",
-		"tags": [
-			"sl.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-101c"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.1b",
-		"content": "Work with peers to set rules for collegial discussions and decision-making (e.g., informal consensus, taking votes on key issues, presentation of alternate views), clear goals and deadlines, and individual roles as needed.",
-		"tags": [
-			"sl.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-101b"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.9-10.1a",
-		"content": "Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas.",
-		"tags": [
-			"sl.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"sl9-101a"
-		],
-		"meta": [
-			"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.2f",
-		"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic).",
-		"tags": [
-			"whst.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-102f"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.2e",
-		"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
-		"tags": [
-			"whst.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-102e"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.2d",
-		"content": "Use precise language and domain-specific vocabulary to manage the complexity of the topic and convey a style appropriate to the discipline and context as well as to the expertise of likely readers.",
-		"tags": [
-			"whst.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-102d"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.2c",
-		"content": "Use varied transitions and sentence structures to link the major sections of the text, create cohesion, and clarify the relationships among ideas and concepts.",
-		"tags": [
-			"whst.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-102c"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.2b",
-		"content": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
-		"tags": [
-			"whst.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-102b"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.2a",
-		"content": "Introduce a topic and organize ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"whst.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-102a"
-		],
-		"meta": [
-			"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.1e",
-		"content": "Provide a concluding statement or section that follows from or supports the argument presented.",
-		"tags": [
-			"whst.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-101e"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.1d",
-		"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
-		"tags": [
-			"whst.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-101d"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.1c",
-		"content": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
-		"tags": [
-			"whst.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-101c"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.1b",
-		"content": "Develop claim(s) and counterclaims fairly, supplying data and evidence for each while pointing out the strengths and limitations of both claim(s) and counterclaims in a discipline-appropriate form and in a manner that anticipates the audience's knowledge level and concerns.",
-		"tags": [
-			"whst.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-101b"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "WHST.9-10.1a",
-		"content": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among the claim(s), counterclaims, reasons, and evidence.",
-		"tags": [
-			"whst.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"whst9-101a"
-		],
-		"meta": [
-			"Write arguments focused on discipline-specific content.",
-			"Text Types and Purposes",
-			"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
-		]
-	},
-	{
-		"displayName": "W.9-10.9b",
-		"content": "Apply grades 9—10 Reading standards to literary nonfiction (e.g., \"Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is valid and the evidence is relevant and sufficient; identify false statements and fallacious reasoning\").",
-		"tags": [
-			"w.9-10.9",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-109b"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.9a",
-		"content": "Apply grades 9—10 Reading standards to literature (e.g., \"Analyze how an author draws on and transforms source material in a specific work [e.g., how Shakespeare treats a theme or topic from Ovid or the Bible or how a later author draws on a play by Shakespeare]\").",
-		"tags": [
-			"w.9-10.9",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-109a"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.3e",
-		"content": "Provide a conclusion that follows from and reflects on what is experienced, observed, or resolved over the course of the narrative.",
-		"tags": [
-			"w.9-10.3",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-103e"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.3d",
-		"content": "Use precise words and phrases, telling details, and sensory language to convey a vivid picture of the experiences, events, setting, and/or characters.",
-		"tags": [
-			"w.9-10.3",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-103d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.3c",
-		"content": "Use a variety of techniques to sequence events so that they build on one another to create a coherent whole.",
-		"tags": [
-			"w.9-10.3",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-103c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.3b",
-		"content": "Use narrative techniques, such as dialogue, pacing, description, reflection, and multiple plot lines, to develop experiences, events, and/or characters.",
-		"tags": [
-			"w.9-10.3",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-103b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.3a",
-		"content": "Engage and orient the reader by setting out a problem, situation, or observation, establishing one or multiple point(s) of view, and introducing a narrator and/or characters; create a smooth progression of experiences or events.",
-		"tags": [
-			"w.9-10.3",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-103a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.2f",
-		"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic).",
-		"tags": [
-			"w.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-102f"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.2e",
-		"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
-		"tags": [
-			"w.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-102e"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.2d",
-		"content": "Use precise language and domain-specific vocabulary to manage the complexity of the topic.",
-		"tags": [
-			"w.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-102d"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.2c",
-		"content": "Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.",
-		"tags": [
-			"w.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-102c"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.2b",
-		"content": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
-		"tags": [
-			"w.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-102b"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.2a",
-		"content": "Introduce a topic or thesis statement; organize complex ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"w.9-10.2",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-102a"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.1e",
-		"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
-		"tags": [
-			"w.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-101e"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.1d",
-		"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
-		"tags": [
-			"w.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-101d"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.1c",
-		"content": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
-		"tags": [
-			"w.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-101c"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.1b",
-		"content": "Develop claim(s) and counterclaims fairly, supplying evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level and concerns.",
-		"tags": [
-			"w.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-101b"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.9-10.1a",
-		"content": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among claim(s), counterclaims, reasons, and evidence.",
-		"tags": [
-			"w.9-10.1",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"w9-101a"
-		],
-		"meta": [
-			"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RI.9-10.5a",
-		"content": "Analyze the use of text features (e.g., graphics, headers, captions) in functional workplace documents.",
-		"tags": [
-			"ri.9-10.5",
-			"english language arts & literacy",
-			"grade 9",
-			"grade 10",
-			"ri9-105a"
-		],
-		"meta": [
-			"Analyze in detail how an author's ideas or claims are developed and refined by particular sentences, paragraphs, or larger portions of a text (e.g., a section or chapter).",
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.9-10.6",
+			"content": "Acquire and use accurately general academic and domain-specific words and phrases, sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-106"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-105"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-104"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.3",
+			"content": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-103"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-102"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-101"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.9-10.6",
+			"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-106"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.5",
+			"content": "Make strategic use of digital media (e.g., textual, graphical, audio, visual, and interactive elements) in presentations to enhance understanding of findings, reasoning, and evidence and to add interest.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-105"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.4",
+			"content": "Present information, findings, and supporting evidence clearly, concisely, and logically (using appropriate eye contact, adequate volume, and clear pronunciation) such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose (e.g., argument, narrative, informative, response to literature presentations), audience, and task.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-104"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.3",
+			"content": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric, identifying any fallacious reasoning or exaggerated or distorted evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-103"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.2",
+			"content": "Integrate multiple sources of information presented in diverse media or formats (e.g., visually, quantitatively, orally) evaluating the credibility and accuracy of each source.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-102"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.1",
+			"content": "Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-101"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12": [
+		{
+			"displayName": "WHST.9-10.10",
+			"content": "Write routinely over extended time frames (time for reflection and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-1010"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.9",
+			"content": "Draw evidence from informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-109"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.8",
+			"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the usefulness of each source in answering the research question; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and following a standard format for citation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-108"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.7",
+			"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-107"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.6",
+			"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products, taking advantage of technology's capacity to link to other information and to display information flexibly and dynamically.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-106"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-104"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.5",
+			"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-105"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.2",
+			"content": "Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-102"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.1",
+			"content": "Write arguments focused on discipline-specific content.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-101"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.9-10.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-1010"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-109"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.8",
+			"content": "Gather relevant information from multiple authoritative print and digital sources, using advanced searches effectively; assess the usefulness of each source in answering the research question; integrate information into the text selectively to maintain the flow of ideas, avoiding plagiarism and following a standard format for citation including footnotes and endnotes.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-108"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.7",
+			"content": "Conduct short as well as more sustained research projects to answer a question (including a self-generated question) or solve a problem; narrow or broaden the inquiry when appropriate; synthesize multiple sources on the subject, demonstrating understanding of the subject under investigation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-107"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.6",
+			"content": "Use technology, including the Internet, to produce, publish, and update individual or shared writing products, taking advantage of technology's capacity to link to other information and to display information flexibly and dynamically.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-106"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.5",
+			"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on addressing what is most significant for a specific purpose and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-105"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-104"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-103"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.2",
+			"content": "Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-102"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.1",
+			"content": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-101"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards for Literacy in Science and Technical Subjects 6—12": [
+		{
+			"displayName": "RST.9-10.10",
+			"content": "By the end of grade 10, read and comprehend science/technical texts in the grades 9—10 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-1010"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.9",
+			"content": "Compare and contrast findings presented in a text to those from other sources (including their own experiments), noting when the findings support or contradict previous explanations or accounts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-109"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.8",
+			"content": "Assess the extent to which the reasoning and evidence in a text support the author's claim or a recommendation for solving a scientific or technical problem.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-108"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.7",
+			"content": "Translate quantitative or technical information expressed in words in a text into visual form (e.g., a table or chart) and translate information expressed visually or mathematically (e.g., in an equation) into words.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-107"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.6",
+			"content": "Analyze the author's purpose in providing an explanation, describing a procedure, or discussing an experiment in a text, defining the question the author seeks to address.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-106"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.5",
+			"content": "Analyze the structure of the relationships among concepts in a text, including relationships among key terms (e.g., force, friction, reaction force, energy).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-105"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.4",
+			"content": "Determine the meaning of symbols, key terms, and other domain-specific words and phrases as they are used in a specific scientific or technical context relevant to grades 9—10 texts and topics.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-104"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.3",
+			"content": "Follow precisely a complex multistep procedure when carrying out experiments, taking measurements, or performing technical tasks, attending to special cases or exceptions defined in the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-103"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.2",
+			"content": "Determine the central ideas or conclusions of a text; trace the text's explanation or depiction of a complex process, phenomenon, or concept; provide an accurate summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-102"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "RST.9-10.1",
+			"content": "Cite specific textual evidence to support analysis of science and technical texts, attending to the precise details of explanations or descriptions.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rst9-101"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in Science and Technical Subjects 6—12"
+			]
+		}
+	],
+	"Reading Standards for Literacy in History/Social Studies 6—12": [
+		{
+			"displayName": "RH.9-10.10",
+			"content": "By the end of grade 10, read and comprehend history/social studies texts in the grades 9—10 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-1010"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.9",
+			"content": "Compare and contrast treatments of the same topic in several primary and secondary sources.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-109"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.8",
+			"content": "Assess the extent to which the reasoning and evidence in a text support the author's claims.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-108"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.7",
+			"content": "Integrate quantitative or technical analysis (e.g., charts, research data) with qualitative analysis in print or digital text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-107"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.6",
+			"content": "Compare the point of view of two or more authors for how they treat the same or similar topics, including which details they include and emphasize in their respective accounts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-106"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.5",
+			"content": "Analyze how a text uses structure to emphasize key points or advance an explanation or analysis",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-105"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including vocabulary describing political, social, or economic aspects of history/social studies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-104"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.3",
+			"content": "Analyze in detail a series of events described in a text; determine whether earlier events caused later ones or simply preceded them.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-103"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.2",
+			"content": "Determine the central ideas or information of a primary or secondary source; provide an accurate summary of how key events or ideas develop over the course of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-102"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		},
+		{
+			"displayName": "RH.9-10.1",
+			"content": "Cite specific textual evidence to support analysis of primary and secondary sources, attending to such features as the date and origin of the information.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rh9-101"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literacy in History/Social Studies 6—12"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.9-10.10",
+			"content": "By the end of grade 9, read and comprehend literary nonfiction in the grades 9—10 text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 10, read and comprehend literary nonfiction at the high end of the grades 9—10 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-1010"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.9",
+			"content": "Analyze seminal U.S. documents of historical and literary significance (e.g., Washington's Farewell Address, the Gettysburg Address, Roosevelt's Four Freedoms speech, King's \"Letter from Birmingham Jail\"), including how they address related themes and concepts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-109"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.8",
+			"content": "Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is valid and the evidence is relevant and sufficient; identify false statements and fallacious reasoning.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-108"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.7",
+			"content": "Analyze various accounts of a subject told in different mediums (e.g., a person's life story in both print and multimedia), determining which details are emphasized in each account.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-107"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.6",
+			"content": "Determine an author's point of view or purpose in a text and analyze how an author uses rhetoric to advance that point of view or purpose.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-106"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.5",
+			"content": "Analyze in detail how an author's ideas or claims are developed and refined by particular sentences, paragraphs, or larger portions of a text (e.g., a section or chapter).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-105"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the cumulative impact of specific word choices on meaning and tone (e.g., how the language of a court opinion differs from that of a newspaper). (See grade 9–10 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-104"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.3",
+			"content": "Analyze how the author unfolds an analysis or series of ideas or events, including the order in which the points are made, how they are introduced and developed, and the connections that are drawn between them.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-103"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.2",
+			"content": "Determine a central idea of a text and analyze its development over the course of the text, including how it emerges and is shaped and refined by specific details; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-102"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.9-10.1",
+			"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-101"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.9-10.10",
+			"content": "By the end of grade 9, read and comprehend literature, including stories, dramas, and poems, in the grades 9—10 text complexity band proficiently, with scaffolding as needed at the high end of the range.<br />By the end of grade 10, read and comprehend literature, including stories, dramas, and poems, at the high end of the grades 9—10 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-1010"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.9",
+			"content": "Analyze how an author draws on and transforms source material in a specific work (e.g., how Shakespeare treats a theme or topic from Ovid or the Bible or how a later author draws on a play by Shakespeare).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-109"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.7",
+			"content": "Analyze the representation of a subject or a key scene in two different artistic mediums, including what is emphasized or absent in each treatment (e.g., Auden's \"Musée des Beaux Arts\" and Breughel's Landscape with the Fall of Icarus).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-107"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.6",
+			"content": "Analyze a particular point of view or cultural experience reflected in a work of literature from outside the United States, drawing on a wide reading of world literature.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-106"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.5",
+			"content": "Analyze how an author's choices concerning how to structure a text, order events within it (e.g., parallel plots), and manipulate time (e.g., pacing, flashbacks) create such effects as mystery, tension, or surprise.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-105"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.4",
+			"content": "Determine the meaning of words and phrases as they are used in the text, including figurative and connotative meanings; analyze the cumulative impact of specific word choices on meaning and tone (e.g., how the language evokes a sense of time and place; how it sets a formal or informal tone). (See grade 9–10 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-104"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.3",
+			"content": "Analyze how complex characters (e.g., those with multiple or conflicting motivations) develop over the course of a text, interact with other characters, and advance the plot or develop the theme.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-103"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.2",
+			"content": "Determine a theme or central idea of a text and analyze in detail its development over the course of the text, including how it emerges and is shaped and refined by specific details; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-102"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.9-10.1",
+			"content": "Cite strong and thorough textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"rl9-101"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.9-10.5b",
+			"content": "Analyze nuances in the meaning of words with similar denotations.",
+			"tags": [
+				"l.9-10.5",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-105b"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.5a",
+			"content": "Interpret figures of speech (e.g., euphemism, oxymoron) in context and analyze their role in the text.",
+			"tags": [
+				"l.9-10.5",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-105a"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.4d",
+			"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
+			"tags": [
+				"l.9-10.4",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-104d"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.4c",
+			"content": "Consult general and specialized reference materials (e.g., college-level dictionaries, rhyming dictionaries, bilingual dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning, its part of speech, or its etymology.",
+			"tags": [
+				"l.9-10.4",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-104c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.4b",
+			"content": "Identify and correctly use patterns of word changes that indicate different meanings or parts of speech (e.g., analyze, analysis, analytical; advocate, advocacy) and continue to apply knowledge of Greek and Latin roots and affixes.",
+			"tags": [
+				"l.9-10.4",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-104b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.4a",
+			"content": "Use context (e.g., the overall meaning of a sentence, paragraph, or text; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.9-10.4",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-104a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grades 9—10 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.9-10.3a",
+			"content": "Write and edit work so that it conforms to the guidelines in a style manual (e.g., MLA Handbook, Turabian's Manual for Writers) appropriate for the discipline and writing type.",
+			"tags": [
+				"l.9-10.3",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-103a"
+			],
+			"meta": [
+				"Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.9-10.2c",
+			"content": "Spell correctly.",
+			"tags": [
+				"l.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-102c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.2b",
+			"content": "Use a colon to introduce a list or quotation.",
+			"tags": [
+				"l.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-102b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.2a",
+			"content": "Use a semicolon (and perhaps a conjunctive adverb) to link two or more closely related independent clauses.",
+			"tags": [
+				"l.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-102a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.1b",
+			"content": "Use various types of phrases (noun, verb, adjectival, adverbial, participial, prepositional, absolute) and clauses (independent, dependent; noun, relative, adverbial) to convey specific meanings and add variety and interest to writing or presentations.",
+			"tags": [
+				"l.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-101b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.9-10.1a",
+			"content": "Use parallel structure.",
+			"tags": [
+				"l.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"l9-101a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.9-10.4b",
+			"content": "Plan, memorize, and present a recitation (e.g., poem, selection from a speech or dramatic soliloquy) that: conveys the meaning of the selection and includes appropriate performance techniques (e.g., tone, rate, voice modulation) to achieve the desired aesthetic effect. (9th or 10th grade)",
+			"tags": [
+				"sl.9-10.4",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-104b"
+			],
+			"meta": [
+				"Present information, findings, and supporting evidence clearly, concisely, and logically (using appropriate eye contact, adequate volume, and clear pronunciation) such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose (e.g., argument, narrative, informative, response to literature presentations), audience, and task.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.4a",
+			"content": "Plan and deliver an informative/explanatory presentation that: presents evidence in support of a thesis, conveys information from primary and secondary sources coherently, uses domain specific vocabulary, and provides a conclusion that summarizes the main points. (9th or 10th grade)",
+			"tags": [
+				"sl.9-10.4",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-104a"
+			],
+			"meta": [
+				"Present information, findings, and supporting evidence clearly, concisely, and logically (using appropriate eye contact, adequate volume, and clear pronunciation) such that listeners can follow the line of reasoning and the organization, development, substance, and style are appropriate to purpose (e.g., argument, narrative, informative, response to literature presentations), audience, and task.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.9-10.1d",
+			"content": "Respond thoughtfully to diverse perspectives, summarize points of agreement and disagreement, and, when warranted, qualify or justify their own views and understanding and make new connections in light of the evidence and reasoning presented.",
+			"tags": [
+				"sl.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-101d"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.1c",
+			"content": "Propel conversations by posing and responding to questions that relate the current discussion to broader themes or larger ideas; actively incorporate others into the discussion; and clarify, verify, or challenge ideas and conclusions.",
+			"tags": [
+				"sl.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-101c"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.1b",
+			"content": "Work with peers to set rules for collegial discussions and decision-making (e.g., informal consensus, taking votes on key issues, presentation of alternate views), clear goals and deadlines, and individual roles as needed.",
+			"tags": [
+				"sl.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-101b"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.9-10.1a",
+			"content": "Come to discussions prepared, having read and researched material under study; explicitly draw on that preparation by referring to evidence from texts and other research on the topic or issue to stimulate a thoughtful, well-reasoned exchange of ideas.",
+			"tags": [
+				"sl.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"sl9-101a"
+			],
+			"meta": [
+				"Initiate and participate effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grades 9—10 topics, texts, and issues, building on others' ideas and expressing their own clearly and persuasively.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "WHST.9-10.2f",
+			"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic).",
+			"tags": [
+				"whst.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-102f"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.2e",
+			"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
+			"tags": [
+				"whst.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-102e"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.2d",
+			"content": "Use precise language and domain-specific vocabulary to manage the complexity of the topic and convey a style appropriate to the discipline and context as well as to the expertise of likely readers.",
+			"tags": [
+				"whst.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-102d"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.2c",
+			"content": "Use varied transitions and sentence structures to link the major sections of the text, create cohesion, and clarify the relationships among ideas and concepts.",
+			"tags": [
+				"whst.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-102c"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.2b",
+			"content": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
+			"tags": [
+				"whst.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-102b"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.2a",
+			"content": "Introduce a topic and organize ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"whst.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-102a"
+			],
+			"meta": [
+				"Write informative/explanatory texts, including the narration of historical events, scientific procedures/experiments, or technical processes.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.1e",
+			"content": "Provide a concluding statement or section that follows from or supports the argument presented.",
+			"tags": [
+				"whst.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-101e"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.1d",
+			"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
+			"tags": [
+				"whst.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-101d"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.1c",
+			"content": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
+			"tags": [
+				"whst.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-101c"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.1b",
+			"content": "Develop claim(s) and counterclaims fairly, supplying data and evidence for each while pointing out the strengths and limitations of both claim(s) and counterclaims in a discipline-appropriate form and in a manner that anticipates the audience's knowledge level and concerns.",
+			"tags": [
+				"whst.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-101b"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "WHST.9-10.1a",
+			"content": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among the claim(s), counterclaims, reasons, and evidence.",
+			"tags": [
+				"whst.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"whst9-101a"
+			],
+			"meta": [
+				"Write arguments focused on discipline-specific content.",
+				"Text Types and Purposes",
+				"Writing Standards for Literacy in History/Social Studies, Science, and Technical Subjects 6—12"
+			]
+		},
+		{
+			"displayName": "W.9-10.3e",
+			"content": "Provide a conclusion that follows from and reflects on what is experienced, observed, or resolved over the course of the narrative.",
+			"tags": [
+				"w.9-10.3",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-103e"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.3d",
+			"content": "Use precise words and phrases, telling details, and sensory language to convey a vivid picture of the experiences, events, setting, and/or characters.",
+			"tags": [
+				"w.9-10.3",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-103d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.3c",
+			"content": "Use a variety of techniques to sequence events so that they build on one another to create a coherent whole.",
+			"tags": [
+				"w.9-10.3",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-103c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.3b",
+			"content": "Use narrative techniques, such as dialogue, pacing, description, reflection, and multiple plot lines, to develop experiences, events, and/or characters.",
+			"tags": [
+				"w.9-10.3",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-103b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.3a",
+			"content": "Engage and orient the reader by setting out a problem, situation, or observation, establishing one or multiple point(s) of view, and introducing a narrator and/or characters; create a smooth progression of experiences or events.",
+			"tags": [
+				"w.9-10.3",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-103a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.2f",
+			"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented (e.g., articulating implications or the significance of the topic).",
+			"tags": [
+				"w.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-102f"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.2e",
+			"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
+			"tags": [
+				"w.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-102e"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.2d",
+			"content": "Use precise language and domain-specific vocabulary to manage the complexity of the topic.",
+			"tags": [
+				"w.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-102d"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.2c",
+			"content": "Use appropriate and varied transitions to link the major sections of the text, create cohesion, and clarify the relationships among complex ideas and concepts.",
+			"tags": [
+				"w.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-102c"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.2b",
+			"content": "Develop the topic with well-chosen, relevant, and sufficient facts, extended definitions, concrete details, quotations, or other information and examples appropriate to the audience's knowledge of the topic.",
+			"tags": [
+				"w.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-102b"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.2a",
+			"content": "Introduce a topic or thesis statement; organize complex ideas, concepts, and information to make important connections and distinctions; include formatting (e.g., headings), graphics (e.g., figures, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"w.9-10.2",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-102a"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine and convey complex ideas, concepts, and information clearly and accurately through the effective selection, organization, and analysis of content.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.1e",
+			"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
+			"tags": [
+				"w.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-101e"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.1d",
+			"content": "Establish and maintain a formal style and objective tone while attending to the norms and conventions of the discipline in which they are writing.",
+			"tags": [
+				"w.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-101d"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.1c",
+			"content": "Use words, phrases, and clauses to link the major sections of the text, create cohesion, and clarify the relationships between claim(s) and reasons, between reasons and evidence, and between claim(s) and counterclaims.",
+			"tags": [
+				"w.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-101c"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.1b",
+			"content": "Develop claim(s) and counterclaims fairly, supplying evidence for each while pointing out the strengths and limitations of both in a manner that anticipates the audience's knowledge level and concerns.",
+			"tags": [
+				"w.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-101b"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.1a",
+			"content": "Introduce precise claim(s), distinguish the claim(s) from alternate or opposing claims, and create an organization that establishes clear relationships among claim(s), counterclaims, reasons, and evidence.",
+			"tags": [
+				"w.9-10.1",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-101a"
+			],
+			"meta": [
+				"Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Research to Build and Present Knowledge": [
+		{
+			"displayName": "W.9-10.9b",
+			"content": "Apply grades 9—10 Reading standards to literary nonfiction (e.g., \"Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is valid and the evidence is relevant and sufficient; identify false statements and fallacious reasoning\").",
+			"tags": [
+				"w.9-10.9",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-109b"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.9-10.9a",
+			"content": "Apply grades 9—10 Reading standards to literature (e.g., \"Analyze how an author draws on and transforms source material in a specific work [e.g., how Shakespeare treats a theme or topic from Ovid or the Bible or how a later author draws on a play by Shakespeare]\").",
+			"tags": [
+				"w.9-10.9",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"w9-109a"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		}
+	],
+	"Craft and Structure": [
+		{
+			"displayName": "RI.9-10.5a",
+			"content": "Analyze the use of text features (e.g., graphics, headers, captions) in functional workplace documents.",
+			"tags": [
+				"ri.9-10.5",
+				"english language arts & literacy",
+				"grade 9",
+				"grade 10",
+				"ri9-105a"
+			],
+			"meta": [
+				"Analyze in detail how an author's ideas or claims are developed and refined by particular sentences, paragraphs, or larger portions of a text (e.g., a section or chapter).",
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		}
+	]
+}

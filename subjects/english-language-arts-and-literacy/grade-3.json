@@ -1,1313 +1,1341 @@
-[
-	{
-		"displayName": "L.3.6",
-		"content": "Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"l36"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.5",
-		"content": "Demonstrate understanding of word relationships and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"l35"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"l34"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.3",
-		"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"l33"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"l32"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"l31"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.6",
-		"content": "Speak in complete sentences when appropriate to task and situation in order to provide requested detail or clarification.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"sl36"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.5",
-		"content": "Create engaging audio recordings of stories or poems that demonstrate fluid reading at an understandable pace; add visual displays when appropriate to emphasize or enhance certain facts or details.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"sl35"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.4",
-		"content": "Report on a topic or text, tell a story, or recount an experience with appropriate facts and relevant, descriptive details, speaking clearly at an understandable pace.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"sl34"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.3",
-		"content": "Ask and answer questions about information from a speaker, offering appropriate elaboration and detail.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"sl33"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.2",
-		"content": "Determine the main ideas and supporting details of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"sl32"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.1",
-		"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"sl31"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.3.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w310"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.8",
-		"content": "Recall information from experiences or gather information from print and digital sources; take brief notes on sources and sort evidence into provided categories.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w38"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.7",
-		"content": "Conduct short research projects that build knowledge about a topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w37"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.6",
-		"content": "With guidance and support from adults, use technology to produce and publish writing (using keyboarding skills) as well as to interact and collaborate with others.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w36"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.5",
-		"content": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w35"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.4",
-		"content": "With guidance and support from adults, produce writing in which the development and organization are appropriate to task and purpose.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w34"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w33"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.2",
-		"content": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w32"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.1",
-		"content": "Write opinion pieces on topics or texts, supporting a point of view with reasons.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"w31"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RF.3.4",
-		"content": "Read with sufficient accuracy and fluency to support comprehension.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rf34"
-		],
-		"meta": [
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.3.3",
-		"content": "Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rf33"
-		],
-		"meta": [
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RI.3.10",
-		"content": "By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 2—3 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri310"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.9",
-		"content": "Compare and contrast the most important points and key details presented in two texts on the same topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri39"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.8",
-		"content": "Describe the logical connection between particular sentences and paragraphs in a text (e.g., comparison, cause/effect, first/second/third in a sequence).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri38"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.7",
-		"content": "Use information gained from illustrations (e.g., maps, photographs) and the words in a text to demonstrate understanding of the text (e.g., where, when, why, and how key events occur).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri37"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.6",
-		"content": "Distinguish their own point of view from that of the author of a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri36"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.5",
-		"content": "Use text features and search tools (e.g., key words, sidebars, hyperlinks) to locate information relevant to a given topic efficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri35"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.4",
-		"content": "Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 3 topic or subject area. (See grade 3 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri34"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.3",
-		"content": "Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and cause/effect.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri33"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.2",
-		"content": "Determine the main idea of a text; recount the key details and explain how they support the main idea.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri32"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.3.1",
-		"content": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"ri31"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.3.10",
-		"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 2—3 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl310"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.9",
-		"content": "Compare and contrast the themes, settings, and plots of stories written by the same author about the same or similar characters (e.g., in books from a series).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl39"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.7",
-		"content": "Explain how specific aspects of a text's illustrations contribute to what is conveyed by the words in a story (e.g., create mood, emphasize aspects of a character or setting).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl37"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.6",
-		"content": "Distinguish their own point of view from that of the narrator or those of the characters.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl36"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.5",
-		"content": "Refer to parts of stories, dramas, and poems when writing or speaking about a text, using terms such as chapter, scene, and stanza; describe how each successive part builds on earlier sections.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl35"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, distinguishing literal from nonliteral language. (See grade 3 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl34"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.3",
-		"content": "Describe characters in a story (e.g., their traits, motivations, or feelings) and explain how their actions contribute to the sequence of events.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl33"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.2",
-		"content": "Recount stories, including fables, folktales, and myths from diverse cultures; determine the central message, lesson, or moral and explain how it is conveyed through key details in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl32"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.3.1",
-		"content": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 3",
-			"rl31"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.3.5c",
-		"content": "Distinguish shades of meaning among related words that describe states of mind or degrees of certainty (e.g., knew, believed, suspected, heard, wondered).",
-		"tags": [
-			"l.3.5",
-			"english language arts & literacy",
-			"grade 3",
-			"l35c"
-		],
-		"meta": [
-			"Demonstrate understanding of word relationships and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.5b",
-		"content": "Identify real-life connections between words and their use (e.g., describe people who are friendly or helpful).",
-		"tags": [
-			"l.3.5",
-			"english language arts & literacy",
-			"grade 3",
-			"l35b"
-		],
-		"meta": [
-			"Demonstrate understanding of word relationships and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.5a",
-		"content": "Distinguish the literal and nonliteral meanings of words and phrases in context (e.g., take steps).",
-		"tags": [
-			"l.3.5",
-			"english language arts & literacy",
-			"grade 3",
-			"l35a"
-		],
-		"meta": [
-			"Demonstrate understanding of word relationships and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.4d",
-		"content": "Use glossaries or beginning dictionaries, both print and digital, to determine or clarify the precise meaning of key words and phrases in all content areas.",
-		"tags": [
-			"l.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"l34d"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.4c",
-		"content": "Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., company, companion).",
-		"tags": [
-			"l.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"l34c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.4b",
-		"content": "Determine the meaning of the new word formed when a known affix is added to a known word (e.g., agreeable/disagreeable, comfortable/uncomfortable, care/careless, heat/preheat).",
-		"tags": [
-			"l.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"l34b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.4a",
-		"content": "Use sentence-level context as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"l34a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.3b",
-		"content": "Recognize and observe differences between the conventions of spoken and written standard English.",
-		"tags": [
-			"l.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"l33b"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.3a",
-		"content": "Choose words and phrases for effect.",
-		"tags": [
-			"l.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"l33a"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2g",
-		"content": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings.",
-		"tags": [
-			"l.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"l32g"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2f",
-		"content": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words.",
-		"tags": [
-			"l.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"l32f"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2e",
-		"content": "Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness).",
-		"tags": [
-			"l.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"l32e"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2d",
-		"content": "Form and use possessives.",
-		"tags": [
-			"l.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"l32d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2c",
-		"content": "Use commas and quotation marks in dialogue.",
-		"tags": [
-			"l.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"l32c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2b",
-		"content": "Use commas in addresses.",
-		"tags": [
-			"l.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"l32b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.2a",
-		"content": "Capitalize appropriate words in titles.",
-		"tags": [
-			"l.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"l32a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1k",
-		"content": "Use reciprocal pronouns correctly.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31k"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1j",
-		"content": "Write legibly in cursive or joined italics, allowing margins and correct spacing between letters in a word and words in a sentence.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31j"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1i",
-		"content": "Produce simple, compound, and complex sentences.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31i"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1h",
-		"content": "Use coordinating and subordinating conjunctions.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31h"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1g",
-		"content": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31g"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1f",
-		"content": "Ensure subject-verb and pronoun-antecedent agreement.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31f"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1e",
-		"content": "Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31e"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1d",
-		"content": "Form and use regular and irregular verbs.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1c",
-		"content": "Use abstract nouns (e.g., childhood).",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1b",
-		"content": "Form and use regular and irregular plural nouns.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.3.1a",
-		"content": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences.",
-		"tags": [
-			"l.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"l31a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.4a",
-		"content": "Plan and deliver an informative/explanatory presentation on a topic that: organizes ideas around major points of information, follows a logical sequence, includes supporting details, uses clear and specific vocabulary, and provides a strong conclusion.",
-		"tags": [
-			"sl.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"sl34a"
-		],
-		"meta": [
-			"Report on a topic or text, tell a story, or recount an experience with appropriate facts and relevant, descriptive details, speaking clearly at an understandable pace.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.1.d",
-		"content": "Explain their own ideas and understanding in light of the discussion.",
-		"tags": [
-			"sl.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"sl31d"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.1.c",
-		"content": "Ask questions to check understanding of information presented, stay on topic, and link their comments to the remarks of others.",
-		"tags": [
-			"sl.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"sl31c"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.1.b",
-		"content": "Follow agreed-upon rules for discussions (e.g., gaining the floor in respectful ways, listening to others with care, speaking one at a time about the topics and texts under discussion).",
-		"tags": [
-			"sl.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"sl31b"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.3.1.a",
-		"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.",
-		"tags": [
-			"sl.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"sl31a"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.3.3d",
-		"content": "Provide a sense of closure.",
-		"tags": [
-			"w.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"w33d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.3c",
-		"content": "Use temporal words and phrases to signal event order.",
-		"tags": [
-			"w.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"w33c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.3b",
-		"content": "Use dialogue and descriptions of actions, thoughts, and feelings to develop experiences and events or show the response of characters to situations.",
-		"tags": [
-			"w.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"w33b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.3a",
-		"content": "Establish a situation and introduce a narrator and/or characters; organize an event sequence that unfolds naturally.",
-		"tags": [
-			"w.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"w33a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.2d",
-		"content": "Provide a concluding statement or section.",
-		"tags": [
-			"w.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"w32d"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.2c",
-		"content": "Use linking words and phrases (e.g., also, another, and, more, but) to connect ideas within categories of information.",
-		"tags": [
-			"w.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"w32c"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.2b",
-		"content": "Develop the topic with facts, definitions, and details.",
-		"tags": [
-			"w.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"w32b"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.2a",
-		"content": "Introduce a topic and group related information together; include illustrations when useful to aiding comprehension.",
-		"tags": [
-			"w.3.2",
-			"english language arts & literacy",
-			"grade 3",
-			"w32a"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.1d",
-		"content": "Provide a concluding statement or section.",
-		"tags": [
-			"w.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"w31d"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.1c",
-		"content": "Use linking words and phrases (e.g., because, therefore, since, for example) to connect opinion and reasons.",
-		"tags": [
-			"w.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"w31c"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.1b",
-		"content": "Provide reasons that support the opinion.",
-		"tags": [
-			"w.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"w31b"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.3.1a",
-		"content": "Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that lists reasons.",
-		"tags": [
-			"w.3.1",
-			"english language arts & literacy",
-			"grade 3",
-			"w31a"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RF.3.4c",
-		"content": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
-		"tags": [
-			"rf.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"rf34c"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.3.4b",
-		"content": "Read on-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings",
-		"tags": [
-			"rf.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"rf34b"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.3.4a",
-		"content": "Read on-level text with purpose and understanding.",
-		"tags": [
-			"rf.3.4",
-			"english language arts & literacy",
-			"grade 3",
-			"rf34a"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.3.3d",
-		"content": "Read grade-appropriate irregularly spelled words.",
-		"tags": [
-			"rf.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"rf33d"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.3.3c",
-		"content": "Decode multisyllable words.",
-		"tags": [
-			"rf.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"rf33c"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.3.3b",
-		"content": "Decode words with common Latin suffixes.",
-		"tags": [
-			"rf.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"rf33b"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.3.3a",
-		"content": "Identify and know the meaning of the most common prefixes and derivational suffixes.",
-		"tags": [
-			"rf.3.3",
-			"english language arts & literacy",
-			"grade 3",
-			"rf33a"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.3.6",
+			"content": "Acquire and use accurately grade-appropriate conversational, general academic, and domain-specific words and phrases, including those that signal spatial and temporal relationships (e.g., After dinner that night we went looking for them).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"l36"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.5",
+			"content": "Demonstrate understanding of word relationships and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"l35"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"l34"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.3",
+			"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"l33"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"l32"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"l31"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.3.6",
+			"content": "Speak in complete sentences when appropriate to task and situation in order to provide requested detail or clarification.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"sl36"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.5",
+			"content": "Create engaging audio recordings of stories or poems that demonstrate fluid reading at an understandable pace; add visual displays when appropriate to emphasize or enhance certain facts or details.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"sl35"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.4",
+			"content": "Report on a topic or text, tell a story, or recount an experience with appropriate facts and relevant, descriptive details, speaking clearly at an understandable pace.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"sl34"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.3",
+			"content": "Ask and answer questions about information from a speaker, offering appropriate elaboration and detail.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"sl33"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.2",
+			"content": "Determine the main ideas and supporting details of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"sl32"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.1",
+			"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"sl31"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.3.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w310"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.8",
+			"content": "Recall information from experiences or gather information from print and digital sources; take brief notes on sources and sort evidence into provided categories.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w38"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.7",
+			"content": "Conduct short research projects that build knowledge about a topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w37"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.6",
+			"content": "With guidance and support from adults, use technology to produce and publish writing (using keyboarding skills) as well as to interact and collaborate with others.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w36"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.5",
+			"content": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w35"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.4",
+			"content": "With guidance and support from adults, produce writing in which the development and organization are appropriate to task and purpose.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w34"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w33"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.2",
+			"content": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w32"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.1",
+			"content": "Write opinion pieces on topics or texts, supporting a point of view with reasons.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"w31"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards: Foundational Skills": [
+		{
+			"displayName": "RF.3.4",
+			"content": "Read with sufficient accuracy and fluency to support comprehension.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rf34"
+			],
+			"meta": [
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.3.3",
+			"content": "Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rf33"
+			],
+			"meta": [
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.3.10",
+			"content": "By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 2—3 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri310"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.9",
+			"content": "Compare and contrast the most important points and key details presented in two texts on the same topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri39"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.8",
+			"content": "Describe the logical connection between particular sentences and paragraphs in a text (e.g., comparison, cause/effect, first/second/third in a sequence).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri38"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.7",
+			"content": "Use information gained from illustrations (e.g., maps, photographs) and the words in a text to demonstrate understanding of the text (e.g., where, when, why, and how key events occur).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri37"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.6",
+			"content": "Distinguish their own point of view from that of the author of a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri36"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.5",
+			"content": "Use text features and search tools (e.g., key words, sidebars, hyperlinks) to locate information relevant to a given topic efficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri35"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.4",
+			"content": "Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 3 topic or subject area. (See grade 3 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri34"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.3",
+			"content": "Describe the relationship between a series of historical events, scientific ideas or concepts, or steps in technical procedures in a text, using language that pertains to time, sequence, and cause/effect.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri33"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.2",
+			"content": "Determine the main idea of a text; recount the key details and explain how they support the main idea.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri32"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.3.1",
+			"content": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"ri31"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.3.10",
+			"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 2—3 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl310"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.9",
+			"content": "Compare and contrast the themes, settings, and plots of stories written by the same author about the same or similar characters (e.g., in books from a series).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl39"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.7",
+			"content": "Explain how specific aspects of a text's illustrations contribute to what is conveyed by the words in a story (e.g., create mood, emphasize aspects of a character or setting).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl37"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.6",
+			"content": "Distinguish their own point of view from that of the narrator or those of the characters.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl36"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.5",
+			"content": "Refer to parts of stories, dramas, and poems when writing or speaking about a text, using terms such as chapter, scene, and stanza; describe how each successive part builds on earlier sections.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl35"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, distinguishing literal from nonliteral language. (See grade 3 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl34"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.3",
+			"content": "Describe characters in a story (e.g., their traits, motivations, or feelings) and explain how their actions contribute to the sequence of events.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl33"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.2",
+			"content": "Recount stories, including fables, folktales, and myths from diverse cultures; determine the central message, lesson, or moral and explain how it is conveyed through key details in the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl32"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.3.1",
+			"content": "Ask and answer questions to demonstrate understanding of a text, referring explicitly to the text as the basis for the answers.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 3",
+				"rl31"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.3.5c",
+			"content": "Distinguish shades of meaning among related words that describe states of mind or degrees of certainty (e.g., knew, believed, suspected, heard, wondered).",
+			"tags": [
+				"l.3.5",
+				"english language arts & literacy",
+				"grade 3",
+				"l35c"
+			],
+			"meta": [
+				"Demonstrate understanding of word relationships and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.5b",
+			"content": "Identify real-life connections between words and their use (e.g., describe people who are friendly or helpful).",
+			"tags": [
+				"l.3.5",
+				"english language arts & literacy",
+				"grade 3",
+				"l35b"
+			],
+			"meta": [
+				"Demonstrate understanding of word relationships and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.5a",
+			"content": "Distinguish the literal and nonliteral meanings of words and phrases in context (e.g., take steps).",
+			"tags": [
+				"l.3.5",
+				"english language arts & literacy",
+				"grade 3",
+				"l35a"
+			],
+			"meta": [
+				"Demonstrate understanding of word relationships and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.4d",
+			"content": "Use glossaries or beginning dictionaries, both print and digital, to determine or clarify the precise meaning of key words and phrases in all content areas.",
+			"tags": [
+				"l.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"l34d"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.4c",
+			"content": "Use a known root word as a clue to the meaning of an unknown word with the same root (e.g., company, companion).",
+			"tags": [
+				"l.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"l34c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.4b",
+			"content": "Determine the meaning of the new word formed when a known affix is added to a known word (e.g., agreeable/disagreeable, comfortable/uncomfortable, care/careless, heat/preheat).",
+			"tags": [
+				"l.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"l34b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.4a",
+			"content": "Use sentence-level context as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"l34a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning word and phrases based on grade 3 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.3.3b",
+			"content": "Recognize and observe differences between the conventions of spoken and written standard English.",
+			"tags": [
+				"l.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"l33b"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.3a",
+			"content": "Choose words and phrases for effect.",
+			"tags": [
+				"l.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"l33a"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.3.2g",
+			"content": "Consult reference materials, including beginning dictionaries, as needed to check and correct spellings.",
+			"tags": [
+				"l.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"l32g"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.2f",
+			"content": "Use spelling patterns and generalizations (e.g., word families, position-based spellings, syllable patterns, ending rules, meaningful word parts) in writing words.",
+			"tags": [
+				"l.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"l32f"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.2e",
+			"content": "Use conventional spelling for high-frequency and other studied words and for adding suffixes to base words (e.g., sitting, smiled, cries, happiness).",
+			"tags": [
+				"l.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"l32e"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.2d",
+			"content": "Form and use possessives.",
+			"tags": [
+				"l.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"l32d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.2c",
+			"content": "Use commas and quotation marks in dialogue.",
+			"tags": [
+				"l.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"l32c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.2b",
+			"content": "Use commas in addresses.",
+			"tags": [
+				"l.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"l32b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.2a",
+			"content": "Capitalize appropriate words in titles.",
+			"tags": [
+				"l.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"l32a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1k",
+			"content": "Use reciprocal pronouns correctly.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31k"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1j",
+			"content": "Write legibly in cursive or joined italics, allowing margins and correct spacing between letters in a word and words in a sentence.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31j"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1i",
+			"content": "Produce simple, compound, and complex sentences.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31i"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1h",
+			"content": "Use coordinating and subordinating conjunctions.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31h"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1g",
+			"content": "Form and use comparative and superlative adjectives and adverbs, and choose between them depending on what is to be modified.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31g"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1f",
+			"content": "Ensure subject-verb and pronoun-antecedent agreement.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31f"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1e",
+			"content": "Form and use the simple (e.g., I walked; I walk; I will walk) verb tenses.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31e"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1d",
+			"content": "Form and use regular and irregular verbs.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1c",
+			"content": "Use abstract nouns (e.g., childhood).",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1b",
+			"content": "Form and use regular and irregular plural nouns.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.3.1a",
+			"content": "Explain the function of nouns, pronouns, verbs, adjectives, and adverbs in general and their functions in particular sentences.",
+			"tags": [
+				"l.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"l31a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.3.4a",
+			"content": "Plan and deliver an informative/explanatory presentation on a topic that: organizes ideas around major points of information, follows a logical sequence, includes supporting details, uses clear and specific vocabulary, and provides a strong conclusion.",
+			"tags": [
+				"sl.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"sl34a"
+			],
+			"meta": [
+				"Report on a topic or text, tell a story, or recount an experience with appropriate facts and relevant, descriptive details, speaking clearly at an understandable pace.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.3.1.d",
+			"content": "Explain their own ideas and understanding in light of the discussion.",
+			"tags": [
+				"sl.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"sl31d"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.1.c",
+			"content": "Ask questions to check understanding of information presented, stay on topic, and link their comments to the remarks of others.",
+			"tags": [
+				"sl.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"sl31c"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.1.b",
+			"content": "Follow agreed-upon rules for discussions (e.g., gaining the floor in respectful ways, listening to others with care, speaking one at a time about the topics and texts under discussion).",
+			"tags": [
+				"sl.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"sl31b"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.3.1.a",
+			"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.",
+			"tags": [
+				"sl.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"sl31a"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 3 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "W.3.3d",
+			"content": "Provide a sense of closure.",
+			"tags": [
+				"w.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"w33d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.3c",
+			"content": "Use temporal words and phrases to signal event order.",
+			"tags": [
+				"w.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"w33c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.3b",
+			"content": "Use dialogue and descriptions of actions, thoughts, and feelings to develop experiences and events or show the response of characters to situations.",
+			"tags": [
+				"w.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"w33b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.3a",
+			"content": "Establish a situation and introduce a narrator and/or characters; organize an event sequence that unfolds naturally.",
+			"tags": [
+				"w.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"w33a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.2d",
+			"content": "Provide a concluding statement or section.",
+			"tags": [
+				"w.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"w32d"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.2c",
+			"content": "Use linking words and phrases (e.g., also, another, and, more, but) to connect ideas within categories of information.",
+			"tags": [
+				"w.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"w32c"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.2b",
+			"content": "Develop the topic with facts, definitions, and details.",
+			"tags": [
+				"w.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"w32b"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.2a",
+			"content": "Introduce a topic and group related information together; include illustrations when useful to aiding comprehension.",
+			"tags": [
+				"w.3.2",
+				"english language arts & literacy",
+				"grade 3",
+				"w32a"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.1d",
+			"content": "Provide a concluding statement or section.",
+			"tags": [
+				"w.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"w31d"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.1c",
+			"content": "Use linking words and phrases (e.g., because, therefore, since, for example) to connect opinion and reasons.",
+			"tags": [
+				"w.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"w31c"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.1b",
+			"content": "Provide reasons that support the opinion.",
+			"tags": [
+				"w.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"w31b"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.3.1a",
+			"content": "Introduce the topic or text they are writing about, state an opinion, and create an organizational structure that lists reasons.",
+			"tags": [
+				"w.3.1",
+				"english language arts & literacy",
+				"grade 3",
+				"w31a"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Fluency": [
+		{
+			"displayName": "RF.3.4c",
+			"content": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
+			"tags": [
+				"rf.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"rf34c"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.3.4b",
+			"content": "Read on-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings",
+			"tags": [
+				"rf.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"rf34b"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.3.4a",
+			"content": "Read on-level text with purpose and understanding.",
+			"tags": [
+				"rf.3.4",
+				"english language arts & literacy",
+				"grade 3",
+				"rf34a"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Phonics and Word Recognition": [
+		{
+			"displayName": "RF.3.3d",
+			"content": "Read grade-appropriate irregularly spelled words.",
+			"tags": [
+				"rf.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"rf33d"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.3.3c",
+			"content": "Decode multisyllable words.",
+			"tags": [
+				"rf.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"rf33c"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.3.3b",
+			"content": "Decode words with common Latin suffixes.",
+			"tags": [
+				"rf.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"rf33b"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.3.3a",
+			"content": "Identify and know the meaning of the most common prefixes and derivational suffixes.",
+			"tags": [
+				"rf.3.3",
+				"english language arts & literacy",
+				"grade 3",
+				"rf33a"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	]
+}

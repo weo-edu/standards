@@ -1,1221 +1,1251 @@
-[
-	{
-		"displayName": "L.5.6",
-		"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal contrast, addition, and other logical relationships (e.g., however, although, nevertheless, similarly, moreover, in addition).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"l56"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"l55"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"l54"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.3",
-		"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"l53"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"l52"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"l51"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.6",
-		"content": "Adapt speech to a variety of contexts and tasks, using formal English when appropriate to task and situation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"sl56"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.5",
-		"content": "Include multimedia components (e.g., graphics, sound) and visual displays in presentations when appropriate to enhance the development of main ideas or themes.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"sl55"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.4",
-		"content": "Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"sl54"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.3",
-		"content": "Summarize the points a speaker or media source makes and explain how each claim is supported by reasons and evidence, and identify and analyze any logical fallacies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"sl53"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.2",
-		"content": "Summarize a written text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"sl52"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.1",
-		"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"sl51"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.5.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w510"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w59"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.8",
-		"content": "Recall relevant information from experiences or gather relevant information from print and digital sources; summarize or paraphrase information in notes and finished work, and provide a list of sources.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w58"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.7",
-		"content": "Conduct short research projects that use several sources to build knowledge through investigation of different aspects of a topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w57"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.6",
-		"content": "With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of two pages in a single sitting.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w56"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.5",
-		"content": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w55"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.4",
-		"content": "Produce clear and coherent writing (including multiple paragraph texts) in which the development and organization are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w54"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w53"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.2",
-		"content": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w52"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.1",
-		"content": "Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"w51"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RF.5.4",
-		"content": "Read with sufficient accuracy and fluency to support comprehension.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rf54"
-		],
-		"meta": [
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.5.3",
-		"content": "Know and apply grade-level phonics and word analysis skills in decoding words.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rf53"
-		],
-		"meta": [
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RI.5.10",
-		"content": "By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 4—5 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri510"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.9",
-		"content": "Integrate information from several texts on the same topic in order to write or speak about the subject knowledgeably.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri59"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.8",
-		"content": "Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point(s).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri58"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.7",
-		"content": "Draw on information from multiple print or digital sources, demonstrating the ability to locate an answer to a question quickly or to solve a problem efficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri57"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.6",
-		"content": "Analyze multiple accounts of the same event or topic, noting important similarities and differences in the point of view they represent.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri56"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.5",
-		"content": "Compare and contrast the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in two or more texts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri55"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.4",
-		"content": "Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 5 topic or subject area. (See grade 5 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri54"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.3",
-		"content": "Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in a historical, scientific, or technical text based on specific information in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri53"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.2",
-		"content": "Determine two or more main ideas of a text and explain how they are supported by key details; summarize the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri52"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.5.1",
-		"content": "Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"ri51"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.5.10",
-		"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 4—5 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl510"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.9",
-		"content": "Compare and contrast stories in the same genre (e.g., mysteries and adventure stories) on their approaches to similar themes and topics.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl59"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.7",
-		"content": "Analyze how visual and multimedia elements contribute to the meaning, tone, or beauty of a text (e.g., graphic novel, multimedia presentation of fiction, folktale, myth, poem).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl57"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.6",
-		"content": "Describe how a narrator's or speaker's point of view influences how events are described.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl56"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.5",
-		"content": "Explain how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a particular story, drama, or poem.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl55"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative language such as metaphors and similes. (See grade 5 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl54"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.3",
-		"content": "Compare and contrast two or more characters, settings, or events in a story or drama, drawing on specific details in the text (e.g., how characters interact).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl53"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.2",
-		"content": "Determine a theme of a story, drama, or poem from details in the text, including how characters in a story or drama respond to challenges or how the speaker in a poem reflects upon a topic; summarize the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl52"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.5.1",
-		"content": "Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 5",
-			"rl51"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.5.5c",
-		"content": "Use the relationship between particular words (e.g., synonyms, antonyms, homographs) to better understand each of the words.",
-		"tags": [
-			"l.5.5",
-			"english language arts & literacy",
-			"grade 5",
-			"l55c"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.5b",
-		"content": "Recognize and explain the meaning of common idioms, adages, and proverbs.",
-		"tags": [
-			"l.5.5",
-			"english language arts & literacy",
-			"grade 5",
-			"l55b"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.5a",
-		"content": "Interpret figurative language, including similes and metaphors, in context.",
-		"tags": [
-			"l.5.5",
-			"english language arts & literacy",
-			"grade 5",
-			"l55a"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.4c",
-		"content": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation and determine or clarify the precise meaning of key words and phrases and to identify alternate word choices in all content areas.",
-		"tags": [
-			"l.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"l54c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.4b",
-		"content": "Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., photograph, photosynthesis).",
-		"tags": [
-			"l.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"l54b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.4a",
-		"content": "Use context (e.g., cause/effect relationships and comparisons in text) as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"l54a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.3b",
-		"content": "Compare and contrast the varieties of English (e.g., dialects, registers) used in stories, dramas, or poems.",
-		"tags": [
-			"l.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"l53b"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.3a",
-		"content": "Expand, combine, and reduce sentences for meaning, reader/listener interest, and style.",
-		"tags": [
-			"l.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"l53a"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.2e",
-		"content": "Spell grade-appropriate words correctly, consulting references as needed.",
-		"tags": [
-			"l.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"l52e"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.2d",
-		"content": "Use underlining, quotation marks, or italics to indicate titles of works.",
-		"tags": [
-			"l.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"l52d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.2c",
-		"content": "Use a comma to set off the words yes and no (e.g., Yes, thank you), to set off a tag question from the rest of the sentence (e.g., It's true, isn't it?), and to indicate direct address (e.g., Is that you, Steve?).",
-		"tags": [
-			"l.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"l52c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.2b",
-		"content": "Use a comma to separate an introductory element from the rest of the sentence.",
-		"tags": [
-			"l.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"l52b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.2a",
-		"content": "Use punctuation to separate items in a series.",
-		"tags": [
-			"l.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"l52a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.1e",
-		"content": "Use correlative conjunctions (e.g., either/or, neither/nor).",
-		"tags": [
-			"l.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"l51e"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.1d",
-		"content": "Recognize and correct inappropriate shifts in verb tense.",
-		"tags": [
-			"l.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"l51d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.1c",
-		"content": "Use verb tense to convey various times, sequences, states, and conditions.",
-		"tags": [
-			"l.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"l51c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.1b",
-		"content": "Form and use the perfect (e.g., I had walked; I have walked; I will have walked) verb tenses.",
-		"tags": [
-			"l.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"l51b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.5.1a",
-		"content": "Explain the function of conjunctions, prepositions, and interjections in general and their function in particular sentences.",
-		"tags": [
-			"l.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"l51a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.4b",
-		"content": "Memorize and recite a poem or section of a speech or historical document using rate, expression, and gestures appropriate to the selection.",
-		"tags": [
-			"sl.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"sl54b"
-		],
-		"meta": [
-			"Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.4a",
-		"content": "Plan and deliver an opinion speech that: states an opinion, logically sequences evidence to support the speaker's position, uses transition words to effectively link opinions and evidence (e.g., consequently and therefore), and provides a concluding statement related to the speaker's position.",
-		"tags": [
-			"sl.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"sl54a"
-		],
-		"meta": [
-			"Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.1.d",
-		"content": "Review the key ideas expressed and draw conclusions in light of information and knowledge gained from the discussions.",
-		"tags": [
-			"sl.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"sl51d"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.1.c",
-		"content": "Pose and respond to specific questions by making comments that contribute to the discussion and elaborate on the remarks of others.",
-		"tags": [
-			"sl.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"sl51c"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.1.b",
-		"content": "Follow agreed-upon rules for discussions and carry out assigned roles.",
-		"tags": [
-			"sl.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"sl51b"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.5.1.a",
-		"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.",
-		"tags": [
-			"sl.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"sl51a"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.5.9.b",
-		"content": "Apply grade 5 Reading standards to informational texts (e.g., \"Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point[s]\").",
-		"tags": [
-			"w.5.9",
-			"english language arts & literacy",
-			"grade 5",
-			"w59b"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.9.a",
-		"content": "Apply grade 5 Reading standards to literature (e.g., \"Compare and contrast two or more characters, settings, or events in a story or a drama, drawing on specific details in the text [e.g., how characters interact]\").",
-		"tags": [
-			"w.5.9",
-			"english language arts & literacy",
-			"grade 5",
-			"w59a"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.3e",
-		"content": "Provide a conclusion that follows from the narrated experiences or events.",
-		"tags": [
-			"w.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"w53e"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.3d",
-		"content": "Use concrete words and phrases and sensory details to convey experiences and events precisely.",
-		"tags": [
-			"w.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"w53d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.3c",
-		"content": "Use a variety of transitional words, phrases, and clauses to manage the sequence of events.",
-		"tags": [
-			"w.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"w53c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.3b",
-		"content": "Use narrative techniques, such as dialogue, description, and pacing, to develop experiences and events or show the responses of characters to situations.",
-		"tags": [
-			"w.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"w53b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.3a",
-		"content": "Orient the reader by establishing a situation and introducing a narrator and/or characters; organize an event sequence that unfolds naturally.",
-		"tags": [
-			"w.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"w53a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.2e",
-		"content": "Provide a concluding statement or section related to the information or explanation presented",
-		"tags": [
-			"w.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"w52e"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.2d",
-		"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-		"tags": [
-			"w.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"w52d"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.2c",
-		"content": "Link ideas within and across categories of information using words, phrases, and clauses (e.g., in contrast, especially).",
-		"tags": [
-			"w.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"w52c"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.2b",
-		"content": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.",
-		"tags": [
-			"w.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"w52b"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.2a",
-		"content": "Introduce a topic clearly, provide a general observation and focus, and group related information logically; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"w.5.2",
-			"english language arts & literacy",
-			"grade 5",
-			"w52a"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.1d",
-		"content": "Provide a concluding statement or section related to the opinion presented.",
-		"tags": [
-			"w.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"w51d"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.1c",
-		"content": "Link opinion and reasons using words, phrases, and clauses (e.g., consequently, specifically).",
-		"tags": [
-			"w.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"w51c"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.1b",
-		"content": "Provide logically ordered reasons that are supported by facts and details.",
-		"tags": [
-			"w.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"w51b"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.5.1a",
-		"content": "Introduce a topic or text clearly, state an opinion, and create an organizational structure in which ideas are logically grouped to support the writer's purpose.",
-		"tags": [
-			"w.5.1",
-			"english language arts & literacy",
-			"grade 5",
-			"w51a"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RF.5.4c",
-		"content": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
-		"tags": [
-			"rf.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"rf54c"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.5.4b",
-		"content": "Read on-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings",
-		"tags": [
-			"rf.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"rf54b"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.5.4a",
-		"content": "Read on-level text with purpose and understanding.",
-		"tags": [
-			"rf.5.4",
-			"english language arts & literacy",
-			"grade 5",
-			"rf54a"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.5.3a",
-		"content": "Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes) to read accurately unfamiliar multisyllabic words in context and out of context.",
-		"tags": [
-			"rf.5.3",
-			"english language arts & literacy",
-			"grade 5",
-			"rf53a"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.5.6",
+			"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal contrast, addition, and other logical relationships (e.g., however, although, nevertheless, similarly, moreover, in addition).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"l56"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"l55"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"l54"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.3",
+			"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"l53"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"l52"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"l51"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.5.6",
+			"content": "Adapt speech to a variety of contexts and tasks, using formal English when appropriate to task and situation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"sl56"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.5",
+			"content": "Include multimedia components (e.g., graphics, sound) and visual displays in presentations when appropriate to enhance the development of main ideas or themes.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"sl55"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.4",
+			"content": "Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"sl54"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.3",
+			"content": "Summarize the points a speaker or media source makes and explain how each claim is supported by reasons and evidence, and identify and analyze any logical fallacies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"sl53"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.2",
+			"content": "Summarize a written text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"sl52"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.1",
+			"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"sl51"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.5.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w510"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w59"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.8",
+			"content": "Recall relevant information from experiences or gather relevant information from print and digital sources; summarize or paraphrase information in notes and finished work, and provide a list of sources.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w58"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.7",
+			"content": "Conduct short research projects that use several sources to build knowledge through investigation of different aspects of a topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w57"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.6",
+			"content": "With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of two pages in a single sitting.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w56"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.5",
+			"content": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w55"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.4",
+			"content": "Produce clear and coherent writing (including multiple paragraph texts) in which the development and organization are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w54"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w53"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.2",
+			"content": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w52"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.1",
+			"content": "Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"w51"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards: Foundational Skills": [
+		{
+			"displayName": "RF.5.4",
+			"content": "Read with sufficient accuracy and fluency to support comprehension.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rf54"
+			],
+			"meta": [
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.5.3",
+			"content": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rf53"
+			],
+			"meta": [
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.5.10",
+			"content": "By the end of the year, read and comprehend informational texts, including history/social studies, science, and technical texts, at the high end of the grades 4—5 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri510"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.9",
+			"content": "Integrate information from several texts on the same topic in order to write or speak about the subject knowledgeably.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri59"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.8",
+			"content": "Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point(s).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri58"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.7",
+			"content": "Draw on information from multiple print or digital sources, demonstrating the ability to locate an answer to a question quickly or to solve a problem efficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri57"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.6",
+			"content": "Analyze multiple accounts of the same event or topic, noting important similarities and differences in the point of view they represent.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri56"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.5",
+			"content": "Compare and contrast the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in two or more texts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri55"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.4",
+			"content": "Determine the meaning of general academic and domain-specific words and phrases in a text relevant to a grade 5 topic or subject area. (See grade 5 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri54"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.3",
+			"content": "Explain the relationships or interactions between two or more individuals, events, ideas, or concepts in a historical, scientific, or technical text based on specific information in the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri53"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.2",
+			"content": "Determine two or more main ideas of a text and explain how they are supported by key details; summarize the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri52"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.5.1",
+			"content": "Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"ri51"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.5.10",
+			"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, at the high end of the grades 4—5 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl510"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.9",
+			"content": "Compare and contrast stories in the same genre (e.g., mysteries and adventure stories) on their approaches to similar themes and topics.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl59"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.7",
+			"content": "Analyze how visual and multimedia elements contribute to the meaning, tone, or beauty of a text (e.g., graphic novel, multimedia presentation of fiction, folktale, myth, poem).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl57"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.6",
+			"content": "Describe how a narrator's or speaker's point of view influences how events are described.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl56"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.5",
+			"content": "Explain how a series of chapters, scenes, or stanzas fits together to provide the overall structure of a particular story, drama, or poem.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl55"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative language such as metaphors and similes. (See grade 5 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl54"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.3",
+			"content": "Compare and contrast two or more characters, settings, or events in a story or drama, drawing on specific details in the text (e.g., how characters interact).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl53"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.2",
+			"content": "Determine a theme of a story, drama, or poem from details in the text, including how characters in a story or drama respond to challenges or how the speaker in a poem reflects upon a topic; summarize the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl52"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.5.1",
+			"content": "Quote accurately from a text when explaining what the text says explicitly and when drawing inferences from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 5",
+				"rl51"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.5.5c",
+			"content": "Use the relationship between particular words (e.g., synonyms, antonyms, homographs) to better understand each of the words.",
+			"tags": [
+				"l.5.5",
+				"english language arts & literacy",
+				"grade 5",
+				"l55c"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.5b",
+			"content": "Recognize and explain the meaning of common idioms, adages, and proverbs.",
+			"tags": [
+				"l.5.5",
+				"english language arts & literacy",
+				"grade 5",
+				"l55b"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.5a",
+			"content": "Interpret figurative language, including similes and metaphors, in context.",
+			"tags": [
+				"l.5.5",
+				"english language arts & literacy",
+				"grade 5",
+				"l55a"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.4c",
+			"content": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation and determine or clarify the precise meaning of key words and phrases and to identify alternate word choices in all content areas.",
+			"tags": [
+				"l.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"l54c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.4b",
+			"content": "Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., photograph, photosynthesis).",
+			"tags": [
+				"l.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"l54b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.4a",
+			"content": "Use context (e.g., cause/effect relationships and comparisons in text) as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"l54a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 5 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.5.3b",
+			"content": "Compare and contrast the varieties of English (e.g., dialects, registers) used in stories, dramas, or poems.",
+			"tags": [
+				"l.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"l53b"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.3a",
+			"content": "Expand, combine, and reduce sentences for meaning, reader/listener interest, and style.",
+			"tags": [
+				"l.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"l53a"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.5.2e",
+			"content": "Spell grade-appropriate words correctly, consulting references as needed.",
+			"tags": [
+				"l.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"l52e"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.2d",
+			"content": "Use underlining, quotation marks, or italics to indicate titles of works.",
+			"tags": [
+				"l.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"l52d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.2c",
+			"content": "Use a comma to set off the words yes and no (e.g., Yes, thank you), to set off a tag question from the rest of the sentence (e.g., It's true, isn't it?), and to indicate direct address (e.g., Is that you, Steve?).",
+			"tags": [
+				"l.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"l52c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.2b",
+			"content": "Use a comma to separate an introductory element from the rest of the sentence.",
+			"tags": [
+				"l.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"l52b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.2a",
+			"content": "Use punctuation to separate items in a series.",
+			"tags": [
+				"l.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"l52a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.1e",
+			"content": "Use correlative conjunctions (e.g., either/or, neither/nor).",
+			"tags": [
+				"l.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"l51e"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.1d",
+			"content": "Recognize and correct inappropriate shifts in verb tense.",
+			"tags": [
+				"l.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"l51d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.1c",
+			"content": "Use verb tense to convey various times, sequences, states, and conditions.",
+			"tags": [
+				"l.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"l51c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.1b",
+			"content": "Form and use the perfect (e.g., I had walked; I have walked; I will have walked) verb tenses.",
+			"tags": [
+				"l.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"l51b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.5.1a",
+			"content": "Explain the function of conjunctions, prepositions, and interjections in general and their function in particular sentences.",
+			"tags": [
+				"l.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"l51a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.5.4b",
+			"content": "Memorize and recite a poem or section of a speech or historical document using rate, expression, and gestures appropriate to the selection.",
+			"tags": [
+				"sl.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"sl54b"
+			],
+			"meta": [
+				"Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.4a",
+			"content": "Plan and deliver an opinion speech that: states an opinion, logically sequences evidence to support the speaker's position, uses transition words to effectively link opinions and evidence (e.g., consequently and therefore), and provides a concluding statement related to the speaker's position.",
+			"tags": [
+				"sl.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"sl54a"
+			],
+			"meta": [
+				"Report on a topic or text or present an opinion, sequencing ideas logically and using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.5.1.d",
+			"content": "Review the key ideas expressed and draw conclusions in light of information and knowledge gained from the discussions.",
+			"tags": [
+				"sl.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"sl51d"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.1.c",
+			"content": "Pose and respond to specific questions by making comments that contribute to the discussion and elaborate on the remarks of others.",
+			"tags": [
+				"sl.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"sl51c"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.1.b",
+			"content": "Follow agreed-upon rules for discussions and carry out assigned roles.",
+			"tags": [
+				"sl.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"sl51b"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.5.1.a",
+			"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.",
+			"tags": [
+				"sl.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"sl51a"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 5 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Research to Build and Present Knowledge": [
+		{
+			"displayName": "W.5.9.b",
+			"content": "Apply grade 5 Reading standards to informational texts (e.g., \"Explain how an author uses reasons and evidence to support particular points in a text, identifying which reasons and evidence support which point[s]\").",
+			"tags": [
+				"w.5.9",
+				"english language arts & literacy",
+				"grade 5",
+				"w59b"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.9.a",
+			"content": "Apply grade 5 Reading standards to literature (e.g., \"Compare and contrast two or more characters, settings, or events in a story or a drama, drawing on specific details in the text [e.g., how characters interact]\").",
+			"tags": [
+				"w.5.9",
+				"english language arts & literacy",
+				"grade 5",
+				"w59a"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "W.5.3e",
+			"content": "Provide a conclusion that follows from the narrated experiences or events.",
+			"tags": [
+				"w.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"w53e"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.3d",
+			"content": "Use concrete words and phrases and sensory details to convey experiences and events precisely.",
+			"tags": [
+				"w.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"w53d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.3c",
+			"content": "Use a variety of transitional words, phrases, and clauses to manage the sequence of events.",
+			"tags": [
+				"w.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"w53c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.3b",
+			"content": "Use narrative techniques, such as dialogue, description, and pacing, to develop experiences and events or show the responses of characters to situations.",
+			"tags": [
+				"w.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"w53b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.3a",
+			"content": "Orient the reader by establishing a situation and introducing a narrator and/or characters; organize an event sequence that unfolds naturally.",
+			"tags": [
+				"w.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"w53a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.2e",
+			"content": "Provide a concluding statement or section related to the information or explanation presented",
+			"tags": [
+				"w.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"w52e"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.2d",
+			"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+			"tags": [
+				"w.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"w52d"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.2c",
+			"content": "Link ideas within and across categories of information using words, phrases, and clauses (e.g., in contrast, especially).",
+			"tags": [
+				"w.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"w52c"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.2b",
+			"content": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.",
+			"tags": [
+				"w.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"w52b"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.2a",
+			"content": "Introduce a topic clearly, provide a general observation and focus, and group related information logically; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"w.5.2",
+				"english language arts & literacy",
+				"grade 5",
+				"w52a"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.1d",
+			"content": "Provide a concluding statement or section related to the opinion presented.",
+			"tags": [
+				"w.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"w51d"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.1c",
+			"content": "Link opinion and reasons using words, phrases, and clauses (e.g., consequently, specifically).",
+			"tags": [
+				"w.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"w51c"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.1b",
+			"content": "Provide logically ordered reasons that are supported by facts and details.",
+			"tags": [
+				"w.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"w51b"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.5.1a",
+			"content": "Introduce a topic or text clearly, state an opinion, and create an organizational structure in which ideas are logically grouped to support the writer's purpose.",
+			"tags": [
+				"w.5.1",
+				"english language arts & literacy",
+				"grade 5",
+				"w51a"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Fluency": [
+		{
+			"displayName": "RF.5.4c",
+			"content": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
+			"tags": [
+				"rf.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"rf54c"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.5.4b",
+			"content": "Read on-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings",
+			"tags": [
+				"rf.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"rf54b"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.5.4a",
+			"content": "Read on-level text with purpose and understanding.",
+			"tags": [
+				"rf.5.4",
+				"english language arts & literacy",
+				"grade 5",
+				"rf54a"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Phonics and Word Recognition": [
+		{
+			"displayName": "RF.5.3a",
+			"content": "Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes) to read accurately unfamiliar multisyllabic words in context and out of context.",
+			"tags": [
+				"rf.5.3",
+				"english language arts & literacy",
+				"grade 5",
+				"rf53a"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	]
+}

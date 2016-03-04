@@ -1,1090 +1,1116 @@
-[
-	{
-		"displayName": "L.7.6",
-		"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"l76"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"l75"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"l74"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.3",
-		"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"l73"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"l72"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"l71"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.6",
-		"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"sl76"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.5",
-		"content": "Include multimedia components and visual displays in presentations to clarify claims and findings and emphasize salient points.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"sl75"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.4",
-		"content": "Present claims and findings (e.g., argument, narrative, summary presentations), emphasizing salient points in a focused, coherent manner with pertinent descriptions, facts, details, and examples; use appropriate eye contact, adequate volume, and clear pronunciation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"sl74"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.3",
-		"content": "Delineate a speaker's argument and specific claims, and attitude toward the subject, evaluating the soundness of the reasoning and the relevance and sufficiency of the evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"sl73"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.2",
-		"content": "Analyze the main ideas and supporting details presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how the ideas clarify a topic, text, or issue under study.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"sl72"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.1",
-		"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"sl71"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.7.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w710"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w79"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.8",
-		"content": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w78"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.7",
-		"content": "Conduct short research projects to answer a question, drawing on several sources and generating additional related, focused questions for further research and investigation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w77"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.6",
-		"content": "Use technology, including the Internet, to produce and publish writing and link to and cite sources as well as to interact and collaborate with others, including linking to and citing sources.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w76"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.5",
-		"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w75"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w74"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w73"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.2",
-		"content": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w72"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.1",
-		"content": "Write arguments to support claims with clear reasons and relevant evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"w71"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RI.7.10",
-		"content": "By the end of the year, read and comprehend literary nonfiction in the grades 6–8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri710"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.9",
-		"content": "Analyze how two or more authors writing about the same topic shape their presentations of key information by emphasizing different evidence or advancing different interpretations of facts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri79"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.8",
-		"content": "Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri78"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.7",
-		"content": "Compare and contrast a text to an audio, video, or multimedia version of the text, analyzing each medium's portrayal of the subject (e.g., how the delivery of a speech affects the impact of the words).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri77"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.6",
-		"content": "Determine an author's point of view or purpose in a text and analyze how the author distinguishes his or her position from that of others.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri76"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.5",
-		"content": "Analyze the structure an author uses to organize a text, including how the major sections contribute to the whole and to the development of the ideas.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri75"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the impact of a specific word choice on meaning and tone. (See grade 7 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri74"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.3",
-		"content": "Analyze the interactions between individuals, events, and ideas in a text (e.g., how ideas influence individuals or events, or how individuals influence ideas or events).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri73"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.2",
-		"content": "Determine two or more central ideas in a text and analyze their development over the course of the text; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri72"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.7.1",
-		"content": "Cite several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"ri71"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.7.10",
-		"content": "By the end of the year, read and comprehend literary nonfiction in the grades 6–8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl710"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.9",
-		"content": "Compare and contrast a fictional portrayal of a time, place, or character and a historical account of the same period as a means of understanding how authors of fiction use or alter history.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl79"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.7",
-		"content": "Compare and contrast a written story, drama, or poem to its audio, filmed, staged, or multimedia version, analyzing the effects of techniques unique to each medium (e.g., lighting, sound, color, or camera focus and angles in a film).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl77"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.6",
-		"content": "Analyze how an author develops and contrasts the points of view of different characters or narrators in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl76"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.5",
-		"content": "Analyze how a drama's or poem's form or structure (e.g., soliloquy, sonnet) contributes to its meaning.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl75"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of rhymes and other repetitions of sounds (e.g., alliteration) on a specific verse or stanza of a poem or section of a story or drama. (See grade 7 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl74"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.3",
-		"content": "Analyze how particular elements of a story or drama interact (e.g., how setting shapes the characters or plot).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl73"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.2",
-		"content": "Determine a theme or central idea of a text and analyze its development over the course of the text; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl72"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.7.1",
-		"content": "Cite several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 7",
-			"rl71"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.7.5c",
-		"content": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., refined, respectful, polite, diplomatic, condescending).",
-		"tags": [
-			"l.7.5",
-			"english language arts & literacy",
-			"grade 7",
-			"l75c"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.5b",
-		"content": "Use the relationship between particular words (e.g., synonym/antonym, analogy) to better understand each of the words.",
-		"tags": [
-			"l.7.5",
-			"english language arts & literacy",
-			"grade 7",
-			"l75b"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.5a",
-		"content": "Interpret figures of speech (e.g., literary, biblical, and mythological allusions) in context.",
-		"tags": [
-			"l.7.5",
-			"english language arts & literacy",
-			"grade 7",
-			"l75a"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.4d",
-		"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
-		"tags": [
-			"l.7.4",
-			"english language arts & literacy",
-			"grade 7",
-			"l74d"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.4c",
-		"content": "Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech or trace the etymology of words.",
-		"tags": [
-			"l.7.4",
-			"english language arts & literacy",
-			"grade 7",
-			"l74c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.4b",
-		"content": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., belligerent, bellicose, rebel).",
-		"tags": [
-			"l.7.4",
-			"english language arts & literacy",
-			"grade 7",
-			"l74b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.4a",
-		"content": "Use context (e.g., the overall meaning of a sentence or paragraph; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.7.4",
-			"english language arts & literacy",
-			"grade 7",
-			"l74a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.3a",
-		"content": "Choose language that expresses ideas precisely and concisely, recognizing and eliminating wordiness and redundancy.",
-		"tags": [
-			"l.7.3",
-			"english language arts & literacy",
-			"grade 7",
-			"l73a"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.2b",
-		"content": "Spell correctly.",
-		"tags": [
-			"l.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"l72b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.2a",
-		"content": "Use a comma to separate coordinate adjectives (e.g., It was a fascinating, enjoyable movie but not He wore an old[,] green shirt).",
-		"tags": [
-			"l.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"l72a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.1c",
-		"content": "Place phrases and clauses within a sentence, recognizing and correcting misplaced and dangling modifiers.",
-		"tags": [
-			"l.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"l71c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.1b",
-		"content": "Choose among simple, compound, complex, and compound-complex sentences to signal differing relationships among ideas.",
-		"tags": [
-			"l.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"l71b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.7.1a",
-		"content": "Explain the function of phrases and clauses in general and their function in specific sentences.",
-		"tags": [
-			"l.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"l71a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.4a",
-		"content": "Plan and present an argument that: supports a claim, acknowledges counterarguments, organizes evidence logically, uses words and phrases to create cohesion, and provides a concluding statement that supports the argument presented.",
-		"tags": [
-			"sl.7.4",
-			"english language arts & literacy",
-			"grade 7",
-			"sl74a"
-		],
-		"meta": [
-			"Present claims and findings (e.g., argument, narrative, summary presentations), emphasizing salient points in a focused, coherent manner with pertinent descriptions, facts, details, and examples; use appropriate eye contact, adequate volume, and clear pronunciation.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.1d",
-		"content": "Acknowledge new information expressed by others and, when warranted, modify their own views.",
-		"tags": [
-			"sl.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"sl71d"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.1c",
-		"content": "Pose questions that elicit elaboration and respond to others' questions and comments with relevant observations and ideas that bring the discussion back on topic as needed.",
-		"tags": [
-			"sl.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"sl71c"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.1b",
-		"content": "Follow rules for collegial discussions, track progress toward specific goals and deadlines, and define individual roles as needed.",
-		"tags": [
-			"sl.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"sl71b"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.7.1a",
-		"content": "Come to discussions prepared, having read or researched material under study; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.",
-		"tags": [
-			"sl.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"sl71a"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.7.9b",
-		"content": "Apply grade 7 Reading standards to literary nonfiction (e.g. \"Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims\").",
-		"tags": [
-			"w.7.9",
-			"english language arts & literacy",
-			"grade 7",
-			"w79b"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.9a",
-		"content": "Apply grade 7 Reading standards to literature (e.g., \"Compare and contrast a fictional portrayal of a time, place, or character and a historical account of the same period as a means of understanding how authors of fiction use or alter history\").",
-		"tags": [
-			"w.7.9",
-			"english language arts & literacy",
-			"grade 7",
-			"w79a"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.3e",
-		"content": "Provide a conclusion that follows from and reflects on the narrated experiences or events.",
-		"tags": [
-			"w.7.3",
-			"english language arts & literacy",
-			"grade 7",
-			"w73e"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.3d",
-		"content": "Use precise words and phrases, relevant descriptive details, and sensory language to capture the action and convey experiences and events.",
-		"tags": [
-			"w.7.3",
-			"english language arts & literacy",
-			"grade 7",
-			"w73d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.3c",
-		"content": "Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time frame or setting to another.",
-		"tags": [
-			"w.7.3",
-			"english language arts & literacy",
-			"grade 7",
-			"w73c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.3b",
-		"content": "Use narrative techniques, such as dialogue, pacing, and description, to develop experiences, events, and/or characters.",
-		"tags": [
-			"w.7.3",
-			"english language arts & literacy",
-			"grade 7",
-			"w73b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.3a",
-		"content": "Engage and orient the reader by establishing a context and point of view and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically.",
-		"tags": [
-			"w.7.3",
-			"english language arts & literacy",
-			"grade 7",
-			"w73a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.2f",
-		"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented",
-		"tags": [
-			"w.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"w72f"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.2e",
-		"content": "Establish and maintain a formal style.",
-		"tags": [
-			"w.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"w72e"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.2d",
-		"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-		"tags": [
-			"w.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"w72d"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.2c",
-		"content": "Use appropriate transitions to create cohesion and clarify the relationships among ideas and concepts.",
-		"tags": [
-			"w.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"w72c"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.2b",
-		"content": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples.",
-		"tags": [
-			"w.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"w72b"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.2a",
-		"content": "Introduce a topic or thesis statement clearly, previewing what is to follow; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"w.7.2",
-			"english language arts & literacy",
-			"grade 7",
-			"w72a"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.1e",
-		"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
-		"tags": [
-			"w.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"w71e"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.1d",
-		"content": "Establish and maintain a formal style.",
-		"tags": [
-			"w.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"w71d"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.1c",
-		"content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), reasons, and evidence.",
-		"tags": [
-			"w.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"w71c"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.1b",
-		"content": "Support claim(s) or counterarguments with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
-		"tags": [
-			"w.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"w71b"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.7.1a",
-		"content": "Introduce claim(s), acknowledge and address alternate or opposing claims, and organize the reasons and evidence logically.",
-		"tags": [
-			"w.7.1",
-			"english language arts & literacy",
-			"grade 7",
-			"w71a"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RI.7.5a",
-		"content": "Analyze the use of text features (e.g., graphics, headers, captions) in public documents.",
-		"tags": [
-			"ri.7.5",
-			"english language arts & literacy",
-			"grade 7",
-			"ri75a"
-		],
-		"meta": [
-			"Analyze the structure an author uses to organize a text, including how the major sections contribute to the whole and to the development of the ideas.",
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.7.6",
+			"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"l76"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"l75"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"l74"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.3",
+			"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"l73"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"l72"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"l71"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.7.6",
+			"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"sl76"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.5",
+			"content": "Include multimedia components and visual displays in presentations to clarify claims and findings and emphasize salient points.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"sl75"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.4",
+			"content": "Present claims and findings (e.g., argument, narrative, summary presentations), emphasizing salient points in a focused, coherent manner with pertinent descriptions, facts, details, and examples; use appropriate eye contact, adequate volume, and clear pronunciation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"sl74"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.3",
+			"content": "Delineate a speaker's argument and specific claims, and attitude toward the subject, evaluating the soundness of the reasoning and the relevance and sufficiency of the evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"sl73"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.2",
+			"content": "Analyze the main ideas and supporting details presented in diverse media and formats (e.g., visually, quantitatively, orally) and explain how the ideas clarify a topic, text, or issue under study.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"sl72"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.1",
+			"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"sl71"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.7.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w710"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w79"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.8",
+			"content": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w78"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.7",
+			"content": "Conduct short research projects to answer a question, drawing on several sources and generating additional related, focused questions for further research and investigation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w77"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.6",
+			"content": "Use technology, including the Internet, to produce and publish writing and link to and cite sources as well as to interact and collaborate with others, including linking to and citing sources.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w76"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.5",
+			"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w75"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w74"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w73"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.2",
+			"content": "Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w72"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.1",
+			"content": "Write arguments to support claims with clear reasons and relevant evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"w71"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.7.10",
+			"content": "By the end of the year, read and comprehend literary nonfiction in the grades 6–8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri710"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.9",
+			"content": "Analyze how two or more authors writing about the same topic shape their presentations of key information by emphasizing different evidence or advancing different interpretations of facts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri79"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.8",
+			"content": "Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri78"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.7",
+			"content": "Compare and contrast a text to an audio, video, or multimedia version of the text, analyzing each medium's portrayal of the subject (e.g., how the delivery of a speech affects the impact of the words).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri77"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.6",
+			"content": "Determine an author's point of view or purpose in a text and analyze how the author distinguishes his or her position from that of others.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri76"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.5",
+			"content": "Analyze the structure an author uses to organize a text, including how the major sections contribute to the whole and to the development of the ideas.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri75"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the impact of a specific word choice on meaning and tone. (See grade 7 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri74"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.3",
+			"content": "Analyze the interactions between individuals, events, and ideas in a text (e.g., how ideas influence individuals or events, or how individuals influence ideas or events).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri73"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.2",
+			"content": "Determine two or more central ideas in a text and analyze their development over the course of the text; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri72"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.7.1",
+			"content": "Cite several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"ri71"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.7.10",
+			"content": "By the end of the year, read and comprehend literary nonfiction in the grades 6–8 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl710"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.9",
+			"content": "Compare and contrast a fictional portrayal of a time, place, or character and a historical account of the same period as a means of understanding how authors of fiction use or alter history.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl79"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.7",
+			"content": "Compare and contrast a written story, drama, or poem to its audio, filmed, staged, or multimedia version, analyzing the effects of techniques unique to each medium (e.g., lighting, sound, color, or camera focus and angles in a film).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl77"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.6",
+			"content": "Analyze how an author develops and contrasts the points of view of different characters or narrators in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl76"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.5",
+			"content": "Analyze how a drama's or poem's form or structure (e.g., soliloquy, sonnet) contributes to its meaning.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl75"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of rhymes and other repetitions of sounds (e.g., alliteration) on a specific verse or stanza of a poem or section of a story or drama. (See grade 7 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl74"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.3",
+			"content": "Analyze how particular elements of a story or drama interact (e.g., how setting shapes the characters or plot).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl73"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.2",
+			"content": "Determine a theme or central idea of a text and analyze its development over the course of the text; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl72"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.7.1",
+			"content": "Cite several pieces of textual evidence to support analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 7",
+				"rl71"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.7.5c",
+			"content": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., refined, respectful, polite, diplomatic, condescending).",
+			"tags": [
+				"l.7.5",
+				"english language arts & literacy",
+				"grade 7",
+				"l75c"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.5b",
+			"content": "Use the relationship between particular words (e.g., synonym/antonym, analogy) to better understand each of the words.",
+			"tags": [
+				"l.7.5",
+				"english language arts & literacy",
+				"grade 7",
+				"l75b"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.5a",
+			"content": "Interpret figures of speech (e.g., literary, biblical, and mythological allusions) in context.",
+			"tags": [
+				"l.7.5",
+				"english language arts & literacy",
+				"grade 7",
+				"l75a"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.4d",
+			"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
+			"tags": [
+				"l.7.4",
+				"english language arts & literacy",
+				"grade 7",
+				"l74d"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.4c",
+			"content": "Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech or trace the etymology of words.",
+			"tags": [
+				"l.7.4",
+				"english language arts & literacy",
+				"grade 7",
+				"l74c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.4b",
+			"content": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., belligerent, bellicose, rebel).",
+			"tags": [
+				"l.7.4",
+				"english language arts & literacy",
+				"grade 7",
+				"l74b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.4a",
+			"content": "Use context (e.g., the overall meaning of a sentence or paragraph; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.7.4",
+				"english language arts & literacy",
+				"grade 7",
+				"l74a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 7 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.7.3a",
+			"content": "Choose language that expresses ideas precisely and concisely, recognizing and eliminating wordiness and redundancy.",
+			"tags": [
+				"l.7.3",
+				"english language arts & literacy",
+				"grade 7",
+				"l73a"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.7.2b",
+			"content": "Spell correctly.",
+			"tags": [
+				"l.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"l72b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.2a",
+			"content": "Use a comma to separate coordinate adjectives (e.g., It was a fascinating, enjoyable movie but not He wore an old[,] green shirt).",
+			"tags": [
+				"l.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"l72a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.1c",
+			"content": "Place phrases and clauses within a sentence, recognizing and correcting misplaced and dangling modifiers.",
+			"tags": [
+				"l.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"l71c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.1b",
+			"content": "Choose among simple, compound, complex, and compound-complex sentences to signal differing relationships among ideas.",
+			"tags": [
+				"l.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"l71b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.7.1a",
+			"content": "Explain the function of phrases and clauses in general and their function in specific sentences.",
+			"tags": [
+				"l.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"l71a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.7.4a",
+			"content": "Plan and present an argument that: supports a claim, acknowledges counterarguments, organizes evidence logically, uses words and phrases to create cohesion, and provides a concluding statement that supports the argument presented.",
+			"tags": [
+				"sl.7.4",
+				"english language arts & literacy",
+				"grade 7",
+				"sl74a"
+			],
+			"meta": [
+				"Present claims and findings (e.g., argument, narrative, summary presentations), emphasizing salient points in a focused, coherent manner with pertinent descriptions, facts, details, and examples; use appropriate eye contact, adequate volume, and clear pronunciation.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.7.1d",
+			"content": "Acknowledge new information expressed by others and, when warranted, modify their own views.",
+			"tags": [
+				"sl.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"sl71d"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.1c",
+			"content": "Pose questions that elicit elaboration and respond to others' questions and comments with relevant observations and ideas that bring the discussion back on topic as needed.",
+			"tags": [
+				"sl.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"sl71c"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.1b",
+			"content": "Follow rules for collegial discussions, track progress toward specific goals and deadlines, and define individual roles as needed.",
+			"tags": [
+				"sl.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"sl71b"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.7.1a",
+			"content": "Come to discussions prepared, having read or researched material under study; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.",
+			"tags": [
+				"sl.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"sl71a"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 7 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Research to Build and Present Knowledge": [
+		{
+			"displayName": "W.7.9b",
+			"content": "Apply grade 7 Reading standards to literary nonfiction (e.g. \"Trace and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient to support the claims\").",
+			"tags": [
+				"w.7.9",
+				"english language arts & literacy",
+				"grade 7",
+				"w79b"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.9a",
+			"content": "Apply grade 7 Reading standards to literature (e.g., \"Compare and contrast a fictional portrayal of a time, place, or character and a historical account of the same period as a means of understanding how authors of fiction use or alter history\").",
+			"tags": [
+				"w.7.9",
+				"english language arts & literacy",
+				"grade 7",
+				"w79a"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "W.7.3e",
+			"content": "Provide a conclusion that follows from and reflects on the narrated experiences or events.",
+			"tags": [
+				"w.7.3",
+				"english language arts & literacy",
+				"grade 7",
+				"w73e"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.3d",
+			"content": "Use precise words and phrases, relevant descriptive details, and sensory language to capture the action and convey experiences and events.",
+			"tags": [
+				"w.7.3",
+				"english language arts & literacy",
+				"grade 7",
+				"w73d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.3c",
+			"content": "Use a variety of transition words, phrases, and clauses to convey sequence and signal shifts from one time frame or setting to another.",
+			"tags": [
+				"w.7.3",
+				"english language arts & literacy",
+				"grade 7",
+				"w73c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.3b",
+			"content": "Use narrative techniques, such as dialogue, pacing, and description, to develop experiences, events, and/or characters.",
+			"tags": [
+				"w.7.3",
+				"english language arts & literacy",
+				"grade 7",
+				"w73b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.3a",
+			"content": "Engage and orient the reader by establishing a context and point of view and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically.",
+			"tags": [
+				"w.7.3",
+				"english language arts & literacy",
+				"grade 7",
+				"w73a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.2f",
+			"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented",
+			"tags": [
+				"w.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"w72f"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.2e",
+			"content": "Establish and maintain a formal style.",
+			"tags": [
+				"w.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"w72e"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.2d",
+			"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+			"tags": [
+				"w.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"w72d"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.2c",
+			"content": "Use appropriate transitions to create cohesion and clarify the relationships among ideas and concepts.",
+			"tags": [
+				"w.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"w72c"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.2b",
+			"content": "Develop the topic with relevant facts, definitions, concrete details, quotations, or other information and examples.",
+			"tags": [
+				"w.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"w72b"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.2a",
+			"content": "Introduce a topic or thesis statement clearly, previewing what is to follow; organize ideas, concepts, and information, using strategies such as definition, classification, comparison/contrast, and cause/effect; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"w.7.2",
+				"english language arts & literacy",
+				"grade 7",
+				"w72a"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.1e",
+			"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
+			"tags": [
+				"w.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"w71e"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.1d",
+			"content": "Establish and maintain a formal style.",
+			"tags": [
+				"w.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"w71d"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.1c",
+			"content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), reasons, and evidence.",
+			"tags": [
+				"w.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"w71c"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.1b",
+			"content": "Support claim(s) or counterarguments with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+			"tags": [
+				"w.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"w71b"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.7.1a",
+			"content": "Introduce claim(s), acknowledge and address alternate or opposing claims, and organize the reasons and evidence logically.",
+			"tags": [
+				"w.7.1",
+				"english language arts & literacy",
+				"grade 7",
+				"w71a"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Craft and Structure": [
+		{
+			"displayName": "RI.7.5a",
+			"content": "Analyze the use of text features (e.g., graphics, headers, captions) in public documents.",
+			"tags": [
+				"ri.7.5",
+				"english language arts & literacy",
+				"grade 7",
+				"ri75a"
+			],
+			"meta": [
+				"Analyze the structure an author uses to organize a text, including how the major sections contribute to the whole and to the development of the ideas.",
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		}
+	]
+}

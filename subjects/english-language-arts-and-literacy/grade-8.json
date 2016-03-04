@@ -1,1120 +1,1146 @@
-[
-	{
-		"displayName": "L.8.6",
-		"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"l86"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"l85"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"l84"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.3",
-		"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"l83"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"l82"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"l81"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.6",
-		"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"sl86"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.5",
-		"content": "Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"sl85"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.4",
-		"content": "Present claims and findings (e.g., argument, narrative, response to literature presentations), emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"sl84"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.3",
-		"content": "Delineate a speaker's argument and specific claims, evaluating the soundness of the reasoning and relevance and sufficiency of the evidence and identifying when irrelevant evidence is introduced.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"sl83"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.2",
-		"content": "Analyze the purpose of information presented in diverse media and formats (e.g., visually, quantitatively, orally) and evaluate the motives (e.g., social, commercial, political) behind its presentation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"sl82"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.1",
-		"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"sl81"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.8.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w810"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w89"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.8",
-		"content": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w88"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.7",
-		"content": "Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused questions that allow for multiple avenues of exploration.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w87"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.6",
-		"content": "Use technology, including the Internet, to produce and publish writing and present the relationships between information and ideas efficiently as well as to interact and collaborate with others.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w86"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.5",
-		"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w85"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w84"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w83"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.2",
-		"content": "Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w82"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.1",
-		"content": "Write arguments to support claims with clear reasons and relevant evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"w81"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RI.8.10",
-		"content": "By the end of the year, read and comprehend literary nonfiction at the high end of the grades 6—8 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri810"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.9",
-		"content": "Analyze a case in which two or more texts provide conflicting information on the same topic and identify where the texts disagree on matters of fact or interpretation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri89"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.8",
-		"content": "Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when irrelevant evidence is introduced.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri88"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.7",
-		"content": "Evaluate the advantages and disadvantages of using different mediums (e.g., print or digital text, video, multimedia) to present a particular topic or idea.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri87"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.6",
-		"content": "Determine an author's point of view or purpose in a text and analyze how the author acknowledges and responds to conflicting evidence or viewpoints.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri86"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.5",
-		"content": "Analyze in detail the structure of a specific paragraph in a text, including the role of particular sentences in developing and refining a key concept.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri85"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts. (See grade 8 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri84"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.3",
-		"content": "Analyze how a text makes connections among and distinctions between individuals, ideas, or events (e.g., through comparisons, analogies, or categories).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri83"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.2",
-		"content": "Determine a central idea of a text and analyze its development over the course of the text, including its relationship to supporting ideas; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri82"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.8.1",
-		"content": "Cite the textual evidence that most strongly supports an analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"ri81"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.8.10",
-		"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poems, at the high end of grades 6—8 text complexity band independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl810"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.9",
-		"content": "Analyze how a modern work of fiction draws on themes, patterns of events, or character types from myths, traditional stories, or religious works such as the Bible, including describing how the material is rendered new.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl89"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.7",
-		"content": "Analyze the extent to which a filmed or live production of a story or drama stays faithful to or departs from the text or script, evaluating the choices made by the director or actors.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl87"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.6",
-		"content": "Analyze how differences in the points of view of the characters and the audience or reader (e.g., created through the use of dramatic irony) create such effects as suspense or humor.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl86"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.5",
-		"content": "Compare and contrast the structure of two or more texts and analyze how the differing structure of each text contributes to its meaning and style.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl85"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts. (See grade 8 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl84"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.3",
-		"content": "Analyze how particular lines of dialogue or incidents in a story or drama propel the action, reveal aspects of a character, or provoke a decision.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl83"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.2",
-		"content": "Determine a theme or central idea of a text and analyze its development over the course of the text, including its relationship to the characters, setting, and plot; provide an objective summary of the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl82"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.8.1",
-		"content": "Cite the textual evidence that most strongly supports an analysis of what the text says explicitly as well as inferences drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 8",
-			"rl81"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.8.5c",
-		"content": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., bullheaded, willful, firm, persistent, resolute).",
-		"tags": [
-			"l.8.5",
-			"english language arts & literacy",
-			"grade 8",
-			"l85c"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.5b",
-		"content": "Use the relationship between particular words to better understand each of the words.",
-		"tags": [
-			"l.8.5",
-			"english language arts & literacy",
-			"grade 8",
-			"l85b"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.5a",
-		"content": "Interpret figures of speech (e.g. verbal irony, puns) in context.",
-		"tags": [
-			"l.8.5",
-			"english language arts & literacy",
-			"grade 8",
-			"l85a"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.4d",
-		"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
-		"tags": [
-			"l.8.4",
-			"english language arts & literacy",
-			"grade 8",
-			"l84d"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.4c",
-		"content": "Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech or trace the etymology of words.",
-		"tags": [
-			"l.8.4",
-			"english language arts & literacy",
-			"grade 8",
-			"l84c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.4b",
-		"content": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., precede, recede, secede).",
-		"tags": [
-			"l.8.4",
-			"english language arts & literacy",
-			"grade 8",
-			"l84b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.4a",
-		"content": "Use context (e.g., the overall meaning of a sentence or paragraph; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.8.4",
-			"english language arts & literacy",
-			"grade 8",
-			"l84a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.3a",
-		"content": "Use verbs in the active and passive voice and in the conditional and subjunctive mood to achieve particular effects (e.g., emphasizing the actor or the action; expressing uncertainty or describing a state contrary to fact).",
-		"tags": [
-			"l.8.3",
-			"english language arts & literacy",
-			"grade 8",
-			"l83a"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.2c",
-		"content": "Spell correctly.",
-		"tags": [
-			"l.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"l82c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.2b",
-		"content": "Use an ellipsis to indicate an omission.",
-		"tags": [
-			"l.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"l82b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.2a",
-		"content": "Use punctuation (comma, ellipsis, dash) to indicate a pause or break.",
-		"tags": [
-			"l.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"l82a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.1d",
-		"content": "Recognize and correct inappropriate shifts in verb voice and mood.",
-		"tags": [
-			"l.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"l81d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.1c",
-		"content": "Form and use verbs in the indicative, imperative, interrogative, conditional, and subjunctive mood.",
-		"tags": [
-			"l.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"l81c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.1b",
-		"content": "Form and use verbs in the active and passive voice.",
-		"tags": [
-			"l.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"l81b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.8.1a",
-		"content": "Explain the function of verbals (gerunds, participles, infinitives) in general and their function in particular sentences.",
-		"tags": [
-			"l.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"l81a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.4a",
-		"content": "Plan and present a narrative that: establishes a context and point of view, presents a logical sequence, uses narrative techniques (e.g., dialogue, pacing, description, sensory language), uses a variety of transitions, and provides a conclusion that reflects the experience.",
-		"tags": [
-			"sl.8.4",
-			"english language arts & literacy",
-			"grade 8",
-			"sl84a"
-		],
-		"meta": [
-			"Present claims and findings (e.g., argument, narrative, response to literature presentations), emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.1d",
-		"content": "Acknowledge new information expressed by others, and, when warranted, qualify or justify their own views in light of the evidence presented.",
-		"tags": [
-			"sl.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"sl81d"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.1c",
-		"content": "Pose questions that connect the ideas of several speakers and respond to others' questions and comments with relevant evidence, observations, and ideas.",
-		"tags": [
-			"sl.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"sl81c"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.1b",
-		"content": "Follow rules for collegial discussions and decision-making, track progress toward specific goals and deadlines, and define individual roles as needed.",
-		"tags": [
-			"sl.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"sl81b"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.8.1a",
-		"content": "Come to discussions prepared, having read or researched material under study; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.",
-		"tags": [
-			"sl.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"sl81a"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.8.9b",
-		"content": "Apply grade 8 Reading standards to literary nonfiction (e.g., \"Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when irrelevant evidence is introduced\").",
-		"tags": [
-			"w.8.9",
-			"english language arts & literacy",
-			"grade 8",
-			"w89b"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.9a",
-		"content": "Apply grade 8 Reading standards to literature (e.g., \"Analyze how a modern work of fiction draws on themes, patterns of events, or character types from myths, traditional stories, or religious works such as the Bible, including describing how the material is rendered new\").",
-		"tags": [
-			"w.8.9",
-			"english language arts & literacy",
-			"grade 8",
-			"w89a"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.3e",
-		"content": "Provide a conclusion that follows from and reflects on the narrated experiences or events.",
-		"tags": [
-			"w.8.3",
-			"english language arts & literacy",
-			"grade 8",
-			"w83e"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.3d",
-		"content": "Use precise words and phrases, relevant descriptive details, and sensory language to capture the action and convey experiences and events.",
-		"tags": [
-			"w.8.3",
-			"english language arts & literacy",
-			"grade 8",
-			"w83d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.3c",
-		"content": "Use a variety of transition words, phrases, and clauses to convey sequence, signal shifts from one time frame or setting to another, and show the relationships among experiences and events.",
-		"tags": [
-			"w.8.3",
-			"english language arts & literacy",
-			"grade 8",
-			"w83c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.3b",
-		"content": "Use narrative techniques, such as dialogue, pacing, description, and reflection, to develop experiences, events, and/or characters.",
-		"tags": [
-			"w.8.3",
-			"english language arts & literacy",
-			"grade 8",
-			"w83b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.3a",
-		"content": "Engage and orient the reader by establishing a context and point of view and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically.",
-		"tags": [
-			"w.8.3",
-			"english language arts & literacy",
-			"grade 8",
-			"w83a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.2f",
-		"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented",
-		"tags": [
-			"w.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"w82f"
-		],
-		"meta": [
-			"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.2e",
-		"content": "Establish and maintain a formal style.",
-		"tags": [
-			"w.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"w82e"
-		],
-		"meta": [
-			"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.2d",
-		"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-		"tags": [
-			"w.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"w82d"
-		],
-		"meta": [
-			"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.2c",
-		"content": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas and concepts.",
-		"tags": [
-			"w.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"w82c"
-		],
-		"meta": [
-			"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.2b",
-		"content": "Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples.",
-		"tags": [
-			"w.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"w82b"
-		],
-		"meta": [
-			"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.2a",
-		"content": "Introduce a topic or thesis statement clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"w.8.2",
-			"english language arts & literacy",
-			"grade 8",
-			"w82a"
-		],
-		"meta": [
-			"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.1e",
-		"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
-		"tags": [
-			"w.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"w81e"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.1d",
-		"content": "Establish and maintain a formal style.",
-		"tags": [
-			"w.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"w81d"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.1c",
-		"content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence.",
-		"tags": [
-			"w.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"w81c"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.1b",
-		"content": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
-		"tags": [
-			"w.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"w81b"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.8.1a",
-		"content": "Introduce claim(s), acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically.",
-		"tags": [
-			"w.8.1",
-			"english language arts & literacy",
-			"grade 8",
-			"w81a"
-		],
-		"meta": [
-			"Write arguments to support claims with clear reasons and relevant evidence.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RI.8.5a",
-		"content": "Analyze the use of text features (e.g., graphics, headers, captions) in consumer materials.",
-		"tags": [
-			"ri.8.5",
-			"english language arts & literacy",
-			"grade 8",
-			"ri85a"
-		],
-		"meta": [
-			"Analyze in detail the structure of a specific paragraph in a text, including the role of particular sentences in developing and refining a key concept.",
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.8.6",
+			"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases; gather vocabulary knowledge when considering a word or phrase important to comprehension or expression.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"l86"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"l85"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"l84"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.3",
+			"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"l83"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"l82"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"l81"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.8.6",
+			"content": "Adapt speech to a variety of contexts and tasks, demonstrating command of formal English when indicated or appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"sl86"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.5",
+			"content": "Integrate multimedia and visual displays into presentations to clarify information, strengthen claims and evidence, and add interest.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"sl85"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.4",
+			"content": "Present claims and findings (e.g., argument, narrative, response to literature presentations), emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"sl84"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.3",
+			"content": "Delineate a speaker's argument and specific claims, evaluating the soundness of the reasoning and relevance and sufficiency of the evidence and identifying when irrelevant evidence is introduced.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"sl83"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.2",
+			"content": "Analyze the purpose of information presented in diverse media and formats (e.g., visually, quantitatively, orally) and evaluate the motives (e.g., social, commercial, political) behind its presentation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"sl82"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.1",
+			"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"sl81"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.8.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w810"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w89"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.8",
+			"content": "Gather relevant information from multiple print and digital sources, using search terms effectively; assess the credibility and accuracy of each source; and quote or paraphrase the data and conclusions of others while avoiding plagiarism and following a standard format for citation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w88"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.7",
+			"content": "Conduct short research projects to answer a question (including a self-generated question), drawing on several sources and generating additional related, focused questions that allow for multiple avenues of exploration.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w87"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.6",
+			"content": "Use technology, including the Internet, to produce and publish writing and present the relationships between information and ideas efficiently as well as to interact and collaborate with others.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w86"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.5",
+			"content": "With some guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach, focusing on how well purpose and audience have been addressed.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w85"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w84"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w83"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.2",
+			"content": "Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w82"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.1",
+			"content": "Write arguments to support claims with clear reasons and relevant evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"w81"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.8.10",
+			"content": "By the end of the year, read and comprehend literary nonfiction at the high end of the grades 6—8 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri810"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.9",
+			"content": "Analyze a case in which two or more texts provide conflicting information on the same topic and identify where the texts disagree on matters of fact or interpretation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri89"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.8",
+			"content": "Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when irrelevant evidence is introduced.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri88"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.7",
+			"content": "Evaluate the advantages and disadvantages of using different mediums (e.g., print or digital text, video, multimedia) to present a particular topic or idea.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri87"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.6",
+			"content": "Determine an author's point of view or purpose in a text and analyze how the author acknowledges and responds to conflicting evidence or viewpoints.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri86"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.5",
+			"content": "Analyze in detail the structure of a specific paragraph in a text, including the role of particular sentences in developing and refining a key concept.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri85"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative, connotative, and technical meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts. (See grade 8 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri84"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.3",
+			"content": "Analyze how a text makes connections among and distinctions between individuals, ideas, or events (e.g., through comparisons, analogies, or categories).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri83"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.2",
+			"content": "Determine a central idea of a text and analyze its development over the course of the text, including its relationship to supporting ideas; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri82"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.8.1",
+			"content": "Cite the textual evidence that most strongly supports an analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"ri81"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.8.10",
+			"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poems, at the high end of grades 6—8 text complexity band independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl810"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.9",
+			"content": "Analyze how a modern work of fiction draws on themes, patterns of events, or character types from myths, traditional stories, or religious works such as the Bible, including describing how the material is rendered new.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl89"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.7",
+			"content": "Analyze the extent to which a filmed or live production of a story or drama stays faithful to or departs from the text or script, evaluating the choices made by the director or actors.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl87"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.6",
+			"content": "Analyze how differences in the points of view of the characters and the audience or reader (e.g., created through the use of dramatic irony) create such effects as suspense or humor.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl86"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.5",
+			"content": "Compare and contrast the structure of two or more texts and analyze how the differing structure of each text contributes to its meaning and style.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl85"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including figurative and connotative meanings; analyze the impact of specific word choices on meaning and tone, including analogies or allusions to other texts. (See grade 8 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl84"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.3",
+			"content": "Analyze how particular lines of dialogue or incidents in a story or drama propel the action, reveal aspects of a character, or provoke a decision.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl83"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.2",
+			"content": "Determine a theme or central idea of a text and analyze its development over the course of the text, including its relationship to the characters, setting, and plot; provide an objective summary of the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl82"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.8.1",
+			"content": "Cite the textual evidence that most strongly supports an analysis of what the text says explicitly as well as inferences drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 8",
+				"rl81"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.8.5c",
+			"content": "Distinguish among the connotations (associations) of words with similar denotations (definitions) (e.g., bullheaded, willful, firm, persistent, resolute).",
+			"tags": [
+				"l.8.5",
+				"english language arts & literacy",
+				"grade 8",
+				"l85c"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.5b",
+			"content": "Use the relationship between particular words to better understand each of the words.",
+			"tags": [
+				"l.8.5",
+				"english language arts & literacy",
+				"grade 8",
+				"l85b"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.5a",
+			"content": "Interpret figures of speech (e.g. verbal irony, puns) in context.",
+			"tags": [
+				"l.8.5",
+				"english language arts & literacy",
+				"grade 8",
+				"l85a"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.4d",
+			"content": "Verify the preliminary determination of the meaning of a word or phrase (e.g., by checking the inferred meaning in context or in a dictionary).",
+			"tags": [
+				"l.8.4",
+				"english language arts & literacy",
+				"grade 8",
+				"l84d"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.4c",
+			"content": "Consult general and specialized reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation of a word or determine or clarify its precise meaning or its part of speech or trace the etymology of words.",
+			"tags": [
+				"l.8.4",
+				"english language arts & literacy",
+				"grade 8",
+				"l84c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.4b",
+			"content": "Use common, grade-appropriate Greek or Latin affixes and roots as clues to the meaning of a word (e.g., precede, recede, secede).",
+			"tags": [
+				"l.8.4",
+				"english language arts & literacy",
+				"grade 8",
+				"l84b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.4a",
+			"content": "Use context (e.g., the overall meaning of a sentence or paragraph; a word's position or function in a sentence) as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.8.4",
+				"english language arts & literacy",
+				"grade 8",
+				"l84a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words or phrases based on grade 8 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.8.3a",
+			"content": "Use verbs in the active and passive voice and in the conditional and subjunctive mood to achieve particular effects (e.g., emphasizing the actor or the action; expressing uncertainty or describing a state contrary to fact).",
+			"tags": [
+				"l.8.3",
+				"english language arts & literacy",
+				"grade 8",
+				"l83a"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.8.2c",
+			"content": "Spell correctly.",
+			"tags": [
+				"l.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"l82c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.2b",
+			"content": "Use an ellipsis to indicate an omission.",
+			"tags": [
+				"l.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"l82b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.2a",
+			"content": "Use punctuation (comma, ellipsis, dash) to indicate a pause or break.",
+			"tags": [
+				"l.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"l82a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.1d",
+			"content": "Recognize and correct inappropriate shifts in verb voice and mood.",
+			"tags": [
+				"l.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"l81d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.1c",
+			"content": "Form and use verbs in the indicative, imperative, interrogative, conditional, and subjunctive mood.",
+			"tags": [
+				"l.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"l81c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.1b",
+			"content": "Form and use verbs in the active and passive voice.",
+			"tags": [
+				"l.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"l81b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.8.1a",
+			"content": "Explain the function of verbals (gerunds, participles, infinitives) in general and their function in particular sentences.",
+			"tags": [
+				"l.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"l81a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.8.4a",
+			"content": "Plan and present a narrative that: establishes a context and point of view, presents a logical sequence, uses narrative techniques (e.g., dialogue, pacing, description, sensory language), uses a variety of transitions, and provides a conclusion that reflects the experience.",
+			"tags": [
+				"sl.8.4",
+				"english language arts & literacy",
+				"grade 8",
+				"sl84a"
+			],
+			"meta": [
+				"Present claims and findings (e.g., argument, narrative, response to literature presentations), emphasizing salient points in a focused, coherent manner with relevant evidence, sound valid reasoning, and well-chosen details; use appropriate eye contact, adequate volume, and clear pronunciation.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.8.1d",
+			"content": "Acknowledge new information expressed by others, and, when warranted, qualify or justify their own views in light of the evidence presented.",
+			"tags": [
+				"sl.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"sl81d"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.1c",
+			"content": "Pose questions that connect the ideas of several speakers and respond to others' questions and comments with relevant evidence, observations, and ideas.",
+			"tags": [
+				"sl.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"sl81c"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.1b",
+			"content": "Follow rules for collegial discussions and decision-making, track progress toward specific goals and deadlines, and define individual roles as needed.",
+			"tags": [
+				"sl.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"sl81b"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.8.1a",
+			"content": "Come to discussions prepared, having read or researched material under study; explicitly draw on that preparation by referring to evidence on the topic, text, or issue to probe and reflect on ideas under discussion.",
+			"tags": [
+				"sl.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"sl81a"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 8 topics, texts, and issues, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Research to Build and Present Knowledge": [
+		{
+			"displayName": "W.8.9b",
+			"content": "Apply grade 8 Reading standards to literary nonfiction (e.g., \"Delineate and evaluate the argument and specific claims in a text, assessing whether the reasoning is sound and the evidence is relevant and sufficient; recognize when irrelevant evidence is introduced\").",
+			"tags": [
+				"w.8.9",
+				"english language arts & literacy",
+				"grade 8",
+				"w89b"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.9a",
+			"content": "Apply grade 8 Reading standards to literature (e.g., \"Analyze how a modern work of fiction draws on themes, patterns of events, or character types from myths, traditional stories, or religious works such as the Bible, including describing how the material is rendered new\").",
+			"tags": [
+				"w.8.9",
+				"english language arts & literacy",
+				"grade 8",
+				"w89a"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "W.8.3e",
+			"content": "Provide a conclusion that follows from and reflects on the narrated experiences or events.",
+			"tags": [
+				"w.8.3",
+				"english language arts & literacy",
+				"grade 8",
+				"w83e"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.3d",
+			"content": "Use precise words and phrases, relevant descriptive details, and sensory language to capture the action and convey experiences and events.",
+			"tags": [
+				"w.8.3",
+				"english language arts & literacy",
+				"grade 8",
+				"w83d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.3c",
+			"content": "Use a variety of transition words, phrases, and clauses to convey sequence, signal shifts from one time frame or setting to another, and show the relationships among experiences and events.",
+			"tags": [
+				"w.8.3",
+				"english language arts & literacy",
+				"grade 8",
+				"w83c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.3b",
+			"content": "Use narrative techniques, such as dialogue, pacing, description, and reflection, to develop experiences, events, and/or characters.",
+			"tags": [
+				"w.8.3",
+				"english language arts & literacy",
+				"grade 8",
+				"w83b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.3a",
+			"content": "Engage and orient the reader by establishing a context and point of view and introducing a narrator and/or characters; organize an event sequence that unfolds naturally and logically.",
+			"tags": [
+				"w.8.3",
+				"english language arts & literacy",
+				"grade 8",
+				"w83a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, relevant descriptive details, and well-structured event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.2f",
+			"content": "Provide a concluding statement or section that follows from and supports the information or explanation presented",
+			"tags": [
+				"w.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"w82f"
+			],
+			"meta": [
+				"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.2e",
+			"content": "Establish and maintain a formal style.",
+			"tags": [
+				"w.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"w82e"
+			],
+			"meta": [
+				"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.2d",
+			"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+			"tags": [
+				"w.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"w82d"
+			],
+			"meta": [
+				"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.2c",
+			"content": "Use appropriate and varied transitions to create cohesion and clarify the relationships among ideas and concepts.",
+			"tags": [
+				"w.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"w82c"
+			],
+			"meta": [
+				"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.2b",
+			"content": "Develop the topic with relevant, well-chosen facts, definitions, concrete details, quotations, or other information and examples.",
+			"tags": [
+				"w.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"w82b"
+			],
+			"meta": [
+				"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.2a",
+			"content": "Introduce a topic or thesis statement clearly, previewing what is to follow; organize ideas, concepts, and information into broader categories; include formatting (e.g., headings), graphics (e.g., charts, tables), and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"w.8.2",
+				"english language arts & literacy",
+				"grade 8",
+				"w82a"
+			],
+			"meta": [
+				"Write informative/explanatory texts including career development documents (e.g., simple business letters and job applications), to examine a topic and convey ideas, concepts, and information through the selection, organization, and analysis of relevant content",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.1e",
+			"content": "Provide a concluding statement or section that follows from and supports the argument presented.",
+			"tags": [
+				"w.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"w81e"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.1d",
+			"content": "Establish and maintain a formal style.",
+			"tags": [
+				"w.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"w81d"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.1c",
+			"content": "Use words, phrases, and clauses to create cohesion and clarify the relationships among claim(s), counterclaims, reasons, and evidence.",
+			"tags": [
+				"w.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"w81c"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.1b",
+			"content": "Support claim(s) with logical reasoning and relevant evidence, using accurate, credible sources and demonstrating an understanding of the topic or text.",
+			"tags": [
+				"w.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"w81b"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.8.1a",
+			"content": "Introduce claim(s), acknowledge and distinguish the claim(s) from alternate or opposing claims, and organize the reasons and evidence logically.",
+			"tags": [
+				"w.8.1",
+				"english language arts & literacy",
+				"grade 8",
+				"w81a"
+			],
+			"meta": [
+				"Write arguments to support claims with clear reasons and relevant evidence.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Craft and Structure": [
+		{
+			"displayName": "RI.8.5a",
+			"content": "Analyze the use of text features (e.g., graphics, headers, captions) in consumer materials.",
+			"tags": [
+				"ri.8.5",
+				"english language arts & literacy",
+				"grade 8",
+				"ri85a"
+			],
+			"meta": [
+				"Analyze in detail the structure of a specific paragraph in a text, including the role of particular sentences in developing and refining a key concept.",
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		}
+	]
+}

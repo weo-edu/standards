@@ -1,1890 +1,1924 @@
-[
-	{
-		"displayName": "L.K.6",
-		"content": "Use words and phrases acquired through conversations, reading and being read to, and responding to texts.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lk6"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.5",
-		"content": "With guidance and support from adults, explore word relationships and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lk5"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lk4"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lk2"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lk1"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.CCR.6",
-		"content": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lccr6",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lccr5",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lccr4",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.3",
-		"content": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lccr3",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lccr2",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "L.CCR.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"lccr1",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"College and Career Readiness Anchor Standards for Language"
-		]
-	},
-	{
-		"displayName": "SL.K.6",
-		"content": "Speak audibly and express thoughts, feelings, and ideas clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slk6"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.5",
-		"content": "Add drawings or other visual displays to descriptions as desired to provide additional detail.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slk5"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.4",
-		"content": "Describe familiar people, places, things, and events and, with prompting and support, provide additional detail.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slk4"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.3",
-		"content": "Ask and answer questions in order to seek help, get information, or clarify something that is not understood.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slk3"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.2",
-		"content": "Confirm understanding of a text read aloud or information presented orally or through other media by asking and answering questions about key details and requesting clarification if something is not understood.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slk2"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.1",
-		"content": "Participate in collaborative conversations with diverse partners about kindergarten topics and texts with peers and adults in small and larger groups.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slk1"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.CCR.6",
-		"content": "Adapt speech to a variety of contexts and communicative tasks, demonstrating command of formal English when indicated or appropriate.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slccr6",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.5",
-		"content": "Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slccr5",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.4",
-		"content": "Present information, findings, and supporting evidence such that listeners can follow the line of reasoning and the organization, development, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slccr4",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.3",
-		"content": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slccr3",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.2",
-		"content": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slccr2",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "SL.CCR.1",
-		"content": "Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others' ideas and expressing their own clearly and persuasively.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"slccr1",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"College and Career Readiness Anchor Standards for Speaking and Listening"
-		]
-	},
-	{
-		"displayName": "W.K.8",
-		"content": "With guidance and support from adults, recall information from experiences or gather information from provided sources to answer a question.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wk8"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.K.7",
-		"content": "Participate in shared research and writing projects (e.g., explore a number of books by a favorite author and express opinions about them).",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wk7"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.K.6",
-		"content": "With guidance and support from adults, explore a variety of digital tools to produce and publish writing, including in collaboration with peers.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wk6"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.K.5",
-		"content": "With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen writing as needed.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wk5"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.K.3",
-		"content": "Use a combination of drawing, dictating, and writing to narrate a single event or several loosely linked events, tell about the events in the order in which they occurred, and provide a reaction to what happened.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wk3"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.K.2",
-		"content": "Use a combination of drawing, dictating, and writing to compose informative/explanatory texts in which they name what they are writing about and supply some information about the topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wk2"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.K.1",
-		"content": "Use a combination of drawing, dictating, and writing to compose opinion pieces in which they tell a reader the topic or the name of the book they are writing about and state an opinion or preference about the topic or book (e.g., My favorite book is…).",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wk1"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.CCR.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr10",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Range of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr9",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.8",
-		"content": "Gather relevant information from multiple print and digital sources, assess the credibility and accuracy of each source, and integrate the information while avoiding plagiarism.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr8",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.7",
-		"content": "Conduct short as well as more sustained research projects based on focused questions, demonstrating understanding of the subject under investigation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr7",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.6",
-		"content": "Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr6",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.5",
-		"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr5",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.4",
-		"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr4",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr3",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.2",
-		"content": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr2",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "W.CCR.1",
-		"content": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"wccr1",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"College and Career Readiness Anchor Standards for Writing"
-		]
-	},
-	{
-		"displayName": "RF.K.4",
-		"content": "Read emergent-reader texts with purpose and understanding.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rfk4"
-		],
-		"meta": [
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.3",
-		"content": "Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rfk3"
-		],
-		"meta": [
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.2",
-		"content": "Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rfk2"
-		],
-		"meta": [
-			"Phonological Awareness",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.1",
-		"content": "Demonstrate understanding of the organization and basic features of print.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rfk1"
-		],
-		"meta": [
-			"Print Concepts",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RI.K.10",
-		"content": "Actively engage in group reading activities with purpose and understanding.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik10"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.9",
-		"content": "With prompting and support, identify basic similarities in and differences between two texts on the same topic (e.g., in illustrations, descriptions, or procedures).",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik9"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.8",
-		"content": "With prompting and support, identify the reasons an author gives to support points in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik8"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.7",
-		"content": "With prompting and support, describe the relationship between illustrations and the text in which they appear (e.g., what person, place, thing, or idea in the text an illustration depicts).",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik7"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.6",
-		"content": "Name the author and illustrator of a text and define the role of each in presenting the ideas or information in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik6"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.5",
-		"content": "Identify the front cover, back cover, and title page of a book.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik5"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.4",
-		"content": "With prompting and support, ask and answer questions about unknown words in a text.(See grade K Language standards 4–6 additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik4"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.3",
-		"content": "With prompting and support, describe the connection between two individuals, events, ideas, or pieces of information in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik3"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.2",
-		"content": "With prompting and support, identify the main topic and retell key details of a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik2"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.1",
-		"content": "With prompting and support, ask and answer questions about key details in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rik1"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.K.10",
-		"content": "Actively engage in group reading activities with purpose and understanding.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk10"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.9",
-		"content": "With prompting and support, compare and contrast the adventures and experiences of characters in familiar stories.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk9"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.7",
-		"content": "With prompting and support, describe the relationship between illustrations and the story in which they appear (e.g., what moment in a story an illustration depicts).",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk7"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.6",
-		"content": "With prompting and support, name the author and illustrator of a story and define the role of each in telling the story.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk6"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.5",
-		"content": "Recognize common types of texts (e.g., storybooks, poems, fantasy, realistic text).",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk5"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.4",
-		"content": "Ask and answer questions about unknown words in a text. (See grade K Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk4"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.3",
-		"content": "With prompting and support, identify characters, settings, and major events in a story.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk3"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.2",
-		"content": "With prompting and support, retell familiar stories, including key details.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk2"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.1",
-		"content": "With prompting and support, ask and answer questions about key details in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rlk1"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "R.CCR.10",
-		"content": "Read and comprehend complex literary and informational texts independently and proficiently.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr10",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.9",
-		"content": "Analyze how two or more texts address similar themes or topics in order to build knowledge or to compare the approaches the authors take.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr9",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.8",
-		"content": "Delineate and evaluate the argument and specific claims in a text, including the validity of the reasoning as well as the relevance and sufficiency of the evidence.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr8",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.7",
-		"content": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr7",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.6",
-		"content": "Assess how point of view or purpose shapes the content and style of a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr6",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Craft and Structure",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.5",
-		"content": "Analyze the structure of texts, including how specific sentences, paragraphs, and larger portions of the text (e.g., a section, chapter, scene, or stanza) relate to each other and the whole.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr5",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Craft and Structure",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.4",
-		"content": "Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr4",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Craft and Structure",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.3",
-		"content": "Analyze how and why individuals, events, and ideas develop and interact over the course of a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr3",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.2",
-		"content": "Determine central ideas or themes of a text and analyze their development; summarize the key supporting details and ideas.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr2",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "R.CCR.1",
-		"content": "Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade k",
-			"rccr1",
-			"grade 1",
-			"grade 2",
-			"grade 3",
-			"grade 4",
-			"grade 5",
-			"grade 6",
-			"grade 7",
-			"grade 8",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"College and Career Readiness Anchor Standards for Reading"
-		]
-	},
-	{
-		"displayName": "L.K.5d",
-		"content": "Distinguish shades of meaning among verbs describing the same general action (e.g., walk, march, strut, prance) by acting out the meanings.",
-		"tags": [
-			"l.k.5",
-			"english language arts & literacy",
-			"grade k",
-			"lk5d"
-		],
-		"meta": [
-			"With guidance and support from adults, explore word relationships and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.5c",
-		"content": "Identify real-life connections between words and their use (e.g., note places at school that are colorful).",
-		"tags": [
-			"l.k.5",
-			"english language arts & literacy",
-			"grade k",
-			"lk5c"
-		],
-		"meta": [
-			"With guidance and support from adults, explore word relationships and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.5b",
-		"content": "Demonstrate understanding of frequently occurring verbs and adjectives by relating them to their opposites (antonyms).",
-		"tags": [
-			"l.k.5",
-			"english language arts & literacy",
-			"grade k",
-			"lk5b"
-		],
-		"meta": [
-			"With guidance and support from adults, explore word relationships and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.5a",
-		"content": "Sort common objects into categories (e.g., shapes, foods) to gain a sense of the concepts the categories represent.",
-		"tags": [
-			"l.k.5",
-			"english language arts & literacy",
-			"grade k",
-			"lk5a"
-		],
-		"meta": [
-			"With guidance and support from adults, explore word relationships and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.4b",
-		"content": "Use the most frequently occurring inflections and affixes (e.g., -ed, -s, re-, un-, pre-, -ful, -less) as a clue to the meaning of an unknown word.",
-		"tags": [
-			"l.k.4",
-			"english language arts & literacy",
-			"grade k",
-			"lk4b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.4a",
-		"content": "Identify new meanings for familiar words and apply them accurately (e.g., knowing duck is a bird and learning the verb to duck).",
-		"tags": [
-			"l.k.4",
-			"english language arts & literacy",
-			"grade k",
-			"lk4a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.2d",
-		"content": "Spell simple words phonetically, drawing on knowledge of sound-letter relationships.",
-		"tags": [
-			"l.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"lk2d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.2c",
-		"content": "Write a letter or letters for most consonant and short-vowel sounds (phonemes).",
-		"tags": [
-			"l.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"lk2c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.2b",
-		"content": "Recognize and name end punctuation.",
-		"tags": [
-			"l.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"lk2b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.2a",
-		"content": "Capitalize the first word in a sentence and the pronoun I.",
-		"tags": [
-			"l.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"lk2a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.1f",
-		"content": "Produce and expand complete sentences in shared language activities.",
-		"tags": [
-			"l.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"lk1f"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.1e",
-		"content": "Use the most frequently occurring prepositions (e.g., to, from, in, out, on, off, for, of, by, with).",
-		"tags": [
-			"l.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"lk1e"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.1d",
-		"content": "Understand and use question words (interrogatives) (e.g., who, what, where, when, why, how).",
-		"tags": [
-			"l.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"lk1d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.1c",
-		"content": "Form regular plural nouns orally by adding /s/ or /es/ (e.g., dog, dogs; wish, wishes).",
-		"tags": [
-			"l.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"lk1c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.1b",
-		"content": "Use frequently occurring nouns and verbs.",
-		"tags": [
-			"l.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"lk1b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.K.1a",
-		"content": "Print many upper- and lowercase letters.",
-		"tags": [
-			"l.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"lk1a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.2.a",
-		"content": "Understand and follow one- and two-step oral directions.",
-		"tags": [
-			"sl.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"slk2a"
-		],
-		"meta": [
-			"Confirm understanding of a text read aloud or information presented orally or through other media by asking and answering questions about key details and requesting clarification if something is not understood.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.1.b",
-		"content": "Continue a conversation through multiple exchanges.",
-		"tags": [
-			"sl.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"slk1b"
-		],
-		"meta": [
-			"Participate in collaborative conversations with diverse partners about kindergarten topics and texts with peers and adults in small and larger groups.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.K.1.a",
-		"content": "Follow agreed-upon rules for discussions (e.g., listening to others and taking turns speaking about the topics and texts under discussion).",
-		"tags": [
-			"sl.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"slk1a"
-		],
-		"meta": [
-			"Participate in collaborative conversations with diverse partners about kindergarten topics and texts with peers and adults in small and larger groups.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "RF.K.3d",
-		"content": "Distinguish between similarly spelled words by identifying the sounds of the letters that differ.",
-		"tags": [
-			"rf.k.3",
-			"english language arts & literacy",
-			"grade k",
-			"rfk3d"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.3c",
-		"content": "Read common high-frequency words by sight (e.g., the, of, to, you, she, my, is, are, do, does).",
-		"tags": [
-			"rf.k.3",
-			"english language arts & literacy",
-			"grade k",
-			"rfk3c"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.3b",
-		"content": "Associate the long and short sounds with common spellings (graphemes) for the five major vowels. (Identify which letters represent the five major vowels [Aa, Ee, Ii, Oo, and Uu] and know the long and short sound of each vowel. More complex long vowel graphemes and spellings are targeted in the grade 1 phonics standards.)",
-		"tags": [
-			"rf.k.3",
-			"english language arts & literacy",
-			"grade k",
-			"rfk3b"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.3a",
-		"content": "Demonstrate basic knowledge of one-to-one letter-sound correspondences by producing the primary or many of the most frequent sound for each consonant.",
-		"tags": [
-			"rf.k.3",
-			"english language arts & literacy",
-			"grade k",
-			"rfk3a"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.2f",
-		"content": "Blend two to three phonemes into recognizable words.",
-		"tags": [
-			"rf.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"rfk2f"
-		],
-		"meta": [
-			"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
-			"Phonological Awareness",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.2e",
-		"content": "Add or substitute individual sounds (phonemes) in simple, one-syllable words to make new words.",
-		"tags": [
-			"rf.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"rfk2e"
-		],
-		"meta": [
-			"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
-			"Phonological Awareness",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.2d",
-		"content": "Isolate and pronounce the initial, medial vowel, and final sounds (phonemes) in three-phoneme (consonent-vowel-consonent, or CVC) words. (This does not include CVCs ending with /l/, /r/, or /x/.)",
-		"tags": [
-			"rf.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"rfk2d"
-		],
-		"meta": [
-			"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
-			"Phonological Awareness",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.2c",
-		"content": "Blend and segment onsets and rimes of single-syllable spoken words.",
-		"tags": [
-			"rf.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"rfk2c"
-		],
-		"meta": [
-			"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
-			"Phonological Awareness",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.2b",
-		"content": "Count, pronounce, blend, and segment syllables in spoken words.",
-		"tags": [
-			"rf.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"rfk2b"
-		],
-		"meta": [
-			"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
-			"Phonological Awareness",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.2a",
-		"content": "Recognize and produce rhyming words.",
-		"tags": [
-			"rf.k.2",
-			"english language arts & literacy",
-			"grade k",
-			"rfk2a"
-		],
-		"meta": [
-			"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
-			"Phonological Awareness",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.1d",
-		"content": "Recognize and name all upper- and lowercase letters of the alphabet.",
-		"tags": [
-			"rf.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"rfk1d"
-		],
-		"meta": [
-			"Demonstrate understanding of the organization and basic features of print.",
-			"Print Concepts",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.1c",
-		"content": "Understand that words are separated by spaces in print.",
-		"tags": [
-			"rf.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"rfk1c"
-		],
-		"meta": [
-			"Demonstrate understanding of the organization and basic features of print.",
-			"Print Concepts",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.1b",
-		"content": "Recognize that spoken words are represented in written language by specific sequences of letters.",
-		"tags": [
-			"rf.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"rfk1b"
-		],
-		"meta": [
-			"Demonstrate understanding of the organization and basic features of print.",
-			"Print Concepts",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.K.1a",
-		"content": "Follow words from left to right, top to bottom, and page by page.",
-		"tags": [
-			"rf.k.1",
-			"english language arts & literacy",
-			"grade k",
-			"rfk1a"
-		],
-		"meta": [
-			"Demonstrate understanding of the organization and basic features of print.",
-			"Print Concepts",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RI.K.10b",
-		"content": "Use illustrations and context to make predictions about text.",
-		"tags": [
-			"ri.k.10",
-			"english language arts & literacy",
-			"grade k",
-			"rik10b"
-		],
-		"meta": [
-			"Actively engage in group reading activities with purpose and understanding.",
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.K.10a",
-		"content": "Activate prior knowledge related to the information and events in texts.",
-		"tags": [
-			"ri.k.10",
-			"english language arts & literacy",
-			"grade k",
-			"rik10a"
-		],
-		"meta": [
-			"Actively engage in group reading activities with purpose and understanding.",
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.K.10b",
-		"content": "Use illustrations and context to make predictions about text.",
-		"tags": [
-			"rl.k.10",
-			"english language arts & literacy",
-			"grade k",
-			"rlk10b"
-		],
-		"meta": [
-			"Actively engage in group reading activities with purpose and understanding.",
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.K.10a",
-		"content": "Activate prior knowledge related to the information and events in texts.",
-		"tags": [
-			"rl.k.10",
-			"english language arts & literacy",
-			"grade k",
-			"rlk10a"
-		],
-		"meta": [
-			"Actively engage in group reading activities with purpose and understanding.",
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.K.6",
+			"content": "Use words and phrases acquired through conversations, reading and being read to, and responding to texts.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lk6"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.5",
+			"content": "With guidance and support from adults, explore word relationships and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lk5"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lk4"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lk2"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lk1"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"College and Career Readiness Anchor Standards for Language": [
+		{
+			"displayName": "L.CCR.6",
+			"content": "Acquire and use accurately a range of general academic and domain-specific words and phrases sufficient for reading, writing, speaking, and listening at the college and career readiness level; demonstrate independence in gathering vocabulary knowledge when encountering an unknown term important to comprehension or expression.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lccr6",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"College and Career Readiness Anchor Standards for Language"
+			]
+		},
+		{
+			"displayName": "L.CCR.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lccr5",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"College and Career Readiness Anchor Standards for Language"
+			]
+		},
+		{
+			"displayName": "L.CCR.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases by using context clues, analyzing meaningful word parts, and consulting general and specialized reference materials, as appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lccr4",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"College and Career Readiness Anchor Standards for Language"
+			]
+		},
+		{
+			"displayName": "L.CCR.3",
+			"content": "Apply knowledge of language to understand how language functions in different contexts, to make effective choices for meaning or style, and to comprehend more fully when reading or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lccr3",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"College and Career Readiness Anchor Standards for Language"
+			]
+		},
+		{
+			"displayName": "L.CCR.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lccr2",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"College and Career Readiness Anchor Standards for Language"
+			]
+		},
+		{
+			"displayName": "L.CCR.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"lccr1",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"College and Career Readiness Anchor Standards for Language"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.K.6",
+			"content": "Speak audibly and express thoughts, feelings, and ideas clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slk6"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.K.5",
+			"content": "Add drawings or other visual displays to descriptions as desired to provide additional detail.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slk5"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.K.4",
+			"content": "Describe familiar people, places, things, and events and, with prompting and support, provide additional detail.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slk4"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.K.3",
+			"content": "Ask and answer questions in order to seek help, get information, or clarify something that is not understood.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slk3"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.K.2",
+			"content": "Confirm understanding of a text read aloud or information presented orally or through other media by asking and answering questions about key details and requesting clarification if something is not understood.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slk2"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.K.1",
+			"content": "Participate in collaborative conversations with diverse partners about kindergarten topics and texts with peers and adults in small and larger groups.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slk1"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"College and Career Readiness Anchor Standards for Speaking and Listening": [
+		{
+			"displayName": "SL.CCR.6",
+			"content": "Adapt speech to a variety of contexts and communicative tasks, demonstrating command of formal English when indicated or appropriate.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slccr6",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"College and Career Readiness Anchor Standards for Speaking and Listening"
+			]
+		},
+		{
+			"displayName": "SL.CCR.5",
+			"content": "Make strategic use of digital media and visual displays of data to express information and enhance understanding of presentations.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slccr5",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"College and Career Readiness Anchor Standards for Speaking and Listening"
+			]
+		},
+		{
+			"displayName": "SL.CCR.4",
+			"content": "Present information, findings, and supporting evidence such that listeners can follow the line of reasoning and the organization, development, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slccr4",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"College and Career Readiness Anchor Standards for Speaking and Listening"
+			]
+		},
+		{
+			"displayName": "SL.CCR.3",
+			"content": "Evaluate a speaker's point of view, reasoning, and use of evidence and rhetoric.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slccr3",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"College and Career Readiness Anchor Standards for Speaking and Listening"
+			]
+		},
+		{
+			"displayName": "SL.CCR.2",
+			"content": "Integrate and evaluate information presented in diverse media and formats, including visually, quantitatively, and orally.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slccr2",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"College and Career Readiness Anchor Standards for Speaking and Listening"
+			]
+		},
+		{
+			"displayName": "SL.CCR.1",
+			"content": "Prepare for and participate effectively in a range of conversations and collaborations with diverse partners, building on others' ideas and expressing their own clearly and persuasively.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"slccr1",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"College and Career Readiness Anchor Standards for Speaking and Listening"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.K.8",
+			"content": "With guidance and support from adults, recall information from experiences or gather information from provided sources to answer a question.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wk8"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.K.7",
+			"content": "Participate in shared research and writing projects (e.g., explore a number of books by a favorite author and express opinions about them).",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wk7"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.K.6",
+			"content": "With guidance and support from adults, explore a variety of digital tools to produce and publish writing, including in collaboration with peers.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wk6"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.K.5",
+			"content": "With guidance and support from adults, respond to questions and suggestions from peers and add details to strengthen writing as needed.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wk5"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.K.3",
+			"content": "Use a combination of drawing, dictating, and writing to narrate a single event or several loosely linked events, tell about the events in the order in which they occurred, and provide a reaction to what happened.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wk3"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.K.2",
+			"content": "Use a combination of drawing, dictating, and writing to compose informative/explanatory texts in which they name what they are writing about and supply some information about the topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wk2"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.K.1",
+			"content": "Use a combination of drawing, dictating, and writing to compose opinion pieces in which they tell a reader the topic or the name of the book they are writing about and state an opinion or preference about the topic or book (e.g., My favorite book is…).",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wk1"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"College and Career Readiness Anchor Standards for Writing": [
+		{
+			"displayName": "W.CCR.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr10",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Range of Writing",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr9",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.8",
+			"content": "Gather relevant information from multiple print and digital sources, assess the credibility and accuracy of each source, and integrate the information while avoiding plagiarism.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr8",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.7",
+			"content": "Conduct short as well as more sustained research projects based on focused questions, demonstrating understanding of the subject under investigation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr7",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.6",
+			"content": "Use technology, including the Internet, to produce and publish writing and to interact and collaborate with others.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr6",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.5",
+			"content": "Develop and strengthen writing as needed by planning, revising, editing, rewriting, or trying a new approach.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr5",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.4",
+			"content": "Produce clear and coherent writing in which the development, organization, and style are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr4",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, well-chosen details, and well-structured event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr3",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.2",
+			"content": "Write informative/explanatory texts to examine and convey complex ideas and information clearly and accurately through the effective selection, organization, and analysis of content.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr2",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		},
+		{
+			"displayName": "W.CCR.1",
+			"content": "Write arguments to support claims in an analysis of substantive topics or texts, using valid reasoning and relevant and sufficient evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"wccr1",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"College and Career Readiness Anchor Standards for Writing"
+			]
+		}
+	],
+	"Reading Standards: Foundational Skills": [
+		{
+			"displayName": "RF.K.4",
+			"content": "Read emergent-reader texts with purpose and understanding.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rfk4"
+			],
+			"meta": [
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.3",
+			"content": "Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rfk3"
+			],
+			"meta": [
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.2",
+			"content": "Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rfk2"
+			],
+			"meta": [
+				"Phonological Awareness",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.1",
+			"content": "Demonstrate understanding of the organization and basic features of print.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rfk1"
+			],
+			"meta": [
+				"Print Concepts",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.K.10",
+			"content": "Actively engage in group reading activities with purpose and understanding.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik10"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.9",
+			"content": "With prompting and support, identify basic similarities in and differences between two texts on the same topic (e.g., in illustrations, descriptions, or procedures).",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik9"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.8",
+			"content": "With prompting and support, identify the reasons an author gives to support points in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik8"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.7",
+			"content": "With prompting and support, describe the relationship between illustrations and the text in which they appear (e.g., what person, place, thing, or idea in the text an illustration depicts).",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik7"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.6",
+			"content": "Name the author and illustrator of a text and define the role of each in presenting the ideas or information in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik6"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.5",
+			"content": "Identify the front cover, back cover, and title page of a book.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik5"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.4",
+			"content": "With prompting and support, ask and answer questions about unknown words in a text.(See grade K Language standards 4–6 additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik4"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.3",
+			"content": "With prompting and support, describe the connection between two individuals, events, ideas, or pieces of information in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik3"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.2",
+			"content": "With prompting and support, identify the main topic and retell key details of a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik2"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.1",
+			"content": "With prompting and support, ask and answer questions about key details in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rik1"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.K.10",
+			"content": "Actively engage in group reading activities with purpose and understanding.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk10"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.9",
+			"content": "With prompting and support, compare and contrast the adventures and experiences of characters in familiar stories.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk9"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.7",
+			"content": "With prompting and support, describe the relationship between illustrations and the story in which they appear (e.g., what moment in a story an illustration depicts).",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk7"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.6",
+			"content": "With prompting and support, name the author and illustrator of a story and define the role of each in telling the story.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk6"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.5",
+			"content": "Recognize common types of texts (e.g., storybooks, poems, fantasy, realistic text).",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk5"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.4",
+			"content": "Ask and answer questions about unknown words in a text. (See grade K Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk4"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.3",
+			"content": "With prompting and support, identify characters, settings, and major events in a story.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk3"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.2",
+			"content": "With prompting and support, retell familiar stories, including key details.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk2"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.1",
+			"content": "With prompting and support, ask and answer questions about key details in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rlk1"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"College and Career Readiness Anchor Standards for Reading": [
+		{
+			"displayName": "R.CCR.10",
+			"content": "Read and comprehend complex literary and informational texts independently and proficiently.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr10",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.9",
+			"content": "Analyze how two or more texts address similar themes or topics in order to build knowledge or to compare the approaches the authors take.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr9",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.8",
+			"content": "Delineate and evaluate the argument and specific claims in a text, including the validity of the reasoning as well as the relevance and sufficiency of the evidence.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr8",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.7",
+			"content": "Integrate and evaluate content presented in diverse media and formats, including visually and quantitatively, as well as in words.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr7",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.6",
+			"content": "Assess how point of view or purpose shapes the content and style of a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr6",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Craft and Structure",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.5",
+			"content": "Analyze the structure of texts, including how specific sentences, paragraphs, and larger portions of the text (e.g., a section, chapter, scene, or stanza) relate to each other and the whole.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr5",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Craft and Structure",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.4",
+			"content": "Interpret words and phrases as they are used in a text, including determining technical, connotative, and figurative meanings, and analyze how specific word choices shape meaning or tone.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr4",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Craft and Structure",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.3",
+			"content": "Analyze how and why individuals, events, and ideas develop and interact over the course of a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr3",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.2",
+			"content": "Determine central ideas or themes of a text and analyze their development; summarize the key supporting details and ideas.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr2",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		},
+		{
+			"displayName": "R.CCR.1",
+			"content": "Read closely to determine what the text says explicitly and to make logical inferences from it; cite specific textual evidence when writing or speaking to support conclusions drawn from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade k",
+				"rccr1",
+				"grade 1",
+				"grade 2",
+				"grade 3",
+				"grade 4",
+				"grade 5",
+				"grade 6",
+				"grade 7",
+				"grade 8",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"College and Career Readiness Anchor Standards for Reading"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.K.5d",
+			"content": "Distinguish shades of meaning among verbs describing the same general action (e.g., walk, march, strut, prance) by acting out the meanings.",
+			"tags": [
+				"l.k.5",
+				"english language arts & literacy",
+				"grade k",
+				"lk5d"
+			],
+			"meta": [
+				"With guidance and support from adults, explore word relationships and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.5c",
+			"content": "Identify real-life connections between words and their use (e.g., note places at school that are colorful).",
+			"tags": [
+				"l.k.5",
+				"english language arts & literacy",
+				"grade k",
+				"lk5c"
+			],
+			"meta": [
+				"With guidance and support from adults, explore word relationships and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.5b",
+			"content": "Demonstrate understanding of frequently occurring verbs and adjectives by relating them to their opposites (antonyms).",
+			"tags": [
+				"l.k.5",
+				"english language arts & literacy",
+				"grade k",
+				"lk5b"
+			],
+			"meta": [
+				"With guidance and support from adults, explore word relationships and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.5a",
+			"content": "Sort common objects into categories (e.g., shapes, foods) to gain a sense of the concepts the categories represent.",
+			"tags": [
+				"l.k.5",
+				"english language arts & literacy",
+				"grade k",
+				"lk5a"
+			],
+			"meta": [
+				"With guidance and support from adults, explore word relationships and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.4b",
+			"content": "Use the most frequently occurring inflections and affixes (e.g., -ed, -s, re-, un-, pre-, -ful, -less) as a clue to the meaning of an unknown word.",
+			"tags": [
+				"l.k.4",
+				"english language arts & literacy",
+				"grade k",
+				"lk4b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.4a",
+			"content": "Identify new meanings for familiar words and apply them accurately (e.g., knowing duck is a bird and learning the verb to duck).",
+			"tags": [
+				"l.k.4",
+				"english language arts & literacy",
+				"grade k",
+				"lk4a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on kindergarten reading and content.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.K.2d",
+			"content": "Spell simple words phonetically, drawing on knowledge of sound-letter relationships.",
+			"tags": [
+				"l.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"lk2d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.2c",
+			"content": "Write a letter or letters for most consonant and short-vowel sounds (phonemes).",
+			"tags": [
+				"l.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"lk2c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.2b",
+			"content": "Recognize and name end punctuation.",
+			"tags": [
+				"l.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"lk2b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.2a",
+			"content": "Capitalize the first word in a sentence and the pronoun I.",
+			"tags": [
+				"l.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"lk2a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.1f",
+			"content": "Produce and expand complete sentences in shared language activities.",
+			"tags": [
+				"l.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"lk1f"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.1e",
+			"content": "Use the most frequently occurring prepositions (e.g., to, from, in, out, on, off, for, of, by, with).",
+			"tags": [
+				"l.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"lk1e"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.1d",
+			"content": "Understand and use question words (interrogatives) (e.g., who, what, where, when, why, how).",
+			"tags": [
+				"l.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"lk1d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.1c",
+			"content": "Form regular plural nouns orally by adding /s/ or /es/ (e.g., dog, dogs; wish, wishes).",
+			"tags": [
+				"l.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"lk1c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.1b",
+			"content": "Use frequently occurring nouns and verbs.",
+			"tags": [
+				"l.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"lk1b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.K.1a",
+			"content": "Print many upper- and lowercase letters.",
+			"tags": [
+				"l.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"lk1a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.K.2.a",
+			"content": "Understand and follow one- and two-step oral directions.",
+			"tags": [
+				"sl.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"slk2a"
+			],
+			"meta": [
+				"Confirm understanding of a text read aloud or information presented orally or through other media by asking and answering questions about key details and requesting clarification if something is not understood.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.K.1.b",
+			"content": "Continue a conversation through multiple exchanges.",
+			"tags": [
+				"sl.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"slk1b"
+			],
+			"meta": [
+				"Participate in collaborative conversations with diverse partners about kindergarten topics and texts with peers and adults in small and larger groups.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.K.1.a",
+			"content": "Follow agreed-upon rules for discussions (e.g., listening to others and taking turns speaking about the topics and texts under discussion).",
+			"tags": [
+				"sl.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"slk1a"
+			],
+			"meta": [
+				"Participate in collaborative conversations with diverse partners about kindergarten topics and texts with peers and adults in small and larger groups.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Phonics and Word Recognition": [
+		{
+			"displayName": "RF.K.3d",
+			"content": "Distinguish between similarly spelled words by identifying the sounds of the letters that differ.",
+			"tags": [
+				"rf.k.3",
+				"english language arts & literacy",
+				"grade k",
+				"rfk3d"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.3c",
+			"content": "Read common high-frequency words by sight (e.g., the, of, to, you, she, my, is, are, do, does).",
+			"tags": [
+				"rf.k.3",
+				"english language arts & literacy",
+				"grade k",
+				"rfk3c"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.3b",
+			"content": "Associate the long and short sounds with common spellings (graphemes) for the five major vowels. (Identify which letters represent the five major vowels [Aa, Ee, Ii, Oo, and Uu] and know the long and short sound of each vowel. More complex long vowel graphemes and spellings are targeted in the grade 1 phonics standards.)",
+			"tags": [
+				"rf.k.3",
+				"english language arts & literacy",
+				"grade k",
+				"rfk3b"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.3a",
+			"content": "Demonstrate basic knowledge of one-to-one letter-sound correspondences by producing the primary or many of the most frequent sound for each consonant.",
+			"tags": [
+				"rf.k.3",
+				"english language arts & literacy",
+				"grade k",
+				"rfk3a"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words both in isolation and in text.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Phonological Awareness": [
+		{
+			"displayName": "RF.K.2f",
+			"content": "Blend two to three phonemes into recognizable words.",
+			"tags": [
+				"rf.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"rfk2f"
+			],
+			"meta": [
+				"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+				"Phonological Awareness",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.2e",
+			"content": "Add or substitute individual sounds (phonemes) in simple, one-syllable words to make new words.",
+			"tags": [
+				"rf.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"rfk2e"
+			],
+			"meta": [
+				"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+				"Phonological Awareness",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.2d",
+			"content": "Isolate and pronounce the initial, medial vowel, and final sounds (phonemes) in three-phoneme (consonent-vowel-consonent, or CVC) words. (This does not include CVCs ending with /l/, /r/, or /x/.)",
+			"tags": [
+				"rf.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"rfk2d"
+			],
+			"meta": [
+				"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+				"Phonological Awareness",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.2c",
+			"content": "Blend and segment onsets and rimes of single-syllable spoken words.",
+			"tags": [
+				"rf.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"rfk2c"
+			],
+			"meta": [
+				"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+				"Phonological Awareness",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.2b",
+			"content": "Count, pronounce, blend, and segment syllables in spoken words.",
+			"tags": [
+				"rf.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"rfk2b"
+			],
+			"meta": [
+				"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+				"Phonological Awareness",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.2a",
+			"content": "Recognize and produce rhyming words.",
+			"tags": [
+				"rf.k.2",
+				"english language arts & literacy",
+				"grade k",
+				"rfk2a"
+			],
+			"meta": [
+				"Demonstrate understanding of spoken words, syllables, and sounds (phonemes).",
+				"Phonological Awareness",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Print Concepts": [
+		{
+			"displayName": "RF.K.1d",
+			"content": "Recognize and name all upper- and lowercase letters of the alphabet.",
+			"tags": [
+				"rf.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"rfk1d"
+			],
+			"meta": [
+				"Demonstrate understanding of the organization and basic features of print.",
+				"Print Concepts",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.1c",
+			"content": "Understand that words are separated by spaces in print.",
+			"tags": [
+				"rf.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"rfk1c"
+			],
+			"meta": [
+				"Demonstrate understanding of the organization and basic features of print.",
+				"Print Concepts",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.1b",
+			"content": "Recognize that spoken words are represented in written language by specific sequences of letters.",
+			"tags": [
+				"rf.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"rfk1b"
+			],
+			"meta": [
+				"Demonstrate understanding of the organization and basic features of print.",
+				"Print Concepts",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.K.1a",
+			"content": "Follow words from left to right, top to bottom, and page by page.",
+			"tags": [
+				"rf.k.1",
+				"english language arts & literacy",
+				"grade k",
+				"rfk1a"
+			],
+			"meta": [
+				"Demonstrate understanding of the organization and basic features of print.",
+				"Print Concepts",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Range of Reading and Level of Text Complexity": [
+		{
+			"displayName": "RI.K.10b",
+			"content": "Use illustrations and context to make predictions about text.",
+			"tags": [
+				"ri.k.10",
+				"english language arts & literacy",
+				"grade k",
+				"rik10b"
+			],
+			"meta": [
+				"Actively engage in group reading activities with purpose and understanding.",
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.K.10a",
+			"content": "Activate prior knowledge related to the information and events in texts.",
+			"tags": [
+				"ri.k.10",
+				"english language arts & literacy",
+				"grade k",
+				"rik10a"
+			],
+			"meta": [
+				"Actively engage in group reading activities with purpose and understanding.",
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RL.K.10b",
+			"content": "Use illustrations and context to make predictions about text.",
+			"tags": [
+				"rl.k.10",
+				"english language arts & literacy",
+				"grade k",
+				"rlk10b"
+			],
+			"meta": [
+				"Actively engage in group reading activities with purpose and understanding.",
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.K.10a",
+			"content": "Activate prior knowledge related to the information and events in texts.",
+			"tags": [
+				"rl.k.10",
+				"english language arts & literacy",
+				"grade k",
+				"rlk10a"
+			],
+			"meta": [
+				"Actively engage in group reading activities with purpose and understanding.",
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		}
+	]
+}

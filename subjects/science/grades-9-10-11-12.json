@@ -1,1294 +1,1296 @@
-[
-	{
-		"displayName": "HS-ETS1",
-		"content": "Engineering Design",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ets1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-PS4",
-		"content": "Waves and Their Applications in Technologies for Information Transfer",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps4"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-PS3",
-		"content": "Energy",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps3"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-PS2",
-		"content": "Motion and Stability: Forces and Interactions",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps2"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-PS1",
-		"content": "Matter and Its Interactions",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-ESS3",
-		"content": "Earth and Human Activity",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess3"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-ESS2",
-		"content": "Earth's Systems",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-ESS1",
-		"content": "Earth's Place in the Universe",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-LS4",
-		"content": "Biological Evolution: Unity and Diversity",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls4"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-LS3",
-		"content": "Heredity: Inheritance and Variation of Traits",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls3"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-LS2",
-		"content": "Ecosystems: Interactions, Energy, and Dynamics",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-LS1",
-		"content": "From Molecules to Organisms: Structures and Processes",
-		"tags": [
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1"
-		],
-		"meta": []
-	},
-	{
-		"displayName": "HS-ETS1-4",
-		"content": "Use a computer simulation to model the impact of proposed solutions to a complex real-world problem with numerous criteria and constraints on interactions within and between systems relevant to the problem.",
-		"tags": [
-			"hs-ets1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ets1-4"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "HS-ETS1-3",
-		"content": "Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural, and environmental impacts.",
-		"tags": [
-			"hs-ets1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ets1-3"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "HS-ETS1-2",
-		"content": "Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.",
-		"tags": [
-			"hs-ets1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ets1-2"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "HS-ETS1-1",
-		"content": "Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.",
-		"tags": [
-			"hs-ets1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ets1-1"
-		],
-		"meta": [
-			"Engineering Design"
-		]
-	},
-	{
-		"displayName": "HS-PS4-5",
-		"content": "Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy.",
-		"tags": [
-			"hs-ps4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps4-5"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "HS-PS4-4",
-		"content": "Evaluate the validity and reliability of claims in published materials of the effects that different frequencies of electromagnetic radiation have when absorbed by matter.",
-		"tags": [
-			"hs-ps4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps4-4"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "HS-PS4-3",
-		"content": "Evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described either by a wave model or a particle model, and that for some situations one model is more useful than the other.",
-		"tags": [
-			"hs-ps4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps4-3"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "HS-PS4-2",
-		"content": "Evaluate questions about the advantages of using a digital transmission and storage of information.",
-		"tags": [
-			"hs-ps4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps4-2"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "HS-PS4-1",
-		"content": "Use mathematical representations to support a claim regarding relationships among the frequency, wavelength, and speed of waves traveling in various media.",
-		"tags": [
-			"hs-ps4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps4-1"
-		],
-		"meta": [
-			"Waves and Their Applications in Technologies for Information Transfer"
-		]
-	},
-	{
-		"displayName": "HS-PS3-5",
-		"content": "Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.",
-		"tags": [
-			"hs-ps3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps3-5"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "HS-PS3-4",
-		"content": "Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system (second law of thermodynamics).",
-		"tags": [
-			"hs-ps3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps3-4"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "HS-PS3-3",
-		"content": "Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy.",
-		"tags": [
-			"hs-ps3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps3-3"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "HS-PS3-2",
-		"content": "Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as either motions of particles or energy stored in fields.",
-		"tags": [
-			"hs-ps3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps3-2"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "HS-PS3-1",
-		"content": "Create a computational model to calculate the change in the energy of one component in a system when the change in energy of the other component(s) and energy flows in and out of the system are known.",
-		"tags": [
-			"hs-ps3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps3-1"
-		],
-		"meta": [
-			"Energy"
-		]
-	},
-	{
-		"displayName": "HS-PS2-6",
-		"content": "Communicate scientific and technical information about why the molecular-level structure is important in the functioning of designed materials.",
-		"tags": [
-			"hs-ps2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps2-6"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS2-5",
-		"content": "Plan and conduct an investigation to provide evidence that an electric current can produce a magnetic field and that a changing magnetic field can produce an electric current.",
-		"tags": [
-			"hs-ps2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps2-5"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS2-4",
-		"content": "Use mathematical representations of Newton's Law of Gravitation and Coulomb's Law to describe and predict the gravitational and electrostatic forces between objects.",
-		"tags": [
-			"hs-ps2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps2-4"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS2-3",
-		"content": "Apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes the force on a macroscopic object during a collision.",
-		"tags": [
-			"hs-ps2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps2-3"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS2-2",
-		"content": "Use mathematical representations to support the claim that the total momentum of a system of objects is conserved when there is no net force on the system.",
-		"tags": [
-			"hs-ps2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps2-2"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS2-1",
-		"content": "Analyze data to support the claim that Newton's second law of motion describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration.",
-		"tags": [
-			"hs-ps2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps2-1"
-		],
-		"meta": [
-			"Motion and Stability: Forces and Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-8",
-		"content": "Develop models to illustrate the changes in the composition of the nucleus of the atom and the energy released during the processes of fission, fusion, and radioactive decay.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-8"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-7",
-		"content": "Use mathematical representations to support the claim that atoms, and therefore mass, are conserved during a chemical reaction.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-7"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-6",
-		"content": "Refine the design of a chemical system by specifying a change in conditions that would produce increased amounts of products at equilibrium.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-6"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-5",
-		"content": "Apply scientific principles and evidence to provide an explanation about the effects of changing the temperature or concentration of the reacting particles on the rate at which a reaction occurs.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-5"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-4",
-		"content": "Develop a model to illustrate that the release or absorption of energy from a chemical reaction system depends upon the changes in total bond energy.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-4"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-3",
-		"content": "Plan and conduct an investigation to gather evidence to compare the structure of substances at the bulk scale to infer the strength of electrical forces between particles.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-3"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-2",
-		"content": "Construct and revise an explanation for the outcome of a simple chemical reaction based on the outermost electron states of atoms, trends in the periodic table, and knowledge of the patterns of chemical properties.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-2"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-PS1-1",
-		"content": "Use the periodic table as a model to predict the relative properties of elements based on the patterns of electrons in the outermost energy level of atoms.",
-		"tags": [
-			"hs-ps1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ps1-1"
-		],
-		"meta": [
-			"Matter and Its Interactions"
-		]
-	},
-	{
-		"displayName": "HS-ESS3-6",
-		"content": "Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.",
-		"tags": [
-			"hs-ess3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess3-6"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "HS-ESS3-5",
-		"content": "Analyze geoscience data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate change and associated future impacts to Earth systems.",
-		"tags": [
-			"hs-ess3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess3-5"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "HS-ESS3-4",
-		"content": "Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.",
-		"tags": [
-			"hs-ess3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess3-4"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "HS-ESS3-3",
-		"content": "Create a computational simulation to illustrate the relationships among management of natural resources, the sustainability of human populations, and biodiversity.",
-		"tags": [
-			"hs-ess3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess3-3"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "HS-ESS3-2",
-		"content": "Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios.",
-		"tags": [
-			"hs-ess3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess3-2"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "HS-ESS3-1",
-		"content": "Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity.",
-		"tags": [
-			"hs-ess3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess3-1"
-		],
-		"meta": [
-			"Earth and Human Activity"
-		]
-	},
-	{
-		"displayName": "HS-ESS2-7",
-		"content": "Construct an argument based on evidence about the simultaneous coevolution of Earth systems and life on Earth.",
-		"tags": [
-			"hs-ess2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2-7"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "HS-ESS2-6",
-		"content": "Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.",
-		"tags": [
-			"hs-ess2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2-6"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "HS-ESS2-5",
-		"content": "Plan and conduct an investigation of the properties of water and its effects on Earth materials and surface processes.",
-		"tags": [
-			"hs-ess2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2-5"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "HS-ESS2-4",
-		"content": "Use a model to describe how variations in the flow of energy into and out of Earth systems result in changes in climate.",
-		"tags": [
-			"hs-ess2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2-4"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "HS-ESS2-3",
-		"content": "Develop a model based on evidence of Earth's interior to describe the cycling of matter by thermal convection.",
-		"tags": [
-			"hs-ess2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2-3"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "HS-ESS2-2",
-		"content": "Analyze geoscience data to make the claim that one change to Earth's surface can create feedbacks that cause changes to other Earth systems.",
-		"tags": [
-			"hs-ess2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2-2"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "HS-ESS2-1",
-		"content": "Develop a model to illustrate how Earth's internal and surface processes operate at different spatial and temporal scales to form continental and ocean-floor features.",
-		"tags": [
-			"hs-ess2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess2-1"
-		],
-		"meta": [
-			"Earth's Systems"
-		]
-	},
-	{
-		"displayName": "HS-ESS1-6",
-		"content": "Apply scientific reasoning and evidence from ancient Earth materials, meteorites, and other planetary surfaces to construct an account of Earth's formation and early history.",
-		"tags": [
-			"hs-ess1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess1-6"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "HS-ESS1-5",
-		"content": "Evaluate evidence of the past and current movements of continental and oceanic crust and the theory of plate tectonics to explain the ages of crustal rocks.",
-		"tags": [
-			"hs-ess1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess1-5"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "HS-ESS1-4",
-		"content": "Use mathematical or computational representations to predict the motion of orbiting objects in the solar system.",
-		"tags": [
-			"hs-ess1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess1-4"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "HS-ESS1-3",
-		"content": "Communicate scientific ideas about the way stars, over their life cycle, produce elements.",
-		"tags": [
-			"hs-ess1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess1-3"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "HS-ESS1-2",
-		"content": "Construct an explanation of the Big Bang theory based on astronomical evidence of light spectra, motion of distant galaxies, and composition of matter in the universe.",
-		"tags": [
-			"hs-ess1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess1-2"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "HS-ESS1-1",
-		"content": "Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun's core to release energy that eventually reaches Earth in the form of radiation.",
-		"tags": [
-			"hs-ess1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ess1-1"
-		],
-		"meta": [
-			"Earth's Place in the Universe"
-		]
-	},
-	{
-		"displayName": "HS-LS4-6",
-		"content": "Create or revise a simulation to test a solution to mitigate adverse impacts of human activity on biodiversity.",
-		"tags": [
-			"hs-ls4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls4-6"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "HS-LS4-5",
-		"content": "Evaluate the evidence supporting claims that changes in environmental conditions may result in: (1) increases in the number of individuals of some species, (2) the emergence of new species over time, and (3) the extinction of other species.",
-		"tags": [
-			"hs-ls4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls4-5"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "HS-LS4-4",
-		"content": "Construct an explanation based on evidence for how natural selection leads to adaptation of populations.",
-		"tags": [
-			"hs-ls4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls4-4"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "HS-LS4-3",
-		"content": "Apply concepts of statistics and probability to support explanations that organisms with an advantageous heritable trait tend to increase in proportion to organisms lacking this trait.",
-		"tags": [
-			"hs-ls4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls4-3"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "HS-LS4-2",
-		"content": "Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment.",
-		"tags": [
-			"hs-ls4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls4-2"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "HS-LS4-1",
-		"content": "Communicate scientific information that common ancestry and biological evolution are supported by multiple lines of empirical evidence.",
-		"tags": [
-			"hs-ls4",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls4-1"
-		],
-		"meta": [
-			"Biological Evolution: Unity and Diversity"
-		]
-	},
-	{
-		"displayName": "HS-LS3-3",
-		"content": "Apply concepts of statistics and probability to explain the variation and distribution of expressed traits in a population.",
-		"tags": [
-			"hs-ls3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls3-3"
-		],
-		"meta": [
-			"Heredity: Inheritance and Variation of Traits"
-		]
-	},
-	{
-		"displayName": "HS-LS3-2",
-		"content": "Make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by environmental factors.",
-		"tags": [
-			"hs-ls3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls3-2"
-		],
-		"meta": [
-			"Heredity: Inheritance and Variation of Traits"
-		]
-	},
-	{
-		"displayName": "HS-LS3-1",
-		"content": "Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring.",
-		"tags": [
-			"hs-ls3",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls3-1"
-		],
-		"meta": [
-			"Heredity: Inheritance and Variation of Traits"
-		]
-	},
-	{
-		"displayName": "HS-LS2-8",
-		"content": "Evaluate the evidence for the role of group behavior on individual and species' chances to survive and reproduce.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-8"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS2-7",
-		"content": "Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-7"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS2-6",
-		"content": "Evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-6"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS2-5",
-		"content": "Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-5"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS2-4",
-		"content": "Use a mathematical representation to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-4"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS2-3",
-		"content": "Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-3"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS2-2",
-		"content": "Use mathematical representations to support and revise explanations based on evidence about factors affecting biodiversity and populations in ecosystems of different scales.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-2"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS2-1",
-		"content": "Use mathematical and/or computational representations to support explanations of factors that affect carrying capacity of ecosystems at different scales.",
-		"tags": [
-			"hs-ls2",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls2-1"
-		],
-		"meta": [
-			"Ecosystems: Interactions, Energy, and Dynamics"
-		]
-	},
-	{
-		"displayName": "HS-LS1-7",
-		"content": "Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.",
-		"tags": [
-			"hs-ls1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1-7"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "HS-LS1-6",
-		"content": "Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.",
-		"tags": [
-			"hs-ls1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1-6"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "HS-LS1-5",
-		"content": "Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.",
-		"tags": [
-			"hs-ls1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1-5"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "HS-LS1-4",
-		"content": "Use a model to illustrate the role of cellular division (mitosis) and differentiation in producing and maintaining complex organisms.",
-		"tags": [
-			"hs-ls1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1-4"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "HS-LS1-3",
-		"content": "Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis.",
-		"tags": [
-			"hs-ls1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1-3"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "HS-LS1-2",
-		"content": "Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms.",
-		"tags": [
-			"hs-ls1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1-2"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	},
-	{
-		"displayName": "HS-LS1-1",
-		"content": "Construct an explanation based on evidence for how the structure of DNA determines the structure of proteins which carry out the essential functions of life through systems of specialized cells.",
-		"tags": [
-			"hs-ls1",
-			"science",
-			"grade 9",
-			"grade 10",
-			"grade 11",
-			"grade 12",
-			"hs-ls1-1"
-		],
-		"meta": [
-			"From Molecules to Organisms: Structures and Processes"
-		]
-	}
-]
+{
+	"undefined": [
+		{
+			"displayName": "HS-ETS1",
+			"content": "Engineering Design",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ets1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-PS4",
+			"content": "Waves and Their Applications in Technologies for Information Transfer",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps4"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-PS3",
+			"content": "Energy",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps3"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-PS2",
+			"content": "Motion and Stability: Forces and Interactions",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps2"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-PS1",
+			"content": "Matter and Its Interactions",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-ESS3",
+			"content": "Earth and Human Activity",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess3"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-ESS2",
+			"content": "Earth's Systems",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-ESS1",
+			"content": "Earth's Place in the Universe",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-LS4",
+			"content": "Biological Evolution: Unity and Diversity",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls4"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-LS3",
+			"content": "Heredity: Inheritance and Variation of Traits",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls3"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-LS2",
+			"content": "Ecosystems: Interactions, Energy, and Dynamics",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-LS1",
+			"content": "From Molecules to Organisms: Structures and Processes",
+			"tags": [
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1"
+			],
+			"meta": []
+		},
+		{
+			"displayName": "HS-ETS1-4",
+			"content": "Use a computer simulation to model the impact of proposed solutions to a complex real-world problem with numerous criteria and constraints on interactions within and between systems relevant to the problem.",
+			"tags": [
+				"hs-ets1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ets1-4"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "HS-ETS1-3",
+			"content": "Evaluate a solution to a complex real-world problem based on prioritized criteria and trade-offs that account for a range of constraints, including cost, safety, reliability, and aesthetics, as well as possible social, cultural, and environmental impacts.",
+			"tags": [
+				"hs-ets1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ets1-3"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "HS-ETS1-2",
+			"content": "Design a solution to a complex real-world problem by breaking it down into smaller, more manageable problems that can be solved through engineering.",
+			"tags": [
+				"hs-ets1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ets1-2"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "HS-ETS1-1",
+			"content": "Analyze a major global challenge to specify qualitative and quantitative criteria and constraints for solutions that account for societal needs and wants.",
+			"tags": [
+				"hs-ets1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ets1-1"
+			],
+			"meta": [
+				"Engineering Design"
+			]
+		},
+		{
+			"displayName": "HS-PS4-5",
+			"content": "Communicate technical information about how some technological devices use the principles of wave behavior and wave interactions with matter to transmit and capture information and energy.",
+			"tags": [
+				"hs-ps4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps4-5"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "HS-PS4-4",
+			"content": "Evaluate the validity and reliability of claims in published materials of the effects that different frequencies of electromagnetic radiation have when absorbed by matter.",
+			"tags": [
+				"hs-ps4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps4-4"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "HS-PS4-3",
+			"content": "Evaluate the claims, evidence, and reasoning behind the idea that electromagnetic radiation can be described either by a wave model or a particle model, and that for some situations one model is more useful than the other.",
+			"tags": [
+				"hs-ps4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps4-3"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "HS-PS4-2",
+			"content": "Evaluate questions about the advantages of using a digital transmission and storage of information.",
+			"tags": [
+				"hs-ps4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps4-2"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "HS-PS4-1",
+			"content": "Use mathematical representations to support a claim regarding relationships among the frequency, wavelength, and speed of waves traveling in various media.",
+			"tags": [
+				"hs-ps4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps4-1"
+			],
+			"meta": [
+				"Waves and Their Applications in Technologies for Information Transfer"
+			]
+		},
+		{
+			"displayName": "HS-PS3-5",
+			"content": "Develop and use a model of two objects interacting through electric or magnetic fields to illustrate the forces between objects and the changes in energy of the objects due to the interaction.",
+			"tags": [
+				"hs-ps3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps3-5"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "HS-PS3-4",
+			"content": "Plan and conduct an investigation to provide evidence that the transfer of thermal energy when two components of different temperature are combined within a closed system results in a more uniform energy distribution among the components in the system (second law of thermodynamics).",
+			"tags": [
+				"hs-ps3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps3-4"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "HS-PS3-3",
+			"content": "Design, build, and refine a device that works within given constraints to convert one form of energy into another form of energy.",
+			"tags": [
+				"hs-ps3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps3-3"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "HS-PS3-2",
+			"content": "Develop and use models to illustrate that energy at the macroscopic scale can be accounted for as either motions of particles or energy stored in fields.",
+			"tags": [
+				"hs-ps3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps3-2"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "HS-PS3-1",
+			"content": "Create a computational model to calculate the change in the energy of one component in a system when the change in energy of the other component(s) and energy flows in and out of the system are known.",
+			"tags": [
+				"hs-ps3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps3-1"
+			],
+			"meta": [
+				"Energy"
+			]
+		},
+		{
+			"displayName": "HS-PS2-6",
+			"content": "Communicate scientific and technical information about why the molecular-level structure is important in the functioning of designed materials.",
+			"tags": [
+				"hs-ps2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps2-6"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS2-5",
+			"content": "Plan and conduct an investigation to provide evidence that an electric current can produce a magnetic field and that a changing magnetic field can produce an electric current.",
+			"tags": [
+				"hs-ps2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps2-5"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS2-4",
+			"content": "Use mathematical representations of Newton's Law of Gravitation and Coulomb's Law to describe and predict the gravitational and electrostatic forces between objects.",
+			"tags": [
+				"hs-ps2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps2-4"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS2-3",
+			"content": "Apply scientific and engineering ideas to design, evaluate, and refine a device that minimizes the force on a macroscopic object during a collision.",
+			"tags": [
+				"hs-ps2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps2-3"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS2-2",
+			"content": "Use mathematical representations to support the claim that the total momentum of a system of objects is conserved when there is no net force on the system.",
+			"tags": [
+				"hs-ps2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps2-2"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS2-1",
+			"content": "Analyze data to support the claim that Newton's second law of motion describes the mathematical relationship among the net force on a macroscopic object, its mass, and its acceleration.",
+			"tags": [
+				"hs-ps2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps2-1"
+			],
+			"meta": [
+				"Motion and Stability: Forces and Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-8",
+			"content": "Develop models to illustrate the changes in the composition of the nucleus of the atom and the energy released during the processes of fission, fusion, and radioactive decay.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-8"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-7",
+			"content": "Use mathematical representations to support the claim that atoms, and therefore mass, are conserved during a chemical reaction.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-7"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-6",
+			"content": "Refine the design of a chemical system by specifying a change in conditions that would produce increased amounts of products at equilibrium.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-6"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-5",
+			"content": "Apply scientific principles and evidence to provide an explanation about the effects of changing the temperature or concentration of the reacting particles on the rate at which a reaction occurs.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-5"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-4",
+			"content": "Develop a model to illustrate that the release or absorption of energy from a chemical reaction system depends upon the changes in total bond energy.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-4"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-3",
+			"content": "Plan and conduct an investigation to gather evidence to compare the structure of substances at the bulk scale to infer the strength of electrical forces between particles.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-3"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-2",
+			"content": "Construct and revise an explanation for the outcome of a simple chemical reaction based on the outermost electron states of atoms, trends in the periodic table, and knowledge of the patterns of chemical properties.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-2"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-PS1-1",
+			"content": "Use the periodic table as a model to predict the relative properties of elements based on the patterns of electrons in the outermost energy level of atoms.",
+			"tags": [
+				"hs-ps1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ps1-1"
+			],
+			"meta": [
+				"Matter and Its Interactions"
+			]
+		},
+		{
+			"displayName": "HS-ESS3-6",
+			"content": "Use a computational representation to illustrate the relationships among Earth systems and how those relationships are being modified due to human activity.",
+			"tags": [
+				"hs-ess3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess3-6"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "HS-ESS3-5",
+			"content": "Analyze geoscience data and the results from global climate models to make an evidence-based forecast of the current rate of global or regional climate change and associated future impacts to Earth systems.",
+			"tags": [
+				"hs-ess3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess3-5"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "HS-ESS3-4",
+			"content": "Evaluate or refine a technological solution that reduces impacts of human activities on natural systems.",
+			"tags": [
+				"hs-ess3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess3-4"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "HS-ESS3-3",
+			"content": "Create a computational simulation to illustrate the relationships among management of natural resources, the sustainability of human populations, and biodiversity.",
+			"tags": [
+				"hs-ess3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess3-3"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "HS-ESS3-2",
+			"content": "Evaluate competing design solutions for developing, managing, and utilizing energy and mineral resources based on cost-benefit ratios.",
+			"tags": [
+				"hs-ess3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess3-2"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "HS-ESS3-1",
+			"content": "Construct an explanation based on evidence for how the availability of natural resources, occurrence of natural hazards, and changes in climate have influenced human activity.",
+			"tags": [
+				"hs-ess3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess3-1"
+			],
+			"meta": [
+				"Earth and Human Activity"
+			]
+		},
+		{
+			"displayName": "HS-ESS2-7",
+			"content": "Construct an argument based on evidence about the simultaneous coevolution of Earth systems and life on Earth.",
+			"tags": [
+				"hs-ess2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2-7"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "HS-ESS2-6",
+			"content": "Develop a quantitative model to describe the cycling of carbon among the hydrosphere, atmosphere, geosphere, and biosphere.",
+			"tags": [
+				"hs-ess2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2-6"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "HS-ESS2-5",
+			"content": "Plan and conduct an investigation of the properties of water and its effects on Earth materials and surface processes.",
+			"tags": [
+				"hs-ess2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2-5"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "HS-ESS2-4",
+			"content": "Use a model to describe how variations in the flow of energy into and out of Earth systems result in changes in climate.",
+			"tags": [
+				"hs-ess2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2-4"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "HS-ESS2-3",
+			"content": "Develop a model based on evidence of Earth's interior to describe the cycling of matter by thermal convection.",
+			"tags": [
+				"hs-ess2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2-3"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "HS-ESS2-2",
+			"content": "Analyze geoscience data to make the claim that one change to Earth's surface can create feedbacks that cause changes to other Earth systems.",
+			"tags": [
+				"hs-ess2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2-2"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "HS-ESS2-1",
+			"content": "Develop a model to illustrate how Earth's internal and surface processes operate at different spatial and temporal scales to form continental and ocean-floor features.",
+			"tags": [
+				"hs-ess2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess2-1"
+			],
+			"meta": [
+				"Earth's Systems"
+			]
+		},
+		{
+			"displayName": "HS-ESS1-6",
+			"content": "Apply scientific reasoning and evidence from ancient Earth materials, meteorites, and other planetary surfaces to construct an account of Earth's formation and early history.",
+			"tags": [
+				"hs-ess1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess1-6"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "HS-ESS1-5",
+			"content": "Evaluate evidence of the past and current movements of continental and oceanic crust and the theory of plate tectonics to explain the ages of crustal rocks.",
+			"tags": [
+				"hs-ess1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess1-5"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "HS-ESS1-4",
+			"content": "Use mathematical or computational representations to predict the motion of orbiting objects in the solar system.",
+			"tags": [
+				"hs-ess1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess1-4"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "HS-ESS1-3",
+			"content": "Communicate scientific ideas about the way stars, over their life cycle, produce elements.",
+			"tags": [
+				"hs-ess1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess1-3"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "HS-ESS1-2",
+			"content": "Construct an explanation of the Big Bang theory based on astronomical evidence of light spectra, motion of distant galaxies, and composition of matter in the universe.",
+			"tags": [
+				"hs-ess1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess1-2"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "HS-ESS1-1",
+			"content": "Develop a model based on evidence to illustrate the life span of the sun and the role of nuclear fusion in the sun's core to release energy that eventually reaches Earth in the form of radiation.",
+			"tags": [
+				"hs-ess1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ess1-1"
+			],
+			"meta": [
+				"Earth's Place in the Universe"
+			]
+		},
+		{
+			"displayName": "HS-LS4-6",
+			"content": "Create or revise a simulation to test a solution to mitigate adverse impacts of human activity on biodiversity.",
+			"tags": [
+				"hs-ls4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls4-6"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "HS-LS4-5",
+			"content": "Evaluate the evidence supporting claims that changes in environmental conditions may result in: (1) increases in the number of individuals of some species, (2) the emergence of new species over time, and (3) the extinction of other species.",
+			"tags": [
+				"hs-ls4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls4-5"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "HS-LS4-4",
+			"content": "Construct an explanation based on evidence for how natural selection leads to adaptation of populations.",
+			"tags": [
+				"hs-ls4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls4-4"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "HS-LS4-3",
+			"content": "Apply concepts of statistics and probability to support explanations that organisms with an advantageous heritable trait tend to increase in proportion to organisms lacking this trait.",
+			"tags": [
+				"hs-ls4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls4-3"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "HS-LS4-2",
+			"content": "Construct an explanation based on evidence that the process of evolution primarily results from four factors: (1) the potential for a species to increase in number, (2) the heritable genetic variation of individuals in a species due to mutation and sexual reproduction, (3) competition for limited resources, and (4) the proliferation of those organisms that are better able to survive and reproduce in the environment.",
+			"tags": [
+				"hs-ls4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls4-2"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "HS-LS4-1",
+			"content": "Communicate scientific information that common ancestry and biological evolution are supported by multiple lines of empirical evidence.",
+			"tags": [
+				"hs-ls4",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls4-1"
+			],
+			"meta": [
+				"Biological Evolution: Unity and Diversity"
+			]
+		},
+		{
+			"displayName": "HS-LS3-3",
+			"content": "Apply concepts of statistics and probability to explain the variation and distribution of expressed traits in a population.",
+			"tags": [
+				"hs-ls3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls3-3"
+			],
+			"meta": [
+				"Heredity: Inheritance and Variation of Traits"
+			]
+		},
+		{
+			"displayName": "HS-LS3-2",
+			"content": "Make and defend a claim based on evidence that inheritable genetic variations may result from: (1) new genetic combinations through meiosis, (2) viable errors occurring during replication, and/or (3) mutations caused by environmental factors.",
+			"tags": [
+				"hs-ls3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls3-2"
+			],
+			"meta": [
+				"Heredity: Inheritance and Variation of Traits"
+			]
+		},
+		{
+			"displayName": "HS-LS3-1",
+			"content": "Ask questions to clarify relationships about the role of DNA and chromosomes in coding the instructions for characteristic traits passed from parents to offspring.",
+			"tags": [
+				"hs-ls3",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls3-1"
+			],
+			"meta": [
+				"Heredity: Inheritance and Variation of Traits"
+			]
+		},
+		{
+			"displayName": "HS-LS2-8",
+			"content": "Evaluate the evidence for the role of group behavior on individual and species' chances to survive and reproduce.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-8"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS2-7",
+			"content": "Design, evaluate, and refine a solution for reducing the impacts of human activities on the environment and biodiversity.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-7"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS2-6",
+			"content": "Evaluate the claims, evidence, and reasoning that the complex interactions in ecosystems maintain relatively consistent numbers and types of organisms in stable conditions, but changing conditions may result in a new ecosystem.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-6"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS2-5",
+			"content": "Develop a model to illustrate the role of photosynthesis and cellular respiration in the cycling of carbon among the biosphere, atmosphere, hydrosphere, and geosphere.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-5"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS2-4",
+			"content": "Use a mathematical representation to support claims for the cycling of matter and flow of energy among organisms in an ecosystem.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-4"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS2-3",
+			"content": "Construct and revise an explanation based on evidence for the cycling of matter and flow of energy in aerobic and anaerobic conditions.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-3"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS2-2",
+			"content": "Use mathematical representations to support and revise explanations based on evidence about factors affecting biodiversity and populations in ecosystems of different scales.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-2"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS2-1",
+			"content": "Use mathematical and/or computational representations to support explanations of factors that affect carrying capacity of ecosystems at different scales.",
+			"tags": [
+				"hs-ls2",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls2-1"
+			],
+			"meta": [
+				"Ecosystems: Interactions, Energy, and Dynamics"
+			]
+		},
+		{
+			"displayName": "HS-LS1-7",
+			"content": "Use a model to illustrate that cellular respiration is a chemical process whereby the bonds of food molecules and oxygen molecules are broken and the bonds in new compounds are formed resulting in a net transfer of energy.",
+			"tags": [
+				"hs-ls1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1-7"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "HS-LS1-6",
+			"content": "Construct and revise an explanation based on evidence for how carbon, hydrogen, and oxygen from sugar molecules may combine with other elements to form amino acids and/or other large carbon-based molecules.",
+			"tags": [
+				"hs-ls1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1-6"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "HS-LS1-5",
+			"content": "Use a model to illustrate how photosynthesis transforms light energy into stored chemical energy.",
+			"tags": [
+				"hs-ls1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1-5"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "HS-LS1-4",
+			"content": "Use a model to illustrate the role of cellular division (mitosis) and differentiation in producing and maintaining complex organisms.",
+			"tags": [
+				"hs-ls1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1-4"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "HS-LS1-3",
+			"content": "Plan and conduct an investigation to provide evidence that feedback mechanisms maintain homeostasis.",
+			"tags": [
+				"hs-ls1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1-3"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "HS-LS1-2",
+			"content": "Develop and use a model to illustrate the hierarchical organization of interacting systems that provide specific functions within multicellular organisms.",
+			"tags": [
+				"hs-ls1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1-2"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		},
+		{
+			"displayName": "HS-LS1-1",
+			"content": "Construct an explanation based on evidence for how the structure of DNA determines the structure of proteins which carry out the essential functions of life through systems of specialized cells.",
+			"tags": [
+				"hs-ls1",
+				"science",
+				"grade 9",
+				"grade 10",
+				"grade 11",
+				"grade 12",
+				"hs-ls1-1"
+			],
+			"meta": [
+				"From Molecules to Organisms: Structures and Processes"
+			]
+		}
+	]
+}

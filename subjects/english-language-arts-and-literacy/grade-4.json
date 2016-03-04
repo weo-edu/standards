@@ -1,1251 +1,1281 @@
-[
-	{
-		"displayName": "L.4.6",
-		"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal precise actions, emotions, or states of being (e.g., quizzed, whined, stammered) and that are basic to a particular topic (e.g., wildlife, conservation, and endangered when discussing animal preservation).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"l46"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.5",
-		"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"l45"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.4",
-		"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"l44"
-		],
-		"meta": [
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.3",
-		"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"l43"
-		],
-		"meta": [
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.2",
-		"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"l42"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1",
-		"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"l41"
-		],
-		"meta": [
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.6",
-		"content": "Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is appropriate (e.g., small-group discussion); use formal English when appropriate to task and situation.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"sl46"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.5",
-		"content": "Add audio recordings and visual displays to presentations when appropriate to enhance the development of main ideas or themes.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"sl45"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.4",
-		"content": "Report on a topic or text, tell a story, or recount an experience in an organized manner, using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"sl44"
-		],
-		"meta": [
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.3",
-		"content": "Identify the reasons and evidence a speaker or media source provides to support particular points.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"sl43"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.2",
-		"content": "Paraphrase portions of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"sl42"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.1",
-		"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"sl41"
-		],
-		"meta": [
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.4.10",
-		"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w410"
-		],
-		"meta": [
-			"Range of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.9",
-		"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w49"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.8",
-		"content": "Recall relevant information from experiences or gather relevant information from print and digital sources; take notes, paraphrase, and categorize information, and provide a list of sources.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w48"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.7",
-		"content": "Conduct short research projects that build knowledge through investigation of different aspects of a topic.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w47"
-		],
-		"meta": [
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.6",
-		"content": "With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of one page in a single sitting.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w46"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.5",
-		"content": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w45"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.4",
-		"content": "Produce clear and coherent writing (including multiple-paragraph texts) in which the development and organization are appropriate to task, purpose, and audience.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w44"
-		],
-		"meta": [
-			"Production and Distribution of Writing",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.3",
-		"content": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w43"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.2",
-		"content": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w42"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.1",
-		"content": "Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"w41"
-		],
-		"meta": [
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RF.4.4",
-		"content": "Read with sufficient accuracy and fluency to support comprehension.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rf44"
-		],
-		"meta": [
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.4.3",
-		"content": "Know and apply grade-level phonics and word analysis skills in decoding words.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rf43"
-		],
-		"meta": [
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RI.4.10",
-		"content": "By the end of year, read and comprehend informational texts, including history/social studies, science, and technical texts, in the grades 4—5 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri410"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.9",
-		"content": "Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri49"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.8",
-		"content": "Explain how an author uses reasons and evidence to support particular points in a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri48"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.7",
-		"content": "Interpret information presented visually, orally, or quantitatively (e.g., in charts, graphs, diagrams, time lines, animations, or interactive elements on Web pages) and explain how the information contributes to an understanding of the text in which it appears.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri47"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.6",
-		"content": "Compare and contrast a firsthand and secondhand account of the same event or topic; describe the differences in focus and the information provided.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri46"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.5",
-		"content": "Describe the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in a text or part of a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri45"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "CCSS.ELA-Literacy.RI.4.4",
-		"content": "Determine the meaning of general academic and domain-specific words or phrases in a text relevant to a grade 4 topic or subject area. (See grade 4 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ccssela-literacyri44"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.3",
-		"content": "Explain events, procedures, ideas, or concepts in a historical, scientific, or technical text, including what happened and why, based on specific information in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri43"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.2",
-		"content": "Determine the main idea of a text and explain how it is supported by key details; summarize the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri42"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RI.4.1",
-		"content": "Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"ri41"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Informational Text"
-		]
-	},
-	{
-		"displayName": "RL.4.10",
-		"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, in the grades 4—5 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl410"
-		],
-		"meta": [
-			"Range of Reading and Level of Text Complexity",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.9",
-		"content": "Compare and contrast the treatment of similar themes and topics (e.g., opposition of good and evil) and patterns of events (e.g., the quest) in stories, myths, and traditional literature from different cultures.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl49"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.7",
-		"content": "Make connections between the text of a story or drama and a visual or oral presentation of the text, identifying where each version reflects specific descriptions and directions in the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl47"
-		],
-		"meta": [
-			"Integration of Knowledge and Ideas",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.6",
-		"content": "Compare and contrast the point of view from which different stories are narrated, including the difference between first- and third-person narrations.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl46"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.5",
-		"content": "Explain major differences between poems, drama, and prose, and refer to the structural elements of poems (e.g., verse, rhythm, meter) and drama (e.g., casts of characters, settings, descriptions, dialogue, stage directions) when writing or speaking about a text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl45"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.4",
-		"content": "Determine the meaning of words and phrases as they are used in a text, including those that allude to significant characters found in mythology (e.g., Herculean). (See grade 4 Language standards 4–6 for additional expectations.)",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl44"
-		],
-		"meta": [
-			"Craft and Structure",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.3",
-		"content": "Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text (e.g., a character's thoughts, words, or actions).",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl43"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.2",
-		"content": "Determine a theme of a story, drama, or poem from details in the text; summarize the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl42"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "RL.4.1",
-		"content": "Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text.",
-		"tags": [
-			"english language arts & literacy",
-			"grade 4",
-			"rl41"
-		],
-		"meta": [
-			"Key Ideas and Details",
-			"Reading Standards for Literature"
-		]
-	},
-	{
-		"displayName": "L.4.5c",
-		"content": "Demonstrate understanding of words by relating them to their opposites (antonyms) and to words with similar but not identical meanings (synonyms).",
-		"tags": [
-			"l.4.5",
-			"english language arts & literacy",
-			"grade 4",
-			"l45c"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.5b",
-		"content": "Recognize and explain the meaning of common idioms, adages, and proverbs.",
-		"tags": [
-			"l.4.5",
-			"english language arts & literacy",
-			"grade 4",
-			"l45b"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.5a",
-		"content": "Explain the meaning of simple similes and metaphors (e.g., as pretty as a picture) in context.",
-		"tags": [
-			"l.4.5",
-			"english language arts & literacy",
-			"grade 4",
-			"l45a"
-		],
-		"meta": [
-			"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.4c",
-		"content": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation and determine or clarify the precise meaning of key words and phrases and to identify alternate word choices in all content areas.",
-		"tags": [
-			"l.4.4",
-			"english language arts & literacy",
-			"grade 4",
-			"l44c"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.4b",
-		"content": "Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., telegraph, photograph, autograph).",
-		"tags": [
-			"l.4.4",
-			"english language arts & literacy",
-			"grade 4",
-			"l44b"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.4a",
-		"content": "Use context (e.g., definitions, examples, or restatements in text) as a clue to the meaning of a word or phrase.",
-		"tags": [
-			"l.4.4",
-			"english language arts & literacy",
-			"grade 4",
-			"l44a"
-		],
-		"meta": [
-			"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
-			"Vocabulary Acquisition and Use",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.3c",
-		"content": "Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is appropriate (e.g., small-group discussion).",
-		"tags": [
-			"l.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"l43c"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.3b",
-		"content": "Choose punctuation for effect.",
-		"tags": [
-			"l.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"l43b"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.3a",
-		"content": "Choose words and phrases to convey ideas precisely.",
-		"tags": [
-			"l.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"l43a"
-		],
-		"meta": [
-			"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
-			"Knowledge of Language",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.2d",
-		"content": "Spell grade-appropriate words correctly, consulting references as needed.",
-		"tags": [
-			"l.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"l42d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.2c",
-		"content": "Use a comma before a coordinating conjunction in a compound sentence.",
-		"tags": [
-			"l.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"l42c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.2b",
-		"content": "Use commas and quotation marks to mark direct speech and quotations from a text.",
-		"tags": [
-			"l.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"l42b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.2a",
-		"content": "Use correct capitalization.",
-		"tags": [
-			"l.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"l42a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1h",
-		"content": "Write fluidly and legibly in cursive or joined italics.",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41h"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1g",
-		"content": "Correctly use frequently confused words (e.g., to, too, two; there, their).",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41g"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1f",
-		"content": "Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons.",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41f"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1e",
-		"content": "Form and use prepositional phrases.",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41e"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1d",
-		"content": "Order adjectives within sentences according to conventional patterns (e.g., a small red bag rather than a red small bag).",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41d"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1c",
-		"content": "Use modal auxiliaries (e.g., can, may, must) to convey various conditions.",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41c"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1b",
-		"content": "Form and use the progressive (e.g., I was walking; I am walking; I will be walking) verb tenses.",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41b"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "L.4.1a",
-		"content": "Use interrogative, relative pronouns (who, whose, whom, which, that) and relative adverbs (where, when, why).",
-		"tags": [
-			"l.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"l41a"
-		],
-		"meta": [
-			"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
-			"Conventions of Standard English",
-			"Language Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.4a",
-		"content": "Plan and deliver a narrative presentation that: relates ideas, observations, or recollections; provides a clear context; and includes clear insight into why the event or experience is memorable.",
-		"tags": [
-			"sl.4.4",
-			"english language arts & literacy",
-			"grade 4",
-			"sl44a"
-		],
-		"meta": [
-			"Report on a topic or text, tell a story, or recount an experience in an organized manner, using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
-			"Presentation of Knowledge and Ideas",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.1.d",
-		"content": "Review the key ideas expressed and explain their own ideas and understanding in light of the discussion.",
-		"tags": [
-			"sl.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"sl41d"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.1.c",
-		"content": "Pose and respond to specific questions to clarify or follow up on information, and make comments that contribute to the discussion and link to the remarks of others.",
-		"tags": [
-			"sl.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"sl41c"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.1.b",
-		"content": "Follow agreed-upon rules for discussions and carry out assigned roles.",
-		"tags": [
-			"sl.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"sl41b"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "SL.4.1.a",
-		"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.",
-		"tags": [
-			"sl.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"sl41a"
-		],
-		"meta": [
-			"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
-			"Comprehension and Collaboration",
-			"Speaking and Listening Standards"
-		]
-	},
-	{
-		"displayName": "W.4.9.b",
-		"content": "Apply grade 4 Reading standards to informational texts (e.g., \"Explain how an author uses reasons and evidence to support particular points in a text\").",
-		"tags": [
-			"w.4.9",
-			"english language arts & literacy",
-			"grade 4",
-			"w49b"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.9.a",
-		"content": "Apply grade 4 Reading standards to literature (e.g., \"Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text [e.g., a character's thoughts, words, or actions].\").",
-		"tags": [
-			"w.4.9",
-			"english language arts & literacy",
-			"grade 4",
-			"w49a"
-		],
-		"meta": [
-			"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
-			"Research to Build and Present Knowledge",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.3e",
-		"content": "Provide a conclusion that follows from the narrated experiences or events.",
-		"tags": [
-			"w.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"w43e"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.3d",
-		"content": "Use concrete words and phrases and sensory details to convey experiences and events precisely.",
-		"tags": [
-			"w.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"w43d"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.3c",
-		"content": "Use a variety of transitional words and phrases to manage the sequence of events.",
-		"tags": [
-			"w.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"w43c"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.3b",
-		"content": "Use dialogue and description to develop experiences and events or show the responses of characters to situations.",
-		"tags": [
-			"w.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"w43b"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.3a",
-		"content": "Orient the reader by establishing a situationand introducing a narrator and/or characters; organize an event sequence that unfolds naturally.",
-		"tags": [
-			"w.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"w43a"
-		],
-		"meta": [
-			"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.2e",
-		"content": "Provide a concluding statement or section related to the information or explanation presented",
-		"tags": [
-			"w.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"w42e"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.2d",
-		"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
-		"tags": [
-			"w.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"w42d"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.2c",
-		"content": "Link ideas within categories of information using words and phrases (e.g., another, for example, also, because).",
-		"tags": [
-			"w.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"w42c"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.2b",
-		"content": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.",
-		"tags": [
-			"w.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"w42b"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.2a",
-		"content": "Introduce a topic clearly and group related information in paragraphs and sections; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension.",
-		"tags": [
-			"w.4.2",
-			"english language arts & literacy",
-			"grade 4",
-			"w42a"
-		],
-		"meta": [
-			"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.1d",
-		"content": "Provide a concluding statement or section related to the opinion presented.",
-		"tags": [
-			"w.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"w41d"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.1c",
-		"content": "Link opinion and reasons using words and phrases (e.g., for instance, in order to, in addition).",
-		"tags": [
-			"w.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"w41c"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.1b",
-		"content": "Provide reasons that are supported by facts and details.",
-		"tags": [
-			"w.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"w41b"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "W.4.1a",
-		"content": "Introduce a topic or text clearly, state an opinion, and create an organizational structure in which related ideas are grouped to support the writer's purpose.",
-		"tags": [
-			"w.4.1",
-			"english language arts & literacy",
-			"grade 4",
-			"w41a"
-		],
-		"meta": [
-			"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
-			"Text Types and Purposes",
-			"Writing Standards"
-		]
-	},
-	{
-		"displayName": "RF.4.4c",
-		"content": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
-		"tags": [
-			"rf.4.4",
-			"english language arts & literacy",
-			"grade 4",
-			"rf44c"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.4.4b",
-		"content": "Read on-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings",
-		"tags": [
-			"rf.4.4",
-			"english language arts & literacy",
-			"grade 4",
-			"rf44b"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.4.4a",
-		"content": "Read on-level text with purpose and understanding.",
-		"tags": [
-			"rf.4.4",
-			"english language arts & literacy",
-			"grade 4",
-			"rf44a"
-		],
-		"meta": [
-			"Read with sufficient accuracy and fluency to support comprehension.",
-			"Fluency",
-			"Reading Standards: Foundational Skills"
-		]
-	},
-	{
-		"displayName": "RF.4.3a",
-		"content": "Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes) to read accurately unfamiliar multisyllabic words in context and out of context.",
-		"tags": [
-			"rf.4.3",
-			"english language arts & literacy",
-			"grade 4",
-			"rf43a"
-		],
-		"meta": [
-			"Know and apply grade-level phonics and word analysis skills in decoding words.",
-			"Phonics and Word Recognition",
-			"Reading Standards: Foundational Skills"
-		]
-	}
-]
+{
+	"Language Standards": [
+		{
+			"displayName": "L.4.6",
+			"content": "Acquire and use accurately grade-appropriate general academic and domain-specific words and phrases, including those that signal precise actions, emotions, or states of being (e.g., quizzed, whined, stammered) and that are basic to a particular topic (e.g., wildlife, conservation, and endangered when discussing animal preservation).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"l46"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.5",
+			"content": "Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"l45"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.4",
+			"content": "Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"l44"
+			],
+			"meta": [
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.3",
+			"content": "Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"l43"
+			],
+			"meta": [
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.2",
+			"content": "Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"l42"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1",
+			"content": "Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"l41"
+			],
+			"meta": [
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Speaking and Listening Standards": [
+		{
+			"displayName": "SL.4.6",
+			"content": "Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is appropriate (e.g., small-group discussion); use formal English when appropriate to task and situation.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"sl46"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.5",
+			"content": "Add audio recordings and visual displays to presentations when appropriate to enhance the development of main ideas or themes.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"sl45"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.4",
+			"content": "Report on a topic or text, tell a story, or recount an experience in an organized manner, using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"sl44"
+			],
+			"meta": [
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.3",
+			"content": "Identify the reasons and evidence a speaker or media source provides to support particular points.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"sl43"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.2",
+			"content": "Paraphrase portions of a text read aloud or information presented in diverse media and formats, including visually, quantitatively, and orally.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"sl42"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.1",
+			"content": "Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"sl41"
+			],
+			"meta": [
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Writing Standards": [
+		{
+			"displayName": "W.4.10",
+			"content": "Write routinely over extended time frames (time for research, reflection, and revision) and shorter time frames (a single sitting or a day or two) for a range of discipline-specific tasks, purposes, and audiences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w410"
+			],
+			"meta": [
+				"Range of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.9",
+			"content": "Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w49"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.8",
+			"content": "Recall relevant information from experiences or gather relevant information from print and digital sources; take notes, paraphrase, and categorize information, and provide a list of sources.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w48"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.7",
+			"content": "Conduct short research projects that build knowledge through investigation of different aspects of a topic.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w47"
+			],
+			"meta": [
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.6",
+			"content": "With some guidance and support from adults, use technology, including the Internet, to produce and publish writing as well as to interact and collaborate with others; demonstrate sufficient command of keyboarding skills to type a minimum of one page in a single sitting.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w46"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.5",
+			"content": "With guidance and support from peers and adults, develop and strengthen writing as needed by planning, revising, and editing.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w45"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.4",
+			"content": "Produce clear and coherent writing (including multiple-paragraph texts) in which the development and organization are appropriate to task, purpose, and audience.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w44"
+			],
+			"meta": [
+				"Production and Distribution of Writing",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.3",
+			"content": "Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w43"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.2",
+			"content": "Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w42"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.1",
+			"content": "Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"w41"
+			],
+			"meta": [
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Reading Standards: Foundational Skills": [
+		{
+			"displayName": "RF.4.4",
+			"content": "Read with sufficient accuracy and fluency to support comprehension.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rf44"
+			],
+			"meta": [
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.4.3",
+			"content": "Know and apply grade-level phonics and word analysis skills in decoding words.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rf43"
+			],
+			"meta": [
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Reading Standards for Informational Text": [
+		{
+			"displayName": "RI.4.10",
+			"content": "By the end of year, read and comprehend informational texts, including history/social studies, science, and technical texts, in the grades 4—5 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri410"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.9",
+			"content": "Integrate information from two texts on the same topic in order to write or speak about the subject knowledgeably.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri49"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.8",
+			"content": "Explain how an author uses reasons and evidence to support particular points in a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri48"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.7",
+			"content": "Interpret information presented visually, orally, or quantitatively (e.g., in charts, graphs, diagrams, time lines, animations, or interactive elements on Web pages) and explain how the information contributes to an understanding of the text in which it appears.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri47"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.6",
+			"content": "Compare and contrast a firsthand and secondhand account of the same event or topic; describe the differences in focus and the information provided.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri46"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.5",
+			"content": "Describe the overall structure (e.g., chronology, comparison, cause/effect, problem/solution) of events, ideas, concepts, or information in a text or part of a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri45"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.4",
+			"content": "Determine the meaning of general academic and domain-specific words or phrases in a text relevant to a grade 4 topic or subject area. (See grade 4 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri44"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.3",
+			"content": "Explain events, procedures, ideas, or concepts in a historical, scientific, or technical text, including what happened and why, based on specific information in the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri43"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.2",
+			"content": "Determine the main idea of a text and explain how it is supported by key details; summarize the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri42"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		},
+		{
+			"displayName": "RI.4.1",
+			"content": "Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"ri41"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Informational Text"
+			]
+		}
+	],
+	"Reading Standards for Literature": [
+		{
+			"displayName": "RL.4.10",
+			"content": "By the end of the year, read and comprehend literature, including stories, dramas, and poetry, in the grades 4—5 text complexity band proficiently, with scaffolding as needed at the high end of the range.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl410"
+			],
+			"meta": [
+				"Range of Reading and Level of Text Complexity",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.9",
+			"content": "Compare and contrast the treatment of similar themes and topics (e.g., opposition of good and evil) and patterns of events (e.g., the quest) in stories, myths, and traditional literature from different cultures.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl49"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.7",
+			"content": "Make connections between the text of a story or drama and a visual or oral presentation of the text, identifying where each version reflects specific descriptions and directions in the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl47"
+			],
+			"meta": [
+				"Integration of Knowledge and Ideas",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.6",
+			"content": "Compare and contrast the point of view from which different stories are narrated, including the difference between first- and third-person narrations.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl46"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.5",
+			"content": "Explain major differences between poems, drama, and prose, and refer to the structural elements of poems (e.g., verse, rhythm, meter) and drama (e.g., casts of characters, settings, descriptions, dialogue, stage directions) when writing or speaking about a text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl45"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.4",
+			"content": "Determine the meaning of words and phrases as they are used in a text, including those that allude to significant characters found in mythology (e.g., Herculean). (See grade 4 Language standards 4–6 for additional expectations.)",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl44"
+			],
+			"meta": [
+				"Craft and Structure",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.3",
+			"content": "Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text (e.g., a character's thoughts, words, or actions).",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl43"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.2",
+			"content": "Determine a theme of a story, drama, or poem from details in the text; summarize the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl42"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		},
+		{
+			"displayName": "RL.4.1",
+			"content": "Refer to details and examples in a text when explaining what the text says explicitly and when drawing inferences from the text.",
+			"tags": [
+				"english language arts & literacy",
+				"grade 4",
+				"rl41"
+			],
+			"meta": [
+				"Key Ideas and Details",
+				"Reading Standards for Literature"
+			]
+		}
+	],
+	"Vocabulary Acquisition and Use": [
+		{
+			"displayName": "L.4.5c",
+			"content": "Demonstrate understanding of words by relating them to their opposites (antonyms) and to words with similar but not identical meanings (synonyms).",
+			"tags": [
+				"l.4.5",
+				"english language arts & literacy",
+				"grade 4",
+				"l45c"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.5b",
+			"content": "Recognize and explain the meaning of common idioms, adages, and proverbs.",
+			"tags": [
+				"l.4.5",
+				"english language arts & literacy",
+				"grade 4",
+				"l45b"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.5a",
+			"content": "Explain the meaning of simple similes and metaphors (e.g., as pretty as a picture) in context.",
+			"tags": [
+				"l.4.5",
+				"english language arts & literacy",
+				"grade 4",
+				"l45a"
+			],
+			"meta": [
+				"Demonstrate understanding of figurative language, word relationships, and nuances in word meanings.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.4c",
+			"content": "Consult reference materials (e.g., dictionaries, glossaries, thesauruses), both print and digital, to find the pronunciation and determine or clarify the precise meaning of key words and phrases and to identify alternate word choices in all content areas.",
+			"tags": [
+				"l.4.4",
+				"english language arts & literacy",
+				"grade 4",
+				"l44c"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.4b",
+			"content": "Use common, grade-appropriate Greek and Latin affixes and roots as clues to the meaning of a word (e.g., telegraph, photograph, autograph).",
+			"tags": [
+				"l.4.4",
+				"english language arts & literacy",
+				"grade 4",
+				"l44b"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.4a",
+			"content": "Use context (e.g., definitions, examples, or restatements in text) as a clue to the meaning of a word or phrase.",
+			"tags": [
+				"l.4.4",
+				"english language arts & literacy",
+				"grade 4",
+				"l44a"
+			],
+			"meta": [
+				"Determine or clarify the meaning of unknown and multiple-meaning words and phrases based on grade 4 reading and content, choosing flexibly from a range of strategies.",
+				"Vocabulary Acquisition and Use",
+				"Language Standards"
+			]
+		}
+	],
+	"Knowledge of Language": [
+		{
+			"displayName": "L.4.3c",
+			"content": "Differentiate between contexts that call for formal English (e.g., presenting ideas) and situations where informal discourse is appropriate (e.g., small-group discussion).",
+			"tags": [
+				"l.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"l43c"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.3b",
+			"content": "Choose punctuation for effect.",
+			"tags": [
+				"l.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"l43b"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.3a",
+			"content": "Choose words and phrases to convey ideas precisely.",
+			"tags": [
+				"l.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"l43a"
+			],
+			"meta": [
+				"Use knowledge of language and its conventions when writing, speaking, reading, or listening.",
+				"Knowledge of Language",
+				"Language Standards"
+			]
+		}
+	],
+	"Conventions of Standard English": [
+		{
+			"displayName": "L.4.2d",
+			"content": "Spell grade-appropriate words correctly, consulting references as needed.",
+			"tags": [
+				"l.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"l42d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.2c",
+			"content": "Use a comma before a coordinating conjunction in a compound sentence.",
+			"tags": [
+				"l.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"l42c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.2b",
+			"content": "Use commas and quotation marks to mark direct speech and quotations from a text.",
+			"tags": [
+				"l.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"l42b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.2a",
+			"content": "Use correct capitalization.",
+			"tags": [
+				"l.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"l42a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English capitalization, punctuation, and spelling when writing.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1h",
+			"content": "Write fluidly and legibly in cursive or joined italics.",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41h"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1g",
+			"content": "Correctly use frequently confused words (e.g., to, too, two; there, their).",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41g"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1f",
+			"content": "Produce complete sentences, recognizing and correcting inappropriate fragments and run-ons.",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41f"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1e",
+			"content": "Form and use prepositional phrases.",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41e"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1d",
+			"content": "Order adjectives within sentences according to conventional patterns (e.g., a small red bag rather than a red small bag).",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41d"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1c",
+			"content": "Use modal auxiliaries (e.g., can, may, must) to convey various conditions.",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41c"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1b",
+			"content": "Form and use the progressive (e.g., I was walking; I am walking; I will be walking) verb tenses.",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41b"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		},
+		{
+			"displayName": "L.4.1a",
+			"content": "Use interrogative, relative pronouns (who, whose, whom, which, that) and relative adverbs (where, when, why).",
+			"tags": [
+				"l.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"l41a"
+			],
+			"meta": [
+				"Demonstrate command of the conventions of standard English grammar and usage when writing or speaking.",
+				"Conventions of Standard English",
+				"Language Standards"
+			]
+		}
+	],
+	"Presentation of Knowledge and Ideas": [
+		{
+			"displayName": "SL.4.4a",
+			"content": "Plan and deliver a narrative presentation that: relates ideas, observations, or recollections; provides a clear context; and includes clear insight into why the event or experience is memorable.",
+			"tags": [
+				"sl.4.4",
+				"english language arts & literacy",
+				"grade 4",
+				"sl44a"
+			],
+			"meta": [
+				"Report on a topic or text, tell a story, or recount an experience in an organized manner, using appropriate facts and relevant, descriptive details to support main ideas or themes; speak clearly at an understandable pace.",
+				"Presentation of Knowledge and Ideas",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Comprehension and Collaboration": [
+		{
+			"displayName": "SL.4.1.d",
+			"content": "Review the key ideas expressed and explain their own ideas and understanding in light of the discussion.",
+			"tags": [
+				"sl.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"sl41d"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.1.c",
+			"content": "Pose and respond to specific questions to clarify or follow up on information, and make comments that contribute to the discussion and link to the remarks of others.",
+			"tags": [
+				"sl.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"sl41c"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.1.b",
+			"content": "Follow agreed-upon rules for discussions and carry out assigned roles.",
+			"tags": [
+				"sl.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"sl41b"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		},
+		{
+			"displayName": "SL.4.1.a",
+			"content": "Come to discussions prepared, having read or studied required material; explicitly draw on that preparation and other information known about the topic to explore ideas under discussion.",
+			"tags": [
+				"sl.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"sl41a"
+			],
+			"meta": [
+				"Engage effectively in a range of collaborative discussions (one-on-one, in groups, and teacher-led) with diverse partners on grade 4 topics and texts, building on others' ideas and expressing their own clearly.",
+				"Comprehension and Collaboration",
+				"Speaking and Listening Standards"
+			]
+		}
+	],
+	"Research to Build and Present Knowledge": [
+		{
+			"displayName": "W.4.9.b",
+			"content": "Apply grade 4 Reading standards to informational texts (e.g., \"Explain how an author uses reasons and evidence to support particular points in a text\").",
+			"tags": [
+				"w.4.9",
+				"english language arts & literacy",
+				"grade 4",
+				"w49b"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.9.a",
+			"content": "Apply grade 4 Reading standards to literature (e.g., \"Describe in depth a character, setting, or event in a story or drama, drawing on specific details in the text [e.g., a character's thoughts, words, or actions].\").",
+			"tags": [
+				"w.4.9",
+				"english language arts & literacy",
+				"grade 4",
+				"w49a"
+			],
+			"meta": [
+				"Draw evidence from literary or informational texts to support analysis, reflection, and research.",
+				"Research to Build and Present Knowledge",
+				"Writing Standards"
+			]
+		}
+	],
+	"Text Types and Purposes": [
+		{
+			"displayName": "W.4.3e",
+			"content": "Provide a conclusion that follows from the narrated experiences or events.",
+			"tags": [
+				"w.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"w43e"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.3d",
+			"content": "Use concrete words and phrases and sensory details to convey experiences and events precisely.",
+			"tags": [
+				"w.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"w43d"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.3c",
+			"content": "Use a variety of transitional words and phrases to manage the sequence of events.",
+			"tags": [
+				"w.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"w43c"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.3b",
+			"content": "Use dialogue and description to develop experiences and events or show the responses of characters to situations.",
+			"tags": [
+				"w.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"w43b"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.3a",
+			"content": "Orient the reader by establishing a situationand introducing a narrator and/or characters; organize an event sequence that unfolds naturally.",
+			"tags": [
+				"w.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"w43a"
+			],
+			"meta": [
+				"Write narratives to develop real or imagined experiences or events using effective technique, descriptive details, and clear event sequences.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.2e",
+			"content": "Provide a concluding statement or section related to the information or explanation presented",
+			"tags": [
+				"w.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"w42e"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.2d",
+			"content": "Use precise language and domain-specific vocabulary to inform about or explain the topic.",
+			"tags": [
+				"w.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"w42d"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.2c",
+			"content": "Link ideas within categories of information using words and phrases (e.g., another, for example, also, because).",
+			"tags": [
+				"w.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"w42c"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.2b",
+			"content": "Develop the topic with facts, definitions, concrete details, quotations, or other information and examples related to the topic.",
+			"tags": [
+				"w.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"w42b"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.2a",
+			"content": "Introduce a topic clearly and group related information in paragraphs and sections; include formatting (e.g., headings), illustrations, and multimedia when useful to aiding comprehension.",
+			"tags": [
+				"w.4.2",
+				"english language arts & literacy",
+				"grade 4",
+				"w42a"
+			],
+			"meta": [
+				"Write informative/explanatory texts to examine a topic and convey ideas and information clearly.",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.1d",
+			"content": "Provide a concluding statement or section related to the opinion presented.",
+			"tags": [
+				"w.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"w41d"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.1c",
+			"content": "Link opinion and reasons using words and phrases (e.g., for instance, in order to, in addition).",
+			"tags": [
+				"w.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"w41c"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.1b",
+			"content": "Provide reasons that are supported by facts and details.",
+			"tags": [
+				"w.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"w41b"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		},
+		{
+			"displayName": "W.4.1a",
+			"content": "Introduce a topic or text clearly, state an opinion, and create an organizational structure in which related ideas are grouped to support the writer's purpose.",
+			"tags": [
+				"w.4.1",
+				"english language arts & literacy",
+				"grade 4",
+				"w41a"
+			],
+			"meta": [
+				"Write opinion pieces on topics or texts, supporting a point of view with reasons and information",
+				"Text Types and Purposes",
+				"Writing Standards"
+			]
+		}
+	],
+	"Fluency": [
+		{
+			"displayName": "RF.4.4c",
+			"content": "Use context to confirm or self-correct word recognition and understanding, rereading as necessary.",
+			"tags": [
+				"rf.4.4",
+				"english language arts & literacy",
+				"grade 4",
+				"rf44c"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.4.4b",
+			"content": "Read on-level prose and poetry orally with accuracy, appropriate rate, and expression on successive readings",
+			"tags": [
+				"rf.4.4",
+				"english language arts & literacy",
+				"grade 4",
+				"rf44b"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		},
+		{
+			"displayName": "RF.4.4a",
+			"content": "Read on-level text with purpose and understanding.",
+			"tags": [
+				"rf.4.4",
+				"english language arts & literacy",
+				"grade 4",
+				"rf44a"
+			],
+			"meta": [
+				"Read with sufficient accuracy and fluency to support comprehension.",
+				"Fluency",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	],
+	"Phonics and Word Recognition": [
+		{
+			"displayName": "RF.4.3a",
+			"content": "Use combined knowledge of all letter-sound correspondences, syllabication patterns, and morphology (e.g., roots and affixes) to read accurately unfamiliar multisyllabic words in context and out of context.",
+			"tags": [
+				"rf.4.3",
+				"english language arts & literacy",
+				"grade 4",
+				"rf43a"
+			],
+			"meta": [
+				"Know and apply grade-level phonics and word analysis skills in decoding words.",
+				"Phonics and Word Recognition",
+				"Reading Standards: Foundational Skills"
+			]
+		}
+	]
+}
